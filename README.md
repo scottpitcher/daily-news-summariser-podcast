@@ -4,6 +4,8 @@ Automated Daily News Briefing is a Python pipeline for collecting news, extracti
 
 The project is designed as a sequence of small, focused stages. Each stage reads structured output from the previous one, writes its own dated artifacts, and can be run on its own or as part of the full pipeline.
 
+**This project was completed by students at Cornell Tech in conjunction with the office of NYC CM Virginia Maloney**
+
 ## What the project does
 
 At a high level, the pipeline:
