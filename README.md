@@ -45,10 +45,10 @@ The pipeline runs in this order:
    Builds the final transcript in a spoken-friendly format and writes `.txt` and `.md` report files to `outputs/reports/`.
 
 8. `generate_tts`
-   Optional future stage for turning the transcript into audio.
+   [Future] stage for turning the transcript into audio.
 
 9. `deliver_report`
-   Optional future stage for sending or publishing the final outputs.
+   [Future] stage for sending or publishing the final outputs.
 
 ## Repository structure
 
@@ -152,21 +152,9 @@ What is implemented now:
 - final briefing transcript assembly
 - pipeline orchestration
 
-What is still optional or future-facing:
+Future-facing:
 
 - text-to-speech generation
 - external report delivery
 - deeper LLM-based classification and synthesis
 - more source-specific extraction rules
-
-## Why the project is structured this way
-
-The pipeline is intentionally modular:
-
-- each script has one job
-- each stage writes structured output for the next stage
-- config lives in one place
-- prompt text is shared in `src/prompts.py`
-- the orchestrator can run the full flow end to end
-
-That makes the project easier to test, debug, and extend without rewriting the whole system.
