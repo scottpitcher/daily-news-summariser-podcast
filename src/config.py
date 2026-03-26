@@ -14,7 +14,7 @@ from typing import Final
 
 PROJECT_NAME: Final[str] = "Automated Daily News Briefing"
 PROJECT_SLUG: Final[str] = "automated-daily-news-briefing"
-BASE_DIR: Final[Path] = Path(__file__).resolve().parent
+BASE_DIR: Final[Path] = Path(__file__).resolve().parent.parent
 
 
 def _get_env(name: str, default: str | None = None) -> str | None:

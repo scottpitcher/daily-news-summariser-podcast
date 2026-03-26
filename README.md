@@ -132,6 +132,19 @@ Each stage writes dated JSON files so runs are easy to inspect and rerun.
 
 ## Dependencies
 
+## Python version
+
+The current codebase expects Python `3.11+`.
+
+Why:
+
+- several scripts use `datetime.UTC`, which is available in Python 3.11 and newer
+- the code was syntax-checked in a newer Python environment during setup
+
+If you want the safest path for running the project now, use Python `3.11` or newer for your virtual environment.
+
+## Dependencies
+
 The code uses standard Python plus a few common libraries, including:
 
 - `requests`
