@@ -20,7 +20,7 @@ jobs:
       SMTP_USERNAME: aap253@cornell.edu
       SMTP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
       EMAIL_SENDER: aap253@cornell.edu
-      EMAIL_RECIPIENTS: sp2668@cornell.edu,aap253@cornell.edu
+      EMAIL_RECIPIENTS: sp2668@cornell.edu,aap253@cornell.edu,bmd223@cornell.edu,s279@cornell.edu,mdt93@cornell.edu
 
     steps:
       - name: Checkout repository
@@ -35,4 +35,4 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run pipeline
-        run: python3 src/run_pipeline.py --verbose
+        run: python3 src/run_pipeline.py

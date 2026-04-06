@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import argparse
 import logging
+import re
 import smtplib
 from datetime import UTC, datetime
 from email.mime.text import MIMEText
@@ -37,18 +38,114 @@ def resolve_briefing_file(
     reports_dir: Path,
     run_date: str | None = None,
 ) -> Path:
-    """Find the latest plain-text briefing file for today or a given date."""
+    """Find the latest Markdown briefing file for today or a given date."""
     if run_date is not None:
-        dated_path = reports_dir / f"daily_briefing_{run_date}.txt"
+        dated_path = reports_dir / f"daily_briefing_{run_date}.md"
         if dated_path.exists():
             return dated_path
         raise FileNotFoundError(f"Briefing file not found for date: {run_date}")
 
-    txt_files = sorted(reports_dir.glob("daily_briefing_*.txt"))
-    if not txt_files:
+    md_files = sorted(reports_dir.glob("daily_briefing_*.md"))
+    if not md_files:
         raise FileNotFoundError(f"No briefing files found in {reports_dir}")
 
-    return txt_files[-1]
+    return md_files[-1]
+
+
+def markdown_to_html(md: str) -> str:
+    """Convert Markdown briefing to a newsletter-style HTML email."""
+    lines = md.strip().split("\n")
+    body_parts: list[str] = []
+    current_section_items: list[str] = []
+
+    def flush_section_items() -> None:
+        if current_section_items:
+            body_parts.append('<table role="presentation" width="100%" cellpadding="0" cellspacing="0">')
+            for item in current_section_items:
+                body_parts.append(
+                    '<tr><td style="padding: 12px 0; border-bottom: 1px solid #eee;">'
+                    f"{item}</td></tr>"
+                )
+            body_parts.append("</table>")
+            current_section_items.clear()
+
+    for line in lines:
+        stripped = line.strip()
+
+        if not stripped:
+            continue
+
+        if stripped.startswith("## "):
+            flush_section_items()
+            heading = stripped[3:]
+            body_parts.append(
+                f'<h2 style="color: #1a1a2e; font-size: 20px; margin: 28px 0 12px 0;'
+                f' padding-bottom: 8px; border-bottom: 2px solid #0f3460;">{heading}</h2>'
+            )
+
+        elif stripped.startswith("- "):
+            item_md = stripped[2:]
+            # Convert markdown links
+            item_html = re.sub(
+                r"\[([^\]]+)\]\(([^)]+)\)",
+                r'<a href="\2" style="color: #0f3460; text-decoration: underline;">\1</a>',
+                item_md,
+            )
+            # Style "Why it matters:" and "Source:"
+            item_html = re.sub(
+                r"Why it matters:",
+                '<br><br><strong style="color: #e94560;">Why it matters:</strong>',
+                item_html,
+            )
+            item_html = re.sub(
+                r"Source:",
+                '<br><span style="font-size: 13px; color: #666;">Source:',
+                item_html,
+            ) + "</span>"
+            current_section_items.append(
+                f'<p style="margin: 0; line-height: 1.6; font-size: 15px; color: #333;">{item_html}</p>'
+            )
+
+        else:
+            flush_section_items()
+            body_parts.append(
+                f'<p style="margin: 12px 0; line-height: 1.6; font-size: 15px; color: #333;">{stripped}</p>'
+            )
+
+    flush_section_items()
+
+    date_str = datetime.now(UTC).strftime("%B %d, %Y")
+    inner_html = "\n".join(body_parts)
+
+    return f"""\
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"></head>
+<body style="margin: 0; padding: 0; background-color: #f4f4f8; font-family: Georgia, 'Times New Roman', serif;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background-color: #f4f4f8;">
+<tr><td align="center" style="padding: 20px 10px;">
+<table role="presentation" width="700" cellpadding="0" cellspacing="0"
+       style="background-color: #ffffff; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+  <!-- Header -->
+  <tr><td style="background-color: #1a1a2e; padding: 28px 32px; text-align: center;">
+    <h1 style="margin: 0; color: #ffffff; font-size: 24px; letter-spacing: 0.5px;">Daily News Briefing</h1>
+    <p style="margin: 6px 0 0 0; color: #a0a0c0; font-size: 14px;">{date_str}</p>
+  </td></tr>
+  <!-- Body -->
+  <tr><td style="padding: 24px 32px;">
+    {inner_html}
+  </td></tr>
+  <!-- Footer -->
+  <tr><td style="background-color: #f9f9fb; padding: 20px 32px; text-align: center; border-top: 1px solid #eee;">
+    <p style="margin: 0; font-size: 12px; color: #999;">
+      Automated Daily News Briefing &mdash; Cornell Tech &amp; NYC CM Virginia Maloney
+    </p>
+  </td></tr>
+</table>
+</td></tr>
+</table>
+</body>
+</html>"""
 
 
 def send_email(
@@ -62,8 +159,9 @@ def send_email(
     password: str,
     use_tls: bool = True,
 ) -> None:
-    """Send a plain-text email via SMTP."""
-    msg = MIMEText(body, "plain", "utf-8")
+    """Send an HTML email via SMTP."""
+    html_body = markdown_to_html(body)
+    msg = MIMEText(html_body, "html", "utf-8")
     msg["Subject"] = subject
     msg["From"] = sender
     msg["To"] = ", ".join(recipients)
