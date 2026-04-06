@@ -143,7 +143,7 @@ Some stages also expect access to an LLM API if you want generated summaries ins
 
 ## Changelog
 
-### Apr 6, 2025
+### Apr 6, 2026
 
 **`fetch_sources.py`** Expediate fetch source gathering and limited to local data sources
 - Concurrent source fetching (`ThreadPoolExecutor`, 5 workers)
@@ -156,12 +156,8 @@ Some stages also expect access to an LLM API if you want generated summaries ins
 **`extract_articles.py`**
 - Concurrent article extraction (`ThreadPoolExecutor`, 5 workers)
 
-**`config.py`**
+**`config.py`** Updated source weights and switched to Hugging Face
 - Inverted source priority weights: local (1.0) > state (0.85) > national (0.75)
-
-### Apr 6, 2026
-
-**`config.py`** Switched from OpenAI to Hugging Face Inference API
 - Default summarization provider changed to `huggingface` with `Qwen/Qwen2.5-7B-Instruct`
 - Renamed env vars from `OPENAI_API_KEY`/`OPENAI_BASE_URL` to `HF_API_TOKEN`/`HF_BASE_URL`
 - Default base URL set to `https://router.huggingface.co/v1`
