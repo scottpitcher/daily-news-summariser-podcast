@@ -11,14 +11,16 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      HF_API_TOKEN: ${{ secrets.HF_API_TOKEN }}
+      HF_BASE_URL: https://router.huggingface.co/v1
+      SUMMARIZATION_MODEL: Qwen/Qwen2.5-7B-Instruct
       EMAIL_DELIVERY_ENABLED: "true"
-      SMTP_HOST: smtp.resend.com
+      SMTP_HOST: smtp.gmail.com
       SMTP_PORT: "587"
-      SMTP_USERNAME: resend
-      SMTP_PASSWORD: ${{ secrets.RESEND_API_KEY }}
-      EMAIL_SENDER: onboarding@resend.dev
-      EMAIL_RECIPIENTS: aap253@cornell.edu
+      SMTP_USERNAME: aap253@cornell.edu
+      SMTP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+      EMAIL_SENDER: aap253@cornell.edu
+      EMAIL_RECIPIENTS: sp2668@cornell.edu,aap253@cornell.edu
 
     steps:
       - name: Checkout repository

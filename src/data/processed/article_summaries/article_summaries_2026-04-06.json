@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-04-06T00:00:00+00:00",
+  "generated_at": "2026-04-06T22:55:26.640178+00:00",
   "source_file": "/Users/atmikapai/Documents/GitHub/daily-news-summariser-podcast/src/data/processed/ranked/ranked_articles_2026-04-06.json",
   "summary_count": 18,
   "summary_stats": {
     "input_articles": 18,
-    "generated_summaries": 0,
-    "fallback_summaries": 18
+    "generated_summaries": 18,
+    "fallback_summaries": 0
   },
   "summaries": [
     {
-      "summary": "--- title: Readers sound off on \u2018Draggin\u2019 the Line,\u2019 taxing NYC\u2019s rich and Tiger Woods author: Voice url: https://www.nydailynews.com/2026/04/06/readers-sound-off-on-draggin-the-line-taxing-nycs-rich-and-tiger-woods/ hostname: nydailynews.com description: Hartford, Conn.: We are definitely a country in crisis with countless problems. There is crippling inflation, a war with Iran, devastating job losses due to AI, and the once-mighty U.S. Postal Service is on the brink of bankruptcy, just to\u2026 sitename: New York Daily News date: 2026-04-06 categories: ['Opinion'] --- At long last, give Tommy James his solo credit Hartford, Conn.: We are definitely a country in crisis with countless problems.",
+      "summary": "Readers of the New York Daily News debate issues ranging from the long-standing misattribution of Tommy James' song 'Draggin' the Line' to the Shondells, to calls for increased taxes on the wealthy to fund New York City's budget. Opinions also vary on the impact of protests against Trump and the potential for new legislation to reduce plastic waste.",
       "issue_area": "politics_government",
       "source_level": "local",
-      "why_it_matters": "This matters for politics_government because it affects local coverage priorities.",
+      "why_it_matters": "The discussions highlight ongoing political and social issues, including tax policy, environmental concerns, and public perception of political figures.",
       "source_citation": {
         "source_name": "New York Daily News",
         "source_level": "local",
@@ -20,16 +20,16 @@
         "article_url": "https://www.nydailynews.com/2026/04/06/readers-sound-off-on-draggin-the-line-taxing-nycs-rich-and-tiger-woods/",
         "published_at": "2026-04-06"
       },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "missing_api_key",
-      "summarized_at": "2026-04-06T16:52:19.275479+00:00"
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-06T22:55:28.535685+00:00"
     },
     {
-      "summary": "--- title: Nancy Guthrie disappearance: Day 65 latest updates author: FOX url: https://www.fox5ny.com/news/nancy-guthrie-disappearance-day-65-latest-updates hostname: fox5ny.com description: Monday marks Day 65 in the search for Nancy Guthrie, the 84-year-old mother of NBC \"Today\" show host Savannah Guthrie, who vanished from her southern Arizona home. sitename: FOX 5 New York date: 2026-04-06 tags: ['Crime Publicsafety,Missing Persons,News'] --- TUCSON, Ariz. - Monday marks Day 65 in the search for Nancy Guthrie, the 84-year-old mother of NBC \"Today\" show host Savannah Guthrie.",
+      "summary": "Nancy Guthrie, the 84-year-old mother of NBC 'Today' show host Savannah Guthrie, has been missing since January 31, with the search now entering its 65th day. Authorities are investigating leads and conducting searches, but no definitive information has been found regarding her whereabouts.",
       "issue_area": "politics_government",
       "source_level": "local",
-      "why_it_matters": "This matters for politics_government because it affects local coverage priorities.",
+      "why_it_matters": "The ongoing search for Nancy Guthrie continues to draw national attention and raises concerns about the safety of elderly individuals in their homes.",
       "source_citation": {
         "source_name": "FOX 5 New York",
         "source_level": "local",
@@ -37,16 +37,16 @@
         "article_url": "https://www.fox5ny.com/news/nancy-guthrie-disappearance-day-65-latest-updates",
         "published_at": "2026-04-06"
       },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "missing_api_key",
-      "summarized_at": "2026-04-06T16:52:19.276267+00:00"
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-06T22:55:29.969846+00:00"
     },
     {
-      "summary": "--- title: Yorkville NYCHA Tenants Vote Against NYCHA-Favored Funding Switch author: Jack Ahern url: https://www.ourtownny.com/news/yorkville-nycha-tenants-vote-against-nycha-favored-funding-switch-EA5727006 hostname: ourtownny.com description: The residents of a Yorkville public housing complex voted to reject the adoption of a new management model pushed by NYCHA itself last month, instead choosing t... sitename: www.ourtownny.com date: 2026-04-06 tags: ['nycha', 'jack ahern', 'isaacs houses'] --- Yorkville NYCHA Tenants Vote Against NYCHA-Favored Funding Switch The residents of the Isaacs Houses on East 93rd Street voted to stick with Section 9 funding last month\u00e2rather than move to one of two Section 8-based models, including one highly favored by NYCHA itself. The residents of a Yorkville public housing complex voted to reject the adoption of a new management model pushed by NYCHA itself last month, instead choosing to stick with Section 9 federal funding.",
+      "summary": "Residents of the Isaacs Houses in Yorkville, New York, voted against adopting a new management model favored by NYCHA, opting to stay with Section 9 funding. The vote was the first of its kind in Manhattan and involved rejecting both the New York City Public Housing Preservation Trust and the RAD-PACT Program, which would have brought in private management.",
       "issue_area": "politics_government",
       "source_level": "local",
-      "why_it_matters": "This matters for politics_government because it affects local coverage priorities.",
+      "why_it_matters": "This vote highlights the tension between public housing residents and NYCHA over funding models and the potential for privatization.",
       "source_citation": {
         "source_name": "Our Town",
         "source_level": "local",
@@ -54,101 +54,118 @@
         "article_url": "https://www.ourtownny.com/news/yorkville-nycha-tenants-vote-against-nycha-favored-funding-switch-EA5727006",
         "published_at": "2026-04-06"
       },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "missing_api_key",
-      "summarized_at": "2026-04-06T16:52:19.276885+00:00"
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-06T22:55:31.609056+00:00"
     },
     {
-      "summary": "--- title: Albany asked to join search for info on NYC Ground Zero 9/11 toxins author: Thomas Tracy url: https://www.nydailynews.com/2026/04/05/albany-asked-to-join-search-for-info-on-nyc-ground-zero-9-11-toxins/ hostname: nydailynews.com description: Manhattan Borough President Brad Hoylman-Sigal has asked Gov. Hochul and the leaders of both houses to \u201cdirect an investigation into what the State of New York knew about the dangers\u201d at Ground Zero. sitename: New York Daily News date: 2026-04-05 categories: ['Local News'] --- Albany should join the ongoing search for elusive documents about the toxins that swirled above Ground Zero after 9/11, said Manhattan Borough President Brad Hoylman-Sigal, who has asked Gov.",
+      "summary": "The New York City Department of Transportation (DOT) is considering making outdoor roadway dining year-round, reversing a seasonal-only policy from the previous administration. Currently, only 500 setups are available for the season, compared to 1,300 sidewalk setups that are year-round eligible.",
       "issue_area": "politics_government",
       "source_level": "local",
-      "why_it_matters": "This matters for politics_government because it affects local coverage priorities.",
+      "why_it_matters": "This change could support small businesses by reducing costs and increasing availability for outdoor dining.",
       "source_citation": {
-        "source_name": "New York Daily News",
+        "source_name": "Our Town",
         "source_level": "local",
-        "article_title": "Albany asked to join search for info on NYC Ground Zero 9/11 toxins",
-        "article_url": "https://www.nydailynews.com/2026/04/05/albany-asked-to-join-search-for-info-on-nyc-ground-zero-9-11-toxins/",
-        "published_at": "2026-04-05T16:00:16+00:00"
+        "article_title": "Roadway Dining is Back For Season, DOT Now Wants Year-Round",
+        "article_url": "https://www.ourtownny.com/news/roadway-dining-is-back-for-season-dot-now-wants-year-round-NA5736438",
+        "published_at": "2026-04-06"
       },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "missing_api_key",
-      "summarized_at": "2026-04-06T16:52:19.277272+00:00"
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-06T22:55:33.246711+00:00"
     },
     {
-      "summary": "--- title: 2026 Jets seven-round Mock Draft 2.0: Gang Green address a few needs following free agency author: Antwan Staley url: https://www.nydailynews.com/2026/04/06/2026-jets-seven-round-mock-draft-2-0-gang-green-address-a-few-needs-following-free-agency/ hostname: nydailynews.com description: Although he is only 20, Reese makes the most sense for the Jets at second overall. sitename: New York Daily News date: 2026-04-06 categories: ['NFL'] tags: ['mock draft 2026 jets'] --- The Jets have filled several needs this offseason during free agency. Not only did they find a bridge quarterback in Geno Smith, but the Jets also shored up significant holes in their defense by signing veterans such as Demario Davis and David Onyemata.",
+      "summary": "Mayor Zohran Mamdani announced plans to improve bike and pedestrian access to the Brooklyn Bridge to enhance safety and prepare for the upcoming World Cup. The changes aim to reduce the chaotic bottleneck at the Manhattan entrance, which is expected to become more problematic with the influx of tourists for the soccer event.",
       "issue_area": "economy_business",
       "source_level": "local",
-      "why_it_matters": "This matters for economy_business because it affects local coverage priorities.",
+      "why_it_matters": "The improvements are intended to better manage the expected surge in visitors for the World Cup and enhance the overall experience for tourists and locals alike.",
       "source_citation": {
-        "source_name": "New York Daily News",
+        "source_name": "Our Town",
         "source_level": "local",
-        "article_title": "2026 Jets seven-round Mock Draft 2.0: Gang Green address a few needs following free agency",
-        "article_url": "https://www.nydailynews.com/2026/04/06/2026-jets-seven-round-mock-draft-2-0-gang-green-address-a-few-needs-following-free-agency/",
-        "published_at": "2026-04-06T10:33:10+00:00"
+        "article_title": "Brooklyn Bridge Access to Get World Cup Glow Up: Mamdani",
+        "article_url": "https://www.ourtownny.com/news/brooklyn-bridge-access-to-get-world-cup-glow-up-mamdani-KC5730419",
+        "published_at": "2026-04-06"
       },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "missing_api_key",
-      "summarized_at": "2026-04-06T16:52:19.277959+00:00"
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-06T22:55:34.986972+00:00"
     },
     {
-      "summary": "--- title: US stocks and oil prices flip-flop ahead of Trump\u2019s deadline to bomb Iranian power plants author: Associated Press url: https://www.bostonherald.com/2026/04/06/us-markets-oil-prices-iran/ hostname: bostonherald.com description: Fighting is continuing, including an Israeli attack on an Iranian petrochemical plant. sitename: New York Daily News date: 2026-04-06 categories: ['Business'] tags: ['stock market today, wall street, nasdaq, new york stock exchange, s&p 500, dow jones industrial average, oil prices, Iran war'] --- By STAN CHOE, AP Business Writer NEW YORK (AP) \u2014 The U.S. stock market is making only hesitant moves Monday, while oil prices are flip-flopping ahead of a deadline that President Donald Trump has set to bomb Iranian power plants.",
+      "summary": "U.S. stocks rose slightly as investors waited for a deadline by which President Trump threatened to bomb Iranian power plants. Oil prices also increased, reflecting ongoing uncertainty about the Iran war and its impact on global oil supplies.",
       "issue_area": "economy_business",
       "source_level": "local",
-      "why_it_matters": "This matters for economy_business because it affects local coverage priorities.",
+      "why_it_matters": "The potential military action could significantly affect global oil markets and stock prices, making it a critical development for the economy.",
       "source_citation": {
         "source_name": "New York Daily News",
         "source_level": "local",
-        "article_title": "US stocks and oil prices flip-flop ahead of Trump\u2019s deadline to bomb Iranian power plants",
+        "article_title": "Stocks drift higher ahead of Trump\u2019s deadline to bomb Iranian power plants",
         "article_url": "https://www.nydailynews.com/2026/04/06/us-markets-oil-prices-iran/",
         "published_at": "2026-04-06"
       },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "missing_api_key",
-      "summarized_at": "2026-04-06T16:52:19.278393+00:00"
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-06T22:55:36.318629+00:00"
     },
     {
-      "summary": "--- title: Nearly 11,000 cops petition for no prison time for \u2018cooler cop\u2019 NYPD Sgt. Erik Duran author: Thomas Tracy url: https://www.nydailynews.com/2026/04/06/nearly-11000-cops-petition-for-no-prison-time-for-cooler-cop-nypd-sgt-erik-duran/ hostname: nydailynews.com description: Duran, who was found guilty of manslaughter in the 2023 death of 30-year-old Eric Duprey, is scheduled to be sentenced on Thursday. sitename: New York Daily News date: 2026-04-06 categories: ['Crime and Public Safety'] --- More than 11,000 law enforcement officers from across the globe have signed a petition asking a Bronx judge not to throw the NYPD sergeant convicted of killing a fleeing suspect by hurling a cooler at him in prison, the Daily News has learned.",
+      "summary": "More than 11,000 law enforcement officers have signed a petition asking for no prison time for NYPD Sgt. Erik Duran, who was found guilty of manslaughter in the death of Eric Duprey. Duran is scheduled to be sentenced on Thursday, with the petition arguing that his actions were a split-second decision cops face daily.",
       "issue_area": "economy_business",
       "source_level": "local",
-      "why_it_matters": "This matters for economy_business because it affects local coverage priorities.",
+      "why_it_matters": "The petition highlights the tension between accountability and the risks faced by law enforcement officers in their daily work.",
       "source_citation": {
         "source_name": "New York Daily News",
         "source_level": "local",
         "article_title": "Nearly 11,000 cops petition for no prison time for \u2018cooler cop\u2019 NYPD Sgt. Erik Duran",
         "article_url": "https://www.nydailynews.com/2026/04/06/nearly-11000-cops-petition-for-no-prison-time-for-cooler-cop-nypd-sgt-erik-duran/",
+        "published_at": "2026-04-06T09:37:24+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-06T22:55:37.649898+00:00"
+    },
+    {
+      "summary": "Savannah Guthrie returned to her role as an anchor on NBC's 'Today' show after her mother's disappearance. She focused on the show's regular content without mentioning her mother's case, aiming to return to normalcy while acknowledging her changed state of mind.",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "why_it_matters": "Her return highlights the ongoing impact of her mother's disappearance on her personal and professional life.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Savannah Guthrie back at 'Today' anchor desk for the first time since her mother's disappearance",
+        "article_url": "https://abc7ny.com/post/savannah-guthrie-back-today-anchor-desk-first-time-mothers-disappearance/18847404/",
         "published_at": "2026-04-06"
       },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "missing_api_key",
-      "summarized_at": "2026-04-06T16:52:19.278997+00:00"
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-06T22:55:38.981697+00:00"
     },
     {
-      "summary": "--- title: Minutes before dying in Queens hit-run crash, he tried to call girlfriend. She missed the call. author: Julian Roberts-Grmela; Leonard Greene url: https://www.nydailynews.com/2026/04/04/elmhurst-queens-hit-run-edward-luyo-call-to-girlfriend/ hostname: nydailynews.com description: By the time his girlfriend checked her phone, Edward Luyo was dead, run over and dragged down the street just steps away from his Elmhurst home.",
+      "summary": "A 3-year-old immigrant girl is alleged to have been sexually abused while in federal custody after being separated from her mother at the border. The incident occurred in a foster home in Texas, and the girl's father claims he was not informed of the investigation's findings.",
       "issue_area": "public_safety",
       "source_level": "local",
-      "why_it_matters": "This matters for public_safety because it affects local coverage priorities.",
+      "why_it_matters": "This case highlights ongoing issues with the treatment of immigrant children in federal custody and the lack of transparency in such cases.",
       "source_citation": {
-        "source_name": "New York Daily News",
+        "source_name": "FOX 5 New York",
         "source_level": "local",
-        "article_title": "Minutes before dying in Queens hit-run crash, he tried to call girlfriend. She missed the call.",
-        "article_url": "https://www.nydailynews.com/2026/04/04/elmhurst-queens-hit-run-edward-luyo-call-to-girlfriend/",
-        "published_at": "2026-04-05T16:34:48+00:00"
+        "article_title": "Family says 3-year-old immigrant girl was allegedly sexually abused while in federal custody",
+        "article_url": "https://www.fox5ny.com/news/family-girl-alleged-abuse-federal-custody",
+        "published_at": "2026-04-06"
       },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "missing_api_key",
-      "summarized_at": "2026-04-06T16:52:19.279462+00:00"
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-06T22:55:40.420095+00:00"
     },
     {
-      "summary": "--- title: 7 On Your Side: Single mom gets back stolen disability benefits author: Nina Pineda url: https://abc7ny.com/post/7-side-single-mom-gets-back-stolen-disability-benefits/18846955/ hostname: abc7ny.com description: After her disability benefits were stolen, a single mom reached out to 7 On Your Side and Nina Pineda for help. sitename: abc7ny.com date: 2026-04-06 categories: ['crime-safety'] tags: ['18846955', '7-On-Your-Side,disability,disability-issues,social-security,finance,theft,fraud'] --- A local single mother struggling with health issues waited years to qualify for disability, only to have her lump sum benefits stolen. Without that lifeline, her family had to move out of their home.",
+      "summary": "A single mother, Kimberly Mays, had her disability benefits stolen, forcing her family to move into an unfurnished apartment. With help from 7 On Your Side, her case was resolved, and she received her $66,082 back pay directly into her account.",
       "issue_area": "public_safety",
       "source_level": "local",
-      "why_it_matters": "This matters for public_safety because it affects local coverage priorities.",
+      "why_it_matters": "This story highlights the importance of support systems in helping individuals recover from financial setbacks.",
       "source_citation": {
         "source_name": "ABC7 New York",
         "source_level": "local",
@@ -156,118 +173,84 @@
         "article_url": "https://abc7ny.com/post/7-side-single-mom-gets-back-stolen-disability-benefits/18846955/",
         "published_at": "2026-04-06"
       },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "missing_api_key",
-      "summarized_at": "2026-04-06T16:52:19.279705+00:00"
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-06T22:55:41.750605+00:00"
     },
     {
-      "summary": "--- title: Police shoot, injure man waving around kitchen knife in East Harlem url: https://abc7ny.com/post/nypd-investigates-officers-shoot-man-knife-harlem/18846830/ hostname: abc7ny.com description: A man brandishing a knife was shot by police in East Harlem around 1:40 a.m. Monday. He is recovering at a local hospital.",
-      "issue_area": "public_safety",
-      "source_level": "local",
-      "why_it_matters": "This matters for public_safety because it affects local coverage priorities.",
-      "source_citation": {
-        "source_name": "ABC7 New York",
-        "source_level": "local",
-        "article_title": "Police shoot, injure man waving around kitchen knife in East Harlem",
-        "article_url": "https://abc7ny.com/post/nypd-investigates-officers-shoot-man-knife-harlem/18846830/",
-        "published_at": "2026-04-06"
-      },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "missing_api_key",
-      "summarized_at": "2026-04-06T16:52:19.279902+00:00"
-    },
-    {
-      "summary": "--- title: Here and Now: Lincoln Center reimagines Ntozake Shange's choreopoem on its 50th anniversary author: Sandra Bookman; Eyewitness News url: https://abc7ny.com/post/here-now-sandra-bookman-lincoln-center-reimagines-ntozake-shanges-choreopoem-50th-anniversary/18835597/ hostname: abc7ny.com description: This year marks the 50th anniversary of Ntozake Shange's powerful choreopoem, \"For Colored Girls Who Have Considered Suicide / When the Rainbow Is Enuf.\" sitename: abc7ny.com date: 2026-04-06 categories: ['community-events'] tags: ['18835597', 'here-and-now,lincoln-center,performing-arts,black-history,music,nonprofit,health,health-care,mental-health,womens-health,New-York-City'] --- NEW YORK (WABC) -- Coming up on Here and Now, a classic choreopoem for girls of color is reimagined with music at Lincoln Center. This year marks the 50th anniversary of Ntozake Shange's powerful choreopoem, \"For Colored Girls Who Have Considered Suicide / When the Rainbow Is Enuf.\" To mark this milestone, Lincoln Center's American Songbook series is presenting a re-imagined, musical treatment of the classic. It tells the stories of seven women who have suffered the indignities of a racist and sexist society.",
+      "summary": "A 53-year-old man was shot and critically wounded by an NYPD officer after he entered a grocery store in East Harlem with a 13-inch knife and confronted police. The incident followed a dispute inside the store and escalated when the man refused to drop the knife, leading to the officer's use of lethal force.",
       "issue_area": "health",
       "source_level": "local",
-      "why_it_matters": "This matters for health because it affects local coverage priorities.",
-      "source_citation": {
-        "source_name": "ABC7 New York",
-        "source_level": "local",
-        "article_title": "Here and Now: Lincoln Center reimagines Ntozake Shange's choreopoem on its 50th anniversary",
-        "article_url": "https://abc7ny.com/post/here-now-sandra-bookman-lincoln-center-reimagines-ntozake-shanges-choreopoem-50th-anniversary/18835597/",
-        "published_at": "2026-04-06"
-      },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "missing_api_key",
-      "summarized_at": "2026-04-06T16:52:19.280039+00:00"
-    },
-    {
-      "summary": "--- title: FDA warns 2 supplements sold at gas stations pose serious health risks author: Nick Viviani url: https://www.fox5ny.com/news/fda-warns-two-addall-supplements-pose-serious-health-risks hostname: fox5ny.com description: A new alert from the Food and Drug Administration (FDA) warns that consumers should avoid two supplement brands that could pose serious health problems. sitename: FOX 5 New York date: 2026-04-05 tags: ['Consumer,Recalls,News,Consumer,Health'] --- A new alert from the Food and Drug Administration (FDA) warns that consumers should avoid two supplement brands that could pose serious health problems. The agency is urging people not to eat, sell, or distribute orange-flavored Addall XR Shot Liquid Dietary Supplement or Addall XL Dietary Supplement Capsules and, if they have any, to throw them out immediately.",
-      "issue_area": "health",
-      "source_level": "local",
-      "why_it_matters": "This matters for health because it affects local coverage priorities.",
-      "source_citation": {
-        "source_name": "FOX 5 New York",
-        "source_level": "local",
-        "article_title": "FDA warns 2 supplements sold at gas stations pose serious health risks",
-        "article_url": "https://www.fox5ny.com/news/fda-warns-two-addall-supplements-pose-serious-health-risks",
-        "published_at": "2026-04-05"
-      },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "missing_api_key",
-      "summarized_at": "2026-04-06T16:52:19.280280+00:00"
-    },
-    {
-      "summary": "--- title: Cops Hunt Gunman; Bragg Returns Antiquities to Italy & Vatican author: Brian Berger url: https://www.ourtownny.com/news/crime-watch/cops-hunt-gunman-bragg-returns-antiquities-to-italy-vatican-BD5731993 hostname: ourtownny.com description: An unidentified individual discharged a firearm multiple times on March 11 at approximately 11 p.m. in front of 435 East 102nd Street. The suspect then fled on ...",
-      "issue_area": "education",
-      "source_level": "local",
-      "why_it_matters": "This matters for education because it affects local coverage priorities.",
-      "source_citation": {
-        "source_name": "Our Town",
-        "source_level": "local",
-        "article_title": "Cops Hunt Gunman; Bragg Returns Antiquities to Italy & Vatican",
-        "article_url": "https://www.ourtownny.com/news/crime-watch/cops-hunt-gunman-bragg-returns-antiquities-to-italy-vatican-BD5731993",
-        "published_at": "2026-04-06"
-      },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "missing_api_key",
-      "summarized_at": "2026-04-06T16:52:19.280597+00:00"
-    },
-    {
-      "summary": "--- title: Gunman accused of killing Brooklyn baby girl told cops he was aiming at her dad: documents author: Emma Seiwell; Rebecca White; Thomas Tracy; Julian Roberts-Grmela url: https://www.nydailynews.com/2026/04/04/gunman-accused-killing-brooklyn-baby-girl-told-cops-aimed-her-dad/ hostname: nydailynews.com description: In a recorded statement, alleged shooter Amuri Greene said he was aiming at little Kaori Patterson-Moore\u2019s father and that the dad \u201cwas the defendant\u2019s intended target,\u201d according to a criminal complaint filed in court. sitename: New York Daily News date: 2026-04-04 categories: ['Crime and Public Safety'] --- The gunman accused of killing a 7-month-old girl during a botched Brooklyn gang hit confessed that he was aiming at the baby\u2019s father when he pulled the trigger \u2014 a claim the child\u2019s mother defiantly denied in an interview with the Daily News Saturday. In a recorded statement to detectives, alleged shooter Amuri Greene said he was aiming at little Kaori Patterson-Moore\u2018s father and that the father \u201cwas the defendant\u2019s intended target,\u201d documents released in Brooklyn Criminal Court reveal.",
-      "issue_area": "education",
-      "source_level": "local",
-      "why_it_matters": "This matters for education because it affects local coverage priorities.",
+      "why_it_matters": "The shooting highlights ongoing tensions between law enforcement and individuals with weapons, especially in urban settings.",
       "source_citation": {
         "source_name": "New York Daily News",
         "source_level": "local",
-        "article_title": "Gunman accused of killing Brooklyn baby girl told cops he was aiming at her dad: documents",
-        "article_url": "https://www.nydailynews.com/2026/04/04/gunman-accused-killing-brooklyn-baby-girl-told-cops-aimed-her-dad/",
-        "published_at": "2026-04-04"
+        "article_title": "Man with 13-inch knife shot, critically wounded by NYPD cop after clash at NYC grocery",
+        "article_url": "https://www.nydailynews.com/2026/04/06/man-with-13-inch-knife-shot-nypd-cop-after-clash-at-nyc-grocery/",
+        "published_at": "2026-04-06T16:32:56+00:00"
       },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "missing_api_key",
-      "summarized_at": "2026-04-06T16:52:19.281161+00:00"
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-06T22:55:43.178486+00:00"
     },
     {
-      "summary": "--- title: Snowy owl, hammerhead sharks among 40 species gaining CMS protections author: Nick Viviani url: https://www.fox5ny.com/news/snowy-owl-hammerhead-sharks-among-40-species-gain-cms-protections hostname: fox5ny.com description: Cheetahs, snowy owls and hammerhead sharks are among the dozens of animal species on the cusp of extinction that will receive greater conservation protections. sitename: FOX 5 New York date: 2026-04-05 tags: ['Environment,News,World'] --- Cheetahs, snowy owls and hammerhead sharks are among the dozens of animal species on the cusp of extinction that will receive greater conservation protections. Big picture view: Giant otters, striped hyenas, and several shorebird species are also among the 40 animals added by the Convention on Migratory Species (CMS) to its lists of species in danger of extinction (Appendices I) or in need of coordinated international action (Appendices II).",
-      "issue_area": "climate_energy",
+      "summary": "Four years ago, the City Council considered a bill to ban 24-hour live-in shifts for home care aides, but it was not passed. Now, the bill is back, and supporters argue it could lead to job losses for workers and reduced care for those in need. The legislation could instead benefit managed care companies and exacerbate existing issues.",
+      "issue_area": "health",
       "source_level": "local",
-      "why_it_matters": "This matters for climate_energy because it affects local coverage priorities.",
+      "why_it_matters": "The proposed bill could have unintended consequences, potentially harming both home care workers and the individuals they serve.",
       "source_citation": {
-        "source_name": "FOX 5 New York",
+        "source_name": "New York Daily News",
         "source_level": "local",
-        "article_title": "Snowy owl, hammerhead sharks among 40 species gaining CMS protections",
-        "article_url": "https://www.fox5ny.com/news/snowy-owl-hammerhead-sharks-among-40-species-gain-cms-protections",
-        "published_at": "2026-04-05"
+        "article_title": "24-hour care ban hurts many people",
+        "article_url": "https://www.nydailynews.com/2026/04/06/24-hour-care-ban-hurts-many-people/",
+        "published_at": "2026-04-06"
       },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "missing_api_key",
-      "summarized_at": "2026-04-06T16:52:19.281500+00:00"
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-06T22:55:44.450193+00:00"
     },
     {
-      "summary": "--- title: NYC\u2019s car-free Earth Day returns April 25 with streets open across 5 boroughs author: Catalina Gonella url: https://gothamist.com/news/nycs-car-free-earth-day-returns-april-25-with-streets-open-across-5-boroughs hostname: gothamist.com description: Dozens of streets will close to cars for a day of events, art and free Citi Bike rides. sitename: Gothamist date: 2026-04-05 tags: ['environment', 'new york city', 'parks', 'transportation'] --- Dozens of streets across the five boroughs will transform into public pedestrian plazas for Earth Day on the last Saturday of April. The annual Car-Free Earth Day, hosted by the city\u2019s Department of Transportation, will close select streets to car traffic on April 25 from 10 a.m.",
+      "summary": "Actress Melissa Gilbert has stated that her husband, Timothy Busfield, will be exonerated of charges of criminal sexual contact with a minor. The charges stem from allegations made by the parents of child actors on the TV show 'The Cleaning Lady.'",
+      "issue_area": "education",
+      "source_level": "local",
+      "why_it_matters": "The case highlights the ongoing challenges in handling allegations of child sexual abuse, particularly when the accused maintains their innocence.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Actress Melissa Gilbert says husband Timothy Busfield 'will be exonerated'",
+        "article_url": "https://abc7ny.com/post/melissa-gilbert-good-morning-america-interview-news-today-little-house-prairie-actress-husband-timothy-busfield/18848688/",
+        "published_at": "2026-04-06"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-06T22:55:45.944457+00:00"
+    },
+    {
+      "summary": "A new report by Advocates for Children of New York found that 63% of homeless students in New York City are chronically absent and 1 in 5 must transfer schools mid-year, disrupting their education. The proficiency rates for these students are significantly lower than those of their peers with stable housing.",
+      "issue_area": "education",
+      "source_level": "local",
+      "why_it_matters": "This highlights the urgent need for increased funding and support for homeless students to improve their educational outcomes.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYC homeless students not getting enough school aid, advocates say",
+        "article_url": "https://www.nydailynews.com/2026/04/06/nyc-homeless-students-need-more-school-aid-advocates-say/",
+        "published_at": "2026-04-06"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-06T22:55:47.275918+00:00"
+    },
+    {
+      "summary": "On April 25, New York City will host its annual car-free Earth Day event, closing dozens of streets across all five boroughs to cars and opening them for pedestrian and bike use. The event features free activities, art, and environmental programming focused on climate change and sustainability.",
       "issue_area": "climate_energy",
       "source_level": "local",
-      "why_it_matters": "This matters for climate_energy because it affects local coverage priorities.",
+      "why_it_matters": "This event highlights the city's commitment to reducing carbon emissions and promoting sustainable transportation options.",
       "source_citation": {
         "source_name": "Gothamist",
         "source_level": "local",
@@ -275,44 +258,61 @@
         "article_url": "https://gothamist.com/news/nycs-car-free-earth-day-returns-april-25-with-streets-open-across-5-boroughs",
         "published_at": "2026-04-05T21:08:45+00:00"
       },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "missing_api_key",
-      "summarized_at": "2026-04-06T16:52:19.281864+00:00"
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-06T22:55:48.641130+00:00"
     },
     {
-      "summary": "--- title: Gorgeous clawfoot tub faucets to upgrade your bathroom decor author: BestReviews url: https://www.chicagotribune.com/2026/04/06/gorgeous-clawfoot-tub-faucets-to-upgrade-your-bathroom-decor/ hostname: chicagotribune.com description: Clawfoot bathtubs never go out of style. There are faucets and showerheads that keep the older vibe alive but incorporate modern plumbing advances. sitename: New York Daily News date: 2026-04-06 categories: ['Best Reviews'] --- Clawfoot bathtubs seem to never go out of style.",
+      "summary": "Easter chocolate prices have risen sharply due to increased cocoa costs and volatile weather affecting cocoa production in major producing countries. The smaller size and higher cost of chocolate have left many shoppers disappointed, and the situation may not improve soon due to ongoing climate issues and tariffs on foreign goods.",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "why_it_matters": "Rising chocolate prices could impact consumer spending habits and the chocolate industry's supply chain, especially during key holiday seasons.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Easter Chocolate Prices Hop to New Heights",
+        "article_url": "https://www.ourtownny.com/news/easter-chocolate-prices-hop-to-new-heights-EC5730042",
+        "published_at": "2026-04-03"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-06T22:55:49.876005+00:00"
+    },
+    {
+      "summary": "President Trump detailed a large-scale military operation to rescue a downed airman in Iran, involving 155 aircraft and strategic deception tactics. The mission was successful, with the airman surviving and being rescued from deep inside the mountains of Iran.",
       "issue_area": "transportation_housing",
       "source_level": "local",
-      "why_it_matters": "This matters for transportation_housing because it affects local coverage priorities.",
+      "why_it_matters": "The rescue highlights the complexity and risk involved in such operations, showcasing the U.S. military's capabilities and the dangers faced by service members.",
       "source_citation": {
-        "source_name": "New York Daily News",
+        "source_name": "FOX 5 New York",
         "source_level": "local",
-        "article_title": "Gorgeous clawfoot tub faucets to upgrade your bathroom decor",
-        "article_url": "https://www.nydailynews.com/2026/04/06/gorgeous-clawfoot-tub-faucets-to-upgrade-your-bathroom-decor/",
+        "article_title": "Trump details daring rescue of downed US airman in Iran",
+        "article_url": "https://www.fox5ny.com/news/trump-news-conference-airman-rescued-iran",
         "published_at": "2026-04-06"
       },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "missing_api_key",
-      "summarized_at": "2026-04-06T16:52:19.282494+00:00"
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-06T22:55:51.474451+00:00"
     },
     {
-      "summary": "--- title: Live Updates: Trump's threat to blow \"everything up\" if Iran won't make a deal hangs over new ceasefire bid author: Tucker Reals; Melissa Quinn; Jennifer Jacobs; AFP; Kaia Hubbard; Joe Walsh url: https://www.cbsnews.com/newyork/live-updates/iran-war-trump-deadline-power-plants-bridges-ceasefire-push-air-force-rescue/ hostname: cbsnews.com description: Trump's threat to destroy Iran's power plants and bridges if it doesn't make a deal to end the war by Tuesday is looming over a Pakistani ceasefire push. sitename: CBS New York date: 2026-04-06 categories: ['World'] tags: ['War, Rescue, Iran, Israel, Ceasefire, Donald Trump, War Crimes, Middle East, Oil and Gas, Benjamin Neta\\u200bnyahu'] --- What to know about the Iran war today: - A diplomatic effort is underway to avoid a major escalation in the Iran war, with President Trump considering, among other ideas, a Pakistani proposal for a 45-day ceasefire to reopen the Strait of Hormuz. Hanging over the effort is Mr.",
+      "summary": "The Artemis II mission has broken the distance record set by Apollo 13, reaching 252,756 miles from Earth. The crew is conducting a lunar flyby, observing the far side of the moon and preparing for a period of planned signal loss as the spacecraft moves behind the moon.",
       "issue_area": "transportation_housing",
       "source_level": "local",
-      "why_it_matters": "This matters for transportation_housing because it affects local coverage priorities.",
+      "why_it_matters": "Breaking the distance record sets a new milestone for human space exploration and paves the way for future lunar missions.",
       "source_citation": {
         "source_name": "CBS New York",
         "source_level": "local",
-        "article_title": "Live Updates: Trump's threat to blow \"everything up\" if Iran won't make a deal hangs over new ceasefire bid",
-        "article_url": "https://www.cbsnews.com/newyork/live-updates/iran-war-trump-deadline-power-plants-bridges-ceasefire-push-air-force-rescue/",
+        "article_title": "Artemis II live updates as crew flies around far side of moon, planned loss of signal begins",
+        "article_url": "https://www.cbsnews.com/newyork/live-updates/artemis-moon-lunar-flyby/",
         "published_at": "2026-04-06"
       },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "missing_api_key",
-      "summarized_at": "2026-04-06T16:52:19.284647+00:00"
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-06T22:55:52.907383+00:00"
     }
   ]
 }

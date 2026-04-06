@@ -513,12 +513,12 @@ DEDUPE: Final[dict[str, object]] = {
 # model IDs, or token limits without changing application code.
 MODELS: Final[dict[str, dict[str, object]]] = {
     "summarization": {
-        "provider": _get_env("SUMMARIZATION_PROVIDER", "openai"),
-        "model": _get_env("SUMMARIZATION_MODEL", "gpt-4.1-mini"),
+        "provider": _get_env("SUMMARIZATION_PROVIDER", "huggingface"),
+        "model": _get_env("SUMMARIZATION_MODEL", "Qwen/Qwen2.5-7B-Instruct"),
         "temperature": float(_get_env("SUMMARIZATION_TEMPERATURE", "0.2")),
         "max_tokens": int(_get_env("SUMMARIZATION_MAX_TOKENS", "1200")),
-        "api_key": _get_env("OPENAI_API_KEY"),
-        "base_url": _get_env("OPENAI_BASE_URL"),
+        "api_key": _get_env("HF_API_TOKEN"),
+        "base_url": _get_env("HF_BASE_URL", "https://router.huggingface.co/v1"),
         "target_summary_words": _get_int_env("TARGET_SUMMARY_WORDS", 120),
         "system_prompt_template": _get_env("SUMMARIZATION_SYSTEM_PROMPT"),
     },
@@ -528,7 +528,7 @@ MODELS: Final[dict[str, dict[str, object]]] = {
         "voice": _get_env("TTS_VOICE", "alloy"),
         "audio_format": _get_env("TTS_AUDIO_FORMAT", "mp3"),
         "speed": float(_get_env("TTS_SPEED", "1.0")),
-        "api_key": _get_env("OPENAI_API_KEY"),
+        "api_key": _get_env("HF_API_TOKEN"),
         "target_duration_minutes": BRIEFING_OUTPUT["target_audio_duration_minutes"],
     },
 }
@@ -582,7 +582,7 @@ DELIVERY: Final[dict[str, dict[str, object]]] = {
 # A small explicit secrets map helps validation code fail fast when required
 # credentials are missing for a selected provider or delivery backend.
 SECRETS: Final[dict[str, str | None]] = {
-    "openai_api_key": _get_env("OPENAI_API_KEY"),
+    "hf_api_token": _get_env("HF_API_TOKEN"),
     "smtp_password": _get_env("SMTP_PASSWORD"),
     "google_service_account_json": _get_env("GOOGLE_SERVICE_ACCOUNT_JSON"),
     "google_service_account_file": _get_env("GOOGLE_SERVICE_ACCOUNT_FILE"),

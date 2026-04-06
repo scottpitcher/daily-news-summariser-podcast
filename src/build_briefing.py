@@ -145,6 +145,29 @@ def format_source_attribution(summary: dict[str, Any]) -> str:
     return "According to reporting"
 
 
+def format_source_attribution_markdown(summary: dict[str, Any]) -> str:
+    """Create source attribution with a linked headline for Markdown output."""
+    citation = summary.get("source_citation", {})
+    source_name = normalize_text(str(citation.get("source_name") or ""))
+    article_title = normalize_text(str(citation.get("article_title") or ""))
+    article_url = normalize_text(str(citation.get("article_url") or ""))
+
+    if article_title and article_url:
+        link = f"[{article_title}]({article_url})"
+    elif article_url:
+        link = f"[Source]({article_url})"
+    else:
+        link = ""
+
+    if link and source_name:
+        return f"{link} — {source_name}"
+    if link:
+        return link
+    if source_name:
+        return source_name
+    return "Source unavailable"
+
+
 def build_story_paragraph(summary: dict[str, Any]) -> str:
     """Build one natural-sounding spoken story paragraph."""
     summary_text = normalize_text(str(summary.get("summary") or ""))
@@ -233,7 +256,14 @@ def build_briefing_text(grouped_summaries: dict[str, list[dict[str, Any]]]) -> t
 
         markdown_story_lines = [f"## {issue_label}"]
         for summary in grouped_summaries[issue_area]:
-            markdown_story_lines.append(f"- {build_story_paragraph(summary)}")
+            summary_text = normalize_text(str(summary.get("summary") or ""))
+            why_it_matters = normalize_text(str(summary.get("why_it_matters") or ""))
+            source_link = format_source_attribution_markdown(summary)
+            parts = [summary_text]
+            if why_it_matters:
+                parts.append(f"Why it matters: {why_it_matters}")
+            parts.append(f"Source: {source_link}")
+            markdown_story_lines.append(f"- {' '.join(parts)}")
         markdown_sections.append("\n".join(markdown_story_lines))
 
     text_sections.append(outro)

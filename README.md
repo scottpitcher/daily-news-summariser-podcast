@@ -159,6 +159,26 @@ Some stages also expect access to an LLM API if you want generated summaries ins
 **`config.py`**
 - Inverted source priority weights: local (1.0) > state (0.85) > national (0.75)
 
+### Apr 6, 2026
+
+**`config.py`** Switched from OpenAI to Hugging Face Inference API
+- Default summarization provider changed to `huggingface` with `Qwen/Qwen2.5-7B-Instruct`
+- Renamed env vars from `OPENAI_API_KEY`/`OPENAI_BASE_URL` to `HF_API_TOKEN`/`HF_BASE_URL`
+- Default base URL set to `https://router.huggingface.co/v1`
+
+**`summarize_articles.py`** Updated provider logic for Hugging Face
+- Accepts `"huggingface"` as a provider alongside `"openai"`
+- Updated default model and base URL fallbacks
+
+**`build_briefing.py`** Added linked headlines to Markdown output
+- Markdown briefing now includes original article headline linked to source URL
+- Source attribution formatted as `[Headline](url) — Source Name`
+
+**`.github/workflows/daily_briefing.yml`** Automated daily pipeline
+- Runs daily at 5:00 AM ET (9:00 UTC) with manual trigger support
+- Email delivery of briefing to configured recipients
+- Uses `HF_API_TOKEN` and `HF_BASE_URL` env vars
+
 ## Current status
 
 What is implemented now:
@@ -171,10 +191,10 @@ What is implemented now:
 - article summarization
 - final briefing transcript assembly
 - pipeline orchestration
+- external report delivery
 
 Future-facing:
 
 - text-to-speech generation
-- external report delivery
 - deeper LLM-based classification and synthesis
 - more source-specific extraction rules

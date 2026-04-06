@@ -400,7 +400,10 @@ _SPORTS_TITLE_RE = re.compile(
     r"|playoffs?|super bowl|world cup|world series"
     r"|touchdown|home run|grand slam"
     r"|premier league|champions league"
-    r"|quarterback|wide receiver|tight end)\b",
+    r"|quarterback|wide receiver|tight end"
+    r"|jets|giants|knicks|yankees|mets|nets|rangers|islanders|liberty"
+    r"|cricket|rugby|tennis|golf|boxing|ufc|mma|wrestling|gymnastics|olympic"
+    r"|pitcher|outfielder|shortstop|point guard|goalie|goalkeeper)\b",
     re.IGNORECASE,
 )
 

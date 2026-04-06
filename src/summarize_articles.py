@@ -26,12 +26,12 @@ DEFAULT_INPUT_DIR = BASE_DIR / "data" / "processed" / "ranked"
 DEFAULT_OUTPUT_DIR = BASE_DIR / "data" / "processed" / "article_summaries"
 DEFAULT_OUTPUT_PREFIX = "article_summaries"
 DEFAULT_TIMEOUT_SECONDS = 30
-DEFAULT_PROVIDER = str(MODELS["summarization"].get("provider") or "openai")
-DEFAULT_MODEL = str(MODELS["summarization"].get("model") or "gpt-4.1-mini")
+DEFAULT_PROVIDER = str(MODELS["summarization"].get("provider") or "huggingface")
+DEFAULT_MODEL = str(MODELS["summarization"].get("model") or "Qwen/Qwen2.5-7B-Instruct")
 DEFAULT_MAX_TOKENS = int(MODELS["summarization"].get("max_tokens") or 1200)
 DEFAULT_TEMPERATURE = float(MODELS["summarization"].get("temperature") or 0.2)
 DEFAULT_TARGET_SUMMARY_WORDS = int(MODELS["summarization"].get("target_summary_words") or 120)
-DEFAULT_API_BASE = str(MODELS["summarization"].get("base_url") or "https://api.openai.com/v1")
+DEFAULT_API_BASE = str(MODELS["summarization"].get("base_url") or "https://router.huggingface.co/v1")
 DEFAULT_API_KEY = MODELS["summarization"].get("api_key")
 
 LOGGER = logging.getLogger("summarize_articles")
@@ -292,7 +292,7 @@ def summarize_article(
     failure_reason: str | None = None
 
     try:
-        if provider == "openai" and api_key:
+        if provider in ("huggingface", "openai") and api_key:
             summary_fields = summarize_with_openai_compatible_api(
                 article=article,
                 api_key=api_key,
@@ -303,7 +303,7 @@ def summarize_article(
                 timeout=timeout,
                 target_summary_words=target_summary_words,
             )
-        elif provider == "openai":
+        elif provider in ("huggingface", "openai"):
             failure_reason = "missing_api_key"
         else:
             failure_reason = f"unsupported_provider:{provider}"
