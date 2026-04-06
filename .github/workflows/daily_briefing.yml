@@ -1,0 +1,36 @@
+name: Daily News Briefing
+
+on:
+  schedule:
+    # 9:00 UTC = 5:00 AM ET (during EDT; 4:00 AM during EST)
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      EMAIL_DELIVERY_ENABLED: "true"
+      SMTP_HOST: smtp.resend.com
+      SMTP_PORT: "587"
+      SMTP_USERNAME: resend
+      SMTP_PASSWORD: ${{ secrets.RESEND_API_KEY }}
+      EMAIL_SENDER: onboarding@resend.dev
+      EMAIL_RECIPIENTS: aap253@cornell.edu
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        run: python3 src/run_pipeline.py --verbose

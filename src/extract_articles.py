@@ -13,6 +13,7 @@ import json
 import logging
 import re
 from collections.abc import Iterable
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any
@@ -23,7 +24,7 @@ from requests import Response, Session
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-from config import BASE_DIR, LOCAL_SOURCES, NATIONAL_SOURCES, STATE_SOURCES
+from config import BASE_DIR, LOCAL_SOURCES  # NATIONAL_SOURCES, STATE_SOURCES
 
 try:
     import trafilatura
@@ -74,10 +75,10 @@ def build_session() -> Session:
 def flatten_sources() -> list[dict[str, object]]:
     """Return all configured sources as a single iterable collection."""
     sources: list[dict[str, object]] = []
-    sources.extend(NATIONAL_SOURCES)
+    # sources.extend(NATIONAL_SOURCES)
 
-    for source_group in STATE_SOURCES.values():
-        sources.extend(source_group)
+    # for source_group in STATE_SOURCES.values():
+    #     sources.extend(source_group)
 
     for source_group in LOCAL_SOURCES.values():
         sources.extend(source_group)
@@ -458,24 +459,33 @@ def extract_articles(
     session = build_session()
     source_index = build_source_index()
     extracted_articles: list[dict[str, Any]] = []
+    candidates_list = list(candidates)
 
-    for candidate in candidates:
-        article_url = candidate.get("article_url")
-        LOGGER.info("Extracting article: %s", article_url)
-        try:
-            article = extract_candidate_article(
+    with ThreadPoolExecutor(max_workers=5) as executor:
+        future_to_url = {}
+        for candidate in candidates_list:
+            article_url = candidate.get("article_url")
+            LOGGER.info("Submitting extraction: %s", article_url)
+            future = executor.submit(
+                extract_candidate_article,
                 candidate=candidate,
                 session=session,
                 source_index=source_index,
                 timeout=timeout,
                 min_text_words=min_text_words,
             )
-        except Exception as exc:  # pragma: no cover - defensive batch protection.
-            LOGGER.exception("Unexpected extraction failure for %s: %s", article_url, exc)
-            continue
+            future_to_url[future] = article_url
 
-        if article is not None:
-            extracted_articles.append(article)
+        for future in as_completed(future_to_url):
+            article_url = future_to_url[future]
+            try:
+                article = future.result()
+            except Exception as exc:  # pragma: no cover - defensive batch protection.
+                LOGGER.exception("Unexpected extraction failure for %s: %s", article_url, exc)
+                continue
+
+            if article is not None:
+                extracted_articles.append(article)
 
     return extracted_articles
 

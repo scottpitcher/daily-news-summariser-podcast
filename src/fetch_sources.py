@@ -12,8 +12,10 @@ from __future__ import annotations
 import argparse
 import json
 import logging
+import re
 from collections.abc import Iterable
-from datetime import UTC, datetime
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from datetime import UTC, datetime, timedelta
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Any
@@ -29,16 +31,19 @@ from urllib3.util.retry import Retry
 from config import (
     BASE_DIR,
     LOCAL_SOURCES,
-    NATIONAL_SOURCES,
+    # NATIONAL_SOURCES,
     PIPELINE_STAGES,
     SOURCE_PRIORITY_WEIGHTS,
-    STATE_SOURCES,
+    # STATE_SOURCES,
     ensure_output_dirs,
 )
 
 
 DEFAULT_TIMEOUT_SECONDS = int(
     PIPELINE_STAGES["fetch_candidate_links"]["request_timeout_seconds"]
+)
+MAX_CANDIDATES_PER_SOURCE = int(
+    PIPELINE_STAGES["fetch_candidate_links"]["max_candidates_per_source"]
 )
 DEFAULT_OUTPUT_PREFIX = "article_candidates"
 DEFAULT_OUTPUT_DIR = BASE_DIR / "data" / "raw" / "candidates"
@@ -80,12 +85,12 @@ def build_session() -> Session:
 def flatten_sources() -> list[dict[str, object]]:
     """Return all configured sources as a single iterable collection."""
     sources: list[dict[str, object]] = []
-    sources.extend(NATIONAL_SOURCES)
+    # sources.extend(NATIONAL_SOURCES)
 
     # State and local sources are stored by geography in config, but the fetch
     # pipeline only needs a flat list of source definitions.
-    for source_group in STATE_SOURCES.values():
-        sources.extend(source_group)
+    # for source_group in STATE_SOURCES.values():
+    #     sources.extend(source_group)
 
     for source_group in LOCAL_SOURCES.values():
         sources.extend(source_group)
@@ -281,7 +286,7 @@ def extract_html_articles(
 
     # Start with likely article containers; fall back to all links for simpler
     # government/newsroom pages that may not use semantic article markup.
-    containers = soup.select("article, main article, .post, .story, .card, li")
+    containers = soup.select("article, main article, .post, .story, .card, .headline, .article-list a, [data-type='article']")
     if not containers:
         containers = soup.select("a[href]")
 
@@ -347,12 +352,22 @@ def fetch_source_articles(
         # RSS is preferred because it usually provides cleaner titles, links,
         # and timestamps than generic homepage scraping.
         articles = extract_rss_articles(source, session, timeout, fetched_at)
-        if articles:
-            return articles
-        LOGGER.info("Falling back to HTML extraction for %s", source["name"])
-        return extract_html_articles(source, session, timeout, fetched_at)
+        if not articles:
+            LOGGER.info("Falling back to HTML extraction for %s", source["name"])
+            articles = extract_html_articles(source, session, timeout, fetched_at)
+    else:
+        articles = extract_html_articles(source, session, timeout, fetched_at)
 
-    return extract_html_articles(source, session, timeout, fetched_at)
+    if len(articles) > MAX_CANDIDATES_PER_SOURCE:
+        LOGGER.info(
+            "Capping %s candidates from %s to %s",
+            len(articles),
+            source["name"],
+            MAX_CANDIDATES_PER_SOURCE,
+        )
+        articles = articles[:MAX_CANDIDATES_PER_SOURCE]
+
+    return articles
 
 
 def deduplicate_articles(
@@ -372,6 +387,83 @@ def deduplicate_articles(
         deduplicated.append(article)
 
     return deduplicated
+
+
+_SPORTS_URL_TOKENS = (
+    "/sports/", "/sport/",
+    "/nfl/", "/nba/", "/mlb/", "/nhl/", "/ncaa/", "/mls/", "/wnba/",
+    "/soccer/", "/football/", "/baseball/", "/basketball/", "/hockey/",
+)
+
+_SPORTS_TITLE_RE = re.compile(
+    r"\b(?:nfl|nba|mlb|nhl|ncaa|fifa|espn|wnba|mls"
+    r"|playoffs?|super bowl|world cup|world series"
+    r"|touchdown|home run|grand slam"
+    r"|premier league|champions league"
+    r"|quarterback|wide receiver|tight end)\b",
+    re.IGNORECASE,
+)
+
+
+def _is_sports_article(article: dict[str, str | float | None]) -> bool:
+    """Return True if the article appears to be sports content."""
+    url = str(article.get("article_url") or "").lower()
+    if any(token in url for token in _SPORTS_URL_TOKENS):
+        return True
+
+    title = str(article.get("article_title") or "")
+    return bool(_SPORTS_TITLE_RE.search(title))
+
+
+def filter_sports_articles(
+    articles: list[dict[str, str | float | None]],
+) -> list[dict[str, str | float | None]]:
+    """Remove articles that appear to be sports content."""
+    kept = [a for a in articles if not _is_sports_article(a)]
+    dropped = len(articles) - len(kept)
+    if dropped:
+        LOGGER.info(
+            "Sports filter: dropped %s of %s articles", dropped, len(articles)
+        )
+    return kept
+
+
+def filter_stale_articles(
+    articles: list[dict[str, str | float | None]],
+    max_age_hours: int = 48,
+) -> list[dict[str, str | float | None]]:
+    """Drop articles with a published_at timestamp older than *max_age_hours*.
+
+    Articles without a publication date are kept because they are typically
+    recent homepage items scraped from HTML pages.
+    """
+    cutoff = datetime.now(UTC) - timedelta(hours=max_age_hours)
+    kept: list[dict[str, str | float | None]] = []
+    for article in articles:
+        published_at = article.get("published_at")
+        if published_at is None:
+            kept.append(article)
+            continue
+        try:
+            pub_dt = datetime.fromisoformat(str(published_at))
+        except (TypeError, ValueError):
+            kept.append(article)
+            continue
+        if pub_dt >= cutoff:
+            kept.append(article)
+        else:
+            LOGGER.debug(
+                "Dropping stale article: %s (%s)",
+                article.get("article_title", ""),
+                published_at,
+            )
+    LOGGER.info(
+        "Recency filter: kept %s of %s articles (cutoff %sh)",
+        len(kept),
+        len(articles),
+        max_age_hours,
+    )
+    return kept
 
 
 def write_articles_json(
@@ -394,22 +486,41 @@ def write_articles_json(
 
 
 def collect_articles(timeout: int) -> list[dict[str, str | float | None]]:
-    """Fetch article candidates from all configured sources."""
+    """Fetch article candidates from all configured sources concurrently."""
     session = build_session()
     fetched_at = datetime.now(UTC).isoformat()
     articles: list[dict[str, str | float | None]] = []
+    sources = flatten_sources()
 
-    for source in flatten_sources():
-        LOGGER.info(
-            "Fetching candidate links from %s (%s)",
-            source["name"],
-            source["type"],
-        )
-        articles.extend(fetch_source_articles(source, session, timeout, fetched_at))
+    with ThreadPoolExecutor(max_workers=5) as executor:
+        future_to_source = {
+            executor.submit(
+                fetch_source_articles, source, session, timeout, fetched_at
+            ): source
+            for source in sources
+        }
+        for future in as_completed(future_to_source):
+            source = future_to_source[future]
+            try:
+                result = future.result()
+                LOGGER.info(
+                    "Fetched %s candidates from %s (%s)",
+                    len(result),
+                    source["name"],
+                    source["type"],
+                )
+                articles.extend(result)
+            except Exception:
+                LOGGER.exception(
+                    "Failed to fetch from %s", source["name"]
+                )
 
     # Deduplication is intentionally done once at the end so overlaps across
     # different configured sources collapse into a single article candidate.
-    return deduplicate_articles(articles)
+    articles = deduplicate_articles(articles)
+    articles = filter_stale_articles(articles)
+    articles = filter_sports_articles(articles)
+    return articles
 
 
 def resolve_output_dir(path_override: Path | None = None) -> Path:

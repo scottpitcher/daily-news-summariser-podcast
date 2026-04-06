@@ -64,9 +64,9 @@ def _source(
 ) -> dict[str, object]:
     """Create a normalized source record for scrapers and feed readers."""
     priority_weights = {
-        "national": 1.0,
+        "national": 0.75,
         "state": 0.85,
-        "local": 0.75,
+        "local": 1.0,
     }
     return {
         "name": name,
@@ -87,88 +87,88 @@ def _source(
 
 # Source registries are grouped by coverage level so downstream jobs can choose
 # a national-only run or expand into state and local editions.
-NATIONAL_SOURCES: Final[list[dict[str, object]]] = [
-    _source(
-        name="Associated Press",
-        homepage_url="https://apnews.com/",
-        rss_url="https://apnews.com/hub/ap-top-news?output=rss",
-        level="national",
-        source_type="rss",
-    ),
-    _source(
-        name="Reuters World News",
-        homepage_url="https://www.reuters.com/world/",
-        rss_url="https://feeds.reuters.com/Reuters/worldNews",
-        level="national",
-        source_type="rss",
-    ),
-    _source(
-        name="NPR News",
-        homepage_url="https://www.npr.org/sections/news/",
-        rss_url="https://feeds.npr.org/1001/rss.xml",
-        level="national",
-        source_type="rss",
-    ),
-    _source(
-        name="PBS News",
-        homepage_url="https://www.pbs.org/newshour/",
-        rss_url="https://www.pbs.org/newshour/feeds/rss/headlines",
-        level="national",
-        source_type="rss",
-    ),
-]
+# NATIONAL_SOURCES: Final[list[dict[str, object]]] = [
+#     _source(
+#         name="Associated Press",
+#         homepage_url="https://apnews.com/",
+#         rss_url="https://apnews.com/hub/ap-top-news?output=rss",
+#         level="national",
+#         source_type="rss",
+#     ),
+#     _source(
+#         name="Reuters World News",
+#         homepage_url="https://www.reuters.com/world/",
+#         rss_url="https://feeds.reuters.com/Reuters/worldNews",
+#         level="national",
+#         source_type="rss",
+#     ),
+#     _source(
+#         name="NPR News",
+#         homepage_url="https://www.npr.org/sections/news/",
+#         rss_url="https://feeds.npr.org/1001/rss.xml",
+#         level="national",
+#         source_type="rss",
+#     ),
+#     _source(
+#         name="PBS News",
+#         homepage_url="https://www.pbs.org/newshour/",
+#         rss_url="https://www.pbs.org/newshour/feeds/rss/headlines",
+#         level="national",
+#         source_type="rss",
+#     ),
+# ]
 
 
-STATE_SOURCES: Final[dict[str, list[dict[str, object]]]] = {
-    "new_york": [
-        _source(
-            name="New York State Government News",
-            homepage_url="https://www.governor.ny.gov/news",
-            rss_url=None,
-            level="state",
-            source_type="html",
-        ),
-        _source(
-            name="New York Public Radio",
-            homepage_url="https://www.wnyc.org/",
-            rss_url="https://www.wnyc.org/feeds/whatsnew/",
-            level="state",
-            source_type="rss",
-        ),
-    ],
-    "california": [
-        _source(
-            name="Office of the Governor of California",
-            homepage_url="https://www.gov.ca.gov/newsroom/",
-            rss_url=None,
-            level="state",
-            source_type="html",
-        ),
-        _source(
-            name="CalMatters",
-            homepage_url="https://calmatters.org/",
-            rss_url="https://calmatters.org/feed/",
-            level="state",
-            source_type="rss",
-        ),
-    ],
-    "texas": [
-        _source(
-            name="The Texas Tribune",
-            homepage_url="https://www.texastribune.org/",
-            rss_url="https://www.texastribune.org/feeds/articles/",
-            level="state",
-            source_type="rss",
-        ),
-        _source(
-            name="Office of the Texas Governor News",
-            homepage_url="https://gov.texas.gov/news",
-            rss_url=None,
-            level="state",
-            source_type="html",
-        ),
-    ],
-}
+# STATE_SOURCES: Final[dict[str, list[dict[str, object]]]] = {
+#     "new_york": [
+#         _source(
+#             name="New York State Government News",
+#             homepage_url="https://www.governor.ny.gov/news",
+#             rss_url=None,
+#             level="state",
+#             source_type="html",
+#         ),
+#         _source(
+#             name="New York Public Radio",
+#             homepage_url="https://www.wnyc.org/",
+#             rss_url="https://www.wnyc.org/feeds/whatsnew/",
+#             level="state",
+#             source_type="rss",
+#         ),
+#     ],
+#     "california": [
+#         _source(
+#             name="Office of the Governor of California",
+#             homepage_url="https://www.gov.ca.gov/newsroom/",
+#             rss_url=None,
+#             level="state",
+#             source_type="html",
+#         ),
+#         _source(
+#             name="CalMatters",
+#             homepage_url="https://calmatters.org/",
+#             rss_url="https://calmatters.org/feed/",
+#             level="state",
+#             source_type="rss",
+#         ),
+#     ],
+#     "texas": [
+#         _source(
+#             name="The Texas Tribune",
+#             homepage_url="https://www.texastribune.org/",
+#             rss_url="https://www.texastribune.org/feeds/articles/",
+#             level="state",
+#             source_type="rss",
+#         ),
+#         _source(
+#             name="Office of the Texas Governor News",
+#             homepage_url="https://gov.texas.gov/news",
+#             rss_url=None,
+#             level="state",
+#             source_type="html",
+#         ),
+#     ],
+# }
 
 
 LOCAL_SOURCES: Final[dict[str, list[dict[str, object]]]] = {
@@ -605,7 +605,7 @@ __all__ = [
     "ISSUE_AREA_ARTICLE_CAPS",
     "LOCAL_SOURCES",
     "MODELS",
-    "NATIONAL_SOURCES",
+    # "NATIONAL_SOURCES",
     "OUTPUT_DIRS",
     "PIPELINE_STAGES",
     "PROJECT_NAME",
@@ -613,6 +613,6 @@ __all__ = [
     "RANKING_WEIGHTS",
     "SECRETS",
     "SOURCE_PRIORITY_WEIGHTS",
-    "STATE_SOURCES",
+    # "STATE_SOURCES",
     "ensure_output_dirs",
 ]

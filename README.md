@@ -141,6 +141,24 @@ The code uses standard Python plus a few common libraries, including:
 
 Some stages also expect access to an LLM API if you want generated summaries instead of fallback summaries.
 
+## Changelog
+
+### Apr 6, 2025
+
+**`fetch_sources.py`** Expediate fetch source gathering and limited to local data sources
+- Concurrent source fetching (`ThreadPoolExecutor`, 5 workers)
+- Sports content filter (URL path + title keyword matching)
+- 48h recency filter to drop stale articles
+- Per-source candidate cap (50) to prevent source flooding
+- Improved HTML article container selectors
+- Disabled national/state sources; pipeline now runs local-only
+
+**`extract_articles.py`**
+- Concurrent article extraction (`ThreadPoolExecutor`, 5 workers)
+
+**`config.py`**
+- Inverted source priority weights: local (1.0) > state (0.85) > national (0.75)
+
 ## Current status
 
 What is implemented now:
