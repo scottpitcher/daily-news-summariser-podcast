@@ -20,7 +20,7 @@ jobs:
       SMTP_USERNAME: aap253@cornell.edu
       SMTP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
       EMAIL_SENDER: aap253@cornell.edu
-      EMAIL_RECIPIENTS: sp2668@cornell.edu,aap253@cornell.edu,bmd223@cornell.edu,s279@cornell.edu,mdt93@cornell.edu
+      EMAIL_RECIPIENTS: sp2668@cornell.edu,aap253@cornell.edu,bmd223@cornell.edu,zs279@cornell.edu,mdt93@cornell.edu
 
     steps:
       - name: Checkout repository

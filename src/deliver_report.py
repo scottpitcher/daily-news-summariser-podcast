@@ -79,7 +79,7 @@ def markdown_to_html(md: str) -> str:
             flush_section_items()
             heading = stripped[3:]
             body_parts.append(
-                f'<h2 style="color: #1a1a2e; font-size: 20px; margin: 28px 0 12px 0;'
+                f'<h2 style="color: #1a1a2e; font-size: 16px; margin: 28px 0 12px 0;'
                 f' padding-bottom: 8px; border-bottom: 2px solid #0f3460;">{heading}</h2>'
             )
 
@@ -94,22 +94,22 @@ def markdown_to_html(md: str) -> str:
             # Style "Why it matters:" and "Source:"
             item_html = re.sub(
                 r"Why it matters:",
-                '<br><br><strong style="color: #e94560;">Why it matters:</strong>',
+                '<br><br><strong style="color: #e94560;">Why it matters?</strong>',
                 item_html,
             )
             item_html = re.sub(
                 r"Source:",
-                '<br><span style="font-size: 13px; color: #666;">Source:',
+                '<br><span style="font-size: 11px; color: #666;">Source:',
                 item_html,
             ) + "</span>"
             current_section_items.append(
-                f'<p style="margin: 0; line-height: 1.6; font-size: 15px; color: #333;">{item_html}</p>'
+                f'<p style="margin: 0; line-height: 1.6; font-size: 13px; color: #333;">{item_html}</p>'
             )
 
         else:
             flush_section_items()
             body_parts.append(
-                f'<p style="margin: 12px 0; line-height: 1.6; font-size: 15px; color: #333;">{stripped}</p>'
+                f'<p style="margin: 12px 0; line-height: 1.6; font-size: 13px; color: #333;">{stripped}</p>'
             )
 
     flush_section_items()
@@ -128,8 +128,8 @@ def markdown_to_html(md: str) -> str:
        style="background-color: #ffffff; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
   <!-- Header -->
   <tr><td style="background-color: #1a1a2e; padding: 28px 32px; text-align: center;">
-    <h1 style="margin: 0; color: #ffffff; font-size: 24px; letter-spacing: 0.5px;">Daily News Briefing</h1>
-    <p style="margin: 6px 0 0 0; color: #a0a0c0; font-size: 14px;">{date_str}</p>
+    <h1 style="margin: 0; color: #ffffff; font-size: 20px; letter-spacing: 0.5px;">Daily News Briefing</h1>
+    <p style="margin: 6px 0 0 0; color: #a0a0c0; font-size: 12px;">{date_str}</p>
   </td></tr>
   <!-- Body -->
   <tr><td style="padding: 24px 32px;">
@@ -137,7 +137,7 @@ def markdown_to_html(md: str) -> str:
   </td></tr>
   <!-- Footer -->
   <tr><td style="background-color: #f9f9fb; padding: 20px 32px; text-align: center; border-top: 1px solid #eee;">
-    <p style="margin: 0; font-size: 12px; color: #999;">
+    <p style="margin: 0; font-size: 11px; color: #999;">
       Automated Daily News Briefing &mdash; Cornell Tech &amp; NYC CM Virginia Maloney
     </p>
   </td></tr>

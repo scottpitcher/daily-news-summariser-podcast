@@ -49,8 +49,8 @@ The pipeline runs in this order:
 8. `generate_tts`
    [Future] stage for turning the transcript into audio.
 
-9. `deliver_report`
-   [Future] stage for sending or publishing the final outputs.
+9. `deliver_report.py`
+   Reads the Markdown briefing from `outputs/reports/`, converts it to a newsletter-style HTML email, and sends it via SMTP. Delivery is controlled by environment variables (`EMAIL_DELIVERY_ENABLED`, `SMTP_HOST`, `SMTP_USERNAME`, etc.) and the `DELIVERY` settings in `config.py`. When email delivery is disabled or unconfigured, the stage is skipped gracefully.
 
 ## Repository structure
 
@@ -66,6 +66,7 @@ The pipeline runs in this order:
 │   ├── rank_articles.py
 │   ├── summarize_articles.py
 │   ├── build_briefing.py
+│   ├── deliver_report.py
 │   └── run_pipeline.py
 ├── data/
 ├── outputs/
@@ -112,6 +113,7 @@ python3 src/tag_articles.py
 python3 src/rank_articles.py
 python3 src/summarize_articles.py
 python3 src/build_briefing.py
+python3 src/deliver_report.py
 ```
 
 ## Output flow
