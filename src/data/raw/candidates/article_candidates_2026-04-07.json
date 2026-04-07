@@ -1,0 +1,3456 @@
+{
+  "generated_at": "2026-04-07T00:00:00+00:00",
+  "article_count": 345,
+  "articles": [
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "24/7 Live",
+      "article_url": "https://abc7ny.com/watch/live/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "New York City",
+      "article_url": "https://abc7ny.com/new-york/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "New Jersey",
+      "article_url": "https://abc7ny.com/new-jersey/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Long Island",
+      "article_url": "https://abc7ny.com/long-island/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Northern Suburbs",
+      "article_url": "https://abc7ny.com/northern-suburbs/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Connecticut",
+      "article_url": "https://abc7ny.com/connecticut/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Freeze Warning",
+      "article_url": "https://abc7ny.com/weather/alerts/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "7-Day Forecast",
+      "article_url": "https://abc7ny.com/nyc-weather-forecast-7-day-temperatures/27410/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "The Loop",
+      "article_url": "https://abc7ny.com/watch/23377/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Iran war",
+      "article_url": "https://abc7ny.com/live-updates/iran-war-strait-hormuz-ceasefire-trump-stock-market/18847792/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Eyewitness to Gilgo Beach",
+      "article_url": "https://abc7ny.com/post/gilgo-beach-serial-killing-rex-heuermann-long-island-killer/14329877/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Celebrate America",
+      "article_url": "https://abc7ny.com/celebrateamerica/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "ABC Price Tracker",
+      "article_url": "https://abc7ny.com/pricetracker/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "NY Auto Show",
+      "article_url": "https://abc7ny.com/nyautoshow/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Mayor Mamdani",
+      "article_url": "https://abc7ny.com/zohranmamdani/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Famous Deaths",
+      "article_url": "https://abc7ny.com/famousdeaths/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "More News",
+      "article_url": "https://abc7ny.com/news/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "TV Listings",
+      "article_url": "https://abc7ny.com/tvlistings/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Podcasts",
+      "article_url": "https://abc7ny.com/podcasts/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Gilgo Beach suspect expected to admit to an 8th murder Karen Vergata was a 34-year-old from Manhattan who disappeared in 1996 and was believed to be working as an escort.",
+      "article_url": "https://abc7ny.com/post/gilgo-beach-suspected-serial-killer-rex-heuermann-expected-plead-guilty-death-8th-woman/18852774/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Fireworks may have caused portable toilet explosion: Yonkers police",
+      "article_url": "https://abc7ny.com/post/portable-toilet-explodes-yonkers-bregano-park-police-believe-fireworks-may-have-caused-blast/18853209/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Both suspects indicted in 7-month-old baby's murder in Brooklyn",
+      "article_url": "https://abc7ny.com/post/brooklyn-baby-killed-both-suspects-indicted-7-month-old-girls-murder-east-williamsburg/18852805/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "More than 80 cars vandalized across several NJ towns",
+      "article_url": "https://abc7ny.com/post/police-working-coordinated-search-suspect-80-cars-vandalized-nj-towns/18853350/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Dog taken from family's backyard in NJ",
+      "article_url": "https://abc7ny.com/post/dog-napping-new-jersey-police-looking-woman-child-taken-familys-backyard/18853166/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "NASA releases new images taken during historic flyby of the moon",
+      "article_url": "https://abc7ny.com/post/nasa-releases-new-earthset-eclipse-images-taken-during-historic-flyby-moon/18851934/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Skeletal remains found under Brooklyn Queens Expressway",
+      "article_url": "https://abc7ny.com/post/skeletal-remains-found-brooklyn-queens-expressway-jackson-heights/18852748/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "'Charlie's Angels' stars reunite to celebrate show's 50th anniversary",
+      "article_url": "https://abc7ny.com/post/kate-jackson-cheryl-ladd-jaclyn-smith-reunite-celebrate-charlies-angels-50th-anniversary-paleyfest/18850614/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "AccuWeather: Chilly despite sun",
+      "article_url": "https://abc7ny.com/post/nyc-weather-forecast-7-day-temperatures/27410/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Watch 'Mayor Mamdani: First 100 Days' on Friday at 5:30 p.m.",
+      "article_url": "https://abc7ny.com/post/mayor-mamdani-first-100-days-eyewitness-news-takes-look-victories-obstacles-more/18852313/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Share your spring photos with Eyewitness News",
+      "article_url": "https://abc7ny.com/post/share-spring-photos-eyewitness-news/18851939/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Revivals, stars and screen to stage adaptations take over Broadway",
+      "article_url": "https://abc7ny.com/post/broadway-2026-revivals-star-power-screen-stage-adaptations-take-spring/18852064/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Abducted American journalist to be freed",
+      "article_url": "https://abc7ny.com/post/abducted-american-journalist-has-been-freed-hezbollah-bregades/18852467/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "New York City News",
+      "article_url": "https://abc7ny.com/new-york",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Nation's 1st hub for delivery workers to rest, recharge opens in NYC",
+      "article_url": "https://abc7ny.com/post/nations-1st-hub-delivery-workers-rest-recharge-opens-lower-manhattan-nyc/18852682/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "More News",
+      "article_url": "https://abc7ny.com/morenews",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "ICE releases newlywed wife of Army soldier, arrested at military base",
+      "article_url": "https://abc7ny.com/post/ice-arrests-newlywed-wife-army-soldier-military-base/18849935/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Boy, 4, attacked by coyote in grandparents' California driveway: VIDEO",
+      "article_url": "https://abc7ny.com/post/carson-coyote-attack-caught-camera-attacks-child-standing-grandparents-driveway-california/18835113/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Former Miss North Carolina dies at 22 after cancer battle",
+      "article_url": "https://abc7ny.com/post/carrie-everett-former-miss-north-carolina-nc-central-student-dies-signet-ring-cell-carcinoma-cancer-diagnosis/18852141/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Suspect sought for punching, choking MTA bus driver",
+      "article_url": "https://abc7ny.com/videoClip/18852435/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Kanye West banned from UK festival for antisemitic remarks",
+      "article_url": "https://abc7ny.com/videoClip/18852354/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "New strikes hit Iran as Iran warns of retaliation",
+      "article_url": "https://abc7ny.com/videoClip/18851977/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "here",
+      "article_url": "https://abc7ny.com/newsletters/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Terms of Use",
+      "article_url": "https://disneytermsofuse.com/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Privacy Policy",
+      "article_url": "https://disneyprivacycenter.com/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Long Island News",
+      "article_url": "https://abc7ny.com/long-island",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Long Beach City Council considering change to alcohol laws",
+      "article_url": "https://abc7ny.com/post/long-beach-city-leaders-considering-allowing-alcohol-sales-businesses-boardwalk/18853420/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Civil lawsuit filed against Gilgo Beach suspect, 2 relatives",
+      "article_url": "https://abc7ny.com/post/gilgo-beach-murders-son-victim-valerie-mack-files-lawsuit-relatives-rex-heuermann/18850100/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Video shows teen rescued after getting stuck in mud on LI",
+      "article_url": "https://abc7ny.com/post/bodycam-video-shows-ny-teen-rescued-first-responders-getting-stuck-mud-suffolk-county-wildlife-refuge/18849393/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Northern Suburbs News",
+      "article_url": "https://abc7ny.com/northern-suburbs",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "ABC7 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Bronx woman worried about health after apartment overrun with rats",
+      "article_url": "https://abc7ny.com/post/bronx-woman-worried-health-apartment-overrun-rats/18842006/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "New York Daily News",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Dad of slain Brooklyn baby Kaori Patterson-Moore may not have been intended target: DA",
+      "article_url": "https://www.nydailynews.com/2026/04/07/suspects-in-stray-bullet-slay-of-brooklyn-baby-kaori-patterson-moore-indicted-for-murder/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "New York Daily News",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Black Lives Matter demands max sentence for \u2018Cooler Cop\u2019 NYPD Sgt. Erik Duran",
+      "article_url": "https://www.nydailynews.com/2026/04/07/black-lives-matter-demands-max-sentence-for-cooler-cop-nypd-sgt-erik-duran/",
+      "published_at": "2026-04-07T16:27:36+00:00",
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "New York Daily News",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Taylor Frankie Paul files counter restraining order against ex",
+      "article_url": "https://www.nydailynews.com/2026/04/07/taylor-frankie-paul-counter-restraining-order-dakota-mortensen/",
+      "published_at": "2026-04-07T16:50:36+00:00",
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "New York Daily News",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Man, 49, repeatedly stabbed, pepper-sprayed in random Chinatown attack",
+      "article_url": "https://www.nydailynews.com/2026/04/07/man-49-repeatedly-stabbed-pepper-sprayed-in-random-chinatown-attack/",
+      "published_at": "2026-04-07T15:52:29+00:00",
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "New York Daily News",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Trump warns \u2018a whole civilization will die\u2019 as Iran deadline looms",
+      "article_url": "https://www.nydailynews.com/2026/04/07/trump-iran-deadline-whole-civilization-will-die/",
+      "published_at": "2026-04-07T15:53:45+00:00",
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "New York Daily News",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Mamdani taps former Biden admin. official to head NYC\u2019s child welfare agency",
+      "article_url": "https://www.nydailynews.com/2026/04/07/mamdani-taps-former-biden-admin-official-to-head-nycs-oft-criticized-child-welfare-agency/",
+      "published_at": "2026-04-07T16:15:07+00:00",
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "New York Daily News",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Country star Ray Stevens sustains broken neck after fall in Nashville",
+      "article_url": "https://www.nydailynews.com/2026/04/07/country-star-ray-stevens-sustains-broken-neck-after-fall-in-nashville/",
+      "published_at": "2026-04-07T15:17:12+00:00",
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "New York Daily News",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Blake Lively demands Justin Baldoni say if he\u2019ll testify at trial, with no sign of settlement in case",
+      "article_url": "https://www.nydailynews.com/2026/04/07/blake-lively-demands-justin-baldoni-say-if-hes-testifying-in-retaliation-trial-as-talks-founder/",
+      "published_at": "2026-04-07T14:01:59+00:00",
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "New York Daily News",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Protestors arrested for occupying Palantir building after rallying with Mamdani against ICE",
+      "article_url": "https://www.nydailynews.com/2026/04/06/protestors-arrested-for-occupying-palantir-building-after-rallying-with-mamadani-against-ice/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "New York Daily News",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Man struck and killed at bus stop near Staten Island mall after driver loses control",
+      "article_url": "https://www.nydailynews.com/2026/04/06/man-struck-and-killed-at-bus-stop-near-staten-island-mall-after-driver-loses-control/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "New York Daily News",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Mayor Mamdani steps back from pledge on total elimination of NYPD gang database",
+      "article_url": "https://www.nydailynews.com/2026/04/06/mayor-mamdani-steps-back-from-pledge-on-total-elimination-of-nypd-gang-database/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "New York Daily News",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Nadia Shihata, Mamdani\u2019s pick to lead corruption watchdog, faces grilling",
+      "article_url": "https://www.nydailynews.com/2026/04/06/nadia-shihata-mamdanis-pick-to-lead-corruption-watchdog-faces-grilling/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "New York Daily News",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Still locked up despite being cleared in Jam Master Jay killing, Karl Jordan Jr. close to freedom",
+      "article_url": "https://www.nydailynews.com/2026/04/06/still-locked-up-despite-being-cleared-in-jam-master-jay-killing-karl-jordan-jr-close-to-freedom/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "New York Daily News",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Bronx man, 21, shot to death over loud music by 76-year-old next-door neighbor",
+      "article_url": "https://www.nydailynews.com/2026/04/06/bronx-man-justin-chatfield-21-shot-to-death-over-loud-music-by-76-year-old-next-door-neighbor/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "New York Daily News",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Colorado QB Dominiq Ponder was 2x over legal limit before fatal crash: report",
+      "article_url": "https://www.nydailynews.com/2026/04/07/colorado-quarteback-dominiq-ponder-death-drunk-driving-coroner-report/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "New York Daily News",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "American journalist Shelly Kittleson has been released, an Iraqi official tells the AP",
+      "article_url": "https://www.nydailynews.com/2026/04/07/us-journalist-abduction-iran-backed-militia/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "New York Daily News",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Trial is ending for doctor accused of trying to kill his wife during a cliff-side hike in Hawaii",
+      "article_url": "https://www.nydailynews.com/2026/04/07/doctor-attempted-murder-wife-hawaii-hike-trial/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "New York Daily News",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Olympian Alyssa Liu wants to become a professional piercer",
+      "article_url": "https://www.nydailynews.com/2026/03/17/olympian-alyssa-liu-wants-to-become-a-professional-piercer/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "New York Daily News",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Iran won\u2019t compete at Milan Cortina Paralympics as its only athlete can\u2019t travel safely to Italy",
+      "article_url": "https://www.nydailynews.com/2026/03/06/iran-paralympics/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "New York Daily News",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "The best measuring spoons to elevate your baking",
+      "article_url": "https://www.nydailynews.com/2026/04/07/the-best-measuring-spoons-to-elevate-your-baking/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "New York Daily News",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "What is the best glue for glass?",
+      "article_url": "https://www.nydailynews.com/2026/04/06/what-is-the-best-glue-for-glass/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "New York Daily News",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Gorgeous clawfoot tub faucets to upgrade your bathroom decor",
+      "article_url": "https://www.nydailynews.com/2026/04/06/gorgeous-clawfoot-tub-faucets-to-upgrade-your-bathroom-decor/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "New York Daily News",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "NYC homeless students not getting enough school aid, advocates say",
+      "article_url": "https://www.nydailynews.com/2026/04/06/nyc-homeless-students-need-more-school-aid-advocates-say/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "New York Daily News",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Mayor Mamdani teams up with Cardi B to announce 2-K applications, launches jingle contest",
+      "article_url": "https://www.nydailynews.com/2026/04/03/mayor-mamdani-teams-up-with-cardi-b-to-announce-2-k-applications-launches-jingle-contest/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "New York Daily News",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Mayor Mamdani launches first digital child care map for NYC parents",
+      "article_url": "https://www.nydailynews.com/2026/04/01/mayor-mamdani-launches-first-digital-child-care-map-nyc-parents/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "New York Daily News",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "NYC sees safest first quarter ever for pedestrian, car or truck fatalities",
+      "article_url": "https://www.nydailynews.com/2026/04/02/nyc-safest-first-quarter-pedestrians-motor-vehicle-passengers/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "New York Daily News",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Groups urge Albany to reject NYC transit union\u2019s 2-person subway crew push",
+      "article_url": "https://www.nydailynews.com/2026/04/01/groups-urge-albany-reject-nyc-transit-unions-2-person-subway-crew-push/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "New York Daily News",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "NYC Council proposes free subways and buses for New Yorkers in need",
+      "article_url": "https://www.nydailynews.com/2026/04/01/nyc-council-proposes-free-subways-and-buses-for-new-yorkers-in-need/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "New York Daily News",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "NYC must go slow on last-mile delivery changes",
+      "article_url": "https://www.nydailynews.com/2026/04/07/nyc-must-go-slow-on-last-mile-delivery-changes/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "New York Daily News",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Progressive pledges can\u2019t be abandoned",
+      "article_url": "https://www.nydailynews.com/2026/04/07/progressive-pledges-cant-be-abandoned/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "New York Daily News",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Review the reviews: Hochul\u2019s environmental approval reform is worthwhile",
+      "article_url": "https://www.nydailynews.com/2026/04/07/review-the-reviews-hochuls-environmental-approval-reform-is-worthwhile/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The New York Times",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "How to Build a Rest Stop for Delivery Workers in a Hurry",
+      "article_url": "https://www.nytimes.com/2026/04/07/nyregion/how-to-build-a-rest-stop-for-delivery-workers-in-a-hurry.html",
+      "published_at": "2026-04-07T12:18:52+00:00",
+      "source_type": "rss",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The New York Times",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "She Was Once in Foster Care. Now She Will Run Child Welfare in New York.",
+      "article_url": "https://www.nytimes.com/2026/04/07/nyregion/mamdani-acs-nyc-rebecca-jones-gaston.html",
+      "published_at": "2026-04-07T19:44:15+00:00",
+      "source_type": "rss",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The New York Times",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Can Developers Help Save Public Housing?",
+      "article_url": "https://www.nytimes.com/2026/04/07/nyregion/can-developers-help-save-public-housing.html",
+      "published_at": "2026-04-07T09:03:31+00:00",
+      "source_type": "rss",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The New York Times",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Mamdani Celebrates Passover at Progressive \u2018Seder in the Street\u2019",
+      "article_url": "https://www.nytimes.com/2026/04/06/nyregion/mamdani-street-seder.html",
+      "published_at": "2026-04-07T20:15:13+00:00",
+      "source_type": "rss",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The New York Times",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "DOJ\u2019s Civil Rights Division Investigates Cassidy Hutchinson, Who Testified Against Trump",
+      "article_url": "https://www.nytimes.com/2026/04/07/nyregion/doj-cassidy-hutchinson-investigation-trump.html",
+      "published_at": "2026-04-07T20:09:41+00:00",
+      "source_type": "rss",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The New York Times",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "At Broadway\u2019s \u2018Rocky Horror Show,\u2019 Fan Participation Is Tricky",
+      "article_url": "https://www.nytimes.com/2026/04/07/theater/rocky-horror-show-broadway-audience.html",
+      "published_at": "2026-04-07T20:49:07+00:00",
+      "source_type": "rss",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The New York Times",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Duchamp Made a Urinal Into Art in 1917. We\u2019re Still Discussing It.",
+      "article_url": "https://www.nytimes.com/2026/04/07/arts/design/marcel-duchamp.html",
+      "published_at": "2026-04-07T18:55:17+00:00",
+      "source_type": "rss",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The New York Times",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "\u201cCats: The Jellicle Ball\u201d Live From the New York Times Office",
+      "article_url": "https://www.nytimes.com/2026/04/07/t-magazine/cats-jellicle-ball-broadway-performance.html",
+      "published_at": "2026-04-07T09:00:12+00:00",
+      "source_type": "rss",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The New York Times",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Tom Valenti, Who Made Lamb Shanks a Showstopper, Dies at 67",
+      "article_url": "https://www.nytimes.com/2026/04/04/dining/tom-valenti-dead.html",
+      "published_at": "2026-04-07T03:59:27+00:00",
+      "source_type": "rss",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "CBS News Live CBS News New York: Local News, Weather & More Nov 1, 2018 CBS News New York",
+      "article_url": "https://www.cbsnews.com/newyork/live/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Live Trump says \"whole civilization will die tonight\" as Iran deadline looms Iran's regime calls on civilians to shield power plants as Trump threatens \"a whole civilization\" with destruction if Tehran doesn't reopen the Strait of Hormuz. updated 1M ago",
+      "article_url": "https://www.cbsnews.com/newyork/live-updates/iran-war-trump-deadline-power-plants-human-chains-israel-train-strikes/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Some Rikers Island detainees to be moved to Manhattan hospital, Mamdani says Mayor Zohran Mamdani announced Tuesday that detainees at Rikers Island with complicated medical needs will be transferred to a Manhattan hospital to get access to speciality care. updated 1M ago",
+      "article_url": "https://www.cbsnews.com/newyork/news/zohran-mamdani-rikers-island-hospital-unit/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Gilgo Beach suspect Rex Heuermann expected to plead guilty Wednesday Rex Heuermann, the man accused of being the Gilgo Beach serial killer, is expected to plead guilty to multiple murders when he appears in court on Wednesday\u200b. 1H ago",
+      "article_url": "https://www.cbsnews.com/newyork/news/rex-heuermann-changes-plea-gilgo-beach-murders/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Vandal smashes windows of parked vehicles in Union County, N.J. Police in New Jersey are searching for a vandal who threw bricks through the windows of vehicles parked on streets in several Union County towns. 9H ago",
+      "article_url": "https://www.cbsnews.com/newyork/news/union-county-new-jersey-windshields-smashed-linden-cranford/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "U.S. journalist Shelly Kittleson released after kidnapping in Iraq, sources say American journalist Shelly Kittleson\u200b is being released on the condition that she leave Iraq immediately, an Iranian-backed militia in Iraq says. 3H ago",
+      "article_url": "https://www.cbsnews.com/newyork/news/shelly-kittleson-journalist-released-kidnap-iraq-iran-war-khataib-hezbollah/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Stunning photos from Artemis II show Earth, moon, eclipse from space The astronauts aboard Artemis II are the first humans to see some parts of the far side of the moon with the naked eye. 7H ago",
+      "article_url": "https://www.cbsnews.com/newyork/news/artemis-ii-earthset-moon-eclipse-photos/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Video shows Old Westbury Police officers save man from sudden cardiac arrest Police officers in Nassau County are being lauded for their quick thinking after saving a diner patron who went into cardiac arrest last month. 22H ago",
+      "article_url": "https://www.cbsnews.com/newyork/news/old-westbury-police-department-sudden-cardiac-arrest-save/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Latest Videos N.Y. budget proposal could roll back biomarker testing coverage, advocates say Three years ago, New York state took a huge step forward expanding access to biomarker testing, which is said to be a game changer in cancer care. Now, however, advocates fear the state could be taking a step back for those with Medicaid. CBS News New York's Jenna DeAngelis reports. 16M ago 02:02",
+      "article_url": "https://www.cbsnews.com/newyork/video/n-y-budget-proposal-could-roll-back-biomarker-testing-coverage-advocates-say/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Bomb Squad, FBI called to investigate boom at Yonkers park The Bomb Squad and FBI were called to investigate a mysterious loud boom coming from a park in Yonkers on Monday night. 23M ago 00:20",
+      "article_url": "https://www.cbsnews.com/newyork/video/bomb-squad-fbi-called-to-investigate-boom-at-yonkers-park/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "2 suspects indicted in fatal shooting of 7-month-old girl in Brooklyn The two suspects accused in the fatal shooting of a 7-month-old girl in Brooklyn were indicted Tuesday on multiple charges, including murder. CBS News New York's Lisa Rozner reports. 26M ago 02:02",
+      "article_url": "https://www.cbsnews.com/newyork/video/2-suspects-indicted-in-fatal-shooting-of-7-month-old-girl-in-brooklyn/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Threats escalate in war with Iran as Trump issues ultimatum | Team coverage Talks in the war with Iran appear to have hit a stalemate as threats escalate. CBS News New York's Allen Devlin and Mahsa Saeidi report. 31M ago 05:22",
+      "article_url": "https://www.cbsnews.com/newyork/video/threats-escalate-in-war-with-iran-as-trump-issues-ultimatum-team-coverage/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "\"Cats: The Jellicle Ball,\" a reimagining of a beloved classic, opens Wednesday night The show is a re-imagining of Andrew Lloyd Webber's \"Cats,\" blending New York City Black and Latin LGBTQ+ ballroom culture. It runs through September at the Broadhurst Theatre. CBS News New York's Cindy Hsu reports. 4H ago 00:25",
+      "article_url": "https://www.cbsnews.com/newyork/video/cats-the-jellicle-ball-a-reimagining-of-a-beloved-classic-opens-wednesday-night/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "First Alert Weather Very chilly weather for tonight across the New York-area It's a cold and breezy night with feels-like temperatures in the 20s, but warm weather will come back for the weekend. CBS News New York Meteorologist Tony Sadiku has the forecast. 5H ago 03:39",
+      "article_url": "https://www.cbsnews.com/newyork/video/very-chilly-weather-for-tonight-across-the-new-york-area/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "First Alert Weather 101: Have a meteorologist visit your classroom! From the science of forecasting to weather safety \u2013 First Alert Weather 101 is an interactive way to get students thinking about STEM. There's also a chance your students might be on TV. May 2, 2022",
+      "article_url": "https://www.cbsnews.com/newyork/news/sign-up-for-a-first-alert-weather-101-class-at-your-school/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Mamdani administration releases 1st NYC racial equity plan, cost of living report Mayor Zohran Mamdani's administration released New York City's first Preliminary Citywide Racial Equity Plan\u200b and True Cost of Living Measure\u200b. 23H ago",
+      "article_url": "https://www.cbsnews.com/newyork/news/nyc-preliminary-citywide-racial-equity-plan-true-cost-of-living-reports/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "NYC schools' class size reduction likely to be pushed back, senator says New York City's attempt to reduce class sizes will likely be pushed back for two years, a state senator told CBS News New York. Apr 5",
+      "article_url": "https://www.cbsnews.com/newyork/news/nyc-public-schools-class-size-reduction-delay/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Mayor Mamdani, Cardi B announce 2-K application date, citywide jingle competition NYC Mayor Zohran Mamdani and rapper Cardi B announced Friday that 2-K applications will open in June. They also unveiled a jingle competition to build excitement for the program. Apr 3",
+      "article_url": "https://www.cbsnews.com/newyork/news/cardi-b-zohran-mamdani-2k-applications-jingle-competition/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "NYC to roll out anti-street harassment ad campaign this week New York City Mayor Zohran Mamdani's office is set to roll out a new ad campaign this week targeting domestic and gender-based violence. Mar 31",
+      "article_url": "https://www.cbsnews.com/newyork/news/new-york-city-street-harassment-ad-campaign/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Blakeman sets up camp at City Hall, criticizes Hochul and Mamdani New York's Republican nominee for governor Bruce Blakeman took his campaign to the steps of City Hall on Monday, where he portrayed Kathy Hochul and Mayor Zohran Mamdani as the taxing twins. Mar 30",
+      "article_url": "https://www.cbsnews.com/newyork/news/new-york-governors-race-bruce-blakeman-kathy-hochul-zohran-mamdani/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Free child care center for city workers being built, Mayor Mamdani announces New York City Mayor Zohran Mamdani announced municipal workers across the city will be able to get free child care at a new center being built. Mar 30",
+      "article_url": "https://www.cbsnews.com/newyork/news/zohran-mamdani-nyc-mayor-child-care/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "NYC Council passes bills allowing buffer zones around schools, houses of worship The New York City Council has passed legislation to allow the NYPD to set up buffer zones around schools and houses of worship. Mar 26",
+      "article_url": "https://www.cbsnews.com/newyork/news/nyc-bills-buffer-zones-schools-houses-of-worship/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "NYC pays the rent for an early education center in the Bronx. It sits empty At least 27 early childhood education centers across the city are vacant, NYC's deputy chancellor of the Division of Early Childhood Education said. Mar 25",
+      "article_url": "https://www.cbsnews.com/newyork/news/bronx-nyc-early-childhood-education-center-sits-empty/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Share your photos and videos",
+      "article_url": "https://app.cimediacloud.com/file-request/K9C2AIBW",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "#BetterTogether",
+      "article_url": "https://www.cbsnews.com/newyork/feature/bettertogether",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Class Act with Chris Wragge",
+      "article_url": "https://www.cbsnews.com/newyork/news/bettertogether-class-act-with-chris-wragge/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "#ClubCalvi Book Club",
+      "article_url": "https://www.cbsnews.com/newyork/book-club/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Submit a tip to the CBS New York Investigative Team A great investigative news tip should explain the situation in detail, be newsworthy, and have real-world consequences. Aug 26, 2024",
+      "article_url": "https://www.cbsnews.com/newyork/news/submit-a-tip-to-the-cbs-new-york-investigative-team/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Deed theft complaints have tripled in N.Y. in recent years, data shows Complaints about deed theft to the New York Attorney General's Office have more than tripled over the last few years. Apr 1",
+      "article_url": "https://www.cbsnews.com/newyork/news/new-york-deed-theft-complaints-rising/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "New York, New Jersey lawmakers announce \"End The Toll Trap\" bill New York and New Jersey lawmakers have announced a bipartisan, bi-state bill to address E-ZPass late fees. Mar 20",
+      "article_url": "https://www.cbsnews.com/newyork/news/end-the-toll-trap-bill-new-york-new-jersey-mta-port-authority/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Bright Horizons giving up permit for Manhattan day care center Child care provider Bright Horizons has agreed to give up its permit for a Manhattan day care center. Mar 19",
+      "article_url": "https://www.cbsnews.com/newyork/news/bright-horizons-giving-up-permit-nyc-day-care-center/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Expert warns \"AI is being weaponized\" as spam calls get more deceptive The technology behind spam calls is getting more sophisticated, an expert with the TrueCaller app says. Mar 19",
+      "article_url": "https://www.cbsnews.com/newyork/news/ai-spam-calls-tax-season/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Why a $14,000 E-ZPass bill landed in a NYC driver's email box A long-time New York City driver says he monitored his E-ZPass account and paid his tolls, but he was still hit with huge late fees. Mar 17",
+      "article_url": "https://www.cbsnews.com/newyork/news/nyc-professional-driver-ezpass-tolls-fees-bill/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "What NYC consumers should know before going solar Here's how New Yorkers can go solar while protecting their pocketbooks. Mar 13",
+      "article_url": "https://www.cbsnews.com/newyork/news/solar-power-what-to-know-nyc/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "2 NYC towing companies accused of overcharging still working with the city Two towing companies were forced to pay back thousands after City Hall said they overcharged New Yorkers last year, so how are they still able to tow cars on behalf of the city? Mar 12",
+      "article_url": "https://www.cbsnews.com/newyork/news/nyc-towing-companies-overcharging/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "New York stock traders sound alarm on spike in pump-and-dump schemes Data shows a massive increase in pump-and-dump schemes over the last year. Two traders from New York say it cost them tens of thousands of dollars. Mar 9",
+      "article_url": "https://www.cbsnews.com/newyork/news/stock-market-day-trading-pump-and-dump-schemes-nasdaq/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "New York professor \"over the moon\" to help NASA's Artemis program Stony Brook University professor Timothy Glotch is one of 10 scientists selected to shape research plans for NASA's next Artemis missions. Apr 3",
+      "article_url": "https://www.cbsnews.com/newyork/news/artemis-nasa-future-moon-missions-timothy-glotch/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "What to know if you're headed to the NY Auto Show The New York International Auto Show is taking over the Javits Center in New York City for 10 days starting Friday. Apr 4",
+      "article_url": "https://www.cbsnews.com/newyork/news/ny-auto-show-2026-javits-center-nyc/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Long Island teen, mom credited with saving neighbor from house fire A Long Island high schooler and his mom are being credited with saving a sleeping neighbor from a house fire. Apr 1",
+      "article_url": "https://www.cbsnews.com/newyork/news/long-island-high-schooler-mom-house-fire-melville/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Chronic pain could lead seniors to misuse opioids, experts warn Older adults in New Jersey recorded the highest number of suspected overdose deaths in 2025, according to the New Jersey Department of Health\u200b. Mar 16",
+      "article_url": "https://www.cbsnews.com/newyork/news/opioid-deaths-in-seniors/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Deadly opioid overdoes rate climbs among seniors as more get prescriptions for chronic pain Overdose deaths involving people 65 and older have increased by 400% during the last two decades, with a third of seniors misusing opioids prescribed to them for pain, according to the U.S. Centers for Disease Control and Prevention. CBS News New York's Jennifer Bisram reports. Mar 16 04:14",
+      "article_url": "https://www.cbsnews.com/newyork/video/deadly-opioid-overdoes-rate-climbs-among-seniors-as-more-get-prescriptions-for-chronic-pain/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Increasing elder fraud a \"huge concern,\" FBI and NYC officials say The FBI says older Americans lost $4.8 billion through fraud in 2024, with reports of theft through fraud\u200b jumping 43% in just one year. Mar 2",
+      "article_url": "https://www.cbsnews.com/newyork/news/elder-fraud-concern-fbi-nyc/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "More older people being targeted with fraud schemes, FBI says The FBI says older Americans lost $4.8 billion lost through fraud in 2024, with reports of theft through fraud jumping 43% in just one year. CBS News New York's Jennifer Bisram reports. Mar 2 04:42",
+      "article_url": "https://www.cbsnews.com/newyork/video/more-older-people-being-targeted-with-fraud-schemes-fbi-says/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "New Yorkers unretiring due to financial outlook, AARP says As the cost of living rises and some investments turn shaky, the financial outlook is forcing some New Yorkers to come out of retirement. Feb 13",
+      "article_url": "https://www.cbsnews.com/newyork/news/new-yorkers-unretiring-financial-outlook/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "CBS New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Club Calvi has three novels for your reading list Club Calvi says consider \"The Hospital at the End of the World\" by Justin C. Key, \"The Found Object Society\" by Michelle Maryk, and \"The Society\" by Karen Winn for your \"to read\" list. Apr 2",
+      "article_url": "https://www.cbsnews.com/newyork/news/club-calvi-to-read-list-april-2026/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Gothamist",
+      "source_level": "local",
+      "source_priority": 0.85,
+      "article_title": "Delivery workers can safely charge e-bikes, get some rest at NYC's new Deliverista Hub",
+      "article_url": "https://gothamist.com/news/delivery-workers-can-safely-charge-e-bikes-get-some-rest-at-nycs-new-deliverista-hub",
+      "published_at": "2026-04-07T20:43:00+00:00",
+      "source_type": "rss",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Gothamist",
+      "source_level": "local",
+      "source_priority": 0.85,
+      "article_title": "For the best view at the US Open, join the ball crew",
+      "article_url": "https://gothamist.com/arts-entertainment/for-the-best-view-at-the-us-open-join-the-ball-crew",
+      "published_at": "2026-04-07T18:09:47+00:00",
+      "source_type": "rss",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Gothamist",
+      "source_level": "local",
+      "source_priority": 0.85,
+      "article_title": "Mayor Mamdani signals openness to NYPD gang database, citing reforms",
+      "article_url": "https://gothamist.com/news/mayor-mamdani-signals-openness-to-nypd-gang-database-citing-reforms",
+      "published_at": "2026-04-07T21:24:00+00:00",
+      "source_type": "rss",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Gothamist",
+      "source_level": "local",
+      "source_priority": 0.85,
+      "article_title": "Mayor Mamdani opens new Bellevue Hospital unit for Rikers detainees",
+      "article_url": "https://gothamist.com/news/mayor-mamdani-opens-new-bellevue-hospital-unit-for-rikers-detainees",
+      "published_at": "2026-04-07T17:37:05+00:00",
+      "source_type": "rss",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Gothamist",
+      "source_level": "local",
+      "source_priority": 0.85,
+      "article_title": "NYC's ICE office is arresting more immigrants, but deporting fewer",
+      "article_url": "https://gothamist.com/news/nycs-ice-office-is-arresting-more-immigrants-but-deporting-fewer",
+      "published_at": "2026-04-07T17:01:05+00:00",
+      "source_type": "rss",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Gothamist",
+      "source_level": "local",
+      "source_priority": 0.85,
+      "article_title": "This film festival takes you from Hoyt-Schermerhorn to Hollywood",
+      "article_url": "https://gothamist.com/arts-entertainment/this-film-festival-takes-you-from-hoyt-schermerhorn-to-hollywood",
+      "published_at": "2026-04-07T16:01:10+00:00",
+      "source_type": "rss",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Gothamist",
+      "source_level": "local",
+      "source_priority": 0.85,
+      "article_title": "Bronx officials try to rein in social media 'takeovers' after winter events turn chaotic",
+      "article_url": "https://gothamist.com/news/bronx-officials-try-to-rein-in-social-media-takeovers-after-winter-events-turn-chaotic",
+      "published_at": "2026-04-07T17:59:00+00:00",
+      "source_type": "rss",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Gothamist",
+      "source_level": "local",
+      "source_priority": 0.85,
+      "article_title": "Mamdani names new 'mom-and-pop czar' meant to ease path for small business owners",
+      "article_url": "https://gothamist.com/news/mamdani-names-new-mom-and-pop-czar-meant-to-ease-path-for-small-businesses-owners",
+      "published_at": "2026-04-07T15:01:00+00:00",
+      "source_type": "rss",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Gothamist",
+      "source_level": "local",
+      "source_priority": 0.85,
+      "article_title": "An \u2018outrageous\u2019 number of NJ Democrats flood primaries as party eyes midterm gains",
+      "article_url": "https://gothamist.com/news/an-outrageous-number-of-nj-democrats-flood-primaries-as-party-eyes-midterm-gains",
+      "published_at": "2026-04-07T13:42:38+00:00",
+      "source_type": "rss",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Gothamist",
+      "source_level": "local",
+      "source_priority": 0.85,
+      "article_title": "Council bill seeks to curb social media time to an hour for NYC kids",
+      "article_url": "https://gothamist.com/news/council-bill-seeks-to-curb-social-media-time-to-an-hour-for-nyc-kids",
+      "published_at": "2026-04-07T10:30:53+00:00",
+      "source_type": "rss",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Gothamist",
+      "source_level": "local",
+      "source_priority": 0.85,
+      "article_title": "Harlem residents still ailing, still seeking accountability for Legionnaires' outbreak",
+      "article_url": "https://gothamist.com/news/harlem-residents-still-ailing-still-seeking-accountability-for-legionnaires-outbreak",
+      "published_at": "2026-04-07T13:46:00+00:00",
+      "source_type": "rss",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Gothamist",
+      "source_level": "local",
+      "source_priority": 0.85,
+      "article_title": "NYC health department has questions about the floating pool set for the East River",
+      "article_url": "https://gothamist.com/news/nyc-health-department-has-questions-about-the-floating-pool-set-for-the-east-river",
+      "published_at": "2026-04-06T22:07:00+00:00",
+      "source_type": "rss",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Crain's New York Business",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Skip to main content",
+      "article_url": "https://www.crainsnewyork.com/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Crain's New York Business",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Politics & Policy",
+      "article_url": "https://www.crainsnewyork.com/politics-policy",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Crain's New York Business",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "How a car insurance battle took over New York\u2019s budget talks",
+      "article_url": "https://www.crainsnewyork.com/politics-policy/cny-car-insurance-debate-albany-20260407/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Crain's New York Business",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Health Care",
+      "article_url": "https://www.crainsnewyork.com/health-care",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Crain's New York Business",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Long-delayed medical unit for Rikers detainees opens at Bellevue",
+      "article_url": "https://www.crainsnewyork.com/health-care/cny-outpatient-therapeutic-rikers-bellevue-20260407/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Crain's New York Business",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Mamdani taps Rebecca Jones Gaston to lead Administration of Children\u2019s Services",
+      "article_url": "https://www.crainsnewyork.com/health-care/cny-acs-commissioner-rebecca-jones-gaston-20260407/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Crain's New York Business",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Commercial Real Estate",
+      "article_url": "https://www.crainsnewyork.com/real-estate/commercial",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Crain's New York Business",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Grimm brewery to expand to Prospect Heights, taking over old Olmsted space",
+      "article_url": "https://www.crainsnewyork.com/real-estate/commercial/cny-grimm-expanding-prospect-heights-20260407/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Crain's New York Business",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "View All",
+      "article_url": "https://www.crainsnewyork.com/real-estate",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Crain's New York Business",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Landmark site of Scribner\u2019s store books $54M deal",
+      "article_url": "https://www.crainsnewyork.com/real-estate/commercial/cny-scribners-aurora-597-fifth-20260407/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Crain's New York Business",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Bushwick luxury apartment building trades hands for $13.1 million",
+      "article_url": "https://www.crainsnewyork.com/real-estate/commercial/cny-brooklyn-apartment-building-parkview-properties-20260407/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Crain's New York Business",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Parking garage redeveloper lists West Village home",
+      "article_url": "https://www.crainsnewyork.com/real-estate/residential/cny-steven-brauser-lists-west-village-condo-20260407/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Crain's New York Business",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Tishman Speyer steps toward regaining control of Chrysler Building",
+      "article_url": "https://www.crainsnewyork.com/real-estate/commercial/cny-tishman-speyer-chrysler-building-20260407/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Crain's New York Business",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Manhattan movie theater site across from Bloomingdale\u2019s flagship hits market for $50M",
+      "article_url": "https://www.crainsnewyork.com/real-estate/commercial/cny-manhattan-movie-theater-hits-market-20260407/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Crain's New York Business",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Meet five Notable Leaders in Health Care for 2026",
+      "article_url": "https://www.crainsnewyork.com/health-care/cny-notable-leaders-health-care-roundup-20260407/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Crain's New York Business",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Mamdani hires another small business czar to focus on mom-and-pops",
+      "article_url": "https://www.crainsnewyork.com/politics-policy/cny-mamdani-mom-and-pop-czar-20260407/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Crain's New York Business",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "New York City\u2019s Small Business Forward program failed to help small businesses, review finds",
+      "article_url": "https://www.crainsnewyork.com/politics-policy/cny-small-business-forward-review-comptroller-20260406/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Crain's New York Business",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Subscribe",
+      "article_url": "https://www.crainsnewyork.com/subscribe/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Crain's New York Business",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Download the App",
+      "article_url": "https://www.crainsnewyork.com/crains-newyork-app",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Crain's New York Business",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Contact Us",
+      "article_url": "https://help.crainsnewyork.com/hc/en-us",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Crain's New York Business",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Advertising",
+      "article_url": "https://www.crainsnewyork.com/advertise/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Crain's New York Business",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Reprints & Licensing",
+      "article_url": "https://www.crainsnewyork.com/reprints/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Crain's New York Business",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Nominations",
+      "article_url": "https://www.crainsnewyork.com/nominate/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Crain's New York Business",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Job Board",
+      "article_url": "https://jobs.crainsnewyork.com/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Crain's New York Business",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Ad Choices",
+      "article_url": "https://preferences-mgr.truste.com/?pid=crain01&aid=crain01&type=crain&site=crain.com&action=notice&country=us&locale=en&behavior=implied&privacypolicylink=http%253A%252F%252Fwww.crainsnewyork.com%252Fcustom-media%252Fprivacy-policy&from=http://consent.trustarc.com/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Crain's New York Business",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Privacy Policy",
+      "article_url": "https://www.crainsnewyork.com/privacy-policy/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Crain's New York Business",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Privacy Request",
+      "article_url": "https://www.crainsnewyork.com/privacy-policy",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Crain's New York Business",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Terms of Use",
+      "article_url": "https://www.crainsnewyork.com/terms-of-use/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Newsday",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "National doughnut chain closes LI location",
+      "article_url": "https://www.newsday.com/lifestyle/restaurants/duck-donuts-selden-l043y339",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Newsday",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "New American bistro to open on LI 1m read",
+      "article_url": "https://www.newsday.com/lifestyle/restaurants/griffin-kitchen-and-bar-roslyn-l180niug",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Newsday",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Luxe meat wholesaler opens LI retail store 2m read",
+      "article_url": "https://www.newsday.com/lifestyle/restaurants/pfd-prime-food-distributors-port-washington-qodfloue",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Newsday",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Only in Newsday Top LI pizzeria adding 2nd location 1m read",
+      "article_url": "https://www.newsday.com/lifestyle/restaurants/darios-pizza-massapequa-park-nkf4i0bm",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "amNewYork",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "ICE in NYC : Immigration updates",
+      "article_url": "https://www.amny.com/immigration/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "amNewYork",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "MAMDANI\u2019S FIRST 100 DAYS : Coverage of the new mayor",
+      "article_url": "https://www.amny.com/politics/mamdani100days/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Our Town",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "The Bridle Path entrance at East 90th Street and 5th Avenue (Engineers\u00e2\u0080\u0099 Gate) has a canopy of cherry blossoms. ( Photo: Heather Stein )",
+      "article_url": "https://www.ourtownny.com/news/beneath-a-canopy-of-petals-spring-s-most-elegant-moment-arrives-YF5733313",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Our Town",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "News",
+      "article_url": "https://www.ourtownny.com/news",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Our Town",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Home",
+      "article_url": "https://www.ourtownny.com/home",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Our Town",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Crime Watch",
+      "article_url": "https://www.ourtownny.com/news/crime-watch",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Our Town",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Central Park attempted rape suspect as seen and sketched in summer 2024. ( Photos: NYPD )",
+      "article_url": "https://www.ourtownny.com/news/crime-watch/central-park-attempted-rape-verdict-guilty-on-all-counts-JD5731487",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Our Town",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Mayor Mamdani at Pier 17 announcing Brooklyn Bridge access improvements to eliminate the bottleneck on the Manhattan side of the Brooklyn Bridge on, March 27. ( Photo: Ed Reed/Mayoral Photography Office. )",
+      "article_url": "https://www.ourtownny.com/news/brooklyn-bridge-access-to-get-world-cup-glow-up-mamdani-KC5730419",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Our Town",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "The soaring price of chocolate has caused consumers to seek other options for Easter which, contrary to popular belief, brings in more chocolate sales than Valentine\u00e2\u0080\u0099s Day. ( Photo: Genevieve Hartnett )",
+      "article_url": "https://www.ourtownny.com/news/easter-chocolate-prices-hop-to-new-heights-EC5730042",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Our Town",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "For the 102nd year, the Good Friday concert of John Stainer\u00e2\u0080\u0099s \u00e2\u0080\u009cThe Crucifixion\u00e2\u0080\u009d was performed at Brick Presbyterian Church. This year\u00e2\u0080\u0099s soloists, Sean Fallen and Nathaniel Sullivan, were joined by organist Alistair Reid. Minister of Music, Dr. Raymond Nagem, conducted. ( Photo: Meagan Hooper )",
+      "article_url": "https://www.ourtownny.com/news/brick-church-celebrates-good-friday-with-music-crucifixion-GK5729888",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Our Town",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Mayor Mamdani, seen here on Inauguration Day, is trying to get a deferment on mandated class size reduction as he wrestles with a massive budge deficit. ( Photo: Mayor\u00e2\u0080\u0099s Photography Office )",
+      "article_url": "https://www.ourtownny.com/news/mamdani-campaigned-on-fulfilling-nyc-s-class-size-mandate-KK5729815",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Our Town",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Dr. Greg Carnevale offers guidance on how to support nutritional health and wellness, and notes it is not a one size fits all formula. ( Photo: United Healthcare )",
+      "article_url": "https://www.ourtownny.com/features/healthy-manhattan/tips-for-families-to-support-nutritional-health-wellness-MD5720086",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Our Town",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Yakov Keiserman wants the City Council to pass a bill to guarantee food delivery is available to older adults seven days a week, 365 days a year. ( Photo: Encore Community Serivces )",
+      "article_url": "https://www.ourtownny.com/voices/city-council-must-pass-bill-to-ensure-home-delivered-meals-for-older-adults-KA5727804",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Our Town",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "An Asten House resident is thankful for the hard work that postal deliverer she knows as Mr. Patel performed for nearly 20 years. ( Photo: Courtesy Asten House )",
+      "article_url": "https://www.ourtownny.com/voices/letters-to-the-editor-040926-AA5727882",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Our Town",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Amtrak set a May 4 deadline for the three contenders who are vying to be the master developer of Penn Station to submit their bids. The winner will be revealed in June. ( Photo: Keith J. Kelly )",
+      "article_url": "https://www.ourtownny.com/news/anxiety-rises-as-deadline-looms-to-pick-penn-master-planner-ME5723691",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "THE CITY",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "jails and prisons",
+      "article_url": "https://www.thecity.nyc/category/jails-and-prisons/",
+      "published_at": "2026-04-06T22:04:38+00:00",
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "THE CITY",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Hochul Announces Revamp of Clinton Hill Building Vacant for Almost 50 Years",
+      "article_url": "https://www.thecity.nyc/2026/02/13/hochul-1024-fulton-clinton-hill-housing/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "THE CITY",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Ex-NYPD Official Indicted for Accepting Bribes From Tech Exec in Scheme First Reported by THE CITY",
+      "article_url": "https://www.thecity.nyc/2026/02/12/kevin-taylor-phil-david-terence-banks-saferwatch-indictment/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "THE CITY",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Mamdani to Rescind New Rule That Would Have Restricted Shelter Access",
+      "article_url": "https://www.thecity.nyc/2026/02/10/mamdani-shelter-rule-change-safe-haven/",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Patch Upper East Side",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "UES Subway Station Rolls Out Accessibility Upgrades",
+      "article_url": "https://patch.com/new-york/upper-east-side-nyc/ues-subway-station-unveils-accessibility-upgrades",
+      "published_at": "2026-04-07T16:08:20+00:00",
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Patch Upper East Side",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "FREE! Art Center Workshop Fest",
+      "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260407/37fd3e7b-3002-44d0-add6-dc9c2f1274b2/free-art-center-workshop-fest",
+      "published_at": "2026-04-07T08:00:00+00:00",
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Patch Upper East Side",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Artexpo New York",
+      "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260410/ebcded6c-960d-444a-b276-f0d37ede3800/artexpo-new-york",
+      "published_at": "2026-04-10T15:00:00+00:00",
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Patch Upper East Side",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Invitation to Sunday School",
+      "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260412/e79fc959-1b5d-495a-b3f3-b94979445585/invitation-to-sunday-school",
+      "published_at": "2026-04-12T13:00:00+00:00",
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Patch Upper East Side",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Kindergarten Virtual Fair 2026",
+      "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260413/da47dd5d-91c2-4b88-b261-2d69200a0c82/kindergarten-virtual-fair-2026",
+      "published_at": "2026-04-13T13:00:00+00:00",
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Patch Upper East Side",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Mystical Voices: works by Zolt\u00e1n Kod\u00e1ly, Florence Price & P\u0113teris Vasks",
+      "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260419/6bba6d3a-bb83-48c7-a759-5d57fccd36bb/mystical-voices-works-by-zoltn-kodly-florence-price-pteris-vasks",
+      "published_at": "2026-04-19T19:00:00+00:00",
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Patch Upper East Side",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "KIPP NYC Manhattan Community Resource Fair",
+      "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260425/7b75ba7c-eabe-4a03-8ce8-a0dd2b896bae/kipp-nyc-manhattan-community-resource-fair",
+      "published_at": "2026-04-25T16:00:00+00:00",
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Patch Upper East Side",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "The 92nd Street Y, New York",
+      "article_url": "https://patch.com/new-york/upper-east-side-nyc/business/listing/573266/the-92nd-street-y-new-york",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Patch Upper East Side",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "The Mark Slade Homes Team, Keller Williams Mid-Town Direct Realty",
+      "article_url": "https://patch.com/new-york/upper-east-side-nyc/business/listing/563520/the-mark-slade-homes-team-keller-williams-mid-town-direct-realty",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Patch Upper East Side",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Rodeph Sholom School",
+      "article_url": "https://patch.com/new-york/upper-east-side-nyc/business/listing/556983/rodeph-sholom-school",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Patch Upper East Side",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Drug Mart",
+      "article_url": "https://patch.com/new-york/upper-east-side-nyc/business/listing/528496/drug-mart",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Patch Upper East Side",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Isabella's Housekeeping LLC",
+      "article_url": "https://patch.com/new-york/upper-east-side-nyc/business/listing/459071/isabellas-housekeeping-llc",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Patch Upper East Side",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Self Empowered Minds",
+      "article_url": "https://patch.com/new-york/upper-east-side-nyc/business/listing/431083/self-empowered-minds",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Patch Upper East Side",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Lazare Biomimetic Dentistry And Smile Design",
+      "article_url": "https://patch.com/new-york/upper-east-side-nyc/business/listing/413826/lazare-biomimetic-dentistry-and-smile-design",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Patch Upper East Side",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Luxury Dentistry NYC",
+      "article_url": "https://patch.com/new-york/upper-east-side-nyc/business/listing/404069/luxury-dentistry-nyc",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Patch Upper East Side",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Blacker & Reed",
+      "article_url": "https://patch.com/new-york/upper-east-side-nyc/business/listing/350017/blacker-reed",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "Patch Upper East Side",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Upper East Side Cardiology",
+      "article_url": "https://patch.com/new-york/upper-east-side-nyc/business/listing/243341/upper-east-side-cardiology",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "All Boroughs",
+      "article_url": "https://spectrumlocalnews.com/splash.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Watch Live",
+      "article_url": "https://ny1.com/nyc/all-boroughs/live-video/watch_spectrum_news_live.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Recent Activity",
+      "article_url": "https://ny1.com/nyc/all-boroughs/recent-activity",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Log Out",
+      "article_url": "https://ny1.com/nyc/all-boroughs",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Log In",
+      "article_url": "https://ny1.com/nyc/all-boroughs/live-video/login",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Headlines",
+      "article_url": "https://ny1.com/nyc/all-boroughs/news",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Public Safety",
+      "article_url": "https://ny1.com/nyc/all-boroughs/news/public-safety",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Education",
+      "article_url": "https://ny1.com/nyc/all-boroughs/news/education",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Health",
+      "article_url": "https://ny1.com/nyc/all-boroughs/news/health-and-medicine",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "In The Papers",
+      "article_url": "https://ny1.com/nyc/all-boroughs/shows/in-the-papers",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Mornings On 1",
+      "article_url": "https://ny1.com/nyc/all-boroughs/shows/mornings-on-1",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "News All Day",
+      "article_url": "https://ny1.com/nyc/all-boroughs/shows/news-all-day",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "The Rush Hour",
+      "article_url": "https://ny1.com/nyc/all-boroughs/shows/the-rush-hour",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "NY1 Live at Ten",
+      "article_url": "https://ny1.com/nyc/all-boroughs/shows/live-at-ten",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Weekends On NY1",
+      "article_url": "https://ny1.com/nyc/all-boroughs/news/weekends-on-ny1",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "In Focus with Cheryl Wills",
+      "article_url": "https://ny1.com/section/in-focus/regions/nyc",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "In the Neighborhood: Parkchester",
+      "article_url": "https://ny1.com/nyc/all-boroughs/news/special-reports/in-the-neighborhood-parkchester",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Exploring Your Health",
+      "article_url": "https://ny1.com/nyc/all-boroughs/news/health-and-medicine/exploring-your-health",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Your Mental Health",
+      "article_url": "https://ny1.com/section/your-mental-health",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "In the Neighborhood",
+      "article_url": "https://ny1.com/nyc/all-boroughs/news/special-reports/in-the-neighborhood",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "In The Dark: New York's Child Welfare Deaths",
+      "article_url": "https://ny1.com/nyc/all-boroughs/news/special-reports/in-the-dark-new-yorks-child-welfare-deaths",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "NYC Weather",
+      "article_url": "https://ny1.com/nyc/all-boroughs/weather",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "7 Day Forecast",
+      "article_url": "https://ny1.com/nyc/all-boroughs/weather/7-day-forecast",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Interactive Radar",
+      "article_url": "https://ny1.com/nyc/all-boroughs/weather/interactive-radar",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Watches and Warnings",
+      "article_url": "https://ny1.com/nyc/all-boroughs/weather/watches-warnings",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Weather Blog",
+      "article_url": "https://ny1.com/nyc/all-boroughs/weather/weather-blogs",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Transit News",
+      "article_url": "https://ny1.com/nyc/all-boroughs/news/transit",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Interactive Traffic Map",
+      "article_url": "https://ny1.com/nyc/all-boroughs/weather/traffic-map",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "New York Politics",
+      "article_url": "https://ny1.com/nyc/all-boroughs/politics",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Inside City Hall",
+      "article_url": "https://ny1.com/nyc/all-boroughs/politics/inside-city-hall",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "The Big Deal with Errol Louis",
+      "article_url": "https://ny1.com/section/the-big-deal",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "NY1 Political Buzz",
+      "article_url": "https://ny1.com/nyc/all-boroughs/politics/ny1-political-buzz",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Washington DC Bureau",
+      "article_url": "https://ny1.com/nyc/all-boroughs/politics/Washington-DC-bureau",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "NY State of Politics Blog",
+      "article_url": "http://www.nystateofpolitics.com",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Arts",
+      "article_url": "https://ny1.com/nyc/all-boroughs/lifestyles/arts",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Style",
+      "article_url": "https://ny1.com/nyc/all-boroughs/lifestyles/fashion",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "On Stage",
+      "article_url": "https://ny1.com/nyc/all-boroughs/shows/on-stage",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Mornings On 1 Authors Week",
+      "article_url": "https://ny1.com/nyc/all-boroughs/lifestyles/authors-week",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Manhattan",
+      "article_url": "https://ny1.com/nyc/manhattan",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Brooklyn",
+      "article_url": "https://ny1.com/nyc/brooklyn",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "The Bronx",
+      "article_url": "https://ny1.com/nyc/bronx",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Queens",
+      "article_url": "https://ny1.com/nyc/queens",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Staten Island",
+      "article_url": "https://ny1.com/nyc/staten-island",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Human Interest",
+      "article_url": "https://ny1.com/nyc/all-boroughs/news/human-interest",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Community Calendar",
+      "article_url": "https://ny1.com/nyc/all-boroughs/calendar",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "New Yorker of the Week",
+      "article_url": "https://ny1.com/nyc/all-boroughs/news/new-yorker-of-the-week",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Scholar Athlete",
+      "article_url": "https://ny1.com/nyc/all-boroughs/news/scholar-athlete",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "All Podcasts",
+      "article_url": "https://www.ny1.com/nyc/all-boroughs/ny1-podcasts?cq_ck=1627933807404",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Morning People",
+      "article_url": "https://ny1.com/nyc/all-boroughs/shows/morning-people",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "NY1",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Off Topic/On Politics",
+      "article_url": "https://www.ny1.com/nyc/all-boroughs/politics/off-topic-on-politics",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Complete forecast",
+      "article_url": "https://weather.com/weather/today/l/11516?cm_pla=city_page&cm_ite=cc&site=city_page&cm_ven=LWO&cm_cat=",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "NYC Mayor's Race",
+      "article_url": "https://www.thejewishstar.com/category/nycmayor/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "LI News",
+      "article_url": "https://www.thejewishstar.com/category/linews/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "NYC News",
+      "article_url": "https://www.thejewishstar.com/category/nycnews/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Riverdale/Westchester News",
+      "article_url": "https://www.thejewishstar.com/category/riverdale/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Gaza War",
+      "article_url": "https://www.thejewishstar.com/category/gazawar/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Antisemitism",
+      "article_url": "https://www.thejewishstar.com/category/bds/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Jewish America",
+      "article_url": "https://www.thejewishstar.com/jewishamerica.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Food",
+      "article_url": "https://www.thejewishstar.com/category/food/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Kosher Kitchen",
+      "article_url": "https://www.thejewishstar.com/category/kosherkitchen/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Kosher Dining",
+      "article_url": "https://www.thejewishstar.com/category/burnside/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Ethel Hofman",
+      "article_url": "https://www.thejewishstar.com/category/hofman/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Who's in the Kitchen",
+      "article_url": "https://www.thejewishstar.com/category/whosinthekitchen/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Health",
+      "article_url": "https://www.thejewishstar.com/category/health/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Organizations",
+      "article_url": "https://www.thejewishstar.com/category/organizations/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Achiezer",
+      "article_url": "https://www.thejewishstar.com/category/achiezer/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Agudath Israel",
+      "article_url": "https://www.thejewishstar.com/category/agudath/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "AIPAC",
+      "article_url": "https://www.thejewishstar.com/category/aipac/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Birthright",
+      "article_url": "https://www.thejewishstar.com/category/birthright/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Chai Lifeline",
+      "article_url": "https://www.thejewishstar.com/category/chai/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "FIDF",
+      "article_url": "https://www.thejewishstar.com/category/fidf/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Hadassah",
+      "article_url": "https://www.thejewishstar.com/category/hadassah/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Hatzalah",
+      "article_url": "https://www.thejewishstar.com/category/hatzalah/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Hindi's Libraries",
+      "article_url": "https://www.thejewishstar.com/category/hindi/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "JCC",
+      "article_url": "https://www.thejewishstar.com/category/jcc/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "JCCRP",
+      "article_url": "https://www.thejewishstar.com/category/jccrp/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "JNF",
+      "article_url": "https://www.thejewishstar.com/category/jnf/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Nefesh BNefesh",
+      "article_url": "https://www.thejewishstar.com/category/nbn/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Ohel",
+      "article_url": "https://www.thejewishstar.com/category/ohel/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "OU",
+      "article_url": "https://www.thejewishstar.com/category/ou/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "RCA",
+      "article_url": "https://www.thejewishstar.com/category/rca/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "UJA",
+      "article_url": "https://www.thejewishstar.com/category/uja/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "ZOA",
+      "article_url": "https://www.thejewishstar.com/category/zoa/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Shuls",
+      "article_url": "https://www.thejewishstar.com/category/shuls/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Schools",
+      "article_url": "https://www.thejewishstar.com/category/education/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Brandeis",
+      "article_url": "https://www.thejewishstar.com/category/brandeis/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Cahal",
+      "article_url": "https://www.thejewishstar.com/category/cahal/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Darchei",
+      "article_url": "https://www.thejewishstar.com/category/darchei/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "DRS (Halb)",
+      "article_url": "https://www.thejewishstar.com/category/drs/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "HAFTR",
+      "article_url": "https://www.thejewishstar.com/category/haftr/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "HANC",
+      "article_url": "https://www.thejewishstar.com/category/hanc/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "HALB",
+      "article_url": "https://www.thejewishstar.com/category/halb/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Kulanu",
+      "article_url": "https://www.thejewishstar.com/category/kulanu/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Mercaz Academy",
+      "article_url": "https://www.thejewishstar.com/category/mercaz/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "MDS",
+      "article_url": "https://www.thejewishstar.com/category/mds/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "NSHA",
+      "article_url": "https://www.thejewishstar.com/category/nsha/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Rambam",
+      "article_url": "https://www.thejewishstar.com/category/rambam/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "SAR",
+      "article_url": "https://www.thejewishstar.com/category/sar/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Shalhevet",
+      "article_url": "https://www.thejewishstar.com/category/shalhevet/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "The Jewish Star",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Shulamith",
+      "article_url": "https://www.thejewishstar.com/category/shulamith/browse.html",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "FOX 5 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Debate grows over $900M Cross Bronx Expressway project",
+      "article_url": "https://www.fox5ny.com/news/bronx-residents-cross-bronx-expressway-redesign-plan",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "FOX 5 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Iran war latest: Trump warns, a 'whole civilization will die tonight' as 8 p.m. deadline looms",
+      "article_url": "https://www.fox5ny.com/news/iran-war-latest-april-7",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "FOX 5 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "NYC weather: Cold front brings winter-like chill back after signs of spring warmth",
+      "article_url": "https://www.fox5ny.com/news/northeast-cold-front-freeze-forecast-nyc-nj-april",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "FOX 5 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Passenger gives birth midair on flight from Jamaica to New York City",
+      "article_url": "https://www.fox5ny.com/news/passenger-gives-birth-midair-flight-to-new-york-city",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "FOX 5 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Nancy Guthrie disappearance: Day 66 latest updates",
+      "article_url": "https://www.fox5ny.com/news/nancy-guthrie-disappearance-day-66-latest-updates",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "FOX 5 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Artemis II live tracker, day 7: Astronauts returning to Earth after historic lunar flyby",
+      "article_url": "https://www.fox5ny.com/news/artemis-ii-live-tracker-day-7",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "FOX 5 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "'Magic number' to retire comfortably in US nears $1.5 million: report",
+      "article_url": "https://www.fox5ny.com/news/magic-number-retire-comfortably-us-nears-1-5-million-2026-report",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "FOX 5 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "List of best places to see cherry blossoms in Central Park",
+      "article_url": "https://www.fox5ny.com/news/list-cherry-blossoms-central-park",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "FOX 5 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Baby among 3 dead in holiday horror as Easter egg hunt turns deadly",
+      "article_url": "https://www.fox5ny.com/news/baby-among-3-dead-holiday-horror-easter-egg-hunt-turns-deadly",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "FOX 5 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "TMZ: Former Migos rapper Offset shot outside Florida casino",
+      "article_url": "https://www.fox5ny.com/news/tmz-former-migos-rapper-offset-shot-outside-florida-casino",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "FOX 5 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "video",
+      "article_url": "https://www.fox5ny.com/video/fmc-ug3cl2hrqi7gr68v",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "FOX 5 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "video",
+      "article_url": "https://www.fox5ny.com/video/fmc-2nm9ycz8d2po5ri6",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "FOX 5 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "video",
+      "article_url": "https://www.fox5ny.com/video/fmc-ul3xb6tqvui9bilg",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "FOX 5 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "video",
+      "article_url": "https://www.fox5ny.com/video/fmc-04znqpkuqrbdvx2q",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "FOX 5 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "video",
+      "article_url": "https://www.fox5ny.com/video/fmc-bapp75tk5olxlejb",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "FOX 5 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "FOX 5 TV Schedule",
+      "article_url": "https://www.fox5ny.com/whatsonfox",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "FOX 5 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Parking attendant speaks out following Hell\u2019s Kitchen attempted luxury car heist",
+      "article_url": "https://www.fox5ny.com/news/parking-attendant-speaks-out-following-hells-kitchen-attempted-luxury-car-heist",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "FOX 5 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "What day will it feel most like spring in the NYC area?",
+      "article_url": "https://www.fox5ny.com/weather/what-day-will-feel-most-like-spring-nyc-area",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "FOX 5 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Thieves target luxury cars in Hell's Kitchen garage, 1 crashes nearby",
+      "article_url": "https://www.fox5ny.com/news/thieves-target-luxury-cars-hells-kitchen-garage-1-crashes-nearby",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "FOX 5 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "The Republican trying to fill Sherrill's vacant Congress seat: Meet Joe Hathaway",
+      "article_url": "https://www.fox5ny.com/election/joe-hathaway-nj-special-election-mikie-sherrill-congress",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "FOX 5 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Tiny bear cub rescued by troopers along NJ interstate",
+      "article_url": "https://www.fox5ny.com/news/tiny-bear-cub-rescued-troopers-along-nj-interstate",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "FOX 5 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Human remains found during Easter egg hunt: LBPD",
+      "article_url": "https://www.fox5ny.com/news/human-remains-found-during-easter-egg-hunt-lbpd",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "FOX 5 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "NYC Easter Parade, Bonnet Festival returns to Fifth Avenue",
+      "article_url": "https://www.fox5ny.com/news/nyc-easter-parade-bonnet-festival-returns-fifth-avenue",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "FOX 5 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Vigil held Saturday for 7-month-old Kaori Patterson-Moore killed in Brooklyn shooting",
+      "article_url": "https://www.fox5ny.com/news/vigil-held-saturday-7-month-old-kaori-patterson-moore-killed-brooklyn-shooting",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "FOX 5 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Tanner Horner pleads guilty to killing Athena Strand",
+      "article_url": "https://www.fox5ny.com/news/tanner-horner-trial-live-athena-strand-day-1",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "FOX 5 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Lil Tjay arrested, Offset injured in Florida casino shooting",
+      "article_url": "https://www.fox5ny.com/news/lil-tjay-arrested-after-offset-injured-florida-shooting",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "FOX 5 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Oracle hires new CFO with $950K salary as thousands face layoffs",
+      "article_url": "https://www.fox5ny.com/news/oracle-hires-new-cfo-salary-layoffs",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "FOX 5 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "What to know about the Strait of Hormuz\u2014and why it matters",
+      "article_url": "https://www.fox5ny.com/news/strait-hormuz-important-history",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "FOX 5 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Trump administration proposes cutting 9,400 TSA workers, $1.5 billion from budget",
+      "article_url": "https://www.fox5ny.com/news/trump-administration-proposal-tsa-worker-budget-cuts",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    },
+    {
+      "source_name": "FOX 5 New York",
+      "source_level": "local",
+      "source_priority": 1.0,
+      "article_title": "Kimberly-Clark employee detained on suspicion of arson after massive Ontario warehouse fire",
+      "article_url": "https://www.fox5ny.com/news/ontario-kimberly-clark-warehouse-fire-arson-suspect",
+      "published_at": null,
+      "source_type": "html",
+      "fetched_at": "2026-04-07T21:47:17.756870+00:00"
+    }
+  ]
+}

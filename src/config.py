@@ -481,7 +481,7 @@ BRIEFING_OUTPUT: Final[dict[str, object]] = {
     "max_story_count": _get_int_env("BRIEFING_MAX_STORY_COUNT", 10),
     "intro_template": _get_env(
         "BRIEFING_INTRO_TEMPLATE",
-        "Here is your automated daily news briefing.",
+        "",
     ),
     "outro_template": _get_env(
         "BRIEFING_OUTRO_TEMPLATE",
@@ -513,12 +513,12 @@ DEDUPE: Final[dict[str, object]] = {
 # model IDs, or token limits without changing application code.
 MODELS: Final[dict[str, dict[str, object]]] = {
     "summarization": {
-        "provider": _get_env("SUMMARIZATION_PROVIDER", "huggingface"),
-        "model": _get_env("SUMMARIZATION_MODEL", "Qwen/Qwen2.5-7B-Instruct"),
+        "provider": _get_env("SUMMARIZATION_PROVIDER", "cerebras"),
+        "model": _get_env("SUMMARIZATION_MODEL", "llama3.1-8b"),
         "temperature": float(_get_env("SUMMARIZATION_TEMPERATURE", "0.2")),
         "max_tokens": int(_get_env("SUMMARIZATION_MAX_TOKENS", "1200")),
-        "api_key": _get_env("HF_API_TOKEN"),
-        "base_url": _get_env("HF_BASE_URL", "https://router.huggingface.co/v1"),
+        "api_key": _get_env("SUMMARIZATION_API_KEY") or _get_env("HF_API_TOKEN"),
+        "base_url": _get_env("SUMMARIZATION_BASE_URL") or _get_env("HF_BASE_URL", "https://api.cerebras.ai/v1"),
         "target_summary_words": _get_int_env("TARGET_SUMMARY_WORDS", 120),
         "system_prompt_template": _get_env("SUMMARIZATION_SYSTEM_PROMPT"),
     },

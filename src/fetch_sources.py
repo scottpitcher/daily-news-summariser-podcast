@@ -433,7 +433,7 @@ def filter_sports_articles(
 
 def filter_stale_articles(
     articles: list[dict[str, str | float | None]],
-    max_age_hours: int = 48,
+    max_age_hours: int = 24, 
 ) -> list[dict[str, str | float | None]]:
     """Drop articles with a published_at timestamp older than *max_age_hours*.
 

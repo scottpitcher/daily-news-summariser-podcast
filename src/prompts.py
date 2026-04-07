@@ -84,13 +84,30 @@ ISSUE_TAGGING_USER_PROMPT = dedent(
 
 ARTICLE_SUMMARY_SYSTEM_PROMPT = dedent(
     """
-    You write concise, factual summaries for an Automated Daily News Briefing.
+    You write concise, factual summaries for the office of NYC Council Member
+    Virginia Maloney (District 4, Manhattan).
+
+    Her committee assignments:
+    - Sanitation and Solid Waste Management
+    - Small Business
+    - Finance
+    - Cultural Affairs, Libraries and International Relations
+    - Economic Development (Chair)
+    - Fire and Emergency Management
+    - Higher Education
+    - Housing and Buildings
+    Caucuses: Irish Caucus (Co-Chair), Women's Caucus
 
     Style requirements:
     - Be neutral, precise, and easy to listen to.
     - Avoid hype, speculation, and filler.
     - Prioritize the most consequential facts first.
     - Keep summaries useful for later synthesis into a spoken briefing.
+    - why_it_matters_to_nyc must be specific and concrete — tie the story to
+      NYC policy, legislation, city services, or daily life for New Yorkers,
+      especially where it touches CM Maloney's committee portfolio.
+      Never use generic filler like "affects local coverage priorities."
+      If the story is national/international, explain the local NYC angle.
     - Return structured JSON only.
     """
 ).strip()
@@ -111,7 +128,7 @@ ARTICLE_SUMMARY_USER_PROMPT = dedent(
 
     Return valid JSON with:
     - summary: 2 to 4 sentences
-    - why_it_matters: 1 concise sentence
+    - why_it_matters_to_nyc: 1 specific sentence on how this connects to NYC policy, legislation, city services, or daily life for New Yorkers (never generic)
     - notable_points: array of short strings
     """
 ).strip()
@@ -224,7 +241,7 @@ def format_summary_payload(
     source_name: str,
     source_level: str,
     summary: str,
-    why_it_matters: str,
+    why_it_matters_to_nyc: str,
 ) -> str:
     """Format one summary entry for final-briefing synthesis prompts."""
     return dedent(
@@ -233,7 +250,7 @@ def format_summary_payload(
         source_name: {source_name}
         source_level: {source_level}
         summary: {summary}
-        why_it_matters: {why_it_matters}
+        why_it_matters_to_nyc: {why_it_matters_to_nyc}
         """
     ).strip()
 

@@ -1,0 +1,318 @@
+{
+  "generated_at": "2026-04-07T00:00:00+00:00",
+  "source_file": "/Users/atmikapai/Documents/GitHub/daily-news-summariser-podcast/src/data/processed/ranked/ranked_articles_2026-04-07.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "summary": "President Trump Tuesday threatened to destroy \u201ca whole civilization\u201d if Iran doesn\u2019t cave to his demands ahead of a looming deadline. In an ominous statement, Trump suggested he \u201cprobably will\u201d unleash widespread attacks on Iranian civilian infrastructure unless leadership in Tehran negotiate a deal over U.S. demands for a ceasefire and to reopen the strategic Straits of Hormuz.",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Trump warns \u2018a whole civilization will die\u2019 as Iran deadline looms",
+        "article_url": "https://www.nydailynews.com/2026/04/07/trump-iran-deadline-whole-civilization-will-die/",
+        "published_at": "2026-04-07T15:53:45+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-07T21:51:01.474476+00:00"
+    },
+    {
+      "summary": "TUCSON, Ariz. - Tuesday marks Day 66 in the search for Nancy Guthrie, the 84-year-old mother of NBC \"Today\" show host Savannah Guthrie. Nancy disappeared from her Tucson-area home on Feb.",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Nancy Guthrie disappearance: Day 66 latest updates",
+        "article_url": "https://www.fox5ny.com/news/nancy-guthrie-disappearance-day-66-latest-updates",
+        "published_at": "2026-04-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-07T21:51:01.475042+00:00"
+    },
+    {
+      "summary": "New York is at a critical moment. Tenants were promised bold action, including a rent freeze, and an administration would meet the housing crisis with urgency. Now those promises are colliding with fiscal constraints, coalition politics, and the realities of governing.",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Progressive pledges can\u2019t be abandoned",
+        "article_url": "https://www.nydailynews.com/2026/04/07/progressive-pledges-cant-be-abandoned/",
+        "published_at": "2026-04-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-07T21:51:01.475342+00:00"
+    },
+    {
+      "summary": "Mayor Mamdani on Tuesday tapped Rebecca Jones Gaston as the next commissioner of the Administration for Children\u2019s Services, New York City\u2019s child protective services agency. Jones Gaston is a former President Joe Biden official and frontline caseworker, according to City Hall. In interviews, she has spoken about her own background being a Black child adopted from foster care by a white family in the Midwest.",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Mamdani taps former Biden admin. official to head NYC\u2019s child welfare agency",
+        "article_url": "https://www.nydailynews.com/2026/04/07/mamdani-taps-former-biden-admin-official-to-head-nycs-oft-criticized-child-welfare-agency/",
+        "published_at": "2026-04-07T16:15:07+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-07T21:51:01.475706+00:00"
+    },
+    {
+      "summary": "Brooklyn Bridge Access to Get World Cup Glow Up: Mamdani Expecting a summer soccer tourist surge, Hizzoner announced a plan to make getting on and off the beloved span less perilous for bikes and pedestrians by eliminating the bike and pedestrian bottleneck on the Manhattan side. The World Cup is coming, the World Cup is coming! And whatever one\u00e2s sporting interest in the event might be, culturally and, the city hopes, economically, this will be a huge deal.",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Brooklyn Bridge Access to Get World Cup Glow Up: Mamdani",
+        "article_url": "https://www.ourtownny.com/news/brooklyn-bridge-access-to-get-world-cup-glow-up-mamdani-KC5730419",
+        "published_at": "2026-04-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-07T21:51:01.476323+00:00"
+    },
+    {
+      "summary": "Which glue for glass is best? Gluing glass can be trickier than a lot of other materials, but whether you\u2019re dealing with a broken vase, fish tank or window, there are glues specifically designed for the job. The three main types of glue used on glass are super glues, epoxy and silicone sealants.",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "What is the best glue for glass?",
+        "article_url": "https://www.nydailynews.com/2026/04/06/what-is-the-best-glue-for-glass/",
+        "published_at": "2026-04-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-07T21:51:01.476899+00:00"
+    },
+    {
+      "summary": "Most people have a certain amount they hope to earn before retiring. However, the latest price tag for a comfortable retirement comes with a bit of sticker shock. By the numbers: Americans believe they need $1.46 million to retire comfortably this year, which would provide approximately $4,800 in retirement income per month, according to a study by Northwestern Mutual.",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "'Magic number' to retire comfortably in US nears $1.5 million: report",
+        "article_url": "https://www.fox5ny.com/news/magic-number-retire-comfortably-us-nears-1-5-million-2026-report",
+        "published_at": "2026-04-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-07T21:51:01.477153+00:00"
+    },
+    {
+      "summary": "A Queens man accused of fatally shooting Run-DMC co-founder Jam Master Jay came one step closer to freedom Monday, months after a federal judge overturned his murder conviction in a bombshell decision. Karl Jordan Jr., 42, who\u2019s been locked up since his arrest in 2020, still faces several pending drug distribution and firearm offenses, which were split off from the murder case. But he\u2019s now set to be released on a $1 million bond, secured by 17 of his family members\u2014 after spending more than five years in MDC Brooklyn since his indictment for the rap icon\u2019s cold case 2002 murder, Brooklyn Federal Court Judge LaShann DeArcy Hall ruled Monday.",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Still locked up despite being cleared in Jam Master Jay killing, Karl Jordan Jr. close to freedom",
+        "article_url": "https://www.nydailynews.com/2026/04/06/still-locked-up-despite-being-cleared-in-jam-master-jay-killing-karl-jordan-jr-close-to-freedom/",
+        "published_at": "2026-04-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-07T21:51:01.477548+00:00"
+    },
+    {
+      "summary": "Federal immigration agents based in the New York City field office arrested three times as many people in early 2026 compared to the same time period in 2025, according to new data from the Department of Homeland Security. The data contains nuances and paints a complicated picture of President Donald Trump's effort to target undocumented immigrants. For instance, fewer of the 2026 arrests resulted in deportation.",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC's ICE office is arresting more immigrants, but deporting fewer",
+        "article_url": "https://gothamist.com/news/nycs-ice-office-is-arresting-more-immigrants-but-deporting-fewer",
+        "published_at": "2026-04-07T17:01:05+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-07T21:51:01.477962+00:00"
+    },
+    {
+      "summary": "Kittleson was kidnapped on April 2 in Baghdad, Iraq. American journalist Shelly Kittleson, who was kidnapped in Baghdad, Iraq, on March 31, is to be released by her abductors, according to the Iran-backed group that allegedly took her captive. Abu Mujahid al-Assaf, a security official with Hezbollah Brigades, also known as Kataib Hezbollah, announced that Kittleson will be released on the condition that \"she leaves the country immediately.\" In a post on social media, al-Assaf said, \"This initiative will not be repeated again in the coming days, as we are in a state of war waged by the Zionist-American enemy against Islam, and in such cases many considerations fall away.\" Kittleson, a 49-year-old freelance journalist originally from Wisconsin, was abducted off a street in Baghdad in broad daylight, according to the Iraqi Ministry of Interior.",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Abducted American journalist to be released, Iran-backed group says",
+        "article_url": "https://abc7ny.com/post/abducted-american-journalist-has-been-freed-hezbollah-bregades/18852467/",
+        "published_at": "2026-04-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-07T21:51:01.478166+00:00"
+    },
+    {
+      "summary": "Last summer\u2019s Legionnaires\u2019 disease outbreak in Central Harlem has changed the pace of life for many of the New Yorkers at its epicenter, and some public health experts have expressed concern over why it happened in the first place and how city officials have responded. Patricia Miller lives across the street from Harlem Hospital and a new city-owned public health lab, where officials say harmful Legionella bacteria first began spreading through the air. She said she no longer walks to the bus stop on Fifth Avenue but instead takes a cab to work, too afraid to walk past the two buildings.",
+      "issue_area": "health",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Harlem residents still ailing, still seeking accountability for Legionnaires' outbreak",
+        "article_url": "https://gothamist.com/news/harlem-residents-still-ailing-still-seeking-accountability-for-legionnaires-outbreak",
+        "published_at": "2026-04-07T13:46:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-07T21:51:01.480453+00:00"
+    },
+    {
+      "summary": "Detainees at Rikers Island with complicated medical needs will be transferred to a Manhattan hospital to get access to specialty care, Mayor Zohran Mamdani announced Tuesday. A new therapeutic housing unit is opening to facilitate . It will serve 104 people in custody.The first one will be at Bellevue Hospital in Kips Bay and have direct access to specialty services, including oncology, cardiology and neurology.",
+      "issue_area": "health",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Mayor Mamdani announces some Rikers Island detainees will be housed in therapeutic unit at Manhattan hospital",
+        "article_url": "https://www.cbsnews.com/newyork/news/zohran-mamdani-rikers-island-hospital-unit/",
+        "published_at": "2026-04-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-07T21:51:01.481453+00:00"
+    },
+    {
+      "summary": "FORT WORTH, Texas - More than three years after the death of Athena Strand, the capital murder trial for Tanner Horner began with a guilty plea. Horner, a former delivery driver accused of kidnapping and strangling the 7-year-old after hitting her with his van in 2022, admitted to her capital murder in a Tarrant County courthouse on Tuesday morning. The punishment phase of the trial began immediately afterward.",
+      "issue_area": "education",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Tanner Horner pleads guilty to killing Athena Strand",
+        "article_url": "https://www.fox5ny.com/news/tanner-horner-trial-live-athena-strand-day-1",
+        "published_at": "2026-04-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-07T21:51:01.482248+00:00"
+    },
+    {
+      "summary": "The father of 7-month-old Kaori Patterson-Moore may not have been the intended target after all when his daughter was struck in her stroller by a stray bullet, the Brooklyn D.A. said Tuesday after the suspects were indicted for murder by a grand jury. Accused shooter Amuri Greene, 21, was hit with a raft of charges including murder, attempted murder, assault, and weapon possession for the slaying of little Kaori on April 1.",
+      "issue_area": "education",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Dad of slain Brooklyn baby Kaori Patterson-Moore may not have been intended target: DA",
+        "article_url": "https://www.nydailynews.com/2026/04/07/suspects-in-stray-bullet-slay-of-brooklyn-baby-kaori-patterson-moore-indicted-for-murder/",
+        "published_at": "2026-04-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-07T21:51:01.482555+00:00"
+    },
+    {
+      "summary": "For decades, NYC\u2019s industrial and manufacturing sectors have served as the city\u2019s most reliable engine of opportunity. In Long Island City, North Brooklyn, and the South Bronx, a diverse landscape of fabrication shops, food distributors, and logistics hubs provide a critical foundation for our local economy. They provide stable, middle-class pathways for thousands of New Yorkers, particularly within immigrant and minority communities.",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYC must go slow on last-mile delivery changes",
+        "article_url": "https://www.nydailynews.com/2026/04/07/nyc-must-go-slow-on-last-mile-delivery-changes/",
+        "published_at": "2026-04-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-07T21:51:01.482820+00:00"
+    },
+    {
+      "summary": "New York is at a critical moment. Tenants were promised bold action, including a rent freeze, and an administration would meet the housing crisis with urgency. Now those promises are colliding with fiscal constraints, coalition politics, and the realities of governing.",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Progressive pledges can\u2019t be abandoned",
+        "article_url": "https://www.nydailynews.com/2026/04/07/progressive-pledges-cant-be-abandoned/",
+        "published_at": "2026-04-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-07T21:51:01.483093+00:00"
+    },
+    {
+      "summary": "After several delays, President Donald Trump has issued an ultimatum for Iran to open the Strait of Hormuz, calling it his final offer. President Trump took to social media, warning a \"whole civilization will die\" if his deadline isn't met. Trump also said he is not concerned about possibly committing war crimes as he threatened to destroy Iranian infrastructure.",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Iran war latest: Trump warns, a 'whole civilization will die tonight' as 8 p.m. deadline looms",
+        "article_url": "https://www.fox5ny.com/news/iran-war-latest-april-7",
+        "published_at": "2026-04-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-07T21:51:01.483886+00:00"
+    },
+    {
+      "summary": "This past weekend, as Passover and Easter unfolded in tandem with the arrival of true spring, Central Park entered its most exquisite state of the year. The cherry blossoms reached their prime, a brief and breathtaking crescendo of pale pinks, milky whites, and saturated rose tones that transformed the park into something almost mythic. For a few luminous days, New York did not simply host spring, it embodied it.",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Beneath a Canopy of Petals Spring\u00e2s Most Elegant Moment Arrives",
+        "article_url": "https://www.ourtownny.com/news/beneath-a-canopy-of-petals-spring-s-most-elegant-moment-arrives-YF5733313",
+        "published_at": "2026-04-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-07T21:51:01.484263+00:00"
+    }
+  ]
+}

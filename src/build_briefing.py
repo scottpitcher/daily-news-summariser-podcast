@@ -171,14 +171,14 @@ def format_source_attribution_markdown(summary: dict[str, Any]) -> str:
 def build_story_paragraph(summary: dict[str, Any]) -> str:
     """Build one natural-sounding spoken story paragraph."""
     summary_text = normalize_text(str(summary.get("summary") or ""))
-    why_it_matters = normalize_text(str(summary.get("why_it_matters") or ""))
+    why_it_matters = normalize_text(str(summary.get("why_it_matters_to_nyc") or summary.get("why_it_matters") or ""))
     attribution = format_source_attribution(summary)
 
     # The wording is intentionally conversational enough for audio without
     # drifting into chatty or overly stylized narration.
     paragraph_parts = [summary_text]
     if why_it_matters:
-        paragraph_parts.append(f"Why it matters: {why_it_matters}")
+        paragraph_parts.append(f"Why it matters to NYC: {why_it_matters}")
     paragraph_parts.append(f"{attribution}.")
     return " ".join(part for part in paragraph_parts if part)
 
@@ -257,11 +257,11 @@ def build_briefing_text(grouped_summaries: dict[str, list[dict[str, Any]]]) -> t
         markdown_story_lines = [f"## {issue_label}"]
         for summary in grouped_summaries[issue_area]:
             summary_text = normalize_text(str(summary.get("summary") or ""))
-            why_it_matters = normalize_text(str(summary.get("why_it_matters") or ""))
+            why_it_matters = normalize_text(str(summary.get("why_it_matters_to_nyc") or summary.get("why_it_matters") or ""))
             source_link = format_source_attribution_markdown(summary)
             parts = [summary_text]
             if why_it_matters:
-                parts.append(f"Why it matters: {why_it_matters}")
+                parts.append(f"Why it matters to NYC: {why_it_matters}")
             parts.append(f"Source: {source_link}")
             markdown_story_lines.append(f"- {' '.join(parts)}")
         markdown_sections.append("\n".join(markdown_story_lines))

@@ -11,16 +11,21 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      HF_API_TOKEN: ${{ secrets.HF_API_TOKEN }}
-      HF_BASE_URL: https://router.huggingface.co/v1
-      SUMMARIZATION_MODEL: Qwen/Qwen2.5-7B-Instruct
+      # Cerebras LLM summarization (replaces HuggingFace)
+      SUMMARIZATION_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
+      SUMMARIZATION_BASE_URL: https://api.cerebras.ai/v1
+      SUMMARIZATION_MODEL: llama3.1-8b
+      SUMMARIZATION_PROVIDER: cerebras
+      # HF vars (kept for reference):
+      # HF_API_TOKEN: ${{ secrets.HF_API_TOKEN }}
+      # HF_BASE_URL: https://router.huggingface.co/v1
       EMAIL_DELIVERY_ENABLED: "true"
       SMTP_HOST: smtp.gmail.com
       SMTP_PORT: "587"
       SMTP_USERNAME: aap253@cornell.edu
       SMTP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
       EMAIL_SENDER: aap253@cornell.edu
-      EMAIL_RECIPIENTS: sp2668@cornell.edu,aap253@cornell.edu,bmd223@cornell.edu,zs279@cornell.edu,mdt93@cornell.edu
+      EMAIL_RECIPIENTS: sp2668@cornell.edu,aap253@cornell.edu,bmd223@cornell.edu,zs279@cornell.edu,mdt93@cornell.edu,ISoldano@council.nyc.gov,ABarot@council.nyc.gov
 
     steps:
       - name: Checkout repository

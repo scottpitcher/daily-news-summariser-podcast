@@ -128,7 +128,8 @@ def markdown_to_html(md: str) -> str:
        style="background-color: #ffffff; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
   <!-- Header -->
   <tr><td style="background-color: #1a1a2e; padding: 28px 32px; text-align: center;">
-    <h1 style="margin: 0; color: #ffffff; font-size: 20px; letter-spacing: 0.5px;">Daily News Briefing</h1>
+    <h1 style="margin: 0; color: #ffffff; font-size: 20px; letter-spacing: 0.5px;">NYC Local Daily News Brief</h1>
+    <p style="margin: 6px 0 0 0; color: #a0a0c0; font-size: 12px;">For Council Member Virginia Maloney's Office -- District 4, Manhattan</p>
     <p style="margin: 6px 0 0 0; color: #a0a0c0; font-size: 12px;">{date_str}</p>
   </td></tr>
   <!-- Body -->
@@ -197,7 +198,7 @@ def deliver(reports_dir: Path, run_date: str | None = None) -> dict[str, Any]:
     body = briefing_path.read_text(encoding="utf-8")
 
     date_str = run_date or datetime.now(UTC).strftime("%Y-%m-%d")
-    subject = f"Daily News Briefing \u2014 {date_str}"
+    subject = f"NYC Daily Brief -- {date_str}"
 
     send_email(
         subject=subject,
