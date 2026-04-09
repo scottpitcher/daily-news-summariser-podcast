@@ -109,6 +109,15 @@ def sort_by_source_level(summaries: list[dict[str, Any]]) -> list[dict[str, Any]
     )
 
 
+NO_CONNECTION_PHRASE = "no direct committee or district connection identified"
+
+
+def _has_connection(summary: dict[str, Any]) -> bool:
+    """Return False if the so_what field explicitly says there is no connection."""
+    so_what = str(summary.get("so_what") or summary.get("why_it_matters_to_nyc") or "").strip().lower()
+    return NO_CONNECTION_PHRASE not in so_what
+
+
 def group_summaries_by_issue_area(summaries: list[dict[str, Any]]) -> dict[str, list[dict[str, Any]]]:
     """Group summaries by issue area and sort within each issue."""
     grouped: dict[str, list[dict[str, Any]]] = {}
@@ -116,6 +125,12 @@ def group_summaries_by_issue_area(summaries: list[dict[str, Any]]) -> dict[str, 
     for summary in summaries:
         issue_area = str(summary.get("issue_area") or "").strip()
         if not issue_area:
+            continue
+        if not _has_connection(summary):
+            LOGGER.info(
+                "Dropping article with no committee/district connection: %s",
+                summary.get("source_citation", {}).get("article_title", "unknown"),
+            )
             continue
         grouped.setdefault(issue_area, []).append(summary)
 
