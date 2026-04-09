@@ -45,9 +45,10 @@ SYSTEM_PROMPT_TEMPLATE = str(
         "Small Business, Finance, Cultural Affairs/Libraries/International Relations, "
         "Economic Development (Chair), Fire and Emergency Management, Higher Education, "
         "Housing and Buildings. She co-chairs the Irish Caucus and is in the Women's Caucus. "
-        "Return valid JSON only with keys: summary, why_it_matters_to_nyc. "
-        "The summary must be 2 to 4 sentences, neutral in tone, and useful "
-        "for a spoken daily briefing. why_it_matters_to_nyc must be a specific, "
+        "Return valid JSON only with keys: headline, bullets, so_what. "
+        "headline: a short rewritten title (5-10 words, not the original headline). "
+        "bullets: array of 1-2 key facts, each under 25 words, terse and informative. "
+        "so_what must be a specific, "
         "concrete sentence explaining how this story connects to NYC policy, "
         "legislation, city services, or the daily lives of New Yorkers — "
         "especially where it touches CM Maloney's committee portfolio. "
@@ -146,10 +147,11 @@ def build_user_prompt(article: dict[str, Any], target_summary_words: int) -> str
         "article_text": article_text,
     }
     return (
-        "Summarize the following news article for a spoken daily briefing.\n"
+        "Summarize the following news article for a daily briefing.\n"
         "Return valid JSON with keys:\n"
-        '- "summary": 2 to 4 sentences\n'
-        '- "why_it_matters_to_nyc": 1 specific sentence on how this connects to NYC policy, legislation, city services, or daily life for New Yorkers (never generic)\n\n'
+        '- "headline": short rewritten title (5-10 words, not the original headline)\n'
+        '- "bullets": array of 1-2 key facts (each under 25 words)\n'
+        '- "so_what": 1 specific sentence on how this connects to NYC policy, legislation, city services, or daily life for New Yorkers (never generic)\n\n'
         f"{json.dumps(prompt_payload, ensure_ascii=True)}"
     )
 
@@ -226,14 +228,25 @@ def summarize_with_openai_compatible_api(
     if parsed is None:
         return None
 
-    summary = normalize_text(str(parsed.get("summary") or ""))
-    why_it_matters = normalize_text(str(parsed.get("why_it_matters_to_nyc") or parsed.get("why_it_matters") or ""))
-    if not summary:
+    headline = normalize_text(str(parsed.get("headline") or ""))
+    raw_bullets = parsed.get("bullets") or []
+    if isinstance(raw_bullets, list):
+        bullets = [normalize_text(str(b)) for b in raw_bullets if normalize_text(str(b))]
+    else:
+        bullets = [normalize_text(str(raw_bullets))] if normalize_text(str(raw_bullets)) else []
+    so_what = normalize_text(str(parsed.get("so_what") or parsed.get("why_it_matters_to_nyc") or parsed.get("why_it_matters") or ""))
+
+    # Fall back to old "summary" key if headline is missing (model compat)
+    if not headline:
+        headline = normalize_text(str(parsed.get("summary") or ""))
+    if not headline:
         return None
 
     return {
-        "summary": summary,
-        "why_it_matters_to_nyc": why_it_matters,
+        "headline": headline,
+        "bullets": bullets,
+        "summary": headline,
+        "so_what": so_what,
     }
 
 
@@ -242,25 +255,30 @@ def strip_frontmatter(text: str) -> str:
     return re.sub(r"^---\s.*?---\s*", "", text, count=1, flags=re.DOTALL).strip()
 
 
-def fallback_summary(article: dict[str, Any]) -> dict[str, str]:
+def fallback_summary(article: dict[str, Any]) -> dict[str, Any]:
     """Create a simple extractive fallback summary when API generation fails."""
     raw_text = strip_frontmatter(str(article.get("article_text") or ""))
     sentences = split_sentences(raw_text)
-    summary_sentences = sentences[:3]
-    summary = " ".join(summary_sentences).strip()
 
-    # The fallback keeps the output usable for downstream synthesis even when
-    # the model call fails or is not configured in the environment.
-    if not summary:
-        summary = normalize_text(str(article.get("title") or ""))
+    # Build headline from the article title, truncated to ~10 words.
+    title = normalize_text(str(article.get("title") or ""))
+    title_words = title.split()
+    headline = " ".join(title_words[:10]) if title_words else "Untitled article"
 
-    why_it_matters = (
+    # Build bullets from the first 1-2 sentences of article text.
+    bullets = [s for s in sentences[:2] if s]
+    if not bullets:
+        bullets = [title] if title else ["No details available."]
+
+    so_what = (
         f"Relevant to NYC {article.get('issue_area', 'policy').replace('_', ' ')} "
         f"— check the full article for specific local implications."
     )
     return {
-        "summary": summary,
-        "why_it_matters_to_nyc": normalize_text(why_it_matters),
+        "headline": headline,
+        "bullets": bullets,
+        "summary": headline,
+        "so_what": normalize_text(so_what),
     }
 
 
@@ -280,10 +298,12 @@ def build_summary_record(
         "published_at": article.get("published_at"),
     }
     return {
+        "headline": summary_fields.get("headline"),
+        "bullets": summary_fields.get("bullets", []),
         "summary": summary_fields.get("summary"),
         "issue_area": article.get("issue_area"),
         "source_level": article.get("source_level"),
-        "why_it_matters_to_nyc": summary_fields.get("why_it_matters_to_nyc"),
+        "so_what": summary_fields.get("so_what"),
         "source_citation": citation,
         "summary_status": summary_status,
         "summary_method": "llm_api" if summary_status == "generated" else "fallback",

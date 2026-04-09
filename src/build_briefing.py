@@ -169,18 +169,21 @@ def format_source_attribution_markdown(summary: dict[str, Any]) -> str:
 
 
 def build_story_paragraph(summary: dict[str, Any]) -> str:
-    """Build one natural-sounding spoken story paragraph."""
-    summary_text = normalize_text(str(summary.get("summary") or ""))
-    why_it_matters = normalize_text(str(summary.get("why_it_matters_to_nyc") or summary.get("why_it_matters") or ""))
+    """Build one scannable story block with headline, bullets, and so-what."""
+    headline = normalize_text(str(summary.get("headline") or summary.get("summary") or ""))
+    bullets = summary.get("bullets") or []
+    so_what = normalize_text(str(summary.get("so_what") or summary.get("why_it_matters_to_nyc") or ""))
     attribution = format_source_attribution(summary)
 
-    # The wording is intentionally conversational enough for audio without
-    # drifting into chatty or overly stylized narration.
-    paragraph_parts = [summary_text]
-    if why_it_matters:
-        paragraph_parts.append(f"So what? {why_it_matters}")
-    paragraph_parts.append(f"{attribution}.")
-    return " ".join(part for part in paragraph_parts if part)
+    lines = [headline]
+    for bullet in bullets:
+        bullet_text = normalize_text(str(bullet))
+        if bullet_text:
+            lines.append(f"- {bullet_text}")
+    if so_what:
+        lines.append(f"So what? {so_what}")
+    lines.append(f"{attribution}.")
+    return "\n".join(lines)
 
 
 def build_issue_section(issue_area: str, summaries: list[dict[str, Any]]) -> str:
@@ -256,15 +259,21 @@ def build_briefing_text(grouped_summaries: dict[str, list[dict[str, Any]]]) -> t
 
         markdown_story_lines = [f"## {issue_label}"]
         for summary in grouped_summaries[issue_area]:
-            summary_text = normalize_text(str(summary.get("summary") or ""))
-            why_it_matters = normalize_text(str(summary.get("why_it_matters_to_nyc") or summary.get("why_it_matters") or ""))
+            headline = normalize_text(str(summary.get("headline") or summary.get("summary") or ""))
+            bullets = summary.get("bullets") or []
+            so_what = normalize_text(str(summary.get("so_what") or summary.get("why_it_matters_to_nyc") or ""))
             source_link = format_source_attribution_markdown(summary)
-            parts = [summary_text]
-            if why_it_matters:
-                parts.append(f"So what? {why_it_matters}")
-            parts.append(f"Source: {source_link}")
-            markdown_story_lines.append(f"- {' '.join(parts)}")
-        markdown_sections.append("\n".join(markdown_story_lines))
+
+            story_block = [f"**{headline}**"]
+            for bullet in bullets:
+                bullet_text = normalize_text(str(bullet))
+                if bullet_text:
+                    story_block.append(f"- {bullet_text}")
+            if so_what:
+                story_block.append(f"\n**So what?** {so_what}")
+            story_block.append(f"\nSource: {source_link}")
+            markdown_story_lines.append("\n".join(story_block))
+        markdown_sections.append("\n\n".join(markdown_story_lines))
 
     text_sections.append(outro)
     markdown_sections.append(outro)

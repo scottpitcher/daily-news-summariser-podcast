@@ -99,11 +99,12 @@ ARTICLE_SUMMARY_SYSTEM_PROMPT = dedent(
     Caucuses: Irish Caucus (Co-Chair), Women's Caucus
 
     Style requirements:
-    - Be neutral, precise, and easy to listen to.
+    - Be neutral, precise, and easy to scan.
     - Avoid hype, speculation, and filler.
     - Prioritize the most consequential facts first.
-    - Keep summaries useful for later synthesis into a spoken briefing.
-    - why_it_matters_to_nyc must name a specific committee power or District 4
+    - headline: a short rewritten label (5-10 words, not the original title).
+    - bullets: 1-2 key facts, each under 25 words, terse and informative.
+    - so_what must name a specific committee power or District 4
       constituent stake — not a vague thematic overlap. Ask yourself: "Could
       CM Maloney call a hearing, request an agency briefing, or draft legislation
       on this?" If yes, say what she could do (e.g. "Her Economic Development
@@ -135,9 +136,9 @@ ARTICLE_SUMMARY_USER_PROMPT = dedent(
     {article_payload}
 
     Return valid JSON with:
-    - summary: 2 to 4 sentences
-    - why_it_matters_to_nyc: 1 sentence naming a specific committee action (hearing, oversight, legislation, budget question) CM Maloney could take, or a concrete District 4 constituent impact. If no defensible link exists, write "No direct committee or district connection identified."
-    - notable_points: array of short strings
+    - headline: short rewritten title (5-10 words, not the original headline)
+    - bullets: array of 1-2 key facts (each under 25 words)
+    - so_what: 1 sentence naming a specific committee action (hearing, oversight, legislation, budget question) CM Maloney could take, or a concrete District 4 constituent impact. If no defensible link exists, write "No direct committee or district connection identified."
     """
 ).strip()
 
@@ -249,7 +250,7 @@ def format_summary_payload(
     source_name: str,
     source_level: str,
     summary: str,
-    why_it_matters_to_nyc: str,
+    so_what: str,
 ) -> str:
     """Format one summary entry for final-briefing synthesis prompts."""
     return dedent(
@@ -258,7 +259,7 @@ def format_summary_payload(
         source_name: {source_name}
         source_level: {source_level}
         summary: {summary}
-        why_it_matters_to_nyc: {why_it_matters_to_nyc}
+        so_what: {so_what}
         """
     ).strip()
 
