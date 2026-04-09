@@ -19,12 +19,21 @@ ARTICLE_RELEVANCE_SYSTEM_PROMPT = dedent(
     briefing.
 
     Rules:
-    - Focus on practical public-interest coverage.
+    - Focus on practical public-interest coverage: policy actions, legislation,
+      budgets, city-service changes, and material impacts on residents.
     - Prefer domestic policy, civic, public-service, economic, education,
       health, safety, climate, infrastructure, and housing coverage.
-    - Exclude articles that are mostly geopolitical, celebrity-focused,
-      lifestyle-focused, entertainment-focused, or otherwise outside the
-      configured issue areas.
+    - Exclude articles that are mostly:
+      * Celebrity-focused, scandal/gossip, or personality-driven (including
+        politicians' personal lives, feuds, or legal drama unrelated to
+        policy or legislation).
+      * Geopolitical or foreign-affairs stories with no concrete NYC or
+        state-level policy consequence.
+      * Lifestyle, entertainment, sports, or human-interest features.
+      * Opinion, editorials, or commentary pieces.
+    - When in doubt, ask: "Does this article describe an action, decision,
+      or event that could change a law, budget, city service, or material
+      condition for NYC residents?" If no, exclude it.
     - Return structured JSON only.
     """
 ).strip()
@@ -115,8 +124,13 @@ ARTICLE_SUMMARY_SYSTEM_PROMPT = dedent(
       in a concrete District 4 impact (e.g. "Upper East Side residents face
       longer commutes if this service is cut"). Never write filler like
       "relevant to her portfolio," "impacts local businesses," or "addresses
-      concerns." If you cannot identify a concrete connection, write
+      concerns."
+    - IMPORTANT: Do NOT invent or stretch connections. Linking a story to a
+      committee that has no jurisdiction over the topic is worse than admitting
+      no link. If the article is about a subject none of her committees
+      oversee, write exactly:
       "No direct committee or district connection identified."
+      It is always better to say this than to fabricate a link.
     - Return structured JSON only.
     """
 ).strip()
