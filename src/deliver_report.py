@@ -52,22 +52,33 @@ def resolve_briefing_file(
     return md_files[-1]
 
 
+def _convert_md_links(text: str) -> str:
+    """Replace ``[label](url)`` with styled ``<a>`` tags."""
+    return re.sub(
+        r"\[([^\]]+)\]\(([^)]+)\)",
+        r'<a href="\2" style="color: #0f3460; text-decoration: underline;">\1</a>',
+        text,
+    )
+
+
 def markdown_to_html(md: str) -> str:
     """Convert Markdown briefing to a newsletter-style HTML email."""
     lines = md.strip().split("\n")
     body_parts: list[str] = []
-    current_section_items: list[str] = []
+    current_bullets: list[str] = []
 
-    def flush_section_items() -> None:
-        if current_section_items:
-            body_parts.append('<ul style="margin: 0; padding: 0 0 0 20px;">')
-            for item in current_section_items:
+    def flush_bullets() -> None:
+        if current_bullets:
+            body_parts.append(
+                '<ul style="margin: 8px 0 0 0; padding: 0 0 0 20px;">'
+            )
+            for bullet in current_bullets:
                 body_parts.append(
-                    f'<li style="padding: 12px 0; border-bottom: 1px solid #eee;">'
-                    f"{item}</li>"
+                    f'<li style="padding: 4px 0; line-height: 1.6;'
+                    f' font-size: 15px; color: #333;">{bullet}</li>'
                 )
             body_parts.append("</ul>")
-            current_section_items.clear()
+            current_bullets.clear()
 
     for line in lines:
         stripped = line.strip()
@@ -75,45 +86,54 @@ def markdown_to_html(md: str) -> str:
         if not stripped:
             continue
 
+        # Section heading: ## Issue Area
         if stripped.startswith("## "):
-            flush_section_items()
+            flush_bullets()
             heading = stripped[3:]
             body_parts.append(
                 f'<h2 style="color: #1a1a2e; font-size: 18px; margin: 28px 0 12px 0;'
                 f' padding-bottom: 8px; border-bottom: 2px solid #0f3460;">{heading}</h2>'
             )
 
-        elif stripped.startswith("- "):
-            item_md = stripped[2:]
-            # Convert markdown links
-            item_html = re.sub(
-                r"\[([^\]]+)\]\(([^)]+)\)",
-                r'<a href="\2" style="color: #0f3460; text-decoration: underline;">\1</a>',
-                item_md,
-            )
-            # Style "So what?" (and legacy "Why it matters" variants) and "Source:"
-            item_html = re.sub(
-                r"(So what\?|Why it matters(?:\s+to NYC)?:?)",
-                '</p><p style="margin: 10px 0 0 0; line-height: 1.6; font-size: 15px; color: #333;">'
-                '<strong style="color: #e94560;">So what?</strong>',
-                item_html,
-            )
-            item_html = re.sub(
-                r"Source:",
-                '</p><p style="margin: 8px 0 0 0; font-size: 13px; color: #666;">Source:',
-                item_html,
-            )
-            current_section_items.append(
-                f'<p style="margin: 0; line-height: 1.6; font-size: 15px; color: #333;">{item_html}</p>'
+        # Story headline: **Headline Text**
+        elif re.match(r"^\*\*[^*]+\*\*$", stripped):
+            flush_bullets()
+            headline_text = stripped[2:-2]
+            body_parts.append(
+                f'<h3 style="color: #1a1a2e; font-size: 16px; font-weight: bold;'
+                f' margin: 20px 0 4px 0;">{headline_text}</h3>'
             )
 
+        # So what line: **So what?** explanation
+        elif stripped.startswith("**So what?**"):
+            flush_bullets()
+            so_what_text = stripped[len("**So what?**"):].strip()
+            body_parts.append(
+                f'<p style="margin: 10px 0 0 0; line-height: 1.6; font-size: 15px; color: #333;">'
+                f'<strong style="color: #e94560;">So what?</strong> {so_what_text}</p>'
+            )
+
+        # Source line: Source: [Title](url) — Outlet
+        elif stripped.startswith("Source:"):
+            flush_bullets()
+            source_text = _convert_md_links(stripped)
+            body_parts.append(
+                f'<p style="margin: 8px 0 16px 0; font-size: 13px; color: #666;">'
+                f'{source_text}</p>'
+            )
+
+        # Bullet: - fact text
+        elif stripped.startswith("- "):
+            current_bullets.append(stripped[2:])
+
+        # Anything else (intro/outro text)
         else:
-            flush_section_items()
+            flush_bullets()
             body_parts.append(
                 f'<p style="margin: 12px 0; line-height: 1.6; font-size: 15px; color: #333;">{stripped}</p>'
             )
 
-    flush_section_items()
+    flush_bullets()
 
     date_str = datetime.now(UTC).strftime("%B %d, %Y")
     inner_html = "\n".join(body_parts)
