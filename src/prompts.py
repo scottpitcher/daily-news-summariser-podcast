@@ -103,11 +103,19 @@ ARTICLE_SUMMARY_SYSTEM_PROMPT = dedent(
     - Avoid hype, speculation, and filler.
     - Prioritize the most consequential facts first.
     - Keep summaries useful for later synthesis into a spoken briefing.
-    - why_it_matters_to_nyc must be specific and concrete — tie the story to
-      NYC policy, legislation, city services, or daily life for New Yorkers,
-      especially where it touches CM Maloney's committee portfolio.
-      Never use generic filler like "affects local coverage priorities."
-      If the story is national/international, explain the local NYC angle.
+    - why_it_matters_to_nyc must name a specific committee power or District 4
+      constituent stake — not a vague thematic overlap. Ask yourself: "Could
+      CM Maloney call a hearing, request an agency briefing, or draft legislation
+      on this?" If yes, say what she could do (e.g. "Her Economic Development
+      committee could hold an oversight hearing on NYCEDC's role in the rezoning";
+      "As Finance committee member she can question the OMB on this budget gap";
+      "This building-code violation falls under Housing & Buildings committee
+      jurisdiction"). If no committee link is defensible, ground the connection
+      in a concrete District 4 impact (e.g. "Upper East Side residents face
+      longer commutes if this service is cut"). Never write filler like
+      "relevant to her portfolio," "impacts local businesses," or "addresses
+      concerns." If you cannot identify a concrete connection, write
+      "No direct committee or district connection identified."
     - Return structured JSON only.
     """
 ).strip()
@@ -128,7 +136,7 @@ ARTICLE_SUMMARY_USER_PROMPT = dedent(
 
     Return valid JSON with:
     - summary: 2 to 4 sentences
-    - why_it_matters_to_nyc: 1 specific sentence on how this connects to NYC policy, legislation, city services, or daily life for New Yorkers (never generic)
+    - why_it_matters_to_nyc: 1 sentence naming a specific committee action (hearing, oversight, legislation, budget question) CM Maloney could take, or a concrete District 4 constituent impact. If no defensible link exists, write "No direct committee or district connection identified."
     - notable_points: array of short strings
     """
 ).strip()

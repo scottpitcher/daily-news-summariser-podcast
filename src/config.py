@@ -285,13 +285,13 @@ LOCAL_SOURCES: Final[dict[str, list[dict[str, object]]]] = {
             level="local",
             source_type="html",
         ),
-        _source(
-            name="The Jewish Star",
-            homepage_url="https://www.thejewishstar.com/",
-            rss_url=None,
-            level="local",
-            source_type="html",
-        ),
+        # _source(
+        #     name="The Jewish Star",
+        #     homepage_url="https://www.thejewishstar.com/",
+        #     rss_url=None,
+        #     level="local",
+        #     source_type="html",
+        # ),
     ],
 }
 
@@ -435,13 +435,14 @@ PIPELINE_STAGES: Final[dict[str, dict[str, object]]] = {
 # Ranking weights are designed to be composable across scripts. Each score
 # component can be multiplied by the values here and summed into one rank score.
 RANKING_WEIGHTS: Final[dict[str, float]] = {
-    "source_priority": _get_float_env("RANK_WEIGHT_SOURCE_PRIORITY", 0.25),
+    "source_priority": _get_float_env("RANK_WEIGHT_SOURCE_PRIORITY", 0.20),
     "issue_priority": _get_float_env("RANK_WEIGHT_ISSUE_PRIORITY", 0.20),
     "recency": _get_float_env("RANK_WEIGHT_RECENCY", 0.20),
     "local_relevance": _get_float_env("RANK_WEIGHT_LOCAL_RELEVANCE", 0.10),
-    "title_signal": _get_float_env("RANK_WEIGHT_TITLE_SIGNAL", 0.10),
+    "title_signal": _get_float_env("RANK_WEIGHT_TITLE_SIGNAL", 0.05),
     "content_quality": _get_float_env("RANK_WEIGHT_CONTENT_QUALITY", 0.10),
     "cross_source_confirmation": _get_float_env("RANK_WEIGHT_CROSS_SOURCE_CONFIRMATION", 0.05),
+    "maloney_relevance": _get_float_env("RANK_WEIGHT_MALONEY_RELEVANCE", 0.10),
 }
 
 # Source priority weights give the ranking stage a stable baseline per source
@@ -463,6 +464,55 @@ SOURCE_PRIORITY_WEIGHTS: Final[dict[str, float]] = {
     "LAist": 0.85,
     "City of Austin News": 0.78,
     "Austin Monitor": 0.83,
+}
+
+# Keywords grouped by CM Virginia Maloney's committee assignments, caucuses,
+# and district geography. The ranking stage uses these to score how closely an
+# article connects to her legislative portfolio.
+MALONEY_OFFICE_KEYWORDS: Final[dict[str, list[str]]] = {
+    "sanitation_solid_waste": [
+        "sanitation", "waste", "trash", "recycling", "garbage",
+        "composting", "landfill", "dsny",
+    ],
+    "small_business": [
+        "small business", "storefront", "commercial rent",
+        "business improvement district", "merchant", "vendor", "bid",
+    ],
+    "finance": [
+        "budget", "fiscal", "bonds", "revenue", "tax", "deficit",
+        "comptroller", "municipal finance", "omb",
+    ],
+    "economic_development": [
+        "economic development", "edc", "nycedc", "jobs program",
+        "workforce development", "rezoning", "commercial development",
+    ],
+    "fire_emergency_management": [
+        "fdny", "fire department", "firefighter", "emergency management",
+        "oem", "fire safety", "emergency response",
+    ],
+    "higher_education": [
+        "cuny", "community college", "higher education", "tuition",
+        "university", "campus",
+    ],
+    "cultural_affairs_libraries": [
+        "library", "libraries", "museum", "arts", "cultural affairs",
+        "nypl", "cultural institution",
+    ],
+    "housing_buildings": [
+        "housing", "buildings", "dob", "hpd", "rent", "tenant",
+        "landlord", "affordable housing", "building code", "zoning",
+        "eviction", "construction",
+    ],
+    "womens_caucus": [
+        "women", "gender", "maternal", "childcare", "pay equity",
+    ],
+    "irish_caucus": [
+        "irish", "ireland",
+    ],
+    "district_4": [
+        "upper east side", "midtown east", "turtle bay", "murray hill",
+        "sutton place", "district 4", "manhattan",
+    ],
 }
 
 # A direct issue-area cap map makes selection logic simple even if a script does
@@ -604,6 +654,7 @@ __all__ = [
     "ISSUE_AREAS",
     "ISSUE_AREA_ARTICLE_CAPS",
     "LOCAL_SOURCES",
+    "MALONEY_OFFICE_KEYWORDS",
     "MODELS",
     # "NATIONAL_SOURCES",
     "OUTPUT_DIRS",

@@ -178,7 +178,7 @@ def build_story_paragraph(summary: dict[str, Any]) -> str:
     # drifting into chatty or overly stylized narration.
     paragraph_parts = [summary_text]
     if why_it_matters:
-        paragraph_parts.append(f"Why it matters to NYC: {why_it_matters}")
+        paragraph_parts.append(f"So what? {why_it_matters}")
     paragraph_parts.append(f"{attribution}.")
     return " ".join(part for part in paragraph_parts if part)
 
@@ -261,7 +261,7 @@ def build_briefing_text(grouped_summaries: dict[str, list[dict[str, Any]]]) -> t
             source_link = format_source_attribution_markdown(summary)
             parts = [summary_text]
             if why_it_matters:
-                parts.append(f"Why it matters to NYC: {why_it_matters}")
+                parts.append(f"So what? {why_it_matters}")
             parts.append(f"Source: {source_link}")
             markdown_story_lines.append(f"- {' '.join(parts)}")
         markdown_sections.append("\n".join(markdown_story_lines))

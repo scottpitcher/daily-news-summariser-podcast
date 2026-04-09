@@ -60,13 +60,13 @@ def markdown_to_html(md: str) -> str:
 
     def flush_section_items() -> None:
         if current_section_items:
-            body_parts.append('<table role="presentation" width="100%" cellpadding="0" cellspacing="0">')
+            body_parts.append('<ul style="margin: 0; padding: 0 0 0 20px;">')
             for item in current_section_items:
                 body_parts.append(
-                    '<tr><td style="padding: 12px 0; border-bottom: 1px solid #eee;">'
-                    f"{item}</td></tr>"
+                    f'<li style="padding: 12px 0; border-bottom: 1px solid #eee;">'
+                    f"{item}</li>"
                 )
-            body_parts.append("</table>")
+            body_parts.append("</ul>")
             current_section_items.clear()
 
     for line in lines:
@@ -79,7 +79,7 @@ def markdown_to_html(md: str) -> str:
             flush_section_items()
             heading = stripped[3:]
             body_parts.append(
-                f'<h2 style="color: #1a1a2e; font-size: 16px; margin: 28px 0 12px 0;'
+                f'<h2 style="color: #1a1a2e; font-size: 18px; margin: 28px 0 12px 0;'
                 f' padding-bottom: 8px; border-bottom: 2px solid #0f3460;">{heading}</h2>'
             )
 
@@ -91,25 +91,26 @@ def markdown_to_html(md: str) -> str:
                 r'<a href="\2" style="color: #0f3460; text-decoration: underline;">\1</a>',
                 item_md,
             )
-            # Style "Why it matters:" and "Source:"
+            # Style "So what?" (and legacy "Why it matters" variants) and "Source:"
             item_html = re.sub(
-                r"Why it matters:",
-                '<br><br><strong style="color: #e94560;">Why it matters?</strong>',
+                r"(So what\?|Why it matters(?:\s+to NYC)?:?)",
+                '</p><p style="margin: 10px 0 0 0; line-height: 1.6; font-size: 15px; color: #333;">'
+                '<strong style="color: #e94560;">So what?</strong>',
                 item_html,
             )
             item_html = re.sub(
                 r"Source:",
-                '<br><span style="font-size: 11px; color: #666;">Source:',
+                '</p><p style="margin: 8px 0 0 0; font-size: 13px; color: #666;">Source:',
                 item_html,
-            ) + "</span>"
+            )
             current_section_items.append(
-                f'<p style="margin: 0; line-height: 1.6; font-size: 13px; color: #333;">{item_html}</p>'
+                f'<p style="margin: 0; line-height: 1.6; font-size: 15px; color: #333;">{item_html}</p>'
             )
 
         else:
             flush_section_items()
             body_parts.append(
-                f'<p style="margin: 12px 0; line-height: 1.6; font-size: 13px; color: #333;">{stripped}</p>'
+                f'<p style="margin: 12px 0; line-height: 1.6; font-size: 15px; color: #333;">{stripped}</p>'
             )
 
     flush_section_items()
@@ -121,16 +122,16 @@ def markdown_to_html(md: str) -> str:
 <!DOCTYPE html>
 <html>
 <head><meta charset="utf-8"></head>
-<body style="margin: 0; padding: 0; background-color: #f4f4f8; font-family: Georgia, 'Times New Roman', serif;">
+<body style="margin: 0; padding: 0; background-color: #f4f4f8; font-family: Arial, Helvetica, sans-serif;">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background-color: #f4f4f8;">
 <tr><td align="center" style="padding: 20px 10px;">
 <table role="presentation" width="700" cellpadding="0" cellspacing="0"
        style="background-color: #ffffff; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
   <!-- Header -->
   <tr><td style="background-color: #1a1a2e; padding: 28px 32px; text-align: center;">
-    <h1 style="margin: 0; color: #ffffff; font-size: 20px; letter-spacing: 0.5px;">NYC Local Daily News Brief</h1>
-    <p style="margin: 6px 0 0 0; color: #a0a0c0; font-size: 12px;">For Council Member Virginia Maloney's Office -- District 4, Manhattan</p>
-    <p style="margin: 6px 0 0 0; color: #a0a0c0; font-size: 12px;">{date_str}</p>
+    <h1 style="margin: 0; color: #ffffff; font-size: 22px; letter-spacing: 0.5px;">NYC Local Daily News Brief</h1>
+    <p style="margin: 6px 0 0 0; color: #a0a0c0; font-size: 14px;">For Council Member Virginia Maloney's Office -- District 4, Manhattan</p>
+    <p style="margin: 6px 0 0 0; color: #a0a0c0; font-size: 14px;">{date_str}</p>
   </td></tr>
   <!-- Body -->
   <tr><td style="padding: 24px 32px;">
@@ -138,7 +139,7 @@ def markdown_to_html(md: str) -> str:
   </td></tr>
   <!-- Footer -->
   <tr><td style="background-color: #f9f9fb; padding: 20px 32px; text-align: center; border-top: 1px solid #eee;">
-    <p style="margin: 0; font-size: 11px; color: #999;">
+    <p style="margin: 0; font-size: 13px; color: #999;">
       Automated Daily News Briefing &mdash; Cornell Tech &amp; NYC CM Virginia Maloney
     </p>
   </td></tr>
