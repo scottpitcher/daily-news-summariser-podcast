@@ -173,13 +173,13 @@ def _source(
 
 LOCAL_SOURCES: Final[dict[str, list[dict[str, object]]]] = {
     "new_york_city": [
-        _source(
-            name="The New York Times",
-            homepage_url="https://www.nytimes.com/section/nyregion",
-            rss_url="https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml",
-            level="local",
-            source_type="rss",
-        ),
+        # _source(
+        #     name="The New York Times",
+        #     homepage_url="https://www.nytimes.com/section/nyregion",
+        #     rss_url="https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml",
+        #     level="local",
+        #     source_type="rss",
+        # ),
         _source(
             name="New York Daily News",
             homepage_url="https://www.nydailynews.com/",
