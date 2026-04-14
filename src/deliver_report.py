@@ -12,6 +12,9 @@ import logging
 import re
 import smtplib
 from datetime import UTC, datetime
+from email import encoders
+from email.mime.base import MIMEBase
+from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from pathlib import Path
 from typing import Any
@@ -21,6 +24,7 @@ from config import DELIVERY
 BASE_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = BASE_DIR.parent
 DEFAULT_REPORTS_DIR = PROJECT_ROOT / "outputs" / "reports"
+DEFAULT_AUDIO_DIR = PROJECT_ROOT / "outputs" / "audio"
 
 LOGGER = logging.getLogger("deliver_report")
 
@@ -50,6 +54,26 @@ def resolve_briefing_file(
         raise FileNotFoundError(f"No briefing files found in {reports_dir}")
 
     return md_files[-1]
+
+
+def resolve_audio_file(
+    audio_dir: Path,
+    run_date: str | None = None,
+) -> Path | None:
+    """Find the MP3 audio file matching the briefing date, or None if absent."""
+    if run_date is not None:
+        for ext in ("mp3", "aac", "opus", "flac"):
+            candidate = audio_dir / f"daily_briefing_{run_date}.{ext}"
+            if candidate.exists():
+                return candidate
+        return None
+
+    for ext in ("mp3", "aac", "opus", "flac"):
+        matches = sorted(audio_dir.glob(f"daily_briefing_*.{ext}"))
+        if matches:
+            return matches[-1]
+
+    return None
 
 
 def _convert_md_links(text: str) -> str:
@@ -180,10 +204,30 @@ def send_email(
     username: str,
     password: str,
     use_tls: bool = True,
+    audio_path: Path | None = None,
 ) -> None:
-    """Send an HTML email via SMTP."""
+    """Send an HTML email via SMTP, optionally attaching an audio briefing."""
     html_body = markdown_to_html(body)
-    msg = MIMEText(html_body, "html", "utf-8")
+
+    if audio_path is not None and audio_path.exists():
+        msg = MIMEMultipart()
+        msg.attach(MIMEText(html_body, "html", "utf-8"))
+
+        audio_data = audio_path.read_bytes()
+        part = MIMEBase("audio", audio_path.suffix.lstrip("."))
+        part.set_payload(audio_data)
+        encoders.encode_base64(part)
+        part.add_header(
+            "Content-Disposition",
+            "attachment",
+            filename=audio_path.name,
+        )
+        msg.attach(part)
+        LOGGER.info("Attaching audio file %s (%.1f KB)", audio_path.name, len(audio_data) / 1024)
+    else:
+        msg = MIMEMultipart()
+        msg.attach(MIMEText(html_body, "html", "utf-8"))
+
     msg["Subject"] = subject
     msg["From"] = sender
     msg["To"] = ", ".join(recipients)
@@ -197,7 +241,11 @@ def send_email(
     LOGGER.info("Email sent to %s", ", ".join(recipients))
 
 
-def deliver(reports_dir: Path, run_date: str | None = None) -> dict[str, Any]:
+def deliver(
+    reports_dir: Path,
+    run_date: str | None = None,
+    audio_dir: Path | None = None,
+) -> dict[str, Any]:
     """Read the briefing and deliver it via email if enabled."""
     email_config = DELIVERY["email"]
 
@@ -218,6 +266,13 @@ def deliver(reports_dir: Path, run_date: str | None = None) -> dict[str, Any]:
     LOGGER.info("Reading briefing from %s", briefing_path)
     body = briefing_path.read_text(encoding="utf-8")
 
+    resolved_audio_dir = audio_dir or DEFAULT_AUDIO_DIR
+    audio_path = resolve_audio_file(resolved_audio_dir, run_date)
+    if audio_path:
+        LOGGER.info("Found audio file: %s", audio_path)
+    else:
+        LOGGER.info("No audio file found; sending email without attachment")
+
     date_str = run_date or datetime.now(UTC).strftime("%Y-%m-%d")
     subject = f"NYC Daily Brief -- {date_str}"
 
@@ -231,11 +286,13 @@ def deliver(reports_dir: Path, run_date: str | None = None) -> dict[str, Any]:
         username=str(email_config["username"]),
         password=str(email_config["password"]),
         use_tls=bool(email_config.get("use_tls", True)),
+        audio_path=audio_path,
     )
 
     return {
         "status": "completed",
         "briefing_file": str(briefing_path),
+        "audio_file": str(audio_path) if audio_path else None,
         "recipients": recipients,
         "subject": subject,
     }

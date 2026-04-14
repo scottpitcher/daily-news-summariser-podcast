@@ -578,7 +578,7 @@ MODELS: Final[dict[str, dict[str, object]]] = {
         "voice": _get_env("TTS_VOICE", "alloy"),
         "audio_format": _get_env("TTS_AUDIO_FORMAT", "mp3"),
         "speed": float(_get_env("TTS_SPEED", "1.0")),
-        "api_key": _get_env("HF_API_TOKEN"),
+        "api_key": _get_env("OPENAI_TTS_API_KEY"),
         "target_duration_minutes": BRIEFING_OUTPUT["target_audio_duration_minutes"],
     },
 }
