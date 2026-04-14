@@ -18,7 +18,13 @@ from difflib import SequenceMatcher
 from pathlib import Path
 from typing import Any
 
-from config import BASE_DIR, ISSUE_AREA_ARTICLE_CAPS, ISSUE_AREAS, RANKING_WEIGHTS
+from config import (
+    BASE_DIR,
+    ISSUE_AREA_ARTICLE_CAPS,
+    ISSUE_AREAS,
+    MALONEY_OFFICE_KEYWORDS,
+    RANKING_WEIGHTS,
+)
 
 
 DEFAULT_INPUT_DIR = BASE_DIR / "data" / "processed" / "tagged"
@@ -212,6 +218,43 @@ def local_relevance_score(article: dict[str, Any]) -> float:
     return 0.5
 
 
+def maloney_relevance_score(article: dict[str, Any]) -> float:
+    """Score how directly an article connects to CM Maloney's portfolio.
+
+    Checks article text against keyword lists for each committee, caucus,
+    and district geography.  More matched areas → higher score, with
+    bonuses for her committee chair (Economic Development) and her
+    district (District 4).
+    """
+    title = normalize_text(str(article.get("title") or ""))
+    body = normalize_text(str(article.get("article_text") or ""))
+    search_text = f"{title} {body}"
+
+    matched_areas: set[str] = set()
+    for area_key, keywords in MALONEY_OFFICE_KEYWORDS.items():
+        for keyword in keywords:
+            if keyword in search_text:
+                matched_areas.add(area_key)
+                break
+
+    match_count = len(matched_areas)
+    if match_count == 0:
+        score = 0.0
+    elif match_count == 1:
+        score = 0.4
+    elif match_count == 2:
+        score = 0.7
+    else:
+        score = 1.0
+
+    if "economic_development" in matched_areas:
+        score += 0.15
+    if "district_4" in matched_areas:
+        score += 0.15
+
+    return min(score, 1.0)
+
+
 def title_similarity(left: str | None, right: str | None) -> float:
     """Measure title overlap between two articles."""
     normalized_left = normalize_text(left)
@@ -277,6 +320,7 @@ def score_article_for_issue(
         "title_signal": title_specificity_score(article),
         "content_quality": content_quality_score(article),
         "cross_source_confirmation": cross_source_confirmation_score(article, issue_articles),
+        "maloney_relevance": maloney_relevance_score(article),
     }
     penalty_scores = {
         "overlap_penalty": overlap_penalty(article, issue_articles),

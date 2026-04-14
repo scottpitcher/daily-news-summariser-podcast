@@ -26,12 +26,12 @@ DEFAULT_INPUT_DIR = BASE_DIR / "data" / "processed" / "ranked"
 DEFAULT_OUTPUT_DIR = BASE_DIR / "data" / "processed" / "article_summaries"
 DEFAULT_OUTPUT_PREFIX = "article_summaries"
 DEFAULT_TIMEOUT_SECONDS = 30
-DEFAULT_PROVIDER = str(MODELS["summarization"].get("provider") or "openai")
-DEFAULT_MODEL = str(MODELS["summarization"].get("model") or "gpt-4.1-mini")
+DEFAULT_PROVIDER = str(MODELS["summarization"].get("provider") or "huggingface")
+DEFAULT_MODEL = str(MODELS["summarization"].get("model") or "Qwen/Qwen2.5-7B-Instruct")
 DEFAULT_MAX_TOKENS = int(MODELS["summarization"].get("max_tokens") or 1200)
 DEFAULT_TEMPERATURE = float(MODELS["summarization"].get("temperature") or 0.2)
 DEFAULT_TARGET_SUMMARY_WORDS = int(MODELS["summarization"].get("target_summary_words") or 120)
-DEFAULT_API_BASE = str(MODELS["summarization"].get("base_url") or "https://api.openai.com/v1")
+DEFAULT_API_BASE = str(MODELS["summarization"].get("base_url") or "https://router.huggingface.co/v1")
 DEFAULT_API_KEY = MODELS["summarization"].get("api_key")
 
 LOGGER = logging.getLogger("summarize_articles")
@@ -39,10 +39,23 @@ LOGGER = logging.getLogger("summarize_articles")
 SYSTEM_PROMPT_TEMPLATE = str(
     MODELS["summarization"].get("system_prompt_template")
     or (
-        "You write concise, factual news briefing summaries. "
-        "Return valid JSON only with keys: summary, why_it_matters. "
-        "The summary must be 2 to 4 sentences, neutral in tone, and useful "
-        "for a spoken daily briefing. Avoid hype, speculation, and filler."
+        "You write concise, factual news briefing summaries for the office of "
+        "NYC Council Member Virginia Maloney (District 4, Manhattan). "
+        "She sits on these committees: Sanitation and Solid Waste Management, "
+        "Small Business, Finance, Cultural Affairs/Libraries/International Relations, "
+        "Economic Development (Chair), Fire and Emergency Management, Higher Education, "
+        "Housing and Buildings. She co-chairs the Irish Caucus and is in the Women's Caucus. "
+        "Return valid JSON only with keys: headline, bullets, so_what. "
+        "headline: a short rewritten title (5-10 words, not the original headline). "
+        "bullets: array of 1-2 key facts, each under 25 words, terse and informative. "
+        "so_what must be a specific, concrete sentence explaining how this story "
+        "connects to NYC policy, legislation, city services, or the daily lives "
+        "of New Yorkers — especially where it touches CM Maloney's committee "
+        "portfolio. Do NOT invent or stretch connections; linking a story to a "
+        "committee that has no jurisdiction over the topic is wrong. If no "
+        "defensible link exists, write exactly: "
+        "'No direct committee or district connection identified.' "
+        "Avoid hype, speculation, and filler."
     )
 )
 
@@ -118,8 +131,8 @@ def collect_selected_articles(payload: dict[str, Any]) -> list[dict[str, Any]]:
 
 def build_user_prompt(article: dict[str, Any], target_summary_words: int) -> str:
     """Build the article-specific prompt for the summarization model."""
-    article_text = normalize_text(str(article.get("article_text") or ""))
-    article_text = article_text[:12000]
+    article_text = strip_frontmatter(str(article.get("article_text") or ""))
+    article_text = normalize_text(article_text)[:12000]
 
     # The prompt includes ranking and source metadata because those fields are
     # often useful for explaining why a story matters in the final briefing.
@@ -135,10 +148,11 @@ def build_user_prompt(article: dict[str, Any], target_summary_words: int) -> str
         "article_text": article_text,
     }
     return (
-        "Summarize the following news article for a spoken daily briefing.\n"
+        "Summarize the following news article for a daily briefing.\n"
         "Return valid JSON with keys:\n"
-        '- "summary": 2 to 4 sentences\n'
-        '- "why_it_matters": 1 concise sentence\n\n'
+        '- "headline": short rewritten title (5-10 words, not the original headline)\n'
+        '- "bullets": array of 1-2 key facts (each under 25 words)\n'
+        '- "so_what": 1 specific sentence on how this connects to NYC policy, legislation, city services, or daily life for New Yorkers (never generic)\n\n'
         f"{json.dumps(prompt_payload, ensure_ascii=True)}"
     )
 
@@ -215,35 +229,57 @@ def summarize_with_openai_compatible_api(
     if parsed is None:
         return None
 
-    summary = normalize_text(str(parsed.get("summary") or ""))
-    why_it_matters = normalize_text(str(parsed.get("why_it_matters") or ""))
-    if not summary:
+    headline = normalize_text(str(parsed.get("headline") or ""))
+    raw_bullets = parsed.get("bullets") or []
+    if isinstance(raw_bullets, list):
+        bullets = [normalize_text(str(b)) for b in raw_bullets if normalize_text(str(b))]
+    else:
+        bullets = [normalize_text(str(raw_bullets))] if normalize_text(str(raw_bullets)) else []
+    so_what = normalize_text(str(parsed.get("so_what") or parsed.get("why_it_matters_to_nyc") or parsed.get("why_it_matters") or ""))
+
+    # Fall back to old "summary" key if headline is missing (model compat)
+    if not headline:
+        headline = normalize_text(str(parsed.get("summary") or ""))
+    if not headline:
         return None
 
     return {
-        "summary": summary,
-        "why_it_matters": why_it_matters,
+        "headline": headline,
+        "bullets": bullets,
+        "summary": headline,
+        "so_what": so_what,
     }
 
 
-def fallback_summary(article: dict[str, Any]) -> dict[str, str]:
+def strip_frontmatter(text: str) -> str:
+    """Remove YAML-style frontmatter (``--- ... ---``) from scraped article text."""
+    return re.sub(r"^---\s.*?---\s*", "", text, count=1, flags=re.DOTALL).strip()
+
+
+def fallback_summary(article: dict[str, Any]) -> dict[str, Any]:
     """Create a simple extractive fallback summary when API generation fails."""
-    sentences = split_sentences(str(article.get("article_text") or ""))
-    summary_sentences = sentences[:3]
-    summary = " ".join(summary_sentences).strip()
+    raw_text = strip_frontmatter(str(article.get("article_text") or ""))
+    sentences = split_sentences(raw_text)
 
-    # The fallback keeps the output usable for downstream synthesis even when
-    # the model call fails or is not configured in the environment.
-    if not summary:
-        summary = normalize_text(str(article.get("title") or ""))
+    # Build headline from the article title, truncated to ~10 words.
+    title = normalize_text(str(article.get("title") or ""))
+    title_words = title.split()
+    headline = " ".join(title_words[:10]) if title_words else "Untitled article"
 
-    why_it_matters = (
-        f"This matters for {article.get('issue_area', 'the daily briefing')} "
-        f"because it affects {str(article.get('source_level') or 'public')} coverage priorities."
+    # Build bullets from the first 1-2 sentences of article text.
+    bullets = [s for s in sentences[:2] if s]
+    if not bullets:
+        bullets = [title] if title else ["No details available."]
+
+    so_what = (
+        f"Relevant to NYC {article.get('issue_area', 'policy').replace('_', ' ')} "
+        f"— check the full article for specific local implications."
     )
     return {
-        "summary": summary,
-        "why_it_matters": normalize_text(why_it_matters),
+        "headline": headline,
+        "bullets": bullets,
+        "summary": headline,
+        "so_what": normalize_text(so_what),
     }
 
 
@@ -263,10 +299,12 @@ def build_summary_record(
         "published_at": article.get("published_at"),
     }
     return {
+        "headline": summary_fields.get("headline"),
+        "bullets": summary_fields.get("bullets", []),
         "summary": summary_fields.get("summary"),
         "issue_area": article.get("issue_area"),
         "source_level": article.get("source_level"),
-        "why_it_matters": summary_fields.get("why_it_matters"),
+        "so_what": summary_fields.get("so_what"),
         "source_citation": citation,
         "summary_status": summary_status,
         "summary_method": "llm_api" if summary_status == "generated" else "fallback",
@@ -292,7 +330,7 @@ def summarize_article(
     failure_reason: str | None = None
 
     try:
-        if provider == "openai" and api_key:
+        if provider in ("huggingface", "openai", "cerebras") and api_key:
             summary_fields = summarize_with_openai_compatible_api(
                 article=article,
                 api_key=api_key,
@@ -303,7 +341,7 @@ def summarize_article(
                 timeout=timeout,
                 target_summary_words=target_summary_words,
             )
-        elif provider == "openai":
+        elif provider in ("huggingface", "openai"):
             failure_reason = "missing_api_key"
         else:
             failure_reason = f"unsupported_provider:{provider}"

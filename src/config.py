@@ -64,9 +64,9 @@ def _source(
 ) -> dict[str, object]:
     """Create a normalized source record for scrapers and feed readers."""
     priority_weights = {
-        "national": 1.0,
+        "national": 0.75,
         "state": 0.85,
-        "local": 0.75,
+        "local": 1.0,
     }
     return {
         "name": name,
@@ -87,99 +87,99 @@ def _source(
 
 # Source registries are grouped by coverage level so downstream jobs can choose
 # a national-only run or expand into state and local editions.
-NATIONAL_SOURCES: Final[list[dict[str, object]]] = [
-    _source(
-        name="Associated Press",
-        homepage_url="https://apnews.com/",
-        rss_url="https://apnews.com/hub/ap-top-news?output=rss",
-        level="national",
-        source_type="rss",
-    ),
-    _source(
-        name="Reuters World News",
-        homepage_url="https://www.reuters.com/world/",
-        rss_url="https://feeds.reuters.com/Reuters/worldNews",
-        level="national",
-        source_type="rss",
-    ),
-    _source(
-        name="NPR News",
-        homepage_url="https://www.npr.org/sections/news/",
-        rss_url="https://feeds.npr.org/1001/rss.xml",
-        level="national",
-        source_type="rss",
-    ),
-    _source(
-        name="PBS News",
-        homepage_url="https://www.pbs.org/newshour/",
-        rss_url="https://www.pbs.org/newshour/feeds/rss/headlines",
-        level="national",
-        source_type="rss",
-    ),
-]
+# NATIONAL_SOURCES: Final[list[dict[str, object]]] = [
+#     _source(
+#         name="Associated Press",
+#         homepage_url="https://apnews.com/",
+#         rss_url="https://apnews.com/hub/ap-top-news?output=rss",
+#         level="national",
+#         source_type="rss",
+#     ),
+#     _source(
+#         name="Reuters World News",
+#         homepage_url="https://www.reuters.com/world/",
+#         rss_url="https://feeds.reuters.com/Reuters/worldNews",
+#         level="national",
+#         source_type="rss",
+#     ),
+#     _source(
+#         name="NPR News",
+#         homepage_url="https://www.npr.org/sections/news/",
+#         rss_url="https://feeds.npr.org/1001/rss.xml",
+#         level="national",
+#         source_type="rss",
+#     ),
+#     _source(
+#         name="PBS News",
+#         homepage_url="https://www.pbs.org/newshour/",
+#         rss_url="https://www.pbs.org/newshour/feeds/rss/headlines",
+#         level="national",
+#         source_type="rss",
+#     ),
+# ]
 
 
-STATE_SOURCES: Final[dict[str, list[dict[str, object]]]] = {
-    "new_york": [
-        _source(
-            name="New York State Government News",
-            homepage_url="https://www.governor.ny.gov/news",
-            rss_url=None,
-            level="state",
-            source_type="html",
-        ),
-        _source(
-            name="New York Public Radio",
-            homepage_url="https://www.wnyc.org/",
-            rss_url="https://www.wnyc.org/feeds/whatsnew/",
-            level="state",
-            source_type="rss",
-        ),
-    ],
-    "california": [
-        _source(
-            name="Office of the Governor of California",
-            homepage_url="https://www.gov.ca.gov/newsroom/",
-            rss_url=None,
-            level="state",
-            source_type="html",
-        ),
-        _source(
-            name="CalMatters",
-            homepage_url="https://calmatters.org/",
-            rss_url="https://calmatters.org/feed/",
-            level="state",
-            source_type="rss",
-        ),
-    ],
-    "texas": [
-        _source(
-            name="The Texas Tribune",
-            homepage_url="https://www.texastribune.org/",
-            rss_url="https://www.texastribune.org/feeds/articles/",
-            level="state",
-            source_type="rss",
-        ),
-        _source(
-            name="Office of the Texas Governor News",
-            homepage_url="https://gov.texas.gov/news",
-            rss_url=None,
-            level="state",
-            source_type="html",
-        ),
-    ],
-}
+# STATE_SOURCES: Final[dict[str, list[dict[str, object]]]] = {
+#     "new_york": [
+#         _source(
+#             name="New York State Government News",
+#             homepage_url="https://www.governor.ny.gov/news",
+#             rss_url=None,
+#             level="state",
+#             source_type="html",
+#         ),
+#         _source(
+#             name="New York Public Radio",
+#             homepage_url="https://www.wnyc.org/",
+#             rss_url="https://www.wnyc.org/feeds/whatsnew/",
+#             level="state",
+#             source_type="rss",
+#         ),
+#     ],
+#     "california": [
+#         _source(
+#             name="Office of the Governor of California",
+#             homepage_url="https://www.gov.ca.gov/newsroom/",
+#             rss_url=None,
+#             level="state",
+#             source_type="html",
+#         ),
+#         _source(
+#             name="CalMatters",
+#             homepage_url="https://calmatters.org/",
+#             rss_url="https://calmatters.org/feed/",
+#             level="state",
+#             source_type="rss",
+#         ),
+#     ],
+#     "texas": [
+#         _source(
+#             name="The Texas Tribune",
+#             homepage_url="https://www.texastribune.org/",
+#             rss_url="https://www.texastribune.org/feeds/articles/",
+#             level="state",
+#             source_type="rss",
+#         ),
+#         _source(
+#             name="Office of the Texas Governor News",
+#             homepage_url="https://gov.texas.gov/news",
+#             rss_url=None,
+#             level="state",
+#             source_type="html",
+#         ),
+#     ],
+# }
 
 
 LOCAL_SOURCES: Final[dict[str, list[dict[str, object]]]] = {
     "new_york_city": [
-        _source(
-            name="The New York Times",
-            homepage_url="https://www.nytimes.com/section/nyregion",
-            rss_url="https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml",
-            level="local",
-            source_type="rss",
-        ),
+        # _source(
+        #     name="The New York Times",
+        #     homepage_url="https://www.nytimes.com/section/nyregion",
+        #     rss_url="https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml",
+        #     level="local",
+        #     source_type="rss",
+        # ),
         _source(
             name="New York Daily News",
             homepage_url="https://www.nydailynews.com/",
@@ -285,13 +285,13 @@ LOCAL_SOURCES: Final[dict[str, list[dict[str, object]]]] = {
             level="local",
             source_type="html",
         ),
-        _source(
-            name="The Jewish Star",
-            homepage_url="https://www.thejewishstar.com/",
-            rss_url=None,
-            level="local",
-            source_type="html",
-        ),
+        # _source(
+        #     name="The Jewish Star",
+        #     homepage_url="https://www.thejewishstar.com/",
+        #     rss_url=None,
+        #     level="local",
+        #     source_type="html",
+        # ),
     ],
 }
 
@@ -435,13 +435,14 @@ PIPELINE_STAGES: Final[dict[str, dict[str, object]]] = {
 # Ranking weights are designed to be composable across scripts. Each score
 # component can be multiplied by the values here and summed into one rank score.
 RANKING_WEIGHTS: Final[dict[str, float]] = {
-    "source_priority": _get_float_env("RANK_WEIGHT_SOURCE_PRIORITY", 0.25),
+    "source_priority": _get_float_env("RANK_WEIGHT_SOURCE_PRIORITY", 0.20),
     "issue_priority": _get_float_env("RANK_WEIGHT_ISSUE_PRIORITY", 0.20),
     "recency": _get_float_env("RANK_WEIGHT_RECENCY", 0.20),
     "local_relevance": _get_float_env("RANK_WEIGHT_LOCAL_RELEVANCE", 0.10),
-    "title_signal": _get_float_env("RANK_WEIGHT_TITLE_SIGNAL", 0.10),
+    "title_signal": _get_float_env("RANK_WEIGHT_TITLE_SIGNAL", 0.05),
     "content_quality": _get_float_env("RANK_WEIGHT_CONTENT_QUALITY", 0.10),
     "cross_source_confirmation": _get_float_env("RANK_WEIGHT_CROSS_SOURCE_CONFIRMATION", 0.05),
+    "maloney_relevance": _get_float_env("RANK_WEIGHT_MALONEY_RELEVANCE", 0.10),
 }
 
 # Source priority weights give the ranking stage a stable baseline per source
@@ -465,6 +466,55 @@ SOURCE_PRIORITY_WEIGHTS: Final[dict[str, float]] = {
     "Austin Monitor": 0.83,
 }
 
+# Keywords grouped by CM Virginia Maloney's committee assignments, caucuses,
+# and district geography. The ranking stage uses these to score how closely an
+# article connects to her legislative portfolio.
+MALONEY_OFFICE_KEYWORDS: Final[dict[str, list[str]]] = {
+    "sanitation_solid_waste": [
+        "sanitation", "waste", "trash", "recycling", "garbage",
+        "composting", "landfill", "dsny",
+    ],
+    "small_business": [
+        "small business", "storefront", "commercial rent",
+        "business improvement district", "merchant", "vendor", "bid",
+    ],
+    "finance": [
+        "budget", "fiscal", "bonds", "revenue", "tax", "deficit",
+        "comptroller", "municipal finance", "omb",
+    ],
+    "economic_development": [
+        "economic development", "edc", "nycedc", "jobs program",
+        "workforce development", "rezoning", "commercial development",
+    ],
+    "fire_emergency_management": [
+        "fdny", "fire department", "firefighter", "emergency management",
+        "oem", "fire safety", "emergency response",
+    ],
+    "higher_education": [
+        "cuny", "community college", "higher education", "tuition",
+        "university", "campus",
+    ],
+    "cultural_affairs_libraries": [
+        "library", "libraries", "museum", "arts", "cultural affairs",
+        "nypl", "cultural institution",
+    ],
+    "housing_buildings": [
+        "housing", "buildings", "dob", "hpd", "rent", "tenant",
+        "landlord", "affordable housing", "building code", "zoning",
+        "eviction", "construction",
+    ],
+    "womens_caucus": [
+        "women", "gender", "maternal", "childcare", "pay equity",
+    ],
+    "irish_caucus": [
+        "irish", "ireland",
+    ],
+    "district_4": [
+        "upper east side", "midtown east", "turtle bay", "murray hill",
+        "sutton place", "district 4", "manhattan",
+    ],
+}
+
 # A direct issue-area cap map makes selection logic simple even if a script does
 # not want to read the full issue area definition structure.
 ISSUE_AREA_ARTICLE_CAPS: Final[dict[str, int]] = {
@@ -481,7 +531,7 @@ BRIEFING_OUTPUT: Final[dict[str, object]] = {
     "max_story_count": _get_int_env("BRIEFING_MAX_STORY_COUNT", 10),
     "intro_template": _get_env(
         "BRIEFING_INTRO_TEMPLATE",
-        "Here is your automated daily news briefing.",
+        "",
     ),
     "outro_template": _get_env(
         "BRIEFING_OUTRO_TEMPLATE",
@@ -513,12 +563,12 @@ DEDUPE: Final[dict[str, object]] = {
 # model IDs, or token limits without changing application code.
 MODELS: Final[dict[str, dict[str, object]]] = {
     "summarization": {
-        "provider": _get_env("SUMMARIZATION_PROVIDER", "openai"),
-        "model": _get_env("SUMMARIZATION_MODEL", "gpt-4.1-mini"),
+        "provider": _get_env("SUMMARIZATION_PROVIDER", "cerebras"),
+        "model": _get_env("SUMMARIZATION_MODEL", "llama3.1-8b"),
         "temperature": float(_get_env("SUMMARIZATION_TEMPERATURE", "0.2")),
         "max_tokens": int(_get_env("SUMMARIZATION_MAX_TOKENS", "1200")),
-        "api_key": _get_env("OPENAI_API_KEY"),
-        "base_url": _get_env("OPENAI_BASE_URL"),
+        "api_key": _get_env("SUMMARIZATION_API_KEY") or _get_env("HF_API_TOKEN"),
+        "base_url": _get_env("SUMMARIZATION_BASE_URL") or _get_env("HF_BASE_URL", "https://api.cerebras.ai/v1"),
         "target_summary_words": _get_int_env("TARGET_SUMMARY_WORDS", 120),
         "system_prompt_template": _get_env("SUMMARIZATION_SYSTEM_PROMPT"),
     },
@@ -528,7 +578,7 @@ MODELS: Final[dict[str, dict[str, object]]] = {
         "voice": _get_env("TTS_VOICE", "alloy"),
         "audio_format": _get_env("TTS_AUDIO_FORMAT", "mp3"),
         "speed": float(_get_env("TTS_SPEED", "1.0")),
-        "api_key": _get_env("OPENAI_API_KEY"),
+        "api_key": _get_env("HF_API_TOKEN"),
         "target_duration_minutes": BRIEFING_OUTPUT["target_audio_duration_minutes"],
     },
 }
@@ -582,7 +632,7 @@ DELIVERY: Final[dict[str, dict[str, object]]] = {
 # A small explicit secrets map helps validation code fail fast when required
 # credentials are missing for a selected provider or delivery backend.
 SECRETS: Final[dict[str, str | None]] = {
-    "openai_api_key": _get_env("OPENAI_API_KEY"),
+    "hf_api_token": _get_env("HF_API_TOKEN"),
     "smtp_password": _get_env("SMTP_PASSWORD"),
     "google_service_account_json": _get_env("GOOGLE_SERVICE_ACCOUNT_JSON"),
     "google_service_account_file": _get_env("GOOGLE_SERVICE_ACCOUNT_FILE"),
@@ -604,8 +654,9 @@ __all__ = [
     "ISSUE_AREAS",
     "ISSUE_AREA_ARTICLE_CAPS",
     "LOCAL_SOURCES",
+    "MALONEY_OFFICE_KEYWORDS",
     "MODELS",
-    "NATIONAL_SOURCES",
+    # "NATIONAL_SOURCES",
     "OUTPUT_DIRS",
     "PIPELINE_STAGES",
     "PROJECT_NAME",
@@ -613,6 +664,6 @@ __all__ = [
     "RANKING_WEIGHTS",
     "SECRETS",
     "SOURCE_PRIORITY_WEIGHTS",
-    "STATE_SOURCES",
+    # "STATE_SOURCES",
     "ensure_output_dirs",
 ]

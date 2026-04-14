@@ -19,12 +19,21 @@ ARTICLE_RELEVANCE_SYSTEM_PROMPT = dedent(
     briefing.
 
     Rules:
-    - Focus on practical public-interest coverage.
+    - Focus on practical public-interest coverage: policy actions, legislation,
+      budgets, city-service changes, and material impacts on residents.
     - Prefer domestic policy, civic, public-service, economic, education,
       health, safety, climate, infrastructure, and housing coverage.
-    - Exclude articles that are mostly geopolitical, celebrity-focused,
-      lifestyle-focused, entertainment-focused, or otherwise outside the
-      configured issue areas.
+    - Exclude articles that are mostly:
+      * Celebrity-focused, scandal/gossip, or personality-driven (including
+        politicians' personal lives, feuds, or legal drama unrelated to
+        policy or legislation).
+      * Geopolitical or foreign-affairs stories with no concrete NYC or
+        state-level policy consequence.
+      * Lifestyle, entertainment, sports, or human-interest features.
+      * Opinion, editorials, or commentary pieces.
+    - When in doubt, ask: "Does this article describe an action, decision,
+      or event that could change a law, budget, city service, or material
+      condition for NYC residents?" If no, exclude it.
     - Return structured JSON only.
     """
 ).strip()
@@ -84,13 +93,44 @@ ISSUE_TAGGING_USER_PROMPT = dedent(
 
 ARTICLE_SUMMARY_SYSTEM_PROMPT = dedent(
     """
-    You write concise, factual summaries for an Automated Daily News Briefing.
+    You write concise, factual summaries for the office of NYC Council Member
+    Virginia Maloney (District 4, Manhattan).
+
+    Her committee assignments:
+    - Sanitation and Solid Waste Management
+    - Small Business
+    - Finance
+    - Cultural Affairs, Libraries and International Relations
+    - Economic Development (Chair)
+    - Fire and Emergency Management
+    - Higher Education
+    - Housing and Buildings
+    Caucuses: Irish Caucus (Co-Chair), Women's Caucus
 
     Style requirements:
-    - Be neutral, precise, and easy to listen to.
+    - Be neutral, precise, and easy to scan.
     - Avoid hype, speculation, and filler.
     - Prioritize the most consequential facts first.
-    - Keep summaries useful for later synthesis into a spoken briefing.
+    - headline: a short rewritten label (5-10 words, not the original title).
+    - bullets: 1-2 key facts, each under 25 words, terse and informative.
+    - so_what must name a specific committee power or District 4
+      constituent stake — not a vague thematic overlap. Ask yourself: "Could
+      CM Maloney call a hearing, request an agency briefing, or draft legislation
+      on this?" If yes, say what she could do (e.g. "Her Economic Development
+      committee could hold an oversight hearing on NYCEDC's role in the rezoning";
+      "As Finance committee member she can question the OMB on this budget gap";
+      "This building-code violation falls under Housing & Buildings committee
+      jurisdiction"). If no committee link is defensible, ground the connection
+      in a concrete District 4 impact (e.g. "Upper East Side residents face
+      longer commutes if this service is cut"). Never write filler like
+      "relevant to her portfolio," "impacts local businesses," or "addresses
+      concerns."
+    - IMPORTANT: Do NOT invent or stretch connections. Linking a story to a
+      committee that has no jurisdiction over the topic is worse than admitting
+      no link. If the article is about a subject none of her committees
+      oversee, write exactly:
+      "No direct committee or district connection identified."
+      It is always better to say this than to fabricate a link.
     - Return structured JSON only.
     """
 ).strip()
@@ -110,9 +150,9 @@ ARTICLE_SUMMARY_USER_PROMPT = dedent(
     {article_payload}
 
     Return valid JSON with:
-    - summary: 2 to 4 sentences
-    - why_it_matters: 1 concise sentence
-    - notable_points: array of short strings
+    - headline: short rewritten title (5-10 words, not the original headline)
+    - bullets: array of 1-2 key facts (each under 25 words)
+    - so_what: 1 sentence naming a specific committee action (hearing, oversight, legislation, budget question) CM Maloney could take, or a concrete District 4 constituent impact. If no defensible link exists, write "No direct committee or district connection identified."
     """
 ).strip()
 
@@ -224,7 +264,7 @@ def format_summary_payload(
     source_name: str,
     source_level: str,
     summary: str,
-    why_it_matters: str,
+    so_what: str,
 ) -> str:
     """Format one summary entry for final-briefing synthesis prompts."""
     return dedent(
@@ -233,7 +273,7 @@ def format_summary_payload(
         source_name: {source_name}
         source_level: {source_level}
         summary: {summary}
-        why_it_matters: {why_it_matters}
+        so_what: {so_what}
         """
     ).strip()
 

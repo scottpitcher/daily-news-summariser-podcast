@@ -1,0 +1,408 @@
+{
+  "generated_at": "2026-04-09T00:00:00+00:00",
+  "source_file": "/Users/atmikapai/Documents/GitHub/daily-news-summariser-podcast/src/data/processed/ranked/ranked_articles_2026-04-09.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Readers sound off on declining democracy, war profiteering and dog",
+      "bullets": [
+        "Squandering our resources and taking our rights Glendale, Calif.: The U.S.",
+        "and Israel launched joint military strikes on Iran on Feb."
+      ],
+      "summary": "Readers sound off on declining democracy, war profiteering and dog",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on declining democracy, war profiteering and dog waste",
+        "article_url": "https://www.nydailynews.com/2026/04/09/readers-sound-off-on-declining-democracy-war-profiteering-and-dog-waste/",
+        "published_at": "2026-04-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-09T22:29:29.422011+00:00"
+    },
+    {
+      "headline": "Melania Trump decries 'lies' linking her to Epstein, Maxwell",
+      "bullets": [
+        "First Lady Melania Trump made a rare public statement Thursday to call out what she described as \"lies\" about her relationship with Jeffrey Epstein and his accomplice Ghislaine Maxwell.",
+        "The first lady firmly denied a relationship with Epstein and Maxwell, but she didn\u2019t take any questions."
+      ],
+      "summary": "Melania Trump decries 'lies' linking her to Epstein, Maxwell",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Melania Trump decries 'lies' linking her to Epstein, Maxwell",
+        "article_url": "https://www.fox5ny.com/news/melania-trump-decries-lies-linking-her-epstein",
+        "published_at": "2026-04-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-09T22:29:29.422465+00:00"
+    },
+    {
+      "headline": "Roadway Dining is Back For Season, DOT Now Wants Year-Round",
+      "bullets": [
+        "Roadway Dining is Back For Season, DOT Now Wants Year-Round The agency is looking to depart from rules that were created under the Adams administration, in an apparent signal of agreement with restaurant owners who find seasonal-only provisions too costly.",
+        "First, however, the City Council must act."
+      ],
+      "summary": "Roadway Dining is Back For Season, DOT Now Wants Year-Round",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Roadway Dining is Back For Season, DOT Now Wants Year-Round",
+        "article_url": "https://www.ourtownny.com/news/roadway-dining-is-back-for-season-dot-now-wants-year-round-NA5736438",
+        "published_at": "2026-04-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-09T22:29:29.422766+00:00"
+    },
+    {
+      "headline": "See them in court: State should allow New Yorkers to",
+      "bullets": [
+        "Now that they are in overtime on the state budget and the policy matters are being haggled out, there is a way that New York legislators and Gov.",
+        "Hochul can smartly respond to the problem of overly aggressive ICE agents who have detained people willy-nilly, ostensibly for immigration enforcement but in a way that seems designed to be racially discriminatory and break political will in Democratic jurisdictions."
+      ],
+      "summary": "See them in court: State should allow New Yorkers to",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "See them in court: State should allow New Yorkers to sue feds",
+        "article_url": "https://www.nydailynews.com/2026/04/09/see-them-in-court-state-should-allow-new-yorkers-to-sue-feds/",
+        "published_at": "2026-04-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-09T22:29:29.423013+00:00"
+    },
+    {
+      "headline": "Travelers face higher costs and fewer flight options as jet",
+      "bullets": [
+        "A new reality is setting in for travelers worldwide: rising fees, fewer flight options and difficult decisions about whether a trip is worth the cost.",
+        "The culprit is volatile oil and jet fuel prices, which have spiked sharply since the war in the Middle East began and fighting near the narrow Strait of Hormuz created a chokepoint for global oil supplies."
+      ],
+      "summary": "Travelers face higher costs and fewer flight options as jet",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Travelers face higher costs and fewer flight options as jet fuel prices swing",
+        "article_url": "https://abc7ny.com/post/travelers-face-higher-costs-fewer-flight-options-jet-fuel-prices-swing/18861031/",
+        "published_at": "2026-04-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-09T22:29:29.423425+00:00"
+    },
+    {
+      "headline": "Easter Parade Draws Thousands to Promenade Outside St. Patrick\u00e2s",
+      "bullets": [
+        "Easter Parade Draws Thousands to Promenade Outside St.",
+        "Patrick\u00e2s The Easter Parade is more of a freestyle amble than a traditional parade but the revelers who turn out for the annual event in the streets outside St."
+      ],
+      "summary": "Easter Parade Draws Thousands to Promenade Outside St. Patrick\u00e2s",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Easter Parade Draws Thousands to Promenade Outside St. Patrick\u00e2s",
+        "article_url": "https://www.ourtownny.com/news/easter-parade-draws-thousands-to-promenade-outside-st-patrick-s-BF5733627",
+        "published_at": "2026-04-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-09T22:29:29.423876+00:00"
+    },
+    {
+      "headline": "Brooklyn Bridge Access to Get World Cup Glow Up: Mamdani",
+      "bullets": [
+        "Brooklyn Bridge Access to Get World Cup Glow Up: Mamdani Expecting a summer soccer tourist surge, Hizzoner announced a plan to make getting on and off the beloved span less perilous for bikes and pedestrians by eliminating the bike and pedestrian bottleneck on the Manhattan side.",
+        "The World Cup is coming, the World Cup is coming!"
+      ],
+      "summary": "Brooklyn Bridge Access to Get World Cup Glow Up: Mamdani",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Brooklyn Bridge Access to Get World Cup Glow Up: Mamdani",
+        "article_url": "https://www.ourtownny.com/news/brooklyn-bridge-access-to-get-world-cup-glow-up-mamdani-KC5730419",
+        "published_at": "2026-04-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-09T22:29:29.424340+00:00"
+    },
+    {
+      "headline": "Sean \u2018Diddy\u2019 Combs\u2019 bids for reduced sentence, saying judge gave",
+      "bullets": [
+        "A federal appeals court in New York weighed arguments Thursday over whether the 50-month prison term handed down to Sean \u201cDiddy\u201d Combs for his conviction on prostitution offenses was overly harsh and wrongly influenced by conduct he wasn\u2019t found guilty of.",
+        "The three-judge panel at the 2nd Circuit Court of Appeals sharply questioned lawyers for Combs and the Manhattan U.S."
+      ],
+      "summary": "Sean \u2018Diddy\u2019 Combs\u2019 bids for reduced sentence, saying judge gave",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Sean \u2018Diddy\u2019 Combs\u2019 bids for reduced sentence, saying judge gave too much weight to abusive behavior",
+        "article_url": "https://www.nydailynews.com/2026/04/09/sean-diddy-combs-bids-for-reduced-sentence-saying-judge-gave-too-much-weight-to-abusive-behavior/",
+        "published_at": "2026-04-09T17:26:45+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-09T22:29:29.424717+00:00"
+    },
+    {
+      "headline": "The year of 2026 in shocking pop culture moments \u2014",
+      "bullets": [
+        "Just days into Q2, it\u2019s hard to believe the breadth of what\u2019s already unfolded in pop culture this year.",
+        "From the silly and/or salacious, to the genuinely harrowing, nary a week has gone by without something surprising, if not downright disturbing, in the world of media, entertainment and celebrity."
+      ],
+      "summary": "The year of 2026 in shocking pop culture moments \u2014",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "The year of 2026 in shocking pop culture moments \u2014 and it\u2019s only April",
+        "article_url": "https://www.nydailynews.com/2026/04/09/pop-culture-moments-2026-only-april/",
+        "published_at": "2026-04-09T17:31:22+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-09T22:29:29.425361+00:00"
+    },
+    {
+      "headline": "\u2018Cooler cop\u2019 NYPD Sgt. Erik Duran sentenced to 3 to",
+      "bullets": [
+        "Sgt.",
+        "Erik Duran, the NYPD \u201cCooler Cop\u201d who killed a fleeing drug-deal suspect in the Bronx by hurling a heavy, ice-filled cooler at him, got a three-to-nine-year prison sentence Thursday, drawing cheers from criminal justice reform advocates and vitriol from the former cop\u2019s followers."
+      ],
+      "summary": "\u2018Cooler cop\u2019 NYPD Sgt. Erik Duran sentenced to 3 to",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "\u2018Cooler cop\u2019 NYPD Sgt. Erik Duran sentenced to 3 to 9 years for killing fleeing Bronx drug suspect",
+        "article_url": "https://www.nydailynews.com/2026/04/09/cooler-cop-nypd-sgt-erik-duran-sentenced-to-3-to-9-years-for-killing-fleeing-bronx-drug-suspect/",
+        "published_at": "2026-04-09T17:57:54+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-09T22:29:29.425866+00:00"
+    },
+    {
+      "headline": "NY prison strike helped fuel $1.6 billion in overtime pay",
+      "bullets": [
+        "New York state agencies spent more than $1.6 billion on overtime pay in 2025, marking a nearly 23% jump from the prior year, due in part to a corrections officer strike and ongoing staffing issues in the state\u2019s sprawling prison system, according to a report released Thursday.",
+        "The state\u2019s nearly 255,000 employees earned $1.6 billion while working nearly 26 million hours of overtime last year, which was $300 million more than 2024, the report from state Comptroller Thomas DiNapoli found."
+      ],
+      "summary": "NY prison strike helped fuel $1.6 billion in overtime pay",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NY prison strike helped fuel $1.6 billion in overtime pay in 2025",
+        "article_url": "https://gothamist.com/news/ny-prison-strike-helped-fuel-16-billion-in-overtime-pay-in-2025",
+        "published_at": "2026-04-09T17:20:53+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-09T22:29:29.426124+00:00"
+    },
+    {
+      "headline": "Readers sound off on declining democracy, war profiteering and dog",
+      "bullets": [
+        "Squandering our resources and taking our rights Glendale, Calif.: The U.S.",
+        "and Israel launched joint military strikes on Iran on Feb."
+      ],
+      "summary": "Readers sound off on declining democracy, war profiteering and dog",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on declining democracy, war profiteering and dog waste",
+        "article_url": "https://www.nydailynews.com/2026/04/09/readers-sound-off-on-declining-democracy-war-profiteering-and-dog-waste/",
+        "published_at": "2026-04-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-09T22:29:29.426581+00:00"
+    },
+    {
+      "headline": "Judges appear skeptical of arguments seeking to reduce Sean 'Diddy'",
+      "bullets": [
+        "The hip-hop mogul is serving a 50-month sentence.",
+        "NEW YORK -- A three-judge panel of the 2nd U.S."
+      ],
+      "summary": "Judges appear skeptical of arguments seeking to reduce Sean 'Diddy'",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Judges appear skeptical of arguments seeking to reduce Sean 'Diddy' Combs' sentence",
+        "article_url": "https://abc7ny.com/post/federal-appeals-court-hears-arguments-overturning-sean-diddy-combs-conviction/18860141/",
+        "published_at": "2026-04-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-09T22:29:29.426960+00:00"
+    },
+    {
+      "headline": "\u00e2Enough Is Enough\u00e2: 32BJ SEIU Ready to Enter Strike Zone",
+      "bullets": [
+        "\u00e2Enough Is Enough\u00e2: 32BJ SEIU Ready to Enter Strike Zone New York City building workers are preparing for a citywide walkout The workers who keep New York City moving are ready to come to a full stop.",
+        "The 34,000 doorpersons, porters, superintendents, handypersons and resident managers have rejected the Realty Advisory Board on Labor Relations\u00e2 (RAB) proposal for an updated contract and are preparing to strike."
+      ],
+      "summary": "\u00e2Enough Is Enough\u00e2: 32BJ SEIU Ready to Enter Strike Zone",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "\u00e2Enough Is Enough\u00e2: 32BJ SEIU Ready to Enter Strike Zone",
+        "article_url": "https://www.ourtownny.com/news/enough-is-enough-32bj-seiu-ready-to-enter-strike-zone-LE5745940",
+        "published_at": "2026-04-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-09T22:29:29.428165+00:00"
+    },
+    {
+      "headline": "As allergy season returns to NYC, here's how you can",
+      "bullets": [
+        "While the weather still has New Yorkers asking whether to grab their hoodies or their puffy coats, the blooms on the trees are a clear sign that both spring and allergy season have arrived.",
+        "All the tree pollen swirling around causes New Yorkers with seasonal allergies to sneeze, get watery eyes or feel congested in late March or early April."
+      ],
+      "summary": "As allergy season returns to NYC, here's how you can",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "As allergy season returns to NYC, here's how you can save yourself from pollen",
+        "article_url": "https://gothamist.com/news/as-allergy-season-returns-to-nyc-heres-how-you-can-save-yourself-from-pollen",
+        "published_at": "2026-04-09T10:31:07+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-09T22:29:29.428450+00:00"
+    },
+    {
+      "headline": "Easter Chocolate Prices Hop to New Heights",
+      "bullets": [
+        "Easter Chocolate Prices Hop to New Heights Chocolate now on shelves for Easter was made and packaged months ago when the cost of cocoa was more expensive.",
+        "The rising price of Easter chocolate has given many shoppers sticker shock rather than a sweet tooth."
+      ],
+      "summary": "Easter Chocolate Prices Hop to New Heights",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Easter Chocolate Prices Hop to New Heights",
+        "article_url": "https://www.ourtownny.com/news/easter-chocolate-prices-hop-to-new-heights-EC5730042",
+        "published_at": "2026-04-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-09T22:29:29.428726+00:00"
+    },
+    {
+      "headline": "NJ newsrooms are dying and shrinking, but is government funding",
+      "bullets": [
+        "It\u2019s a lot harder to find local news coverage in New Jersey than it used to be.",
+        "Thursday marks the first national \u201cLocal News Day\u201d \u2014 a \u201cday of action\u201d to bolster local outlets as the U.S."
+      ],
+      "summary": "NJ newsrooms are dying and shrinking, but is government funding",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NJ newsrooms are dying and shrinking, but is government funding the answer?",
+        "article_url": "https://gothamist.com/news/nj-newsrooms-are-dying-and-shrinking-but-is-government-funding-the-answer",
+        "published_at": "2026-04-09T16:15:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-09T22:29:29.429592+00:00"
+    },
+    {
+      "headline": "NYC\u2019s 1832 Merchant\u2019s House can\u2019t be put at risk",
+      "bullets": [
+        "How is it possible that New York could let its most fragile and rare three-story Greek Revival house museum be permanently damaged by a new adjacent nine-story office building?",
+        "How is it possible that the city Landmarks Preservation Commission would jeopardize the 1832 Merchant\u2019s House with its unique and unrepairable plaster work?"
+      ],
+      "summary": "NYC\u2019s 1832 Merchant\u2019s House can\u2019t be put at risk",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYC\u2019s 1832 Merchant\u2019s House can\u2019t be put at risk",
+        "article_url": "https://www.nydailynews.com/2026/04/09/nycs-1832-merchants-house-cant-be-put-at-risk/",
+        "published_at": "2026-04-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "unsupported_provider:cerebras",
+      "summarized_at": "2026-04-09T22:29:29.429871+00:00"
+    }
+  ]
+}

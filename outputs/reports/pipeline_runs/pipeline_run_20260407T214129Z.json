@@ -1,0 +1,138 @@
+{
+  "pipeline_status": "completed",
+  "started_at": "2026-04-07T21:41:29.102789+00:00",
+  "ended_at": "2026-04-07T21:45:06.460502+00:00",
+  "stages": [
+    {
+      "stage": "fetch_sources",
+      "status": "completed",
+      "started_at": "2026-04-07T21:41:29.103599+00:00",
+      "ended_at": "2026-04-07T21:41:32.051352+00:00",
+      "artifacts": {
+        "article_count": 345,
+        "output_file": "/Users/atmikapai/Documents/GitHub/daily-news-summariser-podcast/src/data/raw/candidates/article_candidates_2026-04-07.json",
+        "run_date": "2026-04-07"
+      }
+    },
+    {
+      "stage": "extract_articles",
+      "status": "completed",
+      "started_at": "2026-04-07T21:41:32.051420+00:00",
+      "ended_at": "2026-04-07T21:42:10.668477+00:00",
+      "artifacts": {
+        "input_file": "/Users/atmikapai/Documents/GitHub/daily-news-summariser-podcast/src/data/raw/candidates/article_candidates_2026-04-07.json",
+        "candidate_count": 345,
+        "article_count": 177,
+        "output_file": "/Users/atmikapai/Documents/GitHub/daily-news-summariser-podcast/src/data/raw/articles/articles_2026-04-07.json"
+      }
+    },
+    {
+      "stage": "clean_and_dedupe",
+      "status": "completed",
+      "started_at": "2026-04-07T21:42:10.668577+00:00",
+      "ended_at": "2026-04-07T21:45:01.532086+00:00",
+      "artifacts": {
+        "input_file": "/Users/atmikapai/Documents/GitHub/daily-news-summariser-podcast/src/data/raw/articles/articles_2026-04-07.json",
+        "output_file": "/Users/atmikapai/Documents/GitHub/daily-news-summariser-podcast/src/data/processed/deduped/deduped_articles_2026-04-07.json",
+        "dedupe_stats": {
+          "input_articles": 177,
+          "removed_exact_url_duplicates": 0,
+          "removed_title_near_duplicates": 3,
+          "removed_text_near_duplicates": 1,
+          "output_articles": 173
+        }
+      }
+    },
+    {
+      "stage": "tag_articles",
+      "status": "completed",
+      "started_at": "2026-04-07T21:45:01.532219+00:00",
+      "ended_at": "2026-04-07T21:45:01.693156+00:00",
+      "artifacts": {
+        "input_file": "/Users/atmikapai/Documents/GitHub/daily-news-summariser-podcast/src/data/processed/deduped/deduped_articles_2026-04-07.json",
+        "output_file": "/Users/atmikapai/Documents/GitHub/daily-news-summariser-podcast/src/data/processed/tagged/tagged_articles_2026-04-07.json",
+        "tagging_stats": {
+          "input_articles": 173,
+          "relevant_articles": 128,
+          "excluded_articles": 45,
+          "invalid_articles": 0
+        }
+      }
+    },
+    {
+      "stage": "rank_articles",
+      "status": "completed",
+      "started_at": "2026-04-07T21:45:01.693237+00:00",
+      "ended_at": "2026-04-07T21:45:06.333716+00:00",
+      "artifacts": {
+        "input_file": "/Users/atmikapai/Documents/GitHub/daily-news-summariser-podcast/src/data/processed/tagged/tagged_articles_2026-04-07.json",
+        "output_file": "/Users/atmikapai/Documents/GitHub/daily-news-summariser-podcast/src/data/processed/ranked/ranked_articles_2026-04-07.json",
+        "ranking_stats": {
+          "input_articles": 173,
+          "relevant_articles": 128,
+          "ranked_articles": 238,
+          "selected_articles": 18
+        }
+      }
+    },
+    {
+      "stage": "summarize_articles",
+      "status": "completed",
+      "started_at": "2026-04-07T21:45:06.333819+00:00",
+      "ended_at": "2026-04-07T21:45:06.349277+00:00",
+      "artifacts": {
+        "input_file": "/Users/atmikapai/Documents/GitHub/daily-news-summariser-podcast/src/data/processed/ranked/ranked_articles_2026-04-07.json",
+        "output_file": "/Users/atmikapai/Documents/GitHub/daily-news-summariser-podcast/src/data/processed/article_summaries/article_summaries_2026-04-07.json",
+        "summary_stats": {
+          "input_articles": 18,
+          "generated_summaries": 0,
+          "fallback_summaries": 18
+        }
+      }
+    },
+    {
+      "stage": "build_briefing",
+      "status": "completed",
+      "started_at": "2026-04-07T21:45:06.349310+00:00",
+      "ended_at": "2026-04-07T21:45:06.351979+00:00",
+      "artifacts": {
+        "input_file": "/Users/atmikapai/Documents/GitHub/daily-news-summariser-podcast/src/data/processed/article_summaries/article_summaries_2026-04-07.json",
+        "txt_report": "/Users/atmikapai/Documents/GitHub/daily-news-summariser-podcast/outputs/reports/daily_briefing_2026-04-07.txt",
+        "markdown_report": "/Users/atmikapai/Documents/GitHub/daily-news-summariser-podcast/outputs/reports/daily_briefing_2026-04-07.md",
+        "briefing_stats": {
+          "input_summaries": 18,
+          "included_summaries": 14,
+          "issue_areas_included": 5,
+          "transcript_word_count": 1397,
+          "transcript_word_budget": 1400,
+          "target_audio_duration_minutes": 25.0
+        }
+      }
+    },
+    {
+      "stage": "generate_tts",
+      "status": "skipped",
+      "started_at": "2026-04-07T21:45:06.352013+00:00",
+      "ended_at": "2026-04-07T21:45:06.352741+00:00",
+      "artifacts": {
+        "status": "skipped",
+        "reason": "module_not_found",
+        "run_date": "2026-04-07"
+      }
+    },
+    {
+      "stage": "deliver_report",
+      "status": "completed",
+      "started_at": "2026-04-07T21:45:06.352766+00:00",
+      "ended_at": "2026-04-07T21:45:06.460462+00:00",
+      "artifacts": {
+        "status": "completed",
+        "result": {
+          "status": "skipped",
+          "reason": "email_delivery_disabled"
+        },
+        "run_date": "2026-04-07"
+      }
+    }
+  ]
+}

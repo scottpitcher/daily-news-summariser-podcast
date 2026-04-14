@@ -1,0 +1,44 @@
+name: Daily News Briefing
+
+on:
+  schedule:
+    # 9:00 UTC = 5:00 AM ET (during EDT; 4:00 AM during EST), weekdays only
+    - cron: '0 9 * * 1-5'
+  workflow_dispatch:
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    env:
+      # Cerebras LLM summarization (replaces HuggingFace)
+      SUMMARIZATION_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
+      SUMMARIZATION_BASE_URL: https://api.cerebras.ai/v1
+      SUMMARIZATION_MODEL: llama3.1-8b
+      SUMMARIZATION_PROVIDER: cerebras
+      # HF vars (kept for reference):
+      # HF_API_TOKEN: ${{ secrets.HF_API_TOKEN }}
+      # HF_BASE_URL: https://router.huggingface.co/v1
+      EMAIL_DELIVERY_ENABLED: "true"
+      SMTP_HOST: smtp.gmail.com
+      SMTP_PORT: "587"
+      SMTP_USERNAME: aap253@cornell.edu
+      SMTP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+      EMAIL_SENDER: aap253@cornell.edu
+      # EMAIL_RECIPIENTS: aap253@cornell.edu
+      EMAIL_RECIPIENTS: sp2668@cornell.edu,aap253@cornell.edu,bmd223@cornell.edu,zs279@cornell.edu,mdt93@cornell.edu,ISoldano@council.nyc.gov,ABarot@council.nyc.gov
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        run: python3 src/run_pipeline.py

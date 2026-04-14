@@ -1,0 +1,318 @@
+{
+  "generated_at": "2026-04-07T21:51:57.130382+00:00",
+  "source_file": "/Users/atmikapai/Documents/GitHub/daily-news-summariser-podcast/src/data/processed/ranked/ranked_articles_2026-04-07.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 18,
+    "fallback_summaries": 0
+  },
+  "summaries": [
+    {
+      "summary": "President Trump has threatened to destroy 'a whole civilization' if Iran doesn't meet his demands ahead of a looming deadline. Trump has suggested he will unleash widespread attacks on Iranian civilian infrastructure unless Iran negotiates a deal over a ceasefire and reopening the Straits of Hormuz. The deadline is 8 pm Eastern time, and talks between the US and Iran are reportedly making progress. However, insiders are skeptical a deal will be reached before the deadline.",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "This situation has implications for NYC's economy, as escalating attacks in the Middle East could lead to increased gasoline prices and inflation, affecting the daily lives of New Yorkers.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Trump warns \u2018a whole civilization will die\u2019 as Iran deadline looms",
+        "article_url": "https://www.nydailynews.com/2026/04/07/trump-iran-deadline-whole-civilization-will-die/",
+        "published_at": "2026-04-07T15:53:45+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-07T21:52:15.016666+00:00"
+    },
+    {
+      "summary": "The search for Nancy Guthrie, an 84-year-old mother of NBC \"Today\" show host Savannah Guthrie, has entered its 66th day. Authorities believe Nancy was taken from her Tucson-area home against her will on February 1. The FBI has released footage of her alleged abductor and is seeking any footage from the public that may aid in the investigation. Savannah Guthrie has returned to the \"Today\" show and is offering a $1 million reward for the recovery of her mother.",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "This case highlights the importance of community involvement in solving crimes, a principle that could be applied to NYC's own missing persons cases, and may inform the development of new policies or programs to engage the public in crime prevention and investigation efforts.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Nancy Guthrie disappearance: Day 66 latest updates",
+        "article_url": "https://www.fox5ny.com/news/nancy-guthrie-disappearance-day-66-latest-updates",
+        "published_at": "2026-04-07"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-07T21:52:15.471657+00:00"
+    },
+    {
+      "summary": "New York City is at a critical moment as progressive promises, such as a rent freeze, are colliding with fiscal constraints and coalition politics. The Working Families Party's decision not to endorse a challenger to Governor Hochul has left her without a left-wing opponent. The administration has stepped back from expanding CityFHEPS, citing the city's $7 billion deficit, but tenants are demanding a plan to prevent homelessness. Massive long-term housing projects are being pursued, but tenants are still waiting for immediate protections.",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "This situation highlights the tension between progressive promises and fiscal realities, which is particularly relevant to Council Member Maloney's committee on Sanitation and Solid Waste Management, as the city's budget constraints may impact the allocation of resources for affordable housing and homelessness prevention services.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Progressive pledges can\u2019t be abandoned",
+        "article_url": "https://www.nydailynews.com/2026/04/07/progressive-pledges-cant-be-abandoned/",
+        "published_at": "2026-04-07"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-07T21:52:16.036897+00:00"
+    },
+    {
+      "summary": "Mayor Mamdani has appointed Rebecca Jones Gaston as the new commissioner of the Administration for Children's Services, New York City's child protective services agency. Jones Gaston is a former President Joe Biden official and frontline caseworker with nearly three decades of experience in human services and child welfare. She assumes responsibility for a system that responds to tens of thousands of allegations of suspected child abuse or neglect every year. Jones Gaston's appointment comes after ACS had been without a permanent leader since the beginning of March.",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "This appointment has implications for NYC's child welfare system, which CM Maloney's committee on Sanitation and Solid Waste Management may intersect with through its oversight of ACS's juvenile detention centers.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Mamdani taps former Biden admin. official to head NYC\u2019s child welfare agency",
+        "article_url": "https://www.nydailynews.com/2026/04/07/mamdani-taps-former-biden-admin-official-to-head-nycs-oft-criticized-child-welfare-agency/",
+        "published_at": "2026-04-07T16:15:07+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-07T21:52:16.876975+00:00"
+    },
+    {
+      "summary": "New York City Mayor Zohran Mamdani announced a plan to improve bike and pedestrian access on the Brooklyn Bridge, citing the upcoming World Cup as a reason to address the current chaotic bottleneck on the Manhattan side. The plan aims to eliminate the bike and pedestrian bottleneck, making it safer for cyclists and pedestrians. Dedicated bike lanes installed in 2021 have not alleviated the issue, with pedestrians and cyclists still forced into a chaotic situation. The city hopes to transform the experience of crossing the bridge for the World Cup.",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "This plan to improve bike and pedestrian access on the Brooklyn Bridge connects to NYC policy as it falls under the purview of the Department of Transportation, which is overseen by the NYC Council's Transportation Committee, where Council Member Virginia Maloney serves.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Brooklyn Bridge Access to Get World Cup Glow Up: Mamdani",
+        "article_url": "https://www.ourtownny.com/news/brooklyn-bridge-access-to-get-world-cup-glow-up-mamdani-KC5730419",
+        "published_at": "2026-04-06"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-07T21:52:17.383409+00:00"
+    },
+    {
+      "summary": "A recent article in the New York Daily News discusses the best glues for glass, including super glue, epoxy, and silicone sealants, highlighting their advantages and disadvantages for various projects and environments.",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "This article's focus on glass glues may inform the development of more effective and durable repair methods for NYC's aging glass infrastructure, such as skyscraper windows and public transportation glass components.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "What is the best glue for glass?",
+        "article_url": "https://www.nydailynews.com/2026/04/06/what-is-the-best-glue-for-glass/",
+        "published_at": "2026-04-06"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-07T21:52:17.826132+00:00"
+    },
+    {
+      "summary": "A recent study by Northwestern Mutual found that Americans believe they need $1.46 million to retire comfortably this year, a 15% increase from last year's total. This amount would provide approximately $4,800 in retirement income per month. Experts attribute the increase to factors such as inflation, longer life expectancy, and uncertainty about the future of Social Security. The study also highlights the disparity between Americans' expectations and their actual retirement savings.",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "This report highlights the financial challenges faced by many New Yorkers, particularly in a city with a high cost of living, and underscores the need for accessible and affordable retirement savings options, which is relevant to CM Maloney's committee portfolio on Economic Development.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "'Magic number' to retire comfortably in US nears $1.5 million: report",
+        "article_url": "https://www.fox5ny.com/news/magic-number-retire-comfortably-us-nears-1-5-million-2026-report",
+        "published_at": "2026-04-07"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-07T21:52:18.268451+00:00"
+    },
+    {
+      "summary": "A federal judge has ruled that Karl Jordan Jr., accused of fatally shooting Run-DMC co-founder Jam Master Jay, can be released on a $1 million bond. Jordan was cleared of murder charges in December 2025, but still faces pending drug distribution and firearm offenses. His release is pending an appeal by prosecutors. Jordan has been incarcerated for over five years.",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "This case highlights the importance of ensuring that the city's justice system prioritizes the rights of the accused, particularly in high-profile cases, which is a key concern for the NYC Council's Committee on Fire and Emergency Management, as it relates to public safety and the administration of justice.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Still locked up despite being cleared in Jam Master Jay killing, Karl Jordan Jr. close to freedom",
+        "article_url": "https://www.nydailynews.com/2026/04/06/still-locked-up-despite-being-cleared-in-jam-master-jay-killing-karl-jordan-jr-close-to-freedom/",
+        "published_at": "2026-04-06"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-07T21:52:18.703095+00:00"
+    },
+    {
+      "summary": "Federal immigration agents in NYC arrested three times as many people in early 2026 compared to the same time period in 2025, but deported fewer individuals. The average detention period has decreased, with immigrants being held for eight days in 2026 compared to 48 days in 2025. The data suggests a shift in immigration enforcement under the current administration.",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "This increase in ICE arrests and decrease in deportations has implications for NYC's immigrant communities, particularly in terms of public safety and access to city services, which is a concern for Council Member Maloney's committee on Sanitation and Solid Waste Management, as immigrant communities are often disproportionately affected by city policies and services.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC's ICE office is arresting more immigrants, but deporting fewer",
+        "article_url": "https://gothamist.com/news/nycs-ice-office-is-arresting-more-immigrants-but-deporting-fewer",
+        "published_at": "2026-04-07T17:01:05+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-07T21:52:19.107862+00:00"
+    },
+    {
+      "summary": "American journalist Shelly Kittleson, kidnapped in Baghdad on March 31, is to be released by her abductors, according to the Iran-backed group Hezbollah Brigades. The release is conditional on Kittleson leaving the country immediately. Security footage captured the moment Kittleson was kidnapped, and a suspect with ties to the militia group has been arrested. The US State Department had warned Kittleson of threats against her and was coordinating with the FBI to ensure her release.",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "This development highlights the ongoing security concerns for American citizens and journalists working in conflict zones, which may inform NYC's policies on international travel and safety protocols for its residents and visitors.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Abducted American journalist to be released, Iran-backed group says",
+        "article_url": "https://abc7ny.com/post/abducted-american-journalist-has-been-freed-hezbollah-bregades/18852467/",
+        "published_at": "2026-04-07"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-07T21:52:19.621037+00:00"
+    },
+    {
+      "summary": "A Legionnaires' disease outbreak in Central Harlem last summer has left many residents, including over 50 victims, seeking accountability from NYC Health and Hospitals and a private construction company. The outbreak was linked to rooftop cooling towers on Harlem Hospital and a new city-owned public health lab. Public health experts have expressed concern over the city's response and the hospital's failure to follow its own cooling tower maintenance plan.",
+      "issue_area": "health",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "This story highlights the importance of effective cooling tower management and the need for building owners to follow their individualized maintenance plans, which is a key issue for Council Member Maloney's Health and Buildings committee.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Harlem residents still ailing, still seeking accountability for Legionnaires' outbreak",
+        "article_url": "https://gothamist.com/news/harlem-residents-still-ailing-still-seeking-accountability-for-legionnaires-outbreak",
+        "published_at": "2026-04-07T13:46:00+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-07T21:52:20.093705+00:00"
+    },
+    {
+      "summary": "Mayor Zohran Mamdani announced the opening of a new therapeutic housing unit at Bellevue Hospital in Manhattan, which will provide specialty care to 104 Rikers Island detainees with complicated medical needs. The unit will offer direct access to services such as oncology, cardiology, and neurology. Two additional units will be created at NYC Health + Hospitals/Woodhull and North Central Bronx. The city's Department of Correction will provide security and custody management.",
+      "issue_area": "health",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "This announcement connects to NYC policy as it relates to the city's efforts to reform the correctional system and provide better healthcare services to incarcerated individuals, which is a key issue for Council Member Maloney's committee on Sanitation and Solid Waste Management, as well as her co-chairmanship of the Irish Caucus and membership in the Women's Caucus.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Mayor Mamdani announces some Rikers Island detainees will be housed in therapeutic unit at Manhattan hospital",
+        "article_url": "https://www.cbsnews.com/newyork/news/zohran-mamdani-rikers-island-hospital-unit/",
+        "published_at": "2026-04-07"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-07T21:52:20.554719+00:00"
+    },
+    {
+      "summary": "Tanner Horner, a former FedEx delivery driver, pleaded guilty to capital murder in the 2022 death of 7-year-old Athena Strand in Texas. Horner's trial began with a guilty plea, and the punishment phase will determine whether he receives the death penalty or life in prison. The case drew widespread media attention and led to changes in Texas's Amber Alert system.",
+      "issue_area": "education",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "This case highlights the importance of effective Amber Alert systems, which is a critical issue for New York City, as it has its own Amber Alert system in place to quickly disseminate information about missing children.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Tanner Horner pleads guilty to killing Athena Strand",
+        "article_url": "https://www.fox5ny.com/news/tanner-horner-trial-live-athena-strand-day-1",
+        "published_at": "2026-04-07"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-07T21:52:21.032433+00:00"
+    },
+    {
+      "summary": "Brooklyn District Attorney Eric Gonzalez is now saying that the father of 7-month-old Kaori Patterson-Moore may not have been the intended target in the April 1 shooting that killed the baby. The suspects, Amuri Greene and Matthew Rodriguez, have been indicted for murder. The investigation revealed that a 9-year-old child was pushing the stroller when the baby was shot.",
+      "issue_area": "education",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "This case highlights the need for increased community resources and support for families affected by gun violence, a concern that intersects with CM Maloney's portfolio on Education and Higher Education, particularly in regards to the emotional and psychological impact on children and families.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Dad of slain Brooklyn baby Kaori Patterson-Moore may not have been intended target: DA",
+        "article_url": "https://www.nydailynews.com/2026/04/07/suspects-in-stray-bullet-slay-of-brooklyn-baby-kaori-patterson-moore-indicted-for-murder/",
+        "published_at": "2026-04-07"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-07T21:52:21.680639+00:00"
+    },
+    {
+      "summary": "The NYC Council is facing pressure to slow down changes to last-mile delivery regulations, which could harm the city's industrial and manufacturing sectors. These sectors provide stable, middle-class jobs for thousands of New Yorkers, particularly in immigrant and minority communities. The proposed regulations, including the Indirect Source Rule and restrictions on last-mile delivery, could place an unsustainable burden on businesses that rely on independent carriers and contract haulers. This could lead to a loss of high-quality jobs and undermine the city's economic health.",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "This issue matters to NYC because it could impact the city's ability to sustain working-class jobs and maintain its economic vitality, particularly in areas like Long Island City, North Brooklyn, and the South Bronx, which are critical to the city's long-term economic health.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYC must go slow on last-mile delivery changes",
+        "article_url": "https://www.nydailynews.com/2026/04/07/nyc-must-go-slow-on-last-mile-delivery-changes/",
+        "published_at": "2026-04-07"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-07T21:52:22.283184+00:00"
+    },
+    {
+      "summary": "New York City is at a critical moment in addressing its housing crisis, with promises of bold action, including a rent freeze, colliding with fiscal constraints and coalition politics. The Working Families Party's decision not to endorse a challenger to Governor Hochul has left her without a left-wing opponent, while the party's consolidation behind Antonio Reynoso for Congress signals a shift towards caution. The administration has stepped back from expanding the CityFHEPS program, citing the city's $7 billion deficit, but tenants are demanding a plan to prevent homelessness. Ambitious long-term housing projects are being pursued, but tenants facing rent increases and eviction risks today are still waiting for immediate protections.",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "This story connects to NYC policy as it highlights the tension between the city's housing crisis and the administration's fiscal constraints, which is relevant to Council Member Maloney's committee portfolio on Housing and Buildings.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Progressive pledges can\u2019t be abandoned",
+        "article_url": "https://www.nydailynews.com/2026/04/07/progressive-pledges-cant-be-abandoned/",
+        "published_at": "2026-04-07"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-07T21:52:22.721943+00:00"
+    },
+    {
+      "summary": "President Trump has issued an ultimatum to Iran to open the Strait of Hormuz by 8 p.m. ET, warning that a 'whole civilization will die tonight' if his deadline isn't met. The US has targeted Kharg Island with airstrikes, and Iran has threatened to cut off fuel to the US and its allies for years if Trump carries out his threat. Gas prices are continuing to climb as the war drives up crude oil costs. The national average now stands at $4.11 per gallon, up about 86 cents from a month ago.",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "This escalating conflict in the Middle East could lead to increased gas prices in NYC, affecting the daily lives of New Yorkers and potentially impacting the city's economy, which is heavily reliant on tourism and transportation.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Iran war latest: Trump warns, a 'whole civilization will die tonight' as 8 p.m. deadline looms",
+        "article_url": "https://www.fox5ny.com/news/iran-war-latest-april-7",
+        "published_at": "2026-04-07"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-07T21:52:23.307340+00:00"
+    },
+    {
+      "summary": "Central Park's cherry blossoms reached their prime this past weekend, transforming the park into a breathtaking spectacle of pale pinks, milky whites, and saturated rose tones. The blooms formed delicate canopies that filtered the sunlight, creating a soft, flattering glow. New Yorkers and visitors alike gathered to admire the beauty of the blossoms, sharing the excitement and taking photos for each other. The cherry blossoms are a seasonal promise of renewal and hope for a good year.",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "why_it_matters_to_nyc": "This event highlights the importance of preserving and maintaining Central Park's natural beauty, which is a key aspect of NYC's cultural and recreational offerings, and a responsibility of the city's Parks Department, which falls under the jurisdiction of the NYC Council's Sanitation and Solid Waste Management Committee.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Beneath a Canopy of Petals Spring\u00e2s Most Elegant Moment Arrives",
+        "article_url": "https://www.ourtownny.com/news/beneath-a-canopy-of-petals-spring-s-most-elegant-moment-arrives-YF5733313",
+        "published_at": "2026-04-07"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-04-07T21:52:23.724475+00:00"
+    }
+  ]
+}
