@@ -21,7 +21,7 @@ from config import BRIEFING_OUTPUT, ISSUE_AREAS
 
 BASE_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = BASE_DIR.parent
-DEFAULT_INPUT_DIR = BASE_DIR / "data" / "processed" / "article_summaries"
+DEFAULT_INPUT_DIR = PROJECT_ROOT / "data" / "processed" / "article_summaries"
 DEFAULT_OUTPUT_DIR = PROJECT_ROOT / "outputs" / "reports"
 DEFAULT_OUTPUT_PREFIX = "daily_briefing"
 DEFAULT_MAX_LISTEN_MINUTES = 25.0
