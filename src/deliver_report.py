@@ -68,6 +68,9 @@ def resolve_audio_file(
                 return candidate
         return None
 
+    if not audio_dir.exists():
+        return None
+
     for ext in ("mp3", "aac", "opus", "flac"):
         matches = sorted(audio_dir.glob(f"daily_briefing_*.{ext}"))
         if matches:
