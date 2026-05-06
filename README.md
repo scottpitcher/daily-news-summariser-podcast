@@ -46,11 +46,11 @@ The pipeline runs in this order:
 7. `build_briefing.py`
    Builds the final transcript in a spoken-friendly format and writes `.txt` and `.md` report files to `outputs/reports/`.
 
-8. `generate_tts`
-   [Future] stage for turning the transcript into audio.
+8. `generate_tts.py`
+   Reads the plain-text briefing from `outputs/reports/`, splits it into chunks under the 4 000-character API limit, and synthesizes each chunk using the OpenAI TTS API (`gpt-4o-mini-tts` by default). The audio parts are concatenated and written as an MP3 to `outputs/audio/`. This stage is treated as optional — a failure here does not block email delivery. Requires `OPENAI_TTS_API_KEY`.
 
 9. `deliver_report.py`
-   Reads the Markdown briefing from `outputs/reports/`, converts it to a newsletter-style HTML email, and sends it via SMTP. Delivery is controlled by environment variables (`EMAIL_DELIVERY_ENABLED`, `SMTP_HOST`, `SMTP_USERNAME`, etc.) and the `DELIVERY` settings in `config.py`. When email delivery is disabled or unconfigured, the stage is skipped gracefully.
+   Reads the Markdown briefing from `outputs/reports/`, converts it to a newsletter-style HTML email, and sends it via SMTP. If an audio file from stage 8 is present for the same date, it is attached to the email. Delivery is controlled by environment variables (`EMAIL_DELIVERY_ENABLED`, `SMTP_HOST`, `SMTP_USERNAME`, etc.) and the `DELIVERY` settings in `config.py`. When email delivery is disabled or unconfigured, the stage is skipped gracefully.
 
 ## Repository structure
 
@@ -66,6 +66,7 @@ The pipeline runs in this order:
 │   ├── rank_articles.py
 │   ├── summarize_articles.py
 │   ├── build_briefing.py
+│   ├── generate_tts.py
 │   ├── deliver_report.py
 │   └── run_pipeline.py
 ├── data/
@@ -87,7 +88,22 @@ That file defines:
 - model settings for summarization and TTS
 - delivery settings and environment-based secrets
 
-Environment variables are used for API keys and delivery credentials. Put those in your shell environment or a local `.env` loader workflow if you use one.
+Key environment variables:
+
+| Variable | Stage | Description |
+|---|---|---|
+| `SUMMARIZATION_PROVIDER` | summarize | Provider name (`cerebras`, `openai`, `huggingface`). Default: `cerebras` |
+| `SUMMARIZATION_API_KEY` | summarize | API key for the summarization provider |
+| `SUMMARIZATION_BASE_URL` | summarize | Base URL for the summarization API. Default: `https://api.cerebras.ai/v1` |
+| `SUMMARIZATION_MODEL` | summarize | Model name. Default: `llama3.1-8b` |
+| `OPENAI_TTS_API_KEY` | generate_tts | OpenAI API key for text-to-speech synthesis |
+| `TTS_MODEL` | generate_tts | TTS model. Default: `gpt-4o-mini-tts` |
+| `TTS_VOICE` | generate_tts | Voice preset. Default: `alloy` |
+| `EMAIL_DELIVERY_ENABLED` | deliver_report | Set to `true` to enable email sending |
+| `SMTP_HOST` / `SMTP_PORT` | deliver_report | SMTP server and port |
+| `SMTP_USERNAME` / `SMTP_PASSWORD` | deliver_report | SMTP credentials |
+| `EMAIL_SENDER` | deliver_report | From address |
+| `EMAIL_RECIPIENTS` | deliver_report | Comma-separated list of recipient addresses |
 
 ## How to run the pipeline
 
@@ -113,6 +129,7 @@ python3 src/tag_articles.py
 python3 src/rank_articles.py
 python3 src/summarize_articles.py
 python3 src/build_briefing.py
+python3 src/generate_tts.py
 python3 src/deliver_report.py
 ```
 
@@ -128,6 +145,7 @@ data/raw/candidates
 -> data/processed/ranked
 -> data/processed/article_summaries
 -> outputs/reports
+-> outputs/audio          (MP3 from generate_tts.py, optional)
 ```
 
 Each stage writes dated JSON files so runs are easy to inspect and rerun.
@@ -190,6 +208,25 @@ Some stages also expect access to an LLM API if you want generated summaries ins
 - Email delivery of briefing to configured recipients
 - Uses `HF_API_TOKEN` and `HF_BASE_URL` env vars
 
+### May 2026
+
+**`generate_tts.py`** Text-to-speech stage implemented
+- Synthesizes the plain-text briefing to MP3 using the OpenAI TTS API (`gpt-4o-mini-tts`, voice `alloy`)
+- Transcripts longer than 4 000 characters are split at sentence boundaries and concatenated into a single audio file
+- Output written to `outputs/audio/daily_briefing_<date>.mp3`
+- Configured via `OPENAI_TTS_API_KEY`, `TTS_MODEL`, `TTS_VOICE`, `TTS_AUDIO_FORMAT`, `TTS_SPEED`
+
+**`deliver_report.py`** Audio attachment in email delivery
+- If a matching audio file exists in `outputs/audio/`, it is attached to the outgoing email
+
+**`config.py`** Switched summarization provider from HuggingFace to Cerebras
+- Default provider changed to `cerebras` with model `llama3.1-8b`
+- Default base URL changed to `https://api.cerebras.ai/v1`
+- Env var for the API key changed to `SUMMARIZATION_API_KEY` (HF_API_TOKEN still accepted as fallback)
+
+**`.github/workflows/daily_briefing.yml`** Updated to Cerebras
+- Uses `SUMMARIZATION_PROVIDER=cerebras`, `CEREBRAS_API_KEY`, and `SUMMARIZATION_BASE_URL`
+
 ## Current status
 
 What is implemented now:
@@ -201,11 +238,11 @@ What is implemented now:
 - ranking
 - article summarization
 - final briefing transcript assembly
+- text-to-speech audio generation (OpenAI TTS, optional)
 - pipeline orchestration
-- external report delivery
+- HTML email delivery with optional MP3 attachment
 
 Future-facing:
 
-- text-to-speech generation
 - deeper LLM-based classification and synthesis
 - more source-specific extraction rules
