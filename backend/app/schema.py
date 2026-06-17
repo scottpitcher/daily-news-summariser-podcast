@@ -42,5 +42,9 @@ class Query:
             for record in records
         ]
 
+    @strawberry.field
+    def dates(self) -> list[str]:
+        return data_loader.get_available_dates()
+
 
 schema = strawberry.Schema(query=Query)

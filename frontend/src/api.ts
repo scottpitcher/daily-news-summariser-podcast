@@ -56,6 +56,26 @@ export async function fetchBriefings(filters: { topic?: string; date?: string })
   return data.briefings;
 }
 
+const DATES_QUERY = `
+  query Dates {
+    dates
+  }
+`;
+
+export async function fetchAvailableDates(): Promise<string[]> {
+  const response = await fetch(GRAPHQL_ENDPOINT, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ query: DATES_QUERY }),
+  });
+
+  const { data, errors } = await response.json();
+  if (errors?.length) {
+    throw new Error(errors[0].message);
+  }
+  return data.dates;
+}
+
 export function resolveAudioUrl(audioUrl: string | null): string | null {
   if (!audioUrl) return null;
   return `${API_BASE}${audioUrl}`;

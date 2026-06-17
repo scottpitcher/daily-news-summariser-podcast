@@ -53,6 +53,11 @@ def _available_dates() -> list[str]:
     return sorted(dates, reverse=True)
 
 
+def get_available_dates() -> list[str]:
+    """Return dates (YYYY-MM-DD) that have an article-summaries file, newest first."""
+    return _available_dates()
+
+
 def _load_summaries_payload(date: str) -> dict[str, Any] | None:
     path = ARTICLE_SUMMARIES_DIR / f"article_summaries_{date}.json"
     if not path.exists():
