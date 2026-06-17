@@ -35,32 +35,30 @@ function App() {
   }, [topic, date]);
 
   return (
-    <div className="flex">
-      <DateSidebar
-        dates={availableDates}
-        selectedDate={date}
-        onSelectDate={(newDate) => {
-          setSelected(null);
-          setDate(newDate);
-        }}
-      />
-
-      <div className="flex-1 ml-72 px-4 py-8">
-        <div className="max-w-3xl mx-auto">
-          <Header />
-
-          {selected ? (
-            <BriefingDetail briefing={selected} onBack={() => setSelected(null)} />
-          ) : (
-            <>
-              <FilterBar topic={topic} onTopicChange={setTopic} />
-              {loading && <p className="text-gray-500">Loading briefings…</p>}
-              {error && <p className="text-red-600">Failed to load briefings: {error}</p>}
-              {!loading && !error && <BriefingList briefings={briefings} onSelect={setSelected} />}
-            </>
-          )}
-        </div>
+    <div className="max-w-3xl mx-auto px-4 py-8 relative">
+      <div className="absolute top-8 right-full mr-6">
+        <DateSidebar
+          dates={availableDates}
+          selectedDate={date}
+          onSelectDate={(newDate) => {
+            setSelected(null);
+            setDate(newDate);
+          }}
+        />
       </div>
+
+      <Header />
+
+      {selected ? (
+        <BriefingDetail briefing={selected} onBack={() => setSelected(null)} />
+      ) : (
+        <>
+          <FilterBar topic={topic} onTopicChange={setTopic} />
+          {loading && <p className="text-gray-500">Loading briefings…</p>}
+          {error && <p className="text-red-600">Failed to load briefings: {error}</p>}
+          {!loading && !error && <BriefingList briefings={briefings} onSelect={setSelected} />}
+        </>
+      )}
     </div>
   );
 }
