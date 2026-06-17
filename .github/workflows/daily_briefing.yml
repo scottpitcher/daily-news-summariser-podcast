@@ -27,7 +27,7 @@ jobs:
       SMTP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
       EMAIL_SENDER: aap253@cornell.edu
       # EMAIL_RECIPIENTS: aap253@cornell.edu
-      EMAIL_RECIPIENTS: aap253@cornell.edu,sp2668@cornell.edu,sgarner@council.nyc.gov,abarot@council.nyc.gov,ssecor@council.nyc.gov,isoldano@council.nyc.gov,anortiz@council.nyc.gov,bpeyre@council.nyc.gov,mzack@council.nyc.gov,vmaloney@council.nyc.gov
+      EMAIL_RECIPIENTS: sp2668@cornell.edu #,aap253@cornell.edu,sgarner@council.nyc.gov,abarot@council.nyc.gov,ssecor@council.nyc.gov,isoldano@council.nyc.gov,anortiz@council.nyc.gov,bpeyre@council.nyc.gov,mzack@council.nyc.gov,vmaloney@council.nyc.gov
 
     steps:
       - name: Checkout repository
