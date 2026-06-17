@@ -1,6 +1,12 @@
 # ignore venv
 
 .venv/*
+backend/.venv/*
 
 # ignore environment variables
 .env
+frontend/.env
+frontend/.env.local
+
+# ignore python bytecode cache
+backend/**/__pycache__/
