@@ -4,20 +4,20 @@
   "summary_count": 18,
   "summary_stats": {
     "input_articles": 18,
-    "generated_summaries": 0,
-    "fallback_summaries": 18
+    "generated_summaries": 18,
+    "fallback_summaries": 0
   },
   "summaries": [
     {
-      "headline": "\"The most famous judge in America, for a while,\" on",
+      "headline": "Ex-Judge Engoron Reflects on Trump Trial",
       "bullets": [
-        "Justice Arthur Engoron was walking his dog in the early morning darkness on Jan.",
-        "11, 2024, when he saw police lights in the distance, a lot of them."
+        "Justice Arthur Engoron faced threats and harassment during his trial of former President Trump.",
+        "Engoron imposed a gag order on Trump, which was replicated in two of Trump's criminal cases."
       ],
-      "summary": "\"The most famous judge in America, for a while,\" on",
+      "summary": "Ex-Judge Engoron Reflects on Trump Trial",
       "issue_area": "politics_government",
       "source_level": "local",
-      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "so_what": "The increased threats and harassment experienced by Engoron highlight the need for enhanced judicial security, which impacts the safety of judges and the integrity of legal proceedings in NYC.",
       "source_citation": {
         "source_name": "CBS New York",
         "source_level": "local",
@@ -25,65 +25,21 @@
         "article_url": "https://www.cbsnews.com/newyork/news/arthur-engoron-trump-trial-judge-interview/",
         "published_at": "2026-06-17"
       },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:20:59.425593+00:00"
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-17T16:36:57.342416+00:00"
     },
     {
-      "headline": "Interim US-Iran deal leaves the thorniest issue still to be",
+      "headline": "Mangione Seeks Psychiatric Defense for Killing Healthcare CEO",
       "bullets": [
-        "By MATTHEW LEE, AP Diplomatic Writer WASHINGTON (AP) \u2014 The interim deal between the U.S.",
-        "and Iran is supposed to usher in a two-month period that would address the most divisive issue between the longtime adversaries \u2014 Tehran\u2019s nuclear program."
+        "Luigi Mangione plans to defend himself by claiming an extreme emotional disturbance at his murder trial.",
+        "The defense could result in a lesser charge of first-degree manslaughter instead of second-degree murder."
       ],
-      "summary": "Interim US-Iran deal leaves the thorniest issue still to be",
+      "summary": "Mangione Seeks Psychiatric Defense for Killing Healthcare CEO",
       "issue_area": "politics_government",
       "source_level": "local",
-      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
-      "source_citation": {
-        "source_name": "New York Daily News",
-        "source_level": "local",
-        "article_title": "Interim US-Iran deal leaves the thorniest issue still to be negotiated: Tehran\u2019s nuclear program",
-        "article_url": "https://www.nydailynews.com/2026/06/17/us-iran-deal-tehran-nuclear-program/",
-        "published_at": "2026-06-17"
-      },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:20:59.501189+00:00"
-    },
-    {
-      "headline": "Union Says Central Park Carriage Horse Died After Eating Toxic",
-      "bullets": [
-        "Union Says Central Park Carriage Horse Died After Eating Toxic Plant The Transport Workers Union is attempting to dispute the narrative that the horse carriage trade\u00e2which the City Council could ban\u00e2is a form of animal abuse.",
-        "Now, they argue that a new toxicology report on a recent carriage horse death bolsters their case."
-      ],
-      "summary": "Union Says Central Park Carriage Horse Died After Eating Toxic",
-      "issue_area": "politics_government",
-      "source_level": "local",
-      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
-      "source_citation": {
-        "source_name": "Our Town",
-        "source_level": "local",
-        "article_title": "Union Says Central Park Carriage Horse Died After Eating Toxic Plant",
-        "article_url": "https://www.ourtownny.com/news/union-says-central-park-carriage-horse-died-after-eating-toxic-plant-YL5951607",
-        "published_at": "2026-06-16"
-      },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:20:59.576804+00:00"
-    },
-    {
-      "headline": "Luigi Mangione to mount emotional disturbance defense to justify killing",
-      "bullets": [
-        "Luigi Mangione plans to mount a psychiatric defense at his state murder trial this fall, an attempt to justify killing UnitedHealthcare CEO Brian Thompson because he was experiencing an extreme emotional disturbance, a Manhattan judge revealed Wednesday.",
-        "The stunning development was included in a defense motion unsealed by Manhattan Supreme Court Justice Gregory Carro at a brief court hearing."
-      ],
-      "summary": "Luigi Mangione to mount emotional disturbance defense to justify killing",
-      "issue_area": "politics_government",
-      "source_level": "local",
-      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "so_what": "This case touches on public sentiment about healthcare costs and could influence discussions on mental health and defense strategies in criminal cases, relevant to the Health and Economic Development committees.",
       "source_citation": {
         "source_name": "New York Daily News",
         "source_level": "local",
@@ -91,65 +47,65 @@
         "article_url": "https://www.nydailynews.com/2026/06/17/luigi-mangione-psychiatric-defense/",
         "published_at": "2026-06-17"
       },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:20:59.631679+00:00"
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-17T16:36:58.675355+00:00"
     },
     {
-      "headline": "US stocks drift ahead of the Fed\u2019s announcement on interest",
+      "headline": "Toxic Plant Linked to Central Park Horse Death",
       "bullets": [
-        "By STAN CHOE, AP Business Writer NEW YORK (AP) \u2014 The U.S.",
-        "stock market is drifting Wednesday as Wall Street waits to hear from the Federal Reserve in the afternoon about where it sees interest rates going."
+        "A necropsy found a Central Park carriage horse died after eating Japanese yew, a toxic plant.",
+        "The incident reignites the debate over the carriage trade and potential city-wide ban."
       ],
-      "summary": "US stocks drift ahead of the Fed\u2019s announcement on interest",
-      "issue_area": "economy_business",
+      "summary": "Toxic Plant Linked to Central Park Horse Death",
+      "issue_area": "politics_government",
       "source_level": "local",
-      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "so_what": "This case highlights the ongoing conflict between the carriage industry and animal rights activists, impacting policy discussions on animal welfare and public safety in Central Park.",
       "source_citation": {
-        "source_name": "New York Daily News",
+        "source_name": "Our Town",
         "source_level": "local",
-        "article_title": "US stocks drift ahead of the Fed\u2019s announcement on interest rates",
-        "article_url": "https://www.nydailynews.com/2026/06/17/us-stocks-fed-interest-rates/",
-        "published_at": "2026-06-17"
+        "article_title": "Union Says Central Park Carriage Horse Died After Eating Toxic Plant",
+        "article_url": "https://www.ourtownny.com/news/union-says-central-park-carriage-horse-died-after-eating-toxic-plant-YL5951607",
+        "published_at": "2026-06-16"
       },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:20:59.735013+00:00"
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-17T16:36:59.885657+00:00"
     },
     {
-      "headline": "Retail sales up 0.9% in May from April as warm",
+      "headline": "NY-12 Primary Showcases East-West Tensions",
       "bullets": [
-        "By ANNE D\u2019INNOCENZIO, AP Retail Writer NEW YORK (AP) \u2014 Shoppers stepped up their spending in May and surpassed expectations as temperatures warmed and gasoline prices leveled off.",
-        "Retail sales rose 0.9%, up from a revised 0.4% gain in April, according to Commerce Department data released Wednesday."
+        "Candidates from both East and West Manhattan are campaigning across the district, challenging the usual East-side dominance.",
+        "Micah Lasher and Alex Bores, frontrunners from the West and East respectively, are trying to appeal to voters beyond their neighborhoods."
       ],
-      "summary": "Retail sales up 0.9% in May from April as warm",
-      "issue_area": "economy_business",
+      "summary": "NY-12 Primary Showcases East-West Tensions",
+      "issue_area": "politics_government",
       "source_level": "local",
-      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "so_what": "This race highlights ongoing political dynamics in Manhattan, potentially influencing future district representation and policy decisions.",
       "source_citation": {
-        "source_name": "New York Daily News",
+        "source_name": "Our Town",
         "source_level": "local",
-        "article_title": "Retail sales up 0.9% in May from April as warm weather and cooling gas prices enticed spending",
-        "article_url": "https://www.nydailynews.com/2026/06/17/retail-sales-may/",
-        "published_at": "2026-06-17"
+        "article_title": "Will NY-12\u00e2s Democratic Primary Be Another Battle of the East vs. the West?",
+        "article_url": "https://www.ourtownny.com/news/will-ny-12-s-democratic-primary-be-another-battle-of-the-east-vs-the-west-FG5945601",
+        "published_at": "2026-06-15"
       },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:20:59.807318+00:00"
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-17T16:37:01.281607+00:00"
     },
     {
-      "headline": "President Trump holds press conference at G7 summit amid questions",
+      "headline": "G7 Backs Trump's Iran Deal",
       "bullets": [
-        "EVIAN-LES-BAINS, France -- Leaders at the Group of Seven summit on Wednesday threw their support behind U.S.",
-        "President Donald Trump's tentative agreement with Iran to open the Strait of Hormuz and further extend a shaky ceasefire - even though he's offered scant specificity about how that would be implemented."
+        "G7 leaders support U.S. President Trump's agreement with Iran to reopen the Strait of Hormuz and extend a ceasefire.",
+        "The deal aims to end sanctions and allow Iran to sell oil without restrictions."
       ],
-      "summary": "President Trump holds press conference at G7 summit amid questions",
+      "summary": "G7 Backs Trump's Iran Deal",
       "issue_area": "economy_business",
       "source_level": "local",
-      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "so_what": "This agreement could impact global oil markets and potentially ease tensions, which aligns with CM Maloney's Economic Development Committee's focus on trade and commerce.",
       "source_citation": {
         "source_name": "ABC7 New York",
         "source_level": "local",
@@ -157,21 +113,65 @@
         "article_url": "https://abc7ny.com/post/g7-leaders-back-trumps-plan-end-iran-war-faces-skepticism-home/19314933/",
         "published_at": "2026-06-17"
       },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:20:59.883423+00:00"
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-17T16:37:02.587442+00:00"
     },
     {
-      "headline": "Rex Heuermann sentenced to life in prison for Gilgo Beach",
+      "headline": "Fed Interest Rate Announcement Awaits",
       "bullets": [
-        "By PHILIP MARCELO RIVERHEAD, N.Y.",
-        "(AP) \u2014 Rex Heuermann, a New York architect who discretely murdered women for at least 17 years until police realized that their deaths were the work of a serial killer, was sentenced Wednesday to life in prison without parole."
+        "The S&P 500 added 0.2% as investors await the Federal Reserve's interest rate announcement.",
+        "Several AI stocks, including Jabil and Broadcom, saw gains, supporting the market."
       ],
-      "summary": "Rex Heuermann sentenced to life in prison for Gilgo Beach",
+      "summary": "Fed Interest Rate Announcement Awaits",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "The Federal Reserve's decision on interest rates can significantly impact the economy and stock market, which are key areas of focus for the Economic Development Committee.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "US stocks drift ahead of the Fed\u2019s announcement on interest rates",
+        "article_url": "https://www.nydailynews.com/2026/06/17/us-stocks-fed-interest-rates/",
+        "published_at": "2026-06-17"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-17T16:37:03.952777+00:00"
+    },
+    {
+      "headline": "Retail Sales Rise in May",
+      "bullets": [
+        "Retail sales increased 0.9% in May, outpacing April's 0.4% gain.",
+        "Excluding gas stations, retail sales rose 0.7% in May."
+      ],
+      "summary": "Retail Sales Rise in May",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "This retail sales growth indicates continued consumer spending resilience, which is crucial for NYC's economy and supports CM Maloney's focus on economic development.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Retail sales up 0.9% in May from April as warm weather and cooling gas prices enticed spending",
+        "article_url": "https://www.nydailynews.com/2026/06/17/retail-sales-may/",
+        "published_at": "2026-06-17"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-17T16:37:05.293499+00:00"
+    },
+    {
+      "headline": "Rex Heuermann Sentenced to Life for Gilgo Beach Murders",
+      "bullets": [
+        "Rex Heuermann, a New York architect, was sentenced to life in prison for the murders of eight women, including sex workers.",
+        "The case, which spanned from 2000 to 2010, was solved through DNA evidence and cooperation with the FBI."
+      ],
+      "summary": "Rex Heuermann Sentenced to Life for Gilgo Beach Murders",
       "issue_area": "public_safety",
       "source_level": "local",
-      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "so_what": "This case highlights the importance of persistent law enforcement and forensic techniques in solving long-standing mysteries, which can bring closure to families and ensure public safety.",
       "source_citation": {
         "source_name": "New York Daily News",
         "source_level": "local",
@@ -179,21 +179,21 @@
         "article_url": "https://www.nydailynews.com/2026/06/17/rex-heuermann-sentenced-life-prison-gilgo-beach-murders/",
         "published_at": "2026-06-17"
       },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:20:59.923981+00:00"
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-17T16:37:08.890062+00:00"
     },
     {
-      "headline": "Bronx man shot to death in front of mom by",
+      "headline": "Bronx Man Shot by Former Friends",
       "bullets": [
-        "Two men used a GPS tracker to stalk a former friend before shooting him to death in front of his mother as they stole his diamond jewelry, according to prosecutors and the victim\u2019s heartbroken family.",
-        "Welfy Espinal, 25, and Lenyn Toribio, 27, were charged in a federal indictment unsealed Friday with interstate stalking resulting in death in the shocking slay of 24-year-old Jeremy Ortega on April 13, 2025."
+        "Two men used GPS tracking to stalk and murder 24-year-old Jeremy Ortega in front of his mother.",
+        "The suspects, Welfy Espinal and Lenyn Toribio, were charged with interstate stalking resulting in death."
       ],
-      "summary": "Bronx man shot to death in front of mom by",
+      "summary": "Bronx Man Shot by Former Friends",
       "issue_area": "public_safety",
       "source_level": "local",
-      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "so_what": "This case highlights the need for enhanced public safety measures and tracking device regulations, which could be addressed through policy changes in the Sanitation and Solid Waste Management, Small Business, and Fire and Emergency Management committees.",
       "source_citation": {
         "source_name": "New York Daily News",
         "source_level": "local",
@@ -201,21 +201,21 @@
         "article_url": "https://www.nydailynews.com/2026/06/15/two-charged-in-bronx-murder-accused-of-using-device-to-track-victim-rob-his-diamond-jewelry/",
         "published_at": "2026-06-16T18:09:02+00:00"
       },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:20:59.962654+00:00"
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-17T16:37:11.508738+00:00"
     },
     {
-      "headline": "South Texas motorists use sledgehammers, shovels to rescue survivors of",
+      "headline": "Motorists Rescue Survivors After Plane Crash",
       "bullets": [
-        "LAREDO, Texas - A twin-engine business jet carrying six people crashed onto a major Laredo highway and erupted in flames Tuesday night, killing one person and sparking a frantic rescue effort as passing motorists rushed toward the burning wreckage to pull survivors to safety.",
-        "Texas plane crash What we know: The Cessna Citation Latitude twin jet, operated by private aviation company NetJets, went down shortly before 10 p.m."
+        "Passengers and motorists used sledgehammers and shovels to rescue survivors from a fiery plane crash.",
+        "The incident resulted in one death and five people hospitalized for smoke inhalation."
       ],
-      "summary": "South Texas motorists use sledgehammers, shovels to rescue survivors of",
+      "summary": "Motorists Rescue Survivors After Plane Crash",
       "issue_area": "public_safety",
       "source_level": "local",
-      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "so_what": "While this incident occurred in South Texas, it highlights the importance of public safety training and emergency response protocols, which are relevant to NYC's fire and emergency management committee.",
       "source_citation": {
         "source_name": "FOX 5 New York",
         "source_level": "local",
@@ -223,21 +223,21 @@
         "article_url": "https://www.fox5ny.com/news/south-texas-motorists-use-sledgehammers-shovels-rescue-survivors-fiery-plane-crash",
         "published_at": "2026-06-17"
       },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:21:00.017456+00:00"
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-17T16:37:13.114714+00:00"
     },
     {
-      "headline": "Trump DOJ sues New York health officials over alleged 'backroom",
+      "headline": "Trump DOJ Sues NY Over Home Care Program",
       "bullets": [
-        "The Trump administration filed a lawsuit on Tuesday against New York state health officials, alleging they illegally engaged in a \u201cbackroom deal\u201d to hand over control of a popular, publicly funded home health program to the Georgia-based company PPL, which is also named in the suit.",
-        "The New York state Department of Health engaged in a \u201csham\u201d bidding process and \u201cpreselected\u201d PPL for the lucrative work, according to the U.S."
+        "The Trump administration sued New York state health officials, alleging a 'backroom deal' to hand control of a $9 billion home care program to a Georgia company.",
+        "The lawsuit seeks to unwind the transaction, claiming fraud and misrepresentation."
       ],
-      "summary": "Trump DOJ sues New York health officials over alleged 'backroom",
+      "summary": "Trump DOJ Sues NY Over Home Care Program",
       "issue_area": "health",
       "source_level": "local",
-      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "so_what": "This lawsuit could impact how home care programs are managed and funded in New York, potentially affecting the services provided to over 200,000 disabled New Yorkers.",
       "source_citation": {
         "source_name": "Gothamist",
         "source_level": "local",
@@ -245,21 +245,21 @@
         "article_url": "https://gothamist.com/news/trump-doj-sues-ny-health-officials-alleging-backroom-deal-in-home-care-overhaul",
         "published_at": "2026-06-17T00:34:00+00:00"
       },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:21:00.057389+00:00"
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-17T16:37:16.508410+00:00"
     },
     {
-      "headline": "Crap to the future: High-tech public bathrooms coming to NYC",
+      "headline": "High-Tech Port-A-Potties Coming to NYC",
       "bullets": [
-        "The toilets of tomorrow are coming to New York City streets later this summer, officials announced Wednesday.",
-        "Mayor Zohran Mamdani\u2019s office inked a $4 million contract with the Washington, D.C.-based company Throne Labs to install high-tech, solar-powered port-a-potties in 17 busy areas across the five boroughs."
+        "Mayor Mamdani's office contracted Throne Labs for $4 million to install 17 high-tech, solar-powered port-a-potties across NYC.",
+        "The toilets feature changing tables, sinks, and remote monitoring for quick maintenance and emergency response."
       ],
-      "summary": "Crap to the future: High-tech public bathrooms coming to NYC",
+      "summary": "High-Tech Port-A-Potties Coming to NYC",
       "issue_area": "health",
       "source_level": "local",
-      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "so_what": "This initiative addresses NYC's public restroom shortage and improves accessibility, aligning with CM Maloney's focus on sanitation and public services.",
       "source_citation": {
         "source_name": "Gothamist",
         "source_level": "local",
@@ -267,21 +267,21 @@
         "article_url": "https://gothamist.com/news/crap-to-the-future-high-tech-public-bathrooms-coming-to-nyc",
         "published_at": "2026-06-17T10:30:52+00:00"
       },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:21:00.098986+00:00"
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-17T16:37:18.165623+00:00"
     },
     {
-      "headline": "New School Lays Off Nearly 90 Trying to Cut $50",
+      "headline": "New School Cuts Staff to Address Budget Deficit",
       "bullets": [
-        "New School Lays Off Nearly 90 Trying to Cut $50 Million Deficit Though storied, the century-old liberal arts college has been struggling financially in recent years.",
-        "Nineteen professors were among those given the axe."
+        "The New School laid off nearly 90 faculty and staff members to close a $50 million annual deficit.",
+        "The university is consolidating into two schools and discontinuing over a dozen academic programs."
       ],
-      "summary": "New School Lays Off Nearly 90 Trying to Cut $50",
+      "summary": "New School Cuts Staff to Address Budget Deficit",
       "issue_area": "education",
       "source_level": "local",
-      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "so_what": "This cuts into the humanities and social sciences departments, impacting students and potentially reducing academic freedom, which could affect the university's reputation and enrollment, especially in CM Maloney's district known for its cultural and educational institutions.",
       "source_citation": {
         "source_name": "Our Town",
         "source_level": "local",
@@ -289,21 +289,21 @@
         "article_url": "https://www.ourtownny.com/news/new-school-lays-off-nearly-90-trying-to-cut-50-million-deficit-KL5940804",
         "published_at": "2026-06-15"
       },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:21:00.175183+00:00"
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-17T16:37:20.656470+00:00"
     },
     {
-      "headline": "Rex Heuermann sentenced to life in prison without parole for",
+      "headline": "Rex Heuermann Sentenced for Gilgo Beach Serial Killings",
       "bullets": [
-        "RIVERHEAD, Long Island (WABC) -- A Long Island architect who admitted in court to murdering eight women was formally sentenced on Wednesday to life in prison without parole, as expected.",
-        "It was a dramatic conclusion to an emotional hearing as 13 family members of the victims faced the Gilgo Beach serial killer in the courtroom."
+        "Rex Heuermann, convicted of murdering eight women, was sentenced to life in prison without parole.",
+        "Victims' families expressed intense anger and hatred towards Heuermann during the sentencing."
       ],
-      "summary": "Rex Heuermann sentenced to life in prison without parole for",
+      "summary": "Rex Heuermann Sentenced for Gilgo Beach Serial Killings",
       "issue_area": "education",
       "source_level": "local",
-      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "so_what": "This case highlights the impact of violent crimes on victims' families and the importance of justice for such heinous acts, which can influence public safety policies and victim support services.",
       "source_citation": {
         "source_name": "ABC7 New York",
         "source_level": "local",
@@ -311,21 +311,21 @@
         "article_url": "https://abc7ny.com/post/rex-heuermann-sentenced-new-yorks-gilgo-beach-serial-killings/19314233/",
         "published_at": "2026-06-17"
       },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:21:00.319546+00:00"
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-17T16:37:22.177404+00:00"
     },
     {
-      "headline": "These summer heat waves have us wondering if it\u2019s time",
+      "headline": "Summer Heat Waves Prompt Cooling Vest Interest",
       "bullets": [
-        "How to beat the heat Maintaining a neutral body temperature during the summer months prevents ailments like heat stroke and exhaustion.",
-        "Cooling vests do just this and serve as long-lasting temperature regulators."
+        "Cooling vests use various methods like phase changes, ice packs, and evaporation to regulate body temperature.",
+        "Different types of cooling vests are available, each suited for specific environments and activities."
       ],
-      "summary": "These summer heat waves have us wondering if it\u2019s time",
+      "summary": "Summer Heat Waves Prompt Cooling Vest Interest",
       "issue_area": "climate_energy",
       "source_level": "local",
-      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "so_what": "Cooling vests can help prevent heat-related illnesses, which are a concern during NYC's hot summers, especially for outdoor workers and those in high-temperature environments.",
       "source_citation": {
         "source_name": "New York Daily News",
         "source_level": "local",
@@ -333,21 +333,21 @@
         "article_url": "https://www.nydailynews.com/2026/06/16/these-summer-heat-waves-have-us-wondering-if-its-time-to-buy-a-cooling-vest-2/",
         "published_at": "2026-06-17"
       },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:21:00.361170+00:00"
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-17T16:37:24.172851+00:00"
     },
     {
-      "headline": "Trump is losing his war on offshore wind power",
+      "headline": "Offshore Wind Power Wins Legal Battle",
       "bullets": [
-        "New York Attorney General Tish James, along with AG counterparts in 17 other states, have prevailed over Donald Trump\u2019s capricious attempts to derail offshore wind energy projects all around the country by imposing a moratorium on approvals and even the issuance permits or leases for already-approved projects.",
-        "Having lost before a federal trial judge in Boston, the administration abandoned its own appeal, likely recognizing that it had no ability to actually defend this on the merits."
+        "New York and 17 other states defeated Trump's attempts to block offshore wind energy projects.",
+        "The administration abandoned its appeal, recognizing it had no legal ground to stand on."
       ],
-      "summary": "Trump is losing his war on offshore wind power",
+      "summary": "Offshore Wind Power Wins Legal Battle",
       "issue_area": "climate_energy",
       "source_level": "local",
-      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "so_what": "This victory supports CM Maloney's commitment to renewable energy and sustainable development, impacting city services and New Yorkers' daily lives by promoting energy independence and reducing reliance on volatile international energy imports.",
       "source_citation": {
         "source_name": "New York Daily News",
         "source_level": "local",
@@ -355,21 +355,43 @@
         "article_url": "https://www.nydailynews.com/2026/06/17/trump-is-losing-his-war-on-offshore-wind-power/",
         "published_at": "2026-06-17"
       },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:21:00.419228+00:00"
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-17T16:37:25.503445+00:00"
     },
     {
-      "headline": "How an alleged NYC real estate scammer stayed in business",
+      "headline": "Federal Government Seeks to Halt Illinois Reparations Program",
       "bullets": [
-        "Adrian Hayman needed an apartment fast.",
-        "It was December 2024, and after a painful break up with his girlfriend, it was time to get out of the place they shared for almost a year in Red Hook, Brooklyn."
+        "The federal government has asked a judge to halt the first U.S. reparations program offering $25,000 to Black residents in Evanston, Illinois.",
+        "The program, funded by a local tax on legal marijuana sales, has already distributed over $7 million to hundreds of residents."
       ],
-      "summary": "How an alleged NYC real estate scammer stayed in business",
+      "summary": "Federal Government Seeks to Halt Illinois Reparations Program",
       "issue_area": "transportation_housing",
       "source_level": "local",
-      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "so_what": "This case could set a precedent for future reparations programs, potentially impacting how cities address historical racial discrimination in housing policies.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Federal government seeks to halt the first U.S. reparations program for Black people",
+        "article_url": "https://www.nydailynews.com/2026/06/17/federal-government-illinois-reparations-program/",
+        "published_at": "2026-06-17"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-17T16:37:27.311747+00:00"
+    },
+    {
+      "headline": "NYC Real Estate Scammer Evades Justice",
+      "bullets": [
+        "Adrian Hayman and others paid deposits to David Michael for apartments they never received.",
+        "Michael, stripped of his real estate license over a decade ago, continues to operate without legal oversight."
+      ],
+      "summary": "NYC Real Estate Scammer Evades Justice",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "This case highlights the need for stronger enforcement of consumer protection laws and better oversight of real estate brokers, especially in the competitive NYC rental market, where such scams can severely impact vulnerable tenants.",
       "source_citation": {
         "source_name": "Gothamist",
         "source_level": "local",
@@ -377,32 +399,10 @@
         "article_url": "https://gothamist.com/news/how-an-alleged-nyc-real-estate-scammer-stayed-in-business-despite-years-of-complaints",
         "published_at": "2026-06-17T10:01:09+00:00"
       },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:21:00.463557+00:00"
-    },
-    {
-      "headline": "UES Families, Lawmakers Rally To Save Local After-School Programs",
-      "bullets": [
-        "UES Families, Lawmakers Rally To Save Local After-School Programs Officials urged City Hall to reconsider a decision that would replace longtime after-school providers at schools on the Upper East Side.",
-        "UPPER EAST SIDE, NY \u2014 The fight to preserve after-school programs at two Upper East Side schools made it to City Hall this week, as lawmakers joined families Monday to demand greater transparency from the city about its decision to replace longtime providers."
-      ],
-      "summary": "UES Families, Lawmakers Rally To Save Local After-School Programs",
-      "issue_area": "transportation_housing",
-      "source_level": "local",
-      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
-      "source_citation": {
-        "source_name": "Patch Upper East Side",
-        "source_level": "local",
-        "article_title": "UES Families, Lawmakers Rally To Save Local After-School Programs",
-        "article_url": "https://patch.com/new-york/upper-east-side-nyc/ues-families-lawmakers-rally-save-local-after-school-programs",
-        "published_at": "2026-06-16T18:40:01+00:00"
-      },
-      "summary_status": "fallback",
-      "summary_method": "fallback",
-      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:21:00.510115+00:00"
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-17T16:37:29.257416+00:00"
     }
   ]
 }
