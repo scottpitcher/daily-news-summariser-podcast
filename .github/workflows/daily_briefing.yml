@@ -14,15 +14,16 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      # Cerebras LLM summarization (replaces HuggingFace)
       OPENAI_TTS_API_KEY: ${{ secrets.OPENAI_TTS_API_KEY }}
-      SUMMARIZATION_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
-      SUMMARIZATION_BASE_URL: https://api.cerebras.ai/v1
-      SUMMARIZATION_MODEL: llama3.1-8b
-      SUMMARIZATION_PROVIDER: cerebras
-      # HF vars (kept for reference):
-      # HF_API_TOKEN: ${{ secrets.HF_API_TOKEN }}
-      # HF_BASE_URL: https://router.huggingface.co/v1
+      SUMMARIZATION_API_KEY: ${{ secrets.HF_API_TOKEN }}
+      SUMMARIZATION_BASE_URL: https://router.huggingface.co/v1
+      SUMMARIZATION_MODEL: Qwen/Qwen2.5-7B-Instruct
+      SUMMARIZATION_PROVIDER: huggingface
+      # Cerebras vars (kept for reference):
+      # SUMMARIZATION_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
+      # SUMMARIZATION_BASE_URL: https://api.cerebras.ai/v1
+      # SUMMARIZATION_MODEL: llama3.1-8b
+      # SUMMARIZATION_PROVIDER: cerebras
       EMAIL_DELIVERY_ENABLED: "true"
       SMTP_HOST: smtp.gmail.com
       SMTP_PORT: "587"
