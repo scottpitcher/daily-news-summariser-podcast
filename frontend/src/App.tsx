@@ -14,6 +14,7 @@ function App() {
   const [selected, setSelected] = useState<Briefing | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [sidebarOpen, setSidebarOpen] = useState(false);
 
   useEffect(() => {
     fetchAvailableDates()
@@ -34,18 +35,42 @@ function App() {
       .finally(() => setLoading(false));
   }, [topic, date]);
 
+  const selectDate = (newDate: string) => {
+    setSelected(null);
+    setDate(newDate);
+  };
+
   return (
     <div className="max-w-3xl mx-auto px-4 py-8 relative">
-      <div className="absolute top-8 bottom-8 right-full mr-6 w-64">
-        <DateSidebar
-          dates={availableDates}
-          selectedDate={date}
-          onSelectDate={(newDate) => {
-            setSelected(null);
-            setDate(newDate);
-          }}
-        />
+      <div className="hidden xl:block absolute top-8 bottom-8 right-full mr-6 w-64 rounded-2xl border border-gray-200 shadow-sm overflow-hidden">
+        <DateSidebar dates={availableDates} selectedDate={date} onSelectDate={selectDate} />
       </div>
+
+      <button
+        onClick={() => setSidebarOpen(true)}
+        className="xl:hidden mb-4 inline-flex items-center gap-2 bg-white border border-gray-200 rounded-lg px-3.5 py-2 text-sm font-medium text-gray-700 shadow-sm hover:bg-gray-50 transition-colors"
+      >
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" strokeWidth="1.5">
+          <path d="M1 4h14M1 8h14M1 12h14" strokeLinecap="round" />
+        </svg>
+        Choose date
+      </button>
+
+      {sidebarOpen && (
+        <div className="xl:hidden fixed inset-0 z-50 flex">
+          <div className="absolute inset-0 bg-black/40" onClick={() => setSidebarOpen(false)} />
+          <div className="relative w-72 h-full bg-white shadow-xl overflow-y-auto">
+            <DateSidebar
+              dates={availableDates}
+              selectedDate={date}
+              onSelectDate={(newDate) => {
+                selectDate(newDate);
+                setSidebarOpen(false);
+              }}
+            />
+          </div>
+        </div>
+      )}
 
       <Header />
 

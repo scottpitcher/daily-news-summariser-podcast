@@ -12,18 +12,18 @@ export function BriefingList({ briefings, onSelect }: BriefingListProps) {
   }
 
   return (
-    <ul className="bg-white divide-y divide-gray-100 border border-gray-100 rounded-2xl shadow-sm overflow-hidden">
+    <ul className="bg-white divide-y divide-gray-100 border border-gray-200 rounded-2xl shadow-sm overflow-hidden">
       {briefings.map((briefing) => (
         <li
           key={`${briefing.date}-${briefing.topic}`}
           onClick={() => onSelect(briefing)}
-          className="p-4 cursor-pointer hover:bg-[#1a1a2e]/[0.025] flex items-center justify-between border-l-2 border-transparent hover:border-[#e94560] transition-colors duration-150"
+          className="p-4 cursor-pointer hover:bg-[#1a1a2e]/[0.03] flex items-center justify-between border-l-2 border-transparent hover:border-[#e94560] transition-colors duration-150"
         >
           <div>
             <p className="font-semibold text-[#1a1a2e]">{topicLabel(briefing.topic)}</p>
             <p className="text-sm text-gray-400 mt-0.5">{briefing.date}</p>
           </div>
-          <span className="text-xs font-medium text-gray-400 bg-gray-100 rounded-full px-2.5 py-1">
+          <span className="text-xs font-medium text-gray-600 bg-gray-200 rounded-full px-2.5 py-1">
             {briefing.articles.length} articles
           </span>
         </li>

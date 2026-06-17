@@ -11,7 +11,7 @@ export function BriefingDetail({ briefing, onBack }: BriefingDetailProps) {
   const audioUrl = resolveAudioUrl(briefing.audioUrl);
 
   return (
-    <div className="bg-white rounded-2xl border border-gray-100 shadow-sm p-6">
+    <div className="bg-white rounded-2xl border border-gray-200 shadow-sm p-6">
       <button
         onClick={onBack}
         className="text-sm font-medium text-gray-500 hover:text-[#1a1a2e] transition-colors mb-4"
@@ -27,7 +27,7 @@ export function BriefingDetail({ briefing, onBack }: BriefingDetailProps) {
         <p className="text-sm text-gray-400 mb-6">No audio available for this briefing.</p>
       )}
 
-      <h2 className="text-[#1a1a2e] text-xl font-bold pb-3 mb-5 border-b border-gray-100">
+      <h2 className="text-[#1a1a2e] text-xl font-bold pb-3 mb-5 border-b border-gray-200">
         {topicLabel(briefing.topic)}
       </h2>
 
