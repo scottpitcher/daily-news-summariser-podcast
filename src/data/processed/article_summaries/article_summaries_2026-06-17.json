@@ -27,8 +27,8 @@
       },
       "summary_status": "fallback",
       "summary_method": "fallback",
-      "failure_reason": "request_error:404 Client Error: Not Found for url: https://api.cerebras.ai/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:15:49.446075+00:00"
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-17T16:20:59.425593+00:00"
     },
     {
       "headline": "Interim US-Iran deal leaves the thorniest issue still to be",
@@ -49,8 +49,8 @@
       },
       "summary_status": "fallback",
       "summary_method": "fallback",
-      "failure_reason": "request_error:404 Client Error: Not Found for url: https://api.cerebras.ai/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:15:49.543003+00:00"
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-17T16:20:59.501189+00:00"
     },
     {
       "headline": "Union Says Central Park Carriage Horse Died After Eating Toxic",
@@ -71,8 +71,8 @@
       },
       "summary_status": "fallback",
       "summary_method": "fallback",
-      "failure_reason": "request_error:404 Client Error: Not Found for url: https://api.cerebras.ai/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:15:49.604171+00:00"
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-17T16:20:59.576804+00:00"
     },
     {
       "headline": "Luigi Mangione to mount emotional disturbance defense to justify killing",
@@ -93,8 +93,8 @@
       },
       "summary_status": "fallback",
       "summary_method": "fallback",
-      "failure_reason": "request_error:404 Client Error: Not Found for url: https://api.cerebras.ai/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:15:49.682642+00:00"
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-17T16:20:59.631679+00:00"
     },
     {
       "headline": "US stocks drift ahead of the Fed\u2019s announcement on interest",
@@ -115,8 +115,8 @@
       },
       "summary_status": "fallback",
       "summary_method": "fallback",
-      "failure_reason": "request_error:404 Client Error: Not Found for url: https://api.cerebras.ai/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:15:49.808523+00:00"
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-17T16:20:59.735013+00:00"
     },
     {
       "headline": "Retail sales up 0.9% in May from April as warm",
@@ -137,8 +137,8 @@
       },
       "summary_status": "fallback",
       "summary_method": "fallback",
-      "failure_reason": "request_error:404 Client Error: Not Found for url: https://api.cerebras.ai/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:15:49.886568+00:00"
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-17T16:20:59.807318+00:00"
     },
     {
       "headline": "President Trump holds press conference at G7 summit amid questions",
@@ -159,8 +159,8 @@
       },
       "summary_status": "fallback",
       "summary_method": "fallback",
-      "failure_reason": "request_error:404 Client Error: Not Found for url: https://api.cerebras.ai/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:15:49.951079+00:00"
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-17T16:20:59.883423+00:00"
     },
     {
       "headline": "Rex Heuermann sentenced to life in prison for Gilgo Beach",
@@ -181,8 +181,8 @@
       },
       "summary_status": "fallback",
       "summary_method": "fallback",
-      "failure_reason": "request_error:404 Client Error: Not Found for url: https://api.cerebras.ai/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:15:50.022768+00:00"
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-17T16:20:59.923981+00:00"
     },
     {
       "headline": "Bronx man shot to death in front of mom by",
@@ -203,8 +203,8 @@
       },
       "summary_status": "fallback",
       "summary_method": "fallback",
-      "failure_reason": "request_error:404 Client Error: Not Found for url: https://api.cerebras.ai/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:15:50.114575+00:00"
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-17T16:20:59.962654+00:00"
     },
     {
       "headline": "South Texas motorists use sledgehammers, shovels to rescue survivors of",
@@ -225,8 +225,8 @@
       },
       "summary_status": "fallback",
       "summary_method": "fallback",
-      "failure_reason": "request_error:404 Client Error: Not Found for url: https://api.cerebras.ai/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:15:50.172835+00:00"
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-17T16:21:00.017456+00:00"
     },
     {
       "headline": "Trump DOJ sues New York health officials over alleged 'backroom",
@@ -247,8 +247,8 @@
       },
       "summary_status": "fallback",
       "summary_method": "fallback",
-      "failure_reason": "request_error:404 Client Error: Not Found for url: https://api.cerebras.ai/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:15:50.247687+00:00"
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-17T16:21:00.057389+00:00"
     },
     {
       "headline": "Crap to the future: High-tech public bathrooms coming to NYC",
@@ -269,8 +269,8 @@
       },
       "summary_status": "fallback",
       "summary_method": "fallback",
-      "failure_reason": "request_error:404 Client Error: Not Found for url: https://api.cerebras.ai/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:15:50.306674+00:00"
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-17T16:21:00.098986+00:00"
     },
     {
       "headline": "New School Lays Off Nearly 90 Trying to Cut $50",
@@ -291,8 +291,8 @@
       },
       "summary_status": "fallback",
       "summary_method": "fallback",
-      "failure_reason": "request_error:404 Client Error: Not Found for url: https://api.cerebras.ai/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:15:50.401831+00:00"
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-17T16:21:00.175183+00:00"
     },
     {
       "headline": "Rex Heuermann sentenced to life in prison without parole for",
@@ -313,8 +313,8 @@
       },
       "summary_status": "fallback",
       "summary_method": "fallback",
-      "failure_reason": "request_error:404 Client Error: Not Found for url: https://api.cerebras.ai/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:15:50.462676+00:00"
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-17T16:21:00.319546+00:00"
     },
     {
       "headline": "These summer heat waves have us wondering if it\u2019s time",
@@ -335,8 +335,8 @@
       },
       "summary_status": "fallback",
       "summary_method": "fallback",
-      "failure_reason": "request_error:404 Client Error: Not Found for url: https://api.cerebras.ai/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:15:50.529645+00:00"
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-17T16:21:00.361170+00:00"
     },
     {
       "headline": "Trump is losing his war on offshore wind power",
@@ -357,8 +357,8 @@
       },
       "summary_status": "fallback",
       "summary_method": "fallback",
-      "failure_reason": "request_error:404 Client Error: Not Found for url: https://api.cerebras.ai/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:15:50.617592+00:00"
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-17T16:21:00.419228+00:00"
     },
     {
       "headline": "How an alleged NYC real estate scammer stayed in business",
@@ -379,8 +379,8 @@
       },
       "summary_status": "fallback",
       "summary_method": "fallback",
-      "failure_reason": "request_error:404 Client Error: Not Found for url: https://api.cerebras.ai/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:15:50.707068+00:00"
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-17T16:21:00.463557+00:00"
     },
     {
       "headline": "UES Families, Lawmakers Rally To Save Local After-School Programs",
@@ -401,8 +401,8 @@
       },
       "summary_status": "fallback",
       "summary_method": "fallback",
-      "failure_reason": "request_error:404 Client Error: Not Found for url: https://api.cerebras.ai/v1/chat/completions",
-      "summarized_at": "2026-06-17T16:15:50.776894+00:00"
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-17T16:21:00.510115+00:00"
     }
   ]
 }
