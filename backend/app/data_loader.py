@@ -7,11 +7,15 @@ those directories or invokes the pipeline.
 Note: src/config.py declares OUTPUT_DIRS pointing at data/tagged_articles,
 data/ranked_articles, output/reports, output/audio -- but src/run_pipeline.py
 does not actually use those constants. Each stage module carries its own
-DEFAULT_INPUT_DIR/DEFAULT_OUTPUT_DIR (e.g. summarize_articles.DEFAULT_OUTPUT_DIR
-= data/processed/article_summaries, generate_tts.DEFAULT_AUDIO_DIR =
-outputs/audio), and run_pipeline.py wires stages together using those
-module-level constants. The paths below match what run_pipeline.py actually
-writes, not config.py's (unused) OUTPUT_DIRS.
+DEFAULT_INPUT_DIR/DEFAULT_OUTPUT_DIR, and those are defined relative to
+config.BASE_DIR, which resolves to the src/ directory itself (Path(__file__)
+.resolve().parent of config.py) -- not the repo root. So
+summarize_articles.DEFAULT_OUTPUT_DIR is actually src/data/processed/
+article_summaries, not data/processed/article_summaries. build_briefing.py
+and generate_tts.py separately define PROJECT_ROOT = BASE_DIR.parent, which
+*is* the repo root, so their report/audio output dirs (outputs/reports,
+outputs/audio) are at the repo root as expected. The paths below match what
+run_pipeline.py actually writes on disk, not config.py's (unused) OUTPUT_DIRS.
 """
 
 from __future__ import annotations
@@ -29,7 +33,7 @@ if str(SRC_DIR) not in sys.path:
 
 from config import ISSUE_AREAS  # noqa: E402
 
-ARTICLE_SUMMARIES_DIR = PROJECT_ROOT / "data" / "processed" / "article_summaries"
+ARTICLE_SUMMARIES_DIR = PROJECT_ROOT / "src" / "data" / "processed" / "article_summaries"
 REPORTS_DIR = PROJECT_ROOT / "outputs" / "reports"
 AUDIO_DIR = PROJECT_ROOT / "outputs" / "audio"
 

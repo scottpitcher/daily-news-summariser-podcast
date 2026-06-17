@@ -21,7 +21,7 @@ sys.path.insert(0, str(SRC_DIR))
 
 from config import ISSUE_AREAS  # noqa: E402
 
-ARTICLE_SUMMARIES_DIR = PROJECT_ROOT / "data" / "processed" / "article_summaries"
+ARTICLE_SUMMARIES_DIR = PROJECT_ROOT / "src" / "data" / "processed" / "article_summaries"
 REPORTS_DIR = PROJECT_ROOT / "outputs" / "reports"
 AUDIO_DIR = PROJECT_ROOT / "outputs" / "audio"
 
