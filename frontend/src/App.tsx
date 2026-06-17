@@ -42,13 +42,13 @@ function App() {
 
   return (
     <div className="max-w-3xl mx-auto px-4 py-8 relative">
-      <div className="hidden xl:block absolute top-8 bottom-8 right-full mr-6 w-64 rounded-2xl border border-gray-200 shadow-sm overflow-hidden">
+      <div className="hidden xl:block absolute top-8 bottom-8 right-full mr-6 w-64 rounded-2xl border border-[#e7e0c9] shadow-sm overflow-hidden">
         <DateSidebar dates={availableDates} selectedDate={date} onSelectDate={selectDate} />
       </div>
 
       <button
         onClick={() => setSidebarOpen(true)}
-        className="xl:hidden mb-4 inline-flex items-center gap-2 bg-white border border-gray-200 rounded-lg px-3.5 py-2 text-sm font-medium text-gray-700 shadow-sm hover:bg-gray-50 transition-colors"
+        className="xl:hidden mb-4 inline-flex items-center gap-2 bg-white border border-[#e7e0c9] rounded-lg px-3.5 py-2 text-sm font-medium text-[#283618] shadow-sm hover:bg-[#fefae0] transition-colors"
       >
         <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" strokeWidth="1.5">
           <path d="M1 4h14M1 8h14M1 12h14" strokeLinecap="round" />
