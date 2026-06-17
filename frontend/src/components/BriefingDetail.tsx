@@ -11,7 +11,7 @@ export function BriefingDetail({ briefing, onBack }: BriefingDetailProps) {
   const audioUrl = resolveAudioUrl(briefing.audioUrl);
 
   return (
-    <div>
+    <div className="bg-white rounded-md p-4">
       <button onClick={onBack} className="text-sm text-[#1a1a2e] hover:underline mb-4">
         ← Back to briefings
       </button>

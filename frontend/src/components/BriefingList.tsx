@@ -12,7 +12,7 @@ export function BriefingList({ briefings, onSelect }: BriefingListProps) {
   }
 
   return (
-    <ul className="divide-y divide-gray-200 border border-gray-200 rounded-md">
+    <ul className="bg-white divide-y divide-gray-200 border border-gray-200 rounded-md">
       {briefings.map((briefing) => (
         <li
           key={`${briefing.date}-${briefing.topic}`}

@@ -21,7 +21,7 @@ export function FilterBar({ topic, date, onTopicChange, onDateChange }: FilterBa
         <select
           value={topic}
           onChange={(e) => onTopicChange(e.target.value)}
-          className="border border-gray-300 rounded-md px-3 py-2 text-sm"
+          className="bg-white border border-gray-300 rounded-md px-3 py-2 text-sm"
         >
           <option value="">All topics</option>
           {Object.entries(TOPIC_LABELS).map(([key, label]) => (
@@ -37,7 +37,7 @@ export function FilterBar({ topic, date, onTopicChange, onDateChange }: FilterBa
           type="date"
           value={date}
           onChange={(e) => onDateChange(e.target.value)}
-          className="border border-gray-300 rounded-md px-3 py-2 text-sm"
+          className="bg-white border border-gray-300 rounded-md px-3 py-2 text-sm"
         />
       </div>
       <button
