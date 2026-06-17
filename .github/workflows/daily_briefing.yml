@@ -57,5 +57,6 @@ jobs:
             echo "No output changes to commit"
           else
             git commit -m "Add daily briefing output for $(date +%Y-%m-%d)"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
             git push
           fi
