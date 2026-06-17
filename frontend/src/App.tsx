@@ -36,7 +36,7 @@ function App() {
 
   return (
     <div className="max-w-3xl mx-auto px-4 py-8 relative">
-      <div className="absolute top-8 right-full mr-6">
+      <div className="absolute top-8 bottom-8 right-full mr-6 w-64">
         <DateSidebar
           dates={availableDates}
           selectedDate={date}
