@@ -39,7 +39,7 @@ export function DateSidebar({ dates, selectedDate, onSelectDate }: DateSidebarPr
     <aside className="h-full w-64 shrink-0 bg-white overflow-y-auto">
       {groups.map((group) => (
         <div key={group.label}>
-          <div className="sticky top-0 bg-[#d9dcd6] border-y border-[#c9ccc6] text-[11px] font-semibold text-[#16425b] uppercase tracking-wider px-4 py-2">
+          <div className="sticky top-0 bg-[#f1f1f6] border-y border-[#e4e4ea] text-[11px] font-semibold text-[#6b6b80] uppercase tracking-wider px-4 py-2">
             {group.label}
           </div>
           <ul>
@@ -49,8 +49,8 @@ export function DateSidebar({ dates, selectedDate, onSelectDate }: DateSidebarPr
                   onClick={() => onSelectDate(date)}
                   className={`w-full text-left px-4 py-2.5 text-sm border-l-2 transition-colors duration-150 ${
                     date === selectedDate
-                      ? "border-[#3a7ca5] bg-[#2f6690]/[0.08] text-[#16425b] font-semibold"
-                      : "border-transparent hover:bg-[#d9dcd6]/40 text-gray-600 hover:text-[#16425b]"
+                      ? "border-[#6366f1] bg-[#6366f1]/[0.07] text-[#18181b] font-semibold"
+                      : "border-transparent hover:bg-[#f7f7fb] text-gray-600 hover:text-[#18181b]"
                   }`}
                 >
                   {formatReportLabel(date)}

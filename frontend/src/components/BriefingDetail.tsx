@@ -11,10 +11,10 @@ export function BriefingDetail({ briefing, onBack }: BriefingDetailProps) {
   const audioUrl = resolveAudioUrl(briefing.audioUrl);
 
   return (
-    <div className="bg-white rounded-2xl border border-[#c9ccc6] shadow-sm p-6">
+    <div className="bg-white rounded-2xl border border-[#e4e4ea] shadow-sm p-6">
       <button
         onClick={onBack}
-        className="text-sm font-medium text-gray-500 hover:text-[#16425b] transition-colors mb-4"
+        className="text-sm font-medium text-gray-500 hover:text-[#18181b] transition-colors mb-4"
       >
         ← Back to briefings
       </button>
@@ -27,14 +27,14 @@ export function BriefingDetail({ briefing, onBack }: BriefingDetailProps) {
         <p className="text-sm text-gray-400 mb-6">No audio available for this briefing.</p>
       )}
 
-      <h2 className="text-[#16425b] text-xl font-bold pb-3 mb-5 border-b border-[#c9ccc6]">
+      <h2 className="text-[#18181b] text-xl font-bold pb-3 mb-5 border-b border-[#e4e4ea]">
         {topicLabel(briefing.topic)}
       </h2>
 
       <div className="space-y-7">
         {briefing.articles.map((article) => (
           <div key={`${article.rank}-${article.title}`}>
-            <h3 className="text-[#16425b] text-base font-bold mb-1.5">{article.headline}</h3>
+            <h3 className="text-[#18181b] text-base font-bold mb-1.5">{article.headline}</h3>
             {article.bullets.length > 0 && (
               <ul className="list-disc pl-5 space-y-1 mb-2.5">
                 {article.bullets.map((bullet, i) => (
@@ -45,8 +45,8 @@ export function BriefingDetail({ briefing, onBack }: BriefingDetailProps) {
               </ul>
             )}
             {article.soWhat && (
-              <p className="text-sm text-gray-700 leading-relaxed mb-2.5 bg-[#3a7ca5]/[0.08] rounded-lg px-3 py-2">
-                <span className="font-bold text-[#2f6690]">So what? </span>
+              <p className="text-sm text-gray-700 leading-relaxed mb-2.5 bg-[#6366f1]/[0.06] rounded-lg px-3 py-2">
+                <span className="font-bold text-[#4338ca]">So what? </span>
                 {article.soWhat}
               </p>
             )}
@@ -57,7 +57,7 @@ export function BriefingDetail({ briefing, onBack }: BriefingDetailProps) {
                   href={article.sourceUrl}
                   target="_blank"
                   rel="noreferrer"
-                  className="underline hover:text-[#16425b] transition-colors"
+                  className="underline hover:text-[#18181b] transition-colors"
                 >
                   {article.title || "Source"}
                 </a>
