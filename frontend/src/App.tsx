@@ -35,13 +35,20 @@ function App() {
   }, [topic, date]);
 
   return (
-    <div className="max-w-6xl mx-auto px-4 py-8">
-      <Header />
+    <div className="flex">
+      <DateSidebar
+        dates={availableDates}
+        selectedDate={date}
+        onSelectDate={(newDate) => {
+          setSelected(null);
+          setDate(newDate);
+        }}
+      />
 
-      <div className="flex gap-6 items-start">
-        <DateSidebar dates={availableDates} selectedDate={date} onSelectDate={setDate} />
+      <div className="flex-1 ml-72 px-4 py-8">
+        <div className="max-w-3xl mx-auto">
+          <Header />
 
-        <div className="flex-1 min-w-0">
           {selected ? (
             <BriefingDetail briefing={selected} onBack={() => setSelected(null)} />
           ) : (

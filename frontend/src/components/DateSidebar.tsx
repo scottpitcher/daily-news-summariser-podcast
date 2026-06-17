@@ -36,7 +36,7 @@ export function DateSidebar({ dates, selectedDate, onSelectDate }: DateSidebarPr
   }, [dates]);
 
   return (
-    <aside className="w-64 shrink-0 bg-white rounded-md border border-gray-200 max-h-[calc(100vh-3rem)] overflow-y-auto sticky top-8">
+    <aside className="fixed left-0 top-0 h-screen w-72 shrink-0 bg-white border-r border-gray-200 overflow-y-auto">
       {groups.map((group) => (
         <div key={group.label}>
           <div className="sticky top-0 bg-gray-100 text-xs font-semibold text-gray-500 uppercase tracking-wide px-4 py-2 border-b border-gray-200">
