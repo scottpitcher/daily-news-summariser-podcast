@@ -1,0 +1,408 @@
+{
+  "generated_at": "2026-06-19T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/ranked/ranked_articles_2026-06-19.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 18,
+    "fallback_summaries": 0
+  },
+  "summaries": [
+    {
+      "headline": "Juneteenth and Historical Erasure",
+      "bullets": [
+        "Juneteenth commemorates the end of slavery, but faces attempts at historical erasure.",
+        "The Trump administration dismantled exhibits highlighting enslaved people's lives in Philadelphia and edited content at the Smithsonian."
+      ],
+      "summary": "Juneteenth and Historical Erasure",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "These actions threaten to obscure the historical context of systemic racism, impacting how New Yorkers understand and address ongoing issues of inequality.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on Juneteenth, Trump\u2019s ballroom and the Tony Awards",
+        "article_url": "https://www.nydailynews.com/2026/06/19/readers-sound-off-on-juneteenth-trumps-ballroom-and-the-tony-awards/",
+        "published_at": "2026-06-19"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-19T10:32:52.656310+00:00"
+    },
+    {
+      "headline": "Mississippi Police Shooting Sparks Racial Tensions",
+      "bullets": [
+        "A 1-year-old Black child was fatally shot by police in Senatobia, Mississippi, during a shoplifting incident.",
+        "The shooting has reignited racial justice concerns and protests in the town."
+      ],
+      "summary": "Mississippi Police Shooting Sparks Racial Tensions",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This incident highlights ongoing issues of police accountability and racial bias, which are relevant to CM Maloney's committee on Police and Emergency Management and her work on racial justice initiatives.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Police shooting of a 1-year-old Mississippi boy ignites tension between police and Black residents",
+        "article_url": "https://www.nydailynews.com/2026/06/18/mississippi-child-shot/",
+        "published_at": "2026-06-18"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-19T10:32:54.188260+00:00"
+    },
+    {
+      "headline": "Petition Calls for Faster Kendra\u2019s Law Interventions",
+      "bullets": [
+        "A petition urges quicker implementation of Kendra\u2019s Law to prevent violent incidents.",
+        "The petition targets New York elected officials, demanding immediate legislative and executive action."
+      ],
+      "summary": "Petition Calls for Faster Kendra\u2019s Law Interventions",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This petition highlights the need for faster mental health interventions, which connects to CM Maloney\u2019s committee portfolio on Mental Health and Public Safety.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Petition Urges Faster Mental Health Intervention Under Kendra\u00e2s Law",
+        "article_url": "https://www.ourtownny.com/news/petition-urges-faster-mental-health-intervention-under-kendra-s-law-EG5954042",
+        "published_at": "2026-06-18"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-19T10:32:55.717398+00:00"
+    },
+    {
+      "headline": "Comptroller Race Heats Up with Progressive Challengers",
+      "bullets": [
+        "Two challengers are vying for the Democratic nomination against incumbent Tom DiNapoli, arguing for changes in how the state pension fund is managed.",
+        "Challengers Drew Warshaw and Raj Goyle propose divesting from fossil fuels and using pension fund assets to build housing."
+      ],
+      "summary": "Comptroller Race Heats Up with Progressive Challengers",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This race highlights the growing progressive movement in New York, potentially influencing how the state manages its pension fund and addresses housing needs, which are key issues for CM Maloney's Economic Development Committee.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NY Comptroller DiNapoli says he\u2019s running on his record, as progressives vie for seat",
+        "article_url": "https://gothamist.com/news/ny-comptroller-dinapoli-says-hes-running-on-his-record-as-progressives-vie-for-seat",
+        "published_at": "2026-06-18T23:32:00+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-19T10:32:57.402220+00:00"
+    },
+    {
+      "headline": "Trump\u2019s Tax Bill Funds White House Ballroom Project",
+      "bullets": [
+        "More than $350 million from Trump's tax bill has been redirected to White House security, potentially funding the ballroom project.",
+        "Democrats argue this is an illegal use of taxpayer money for a vanity project, while the White House claims Trump and donors are funding the ballroom."
+      ],
+      "summary": "Trump\u2019s Tax Bill Funds White House Ballroom Project",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "This funding reallocation raises concerns about the use of taxpayer money for non-security purposes, impacting NYC's fiscal oversight and transparency.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Democrats say money from Trump\u2019s tax bill is paying for White House ballroom project",
+        "article_url": "https://www.nydailynews.com/2026/06/18/congress-white-house-ballroom-costs/",
+        "published_at": "2026-06-18"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-19T10:32:59.414071+00:00"
+    },
+    {
+      "headline": "On-Demand Ice Cream Boats and Trucks Gain Popularity",
+      "bullets": [
+        "Mann's Homemade Ice Cream offers an on-demand ice cream boat service in Long Island.",
+        "Kool Kat Soft Ice Cream and Cones App provide on-demand ice cream delivery via trucks and an app."
+      ],
+      "summary": "On-Demand Ice Cream Boats and Trucks Gain Popularity",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "These services enhance the ice cream experience for New Yorkers, especially during summer months, by providing convenient and personalized delivery options, which can be linked to the Economic Development committee's focus on innovative small businesses.",
+      "source_citation": {
+        "source_name": "Newsday",
+        "source_level": "local",
+        "article_title": "Mann's ice cream boat returns to the water as Long Island dessert 'Uber' trend expands",
+        "article_url": "https://www.newsday.com/lifestyle/restaurants/manns-homemade-ice-cream-water-boat-bzxbjy46",
+        "published_at": "2026-06-18"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-19T10:33:01.074889+00:00"
+    },
+    {
+      "headline": "Vice President Vance Delays Iran Talks",
+      "bullets": [
+        "Vice President JD Vance is postponing a trip to Switzerland to lead new U.S. talks with Iran over its nuclear program.",
+        "The delay is due to difficult logistics and questions about the timing of the negotiations."
+      ],
+      "summary": "Vice President Vance Delays Iran Talks",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "This delay affects the progress of the tentative agreement to end the conflict with Iran, impacting U.S. foreign policy and potentially influencing the daily lives of New Yorkers through economic and security concerns.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "JD Vance delays trip to Switzerland to lead new US talks with Iran on its nuclear program",
+        "article_url": "https://abc7ny.com/story/vice-president-jd-vance-delays-trip-switzerland-lead-new-us-talks-iran-nuclear-program/19329459/",
+        "published_at": "2026-06-19"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-19T10:33:03.017078+00:00"
+    },
+    {
+      "headline": "Black-Jewish Accord Grows Amid Hate Crimes",
+      "bullets": [
+        "Black and Jewish leaders are convening to address racism and hate crimes, with plans to launch initiatives like the Black Christian Leadership Council on Israel Relations.",
+        "100 Black and Jewish leaders gathered in Miami for the first national convening of its kind in a generation."
+      ],
+      "summary": "Black-Jewish Accord Grows Amid Hate Crimes",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "This collaboration between Black and Jewish communities addresses shared experiences of hate and racism, potentially influencing city policies and community relations in NYC.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "We must weave a new Black-Jewish accord",
+        "article_url": "https://www.nydailynews.com/2026/06/19/we-must-weave-a-new-black-jewish-accord/",
+        "published_at": "2026-06-19"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-19T10:33:04.360646+00:00"
+    },
+    {
+      "headline": "How to Protect Your Home from Wildfire Smoke",
+      "bullets": [
+        "High-quality face masks, air quality monitors, and air purifiers can help mitigate the effects of wildfire smoke.",
+        "Air purifiers with HEPA filters can remove up to 99.97% of ultra-fine particles from indoor air."
+      ],
+      "summary": "How to Protect Your Home from Wildfire Smoke",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "This information is crucial for New Yorkers living in areas prone to wildfires, as it helps protect their health and home, aligning with CM Maloney's focus on public safety and emergency management.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "How to safely clear wildfire smoke from your home",
+        "article_url": "https://www.nydailynews.com/2026/06/18/how-to-safely-clear-wildfire-smoke-from-your-home/",
+        "published_at": "2026-06-18"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-19T10:33:05.857936+00:00"
+    },
+    {
+      "headline": "Teen Tourist Dies in Central Park Carriage Crash",
+      "bullets": [
+        "An 18-year-old tourist died after a horse carriage he was in crashed in Central Park, with the driver stepping out to take a photo.",
+        "The driver has been indefinitely suspended, and the horse taken out of service."
+      ],
+      "summary": "Teen Tourist Dies in Central Park Carriage Crash",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "This incident highlights the safety concerns in the horse carriage industry and supports calls for the City Council to pass Ryder\u2019s Law, which would ban horse carriages from Central Park.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Teen tourist killed in Central Park horse carriage crash was celebrating high school graduation: family",
+        "article_url": "https://www.nydailynews.com/2026/06/18/teen-tourist-india-romanch-mahajan-killed-central-park-horse-carriage-crash-celebrating-high-school-graduation/",
+        "published_at": "2026-06-18"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-19T10:33:07.776144+00:00"
+    },
+    {
+      "headline": "Flu Outbreak at Joint Base San Antonio",
+      "bullets": [
+        "At least 159 flu cases and two hospitalizations among recruits at Lackland Air Force Base.",
+        "Defense Secretary ended mandatory flu vaccination for all service members in April."
+      ],
+      "summary": "Flu Outbreak at Joint Base San Antonio",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "This outbreak highlights the importance of flu vaccinations for military readiness and public health, impacting NYC's Sanitation and Solid Waste Management, as well as Health and Buildings committees.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Flu outbreak at Joint Base San Antonio after Hegseth ends mandatory vaccination",
+        "article_url": "https://abc7ny.com/post/flu-outbreak-joint-base-san-antonio-hegseth-ends-mandatory-vaccination/19325464/",
+        "published_at": "2026-06-18"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-19T10:33:09.013355+00:00"
+    },
+    {
+      "headline": "Trump DOJ Sues NY Over Home Care Program",
+      "bullets": [
+        "The Trump administration sued New York state health officials for allegedly engaging in a 'backroom deal' to hand over a $9 billion home care program to PPL.",
+        "The lawsuit claims the bidding process was sham and PPL misrepresented costs to make itself artificially attractive."
+      ],
+      "summary": "Trump DOJ Sues NY Over Home Care Program",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "This lawsuit could impact the governance and funding of New York's home care program, which falls under the Committee on Health and Economic Development.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Trump DOJ sues New York health officials over alleged 'backroom deal' in home care overhaul",
+        "article_url": "https://gothamist.com/news/trump-doj-sues-ny-health-officials-alleging-backroom-deal-in-home-care-overhaul",
+        "published_at": "2026-06-18T15:36:00+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-19T10:33:10.298734+00:00"
+    },
+    {
+      "headline": "Rex Heuermann Sentenced for Gilgo Beach Murders",
+      "bullets": [
+        "Rex Heuermann, convicted of seven murders and admitting to an eighth, was sentenced to life in prison without parole.",
+        "The case, which spanned 17 years, involved the discovery of multiple victims' remains along Ocean Parkway."
+      ],
+      "summary": "Rex Heuermann Sentenced for Gilgo Beach Murders",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "This case highlights the importance of persistent law enforcement efforts in solving cold cases, which can bring closure to families and ensure justice for victims, aligning with the Higher Education and Cultural Affairs/Libraries committees' focus on community engagement and public safety.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Rex Heuermann sentenced to life in prison without parole for Gilgo Beach murders",
+        "article_url": "https://www.fox5ny.com/news/rex-heuermann-be-sentenced-after-pleading-guilty-7-murders-admitting-another",
+        "published_at": "2026-06-17"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-19T10:33:11.622798+00:00"
+    },
+    {
+      "headline": "Necropsy Reveals Central Park Carriage Horse Died from Poisonous Plant",
+      "bullets": [
+        "A necropsy found that a Central Park carriage horse died after eating a toxic plant, contradicting claims of abuse.",
+        "The Central Park Conservancy and TWU blame each other for the horse's death, highlighting ongoing tensions."
+      ],
+      "summary": "Necropsy Reveals Central Park Carriage Horse Died from Poisonous Plant",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "This incident could influence the City Council's upcoming debate on the carriage horse industry, impacting animal welfare and city policies.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Cause of death revealed for Central Park carriage horse that reignited controversy",
+        "article_url": "https://www.nydailynews.com/2026/06/16/cause-of-death-central-park-carriage-horse-twu-conservancy/",
+        "published_at": "2026-06-16"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-19T10:33:13.013377+00:00"
+    },
+    {
+      "headline": "Comptroller Race Heats Up with Progressive Challengers",
+      "bullets": [
+        "Two challengers, Drew Warshaw and Raj Goyle, are vying to replace Tom DiNapoli, arguing for divestment from fossil fuels and investment in housing.",
+        "Warshaw and Goyle aim to shift the pension fund's assets to more closely track the S&P 500, while DiNapoli claims the fund has outperformed the national average."
+      ],
+      "summary": "Comptroller Race Heats Up with Progressive Challengers",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "This race highlights the growing demand for progressive policies among Democratic voters, potentially influencing how the state manages its pension fund and supports housing initiatives.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NY Comptroller DiNapoli says he\u2019s running on his record, as progressives vie for seat",
+        "article_url": "https://gothamist.com/news/ny-comptroller-dinapoli-says-hes-running-on-his-record-as-progressives-vie-for-seat",
+        "published_at": "2026-06-18T23:32:00+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-19T10:33:14.761969+00:00"
+    },
+    {
+      "headline": "Pride 2026 Show Explores LGBTQ Stories",
+      "bullets": [
+        "The show features profiles on T Lounge, New York Ramblers, and a gay Army veteran.",
+        "It includes a comedic segment with a digital drag queen and a dancer who is an LGBTQ advocate."
+      ],
+      "summary": "Pride 2026 Show Explores LGBTQ Stories",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "This connects to the Cultural Affairs/Libraries committee portfolio by showcasing diverse LGBTQ stories, aligning with NYC Pride's theme and promoting inclusivity.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "'Pride 2026: For All of Us' explores LGBTQ stories in NYC and beyond",
+        "article_url": "https://abc7ny.com/post/pride-2026-us-explores-lgbtq-stories-nyc-beyond/19316556/",
+        "published_at": "2026-06-17"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-19T10:33:16.231718+00:00"
+    },
+    {
+      "headline": "U.S.-Iran Deal Postpones Nuclear Talks",
+      "bullets": [
+        "Vice President JD Vance's trip to Switzerland for nuclear talks with Iran was postponed.",
+        "The U.S. and Iran signed an agreement to reopen the Strait of Hormuz, but fighting in Lebanon continues."
+      ],
+      "summary": "U.S.-Iran Deal Postpones Nuclear Talks",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "No direct committee or district connection identified.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "U.S.-Iran deal signing sets stage for nuclear negotiations, but initial talks in Switzerland postponed",
+        "article_url": "https://www.cbsnews.com/newyork/live-updates/iran-war-trump-us-deal-strait-of-hormuz/",
+        "published_at": "2026-06-18"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-19T10:33:17.381377+00:00"
+    },
+    {
+      "headline": "Tips for Bug-Free Summer Patios",
+      "bullets": [
+        "Use fans and eliminate standing water to reduce mosquito and fly populations.",
+        "Plant bug-repellent herbs and use citronella candles for natural pest control."
+      ],
+      "summary": "Tips for Bug-Free Summer Patios",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "These tips help maintain outdoor spaces, which is relevant to the Sanitation and Solid Waste Management committee's focus on improving public health and cleanliness.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "How to keep summer bugs off your patio",
+        "article_url": "https://www.nydailynews.com/2026/06/18/how-to-keep-summer-bugs-off-your-patio-2/",
+        "published_at": "2026-06-18"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-19T10:33:18.641611+00:00"
+    }
+  ]
+}
