@@ -1,0 +1,408 @@
+{
+  "generated_at": "2026-06-22T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/ranked/ranked_articles_2026-06-22.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 15,
+    "fallback_summaries": 3
+  },
+  "summaries": [
+    {
+      "headline": "Upstate NY Republican Primary Heats Up",
+      "bullets": [
+        "Anthony Constantino and Robert Smullen are competing in a contentious primary, with Constantino backed by Trump and Smullen by local party leaders.",
+        "The race highlights the influence of Trump endorsements and the tension between party insiders and outsiders."
+      ],
+      "summary": "Upstate NY Republican Primary Heats Up",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This primary showcases the ongoing influence of Trump endorsements and the dynamics between local party leaders and national figures, impacting how New York Republicans align with national politics and policy.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Nasty upstate Republican primary tests power of Trump endorsement",
+        "article_url": "https://gothamist.com/news/nasty-upstate-republican-primary-tests-power-of-trump-endorsement",
+        "published_at": "2026-06-21T12:00:48+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-22T10:54:45.088104+00:00"
+    },
+    {
+      "headline": "Trump Sidelines Clayton, Puts Pulte in DNI Role",
+      "bullets": [
+        "President Trump sidelined his own pick, Jay Clayton, for DNI, instead choosing Jamie Pulte.",
+        "Pulte, with no relevant experience, has a history of targeting political enemies with government resources."
+      ],
+      "summary": "Trump Sidelines Clayton, Puts Pulte in DNI Role",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This decision affects national security and the integrity of the DNI position, impacting how resources are allocated and potentially abused.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Trump sidelines his own intel pick of Jay Clayton",
+        "article_url": "https://www.nydailynews.com/2026/06/22/trump-sidelines-his-own-intel-pick-of-jay-clayton/",
+        "published_at": "2026-06-22"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-22T10:54:46.635598+00:00"
+    },
+    {
+      "headline": "NYC Rep. Goldman Faces Intense Democratic Primary",
+      "bullets": [
+        "Rep. Dan Goldman and Brad Lander, former NYC comptroller, are in a tight race for New York's 10th Congressional District.",
+        "Goldman defends his record, including the Robinhood Act aimed at taxing billionaires more."
+      ],
+      "summary": "NYC Rep. Goldman Faces Intense Democratic Primary",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This primary highlights the importance of progressive policies like tax reform and universal childcare, key issues for CM Maloney's Economic Development and Higher Education committees.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "NYC Rep. Dan Goldman on the fierce Democratic primary for his seat in Congress: \"I'm uniquely qualified\"",
+        "article_url": "https://www.cbsnews.com/newyork/news/rep-dan-goldman-interview-ny-10-democratic-primary/",
+        "published_at": "2026-06-21"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-22T10:54:47.884896+00:00"
+    },
+    {
+      "headline": "Trump Considers Changing ICE to NICE",
+      "bullets": [
+        "President Trump suggests renaming ICE to NICE to mock media and change agency image.",
+        "The proposal requires congressional approval and faces scrutiny over ICE's role in recent protests."
+      ],
+      "summary": "Trump Considers Changing ICE to NICE",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This renaming proposal could impact public perception of ICE and potentially influence policy debates on immigration enforcement.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "President Trump mulls changing ICE to NICE to troll \u2018Dumocrats and Fake News\u2019",
+        "article_url": "https://www.nydailynews.com/2026/06/20/president-trump-mulls-changing-ice-name-nice/",
+        "published_at": "2026-06-20"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-22T10:54:48.758014+00:00"
+    },
+    {
+      "headline": "Top Long Island Seafood Market Cafes",
+      "bullets": [
+        "Artie's South Shore Fish Market & Grill offers a vast menu with local specialties like whole fried fluke.",
+        "Point Lookout Clam Bar combines a fish market with a restaurant, serving fresh local seafood and offering sushi."
+      ],
+      "summary": "Top Long Island Seafood Market Cafes",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "These seafood market cafes highlight the importance of local fishing and fresh seafood in Long Island, which can inform policies on supporting local businesses and sustainable fishing practices in NYC.",
+      "source_citation": {
+        "source_name": "Newsday",
+        "source_level": "local",
+        "article_title": "10 standout Long Island seafood market cafes",
+        "article_url": "https://www.newsday.com/lifestyle/restaurants/10-long-island-seafood-market-cafes-2026-p42rl2na",
+        "published_at": "2026-06-21"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-22T10:54:50.294624+00:00"
+    },
+    {
+      "headline": "AI Firms Expand in Manhattan Office Space",
+      "bullets": [
+        "AI companies are leasing 1 million square feet of office space in NYC, tripling in the first quarter of 2026.",
+        "AI firms are driving demand in Midtown and Flatiron, injecting investment into the city's real estate market."
+      ],
+      "summary": "AI Firms Expand in Manhattan Office Space",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "This trend connects to CM Maloney's Economic Development committee as it impacts job creation and real estate investment in Manhattan, potentially affecting local businesses and housing costs.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Artificial intelligence firms are feasting on Manhattan office space",
+        "article_url": "https://gothamist.com/news/artificial-intelligence-firms-are-feasting-on-manhattan-office-space",
+        "published_at": "2026-06-22T10:01:01+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-22T10:54:51.458816+00:00"
+    },
+    {
+      "headline": "Cuban Author Discusses Migration, Bronx Chamber Explores World Cup Opportunities",
+      "bullets": [
+        "Ada Ferrer, a Pulitzer Prize-winning author, discusses her new memoir on migration and family guilt.",
+        "The Bronx Chamber of Commerce launched a digital directory to help local businesses during the World Cup."
+      ],
+      "summary": "Cuban Author Discusses Migration, Bronx Chamber Explores World Cup Opportunities",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "The World Cup digital directory supports local small businesses, aligning with CM Maloney's Small Business and Economic Development committees.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Tiempo: Cuban Pulitzer Prize-winning author discusses family memoir exploring migration, guilt",
+        "article_url": "https://abc7ny.com/post/tiempo-pulitzer-prize-winning-author-discussion-bronxs-digital-directory-world-cup/19330999/",
+        "published_at": "2026-06-21"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-22T10:54:52.705182+00:00"
+    },
+    {
+      "headline": "Man Shot After Con Artist Confrontation",
+      "bullets": [
+        "Jonathan Valentin, a con artist involved in a 2023 hit-and-run crash, was shot and killed in the Bronx.",
+        "Valentin was in a confrontation over $60,000 he owed when he sparked the 2023 crash that injured 20 people."
+      ],
+      "summary": "Man Shot After Con Artist Confrontation",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "This case highlights the ongoing challenges in addressing the root causes of criminal behavior and the impact of past crimes on public safety, which are relevant to the Council Member's Economic Development and Fire and Emergency Management committees.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Man shot to death in Bronx was \u2018con artist\u2019 hoping to turn life around: family",
+        "article_url": "https://www.nydailynews.com/2026/06/21/jonathan-valentin-shot-death-bronx-con-artist-hit-and-run-crash/",
+        "published_at": "2026-06-21T14:44:28+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-22T10:54:54.298184+00:00"
+    },
+    {
+      "headline": "Harlem Shooting Wounds Four, Including Two Teens",
+      "bullets": [
+        "Four people, including two teens, were shot in Harlem early Sunday morning.",
+        "The victims were treated at Harlem Hospital; police have not made any arrests."
+      ],
+      "summary": "Harlem Shooting Wounds Four, Including Two Teens",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "This incident highlights ongoing public safety concerns in Harlem, impacting the daily lives of residents and underscoring the need for continued efforts to reduce gun violence, which is a key focus of the Fire and Emergency Management committee.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "4 wounded, including 2 teens, in Harlem shooting",
+        "article_url": "https://abc7ny.com/post/4-wounded-including-2-teens-harlem-shooting/19345928/",
+        "published_at": "2026-06-21"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-22T10:54:55.457282+00:00"
+    },
+    {
+      "headline": "Bronx Juvenile Facility Clashes Injure 11",
+      "bullets": [
+        "Eleven people, including officers, were injured in a violent fight at the Horizon Juvenile Center in the Bronx.",
+        "The facility, operated by ACS, does not allow weapons, raising questions about how one may have entered."
+      ],
+      "summary": "Bronx Juvenile Facility Clashes Injure 11",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "This incident highlights the need for enhanced security measures at juvenile facilities, which falls under the jurisdiction of the Fire and Emergency Management committee.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "11 injured in violent clash between teens, officers at Bronx juvenile facility",
+        "article_url": "https://abc7ny.com/post/11-injured-violent-clash-between-teens-officers-bronx-juvenile-facility/19350397/",
+        "published_at": "2026-06-22"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-22T10:54:56.617132+00:00"
+    },
+    {
+      "headline": "STI Crisis Requires Cultural Change",
+      "bullets": [
+        "STI rates are at generational highs, driven by silence, shame, and avoidance.",
+        "Medicinal solutions like PrEP and DoxyPEP are effective but not enough alone."
+      ],
+      "summary": "STI Crisis Requires Cultural Change",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "This story highlights the need for cultural shifts in sexual health awareness and accountability, which aligns with CM Maloney's focus on public health and education.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "More than medicine to ward off STIs",
+        "article_url": "https://www.nydailynews.com/2026/06/22/more-than-medicine-to-ward-off-stis/",
+        "published_at": "2026-06-22"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-22T10:54:57.724508+00:00"
+    },
+    {
+      "headline": "Trump Admin Overhauls Homelessness Program, Cuts NYC Funding",
+      "bullets": [
+        "The Trump administration's overhaul of the Continuum of Care program will cut $66 million from NYC, affecting 2,800 formerly homeless households.",
+        "The shift from long-term to short-term housing support could push New Yorkers back into shelters or onto the streets."
+      ],
+      "summary": "Trump Admin Overhauls Homelessness Program, Cuts NYC Funding",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "This change impacts NYC's housing and support services, directly affecting CM Maloney's focus on housing and buildings, as well as her work on homelessness and social services.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Trump admin wants 'self-sufficiency,' but funding cuts could make NYers homeless again",
+        "article_url": "https://gothamist.com/news/trump-admin-wants-self-sufficiency-but-funding-cuts-could-make-nyers-homeless-again",
+        "published_at": "2026-06-22T10:31:03+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-22T10:54:58.930701+00:00"
+    },
+    {
+      "headline": "Boyle Heights Warehouse Fire Continues",
+      "bullets": [
+        "Fire at a 491,000-square-foot cold storage facility in Boyle Heights has been burning for 5 days, posing a biohazard threat.",
+        "85 million pounds of spoiled food are at risk, requiring extensive cleanup efforts."
+      ],
+      "summary": "Boyle Heights Warehouse Fire Continues",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "This fire highlights the need for better emergency preparedness and response strategies for large-scale industrial incidents, impacting air quality and public health in the city.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Boyle Heights warehouse fire: Crews work for 5th day in responding to 85M pound biohazard threat",
+        "article_url": "https://www.fox5ny.com/news/boyle-heights-warehouse-fire-emergency-biohazard",
+        "published_at": "2026-06-20"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-22T10:55:00.264163+00:00"
+    },
+    {
+      "headline": "Upstate NY Republican Primary Heats Up",
+      "bullets": [
+        "Anthony Constantino and Robert Smullen are competing for a congressional seat in a district spanning 15 counties.",
+        "The race has become a test of Donald Trump's influence among New York Republicans."
+      ],
+      "summary": "Upstate NY Republican Primary Heats Up",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "This race highlights the tension between grassroots support and party establishment backing, which could impact how New York Republicans align with national party leaders.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Nasty upstate Republican primary tests power of Trump endorsement",
+        "article_url": "https://gothamist.com/news/nasty-upstate-republican-primary-tests-power-of-trump-endorsement",
+        "published_at": "2026-06-21T12:00:48+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-22T10:55:01.259578+00:00"
+    },
+    {
+      "headline": "Congress Urged to Increase Foreign Aid",
+      "bullets": [
+        "Council Member Maloney calls for increased foreign aid to protect American interests and contain global health crises.",
+        "She cites the Ebola outbreak and New World screwworm outbreak as examples where aid is needed."
+      ],
+      "summary": "Congress Urged to Increase Foreign Aid",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Increasing foreign aid aligns with Maloney's Economic Development and Sanitation and Solid Waste Management committees by promoting global health and protecting American businesses and consumers.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on strategic foreign aid, botched D.C. plot and tech lobbyists",
+        "article_url": "https://www.nydailynews.com/2026/06/22/readers-sound-off-on-strategic-foreign-aid-botched-d-c-plot-and-tech-lobbyists/",
+        "published_at": "2026-06-22"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-22T10:55:02.456128+00:00"
+    },
+    {
+      "headline": "AccuWeather Alert: Showers to soaking",
+      "bullets": [
+        "AccuWeather forecast for NYC, New York, New Jersey and Connecticut NEW YORK (WABC) -- After a beautiful weekend, an unsettled pattern arrives on Monday, when drenching downpours are expected to develop, particularly during the second half of the day.",
+        "Those heavier rains are raising the threat for flooding Monday afternoon and evening across the region."
+      ],
+      "summary": "AccuWeather Alert: Showers to soaking",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "AccuWeather Alert: Showers to soaking",
+        "article_url": "https://abc7ny.com/nyc-weather-forecast-7-day-temperatures/27410/",
+        "published_at": "2020-02-12"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-22T10:55:02.515768+00:00"
+    },
+    {
+      "headline": "Could blind soccer have its moment? That's the goal for",
+      "bullets": [
+        "A coach stood on a small artificial turf field in Central Park and threw a ball past Charles Catherine.",
+        "With each bounce, the ball rattled."
+      ],
+      "summary": "Could blind soccer have its moment? That's the goal for",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Could blind soccer have its moment? That's the goal for NYC's only pro player.",
+        "article_url": "https://gothamist.com/news/could-blind-soccer-have-its-moment-thats-the-goal-for-nycs-only-pro-player",
+        "published_at": "2026-06-21T15:01:02+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-22T10:55:02.565769+00:00"
+    },
+    {
+      "headline": "Trump admin wants 'self-sufficiency,' but funding cuts could make NYers",
+      "bullets": [
+        "The Trump administration is overhauling its largest homeless assistance program, a move that housing providers say could strip funding from about 2,800 formerly homeless households in New York City.",
+        "It\u2019s a fundamental change that will shift money away from long-term housing and toward short-term transitional housing and treatment programs, federal officials say."
+      ],
+      "summary": "Trump admin wants 'self-sufficiency,' but funding cuts could make NYers",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Trump admin wants 'self-sufficiency,' but funding cuts could make NYers homeless again",
+        "article_url": "https://gothamist.com/news/trump-admin-wants-self-sufficiency-but-funding-cuts-could-make-nyers-homeless-again",
+        "published_at": "2026-06-22T10:31:03+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-22T10:55:02.646874+00:00"
+    }
+  ]
+}

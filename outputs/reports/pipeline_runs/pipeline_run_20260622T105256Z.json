@@ -1,0 +1,152 @@
+{
+  "pipeline_status": "completed",
+  "started_at": "2026-06-22T10:52:56.962678+00:00",
+  "ended_at": "2026-06-22T10:55:13.178908+00:00",
+  "stages": [
+    {
+      "stage": "fetch_sources",
+      "status": "completed",
+      "started_at": "2026-06-22T10:52:56.963558+00:00",
+      "ended_at": "2026-06-22T10:52:58.768576+00:00",
+      "artifacts": {
+        "article_count": 241,
+        "output_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/raw/candidates/article_candidates_2026-06-22.json",
+        "run_date": "2026-06-22"
+      }
+    },
+    {
+      "stage": "extract_articles",
+      "status": "completed",
+      "started_at": "2026-06-22T10:52:58.768636+00:00",
+      "ended_at": "2026-06-22T10:53:38.373213+00:00",
+      "artifacts": {
+        "input_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/raw/candidates/article_candidates_2026-06-22.json",
+        "candidate_count": 241,
+        "article_count": 125,
+        "output_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/raw/articles/articles_2026-06-22.json"
+      }
+    },
+    {
+      "stage": "clean_and_dedupe",
+      "status": "completed",
+      "started_at": "2026-06-22T10:53:38.373313+00:00",
+      "ended_at": "2026-06-22T10:54:42.110592+00:00",
+      "artifacts": {
+        "input_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/raw/articles/articles_2026-06-22.json",
+        "output_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/deduped/deduped_articles_2026-06-22.json",
+        "dedupe_stats": {
+          "input_articles": 125,
+          "removed_exact_url_duplicates": 0,
+          "removed_title_near_duplicates": 2,
+          "removed_text_near_duplicates": 0,
+          "output_articles": 123
+        }
+      }
+    },
+    {
+      "stage": "tag_articles",
+      "status": "completed",
+      "started_at": "2026-06-22T10:54:42.110657+00:00",
+      "ended_at": "2026-06-22T10:54:42.196021+00:00",
+      "artifacts": {
+        "input_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/deduped/deduped_articles_2026-06-22.json",
+        "output_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/tagged/tagged_articles_2026-06-22.json",
+        "tagging_stats": {
+          "input_articles": 123,
+          "relevant_articles": 88,
+          "excluded_articles": 35,
+          "invalid_articles": 0
+        }
+      }
+    },
+    {
+      "stage": "rank_articles",
+      "status": "completed",
+      "started_at": "2026-06-22T10:54:42.196079+00:00",
+      "ended_at": "2026-06-22T10:54:43.829547+00:00",
+      "artifacts": {
+        "input_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/tagged/tagged_articles_2026-06-22.json",
+        "output_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/ranked/ranked_articles_2026-06-22.json",
+        "ranking_stats": {
+          "input_articles": 123,
+          "relevant_articles": 88,
+          "ranked_articles": 165,
+          "selected_articles": 18
+        }
+      }
+    },
+    {
+      "stage": "summarize_articles",
+      "status": "completed",
+      "started_at": "2026-06-22T10:54:43.829638+00:00",
+      "ended_at": "2026-06-22T10:55:02.647860+00:00",
+      "artifacts": {
+        "input_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/ranked/ranked_articles_2026-06-22.json",
+        "output_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/article_summaries/article_summaries_2026-06-22.json",
+        "summary_stats": {
+          "input_articles": 18,
+          "generated_summaries": 15,
+          "fallback_summaries": 3
+        }
+      }
+    },
+    {
+      "stage": "build_briefing",
+      "status": "completed",
+      "started_at": "2026-06-22T10:55:02.647919+00:00",
+      "ended_at": "2026-06-22T10:55:02.650323+00:00",
+      "artifacts": {
+        "input_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/article_summaries/article_summaries_2026-06-22.json",
+        "txt_report": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/outputs/reports/daily_briefing_2026-06-22.txt",
+        "markdown_report": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/outputs/reports/daily_briefing_2026-06-22.md",
+        "briefing_stats": {
+          "input_summaries": 18,
+          "included_summaries": 16,
+          "issue_areas_included": 6,
+          "transcript_word_count": 1354,
+          "transcript_word_budget": 1400,
+          "target_audio_duration_minutes": 25.0
+        }
+      }
+    },
+    {
+      "stage": "generate_tts",
+      "status": "failed",
+      "started_at": "2026-06-22T10:55:02.650389+00:00",
+      "ended_at": "2026-06-22T10:55:07.511111+00:00",
+      "artifacts": {
+        "status": "failed",
+        "reason": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+        "run_date": "2026-06-22"
+      }
+    },
+    {
+      "stage": "deliver_report",
+      "status": "completed",
+      "started_at": "2026-06-22T10:55:07.511168+00:00",
+      "ended_at": "2026-06-22T10:55:13.178833+00:00",
+      "artifacts": {
+        "status": "completed",
+        "result": {
+          "status": "completed",
+          "briefing_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/outputs/reports/daily_briefing_2026-06-22.md",
+          "audio_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/outputs/audio/daily_briefing_2026-04-09.mp3",
+          "recipients": [
+            "sp2668@cornell.edu",
+            "aap253@cornell.edu",
+            "sgarner@council.nyc.gov",
+            "abarot@council.nyc.gov",
+            "ssecor@council.nyc.gov",
+            "isoldano@council.nyc.gov",
+            "anortiz@council.nyc.gov",
+            "bpeyre@council.nyc.gov",
+            "mzack@council.nyc.gov",
+            "vmaloney@council.nyc.gov"
+          ],
+          "subject": "NYC Daily Brief -- 2026-06-22"
+        },
+        "run_date": "2026-06-22"
+      }
+    }
+  ]
+}
