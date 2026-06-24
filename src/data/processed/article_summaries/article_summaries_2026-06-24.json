@@ -1,0 +1,408 @@
+{
+  "generated_at": "2026-06-24T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/ranked/ranked_articles_2026-06-24.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 12,
+    "fallback_summaries": 6
+  },
+  "summaries": [
+    {
+      "headline": "Trump Meets with GOP Senators Over Voting Bill",
+      "bullets": [
+        "President Trump is meeting with Republican senators frustrated by his push for a proof-of-citizenship voting bill.",
+        "The meeting aims to address unity among Republicans ahead of the midterm elections."
+      ],
+      "summary": "Trump Meets with GOP Senators Over Voting Bill",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This meeting could impact the passage of the proof-of-citizenship voting bill, which is under the jurisdiction of the Economic Development committee and affects voter registration processes.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Trump heads to Capitol to speak with GOP senators who have grown increasingly frustrated with him",
+        "article_url": "https://abc7ny.com/post/president-donald-trump-heads-capitol-speak-gop-senators-have-grown-increasingly-frustrated/19369954/",
+        "published_at": "2026-06-24"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-24T10:07:15.821343+00:00"
+    },
+    {
+      "headline": "Mamdani-Backed Candidates Win NYC Primaries",
+      "bullets": [
+        "All three candidates backed by NYC Mayor Zohran Mamdani won their Democratic primaries.",
+        "Key races include NY-10, NY-13, and NY-7."
+      ],
+      "summary": "Mamdani-Backed Candidates Win NYC Primaries",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "The victory of Mamdani-backed candidates reflects a shift towards more progressive Democrats in New York, impacting future legislative priorities and representation in Congress.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "All 3 Mamdani-backed candidates projected to win NY primaries",
+        "article_url": "https://www.cbsnews.com/newyork/live-updates/new-york-primary-elections-2026-live-updates/",
+        "published_at": "2026-06-23"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-24T10:07:17.222813+00:00"
+    },
+    {
+      "headline": "GOP Senators to Meet Trump for Unity",
+      "bullets": [
+        "Republican senators will meet with President Trump to discuss unity amid growing internal tensions.",
+        "Trump has been pushing for the elimination of the filibuster to pass the SAVE America Act, a bill that has faced opposition."
+      ],
+      "summary": "GOP Senators to Meet Trump for Unity",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This meeting could impact the legislative process in the Senate, particularly regarding the SAVE America Act, which touches on CM Maloney\u2019s committee portfolio on Economic Development and potentially Sanitation and Solid Waste Management if the bill includes provisions related to voting and ID requirements.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "GOP senators to meet Trump face-to-face at a time of growing frustration",
+        "article_url": "https://www.nydailynews.com/2026/06/23/trump-gop-senators/",
+        "published_at": "2026-06-23"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-24T10:07:18.882899+00:00"
+    },
+    {
+      "headline": "MTA CEO Rejects Amtrak Partnership for Penn Station",
+      "bullets": [
+        "MTA CEO Janno Lieber rejects Amtrak's offer to partner on Penn Station rebuild, citing unanswered questions about costs and process.",
+        "The disagreement could delay the $7-8 billion project to revitalize the busiest train station in North America."
+      ],
+      "summary": "MTA CEO Rejects Amtrak Partnership for Penn Station",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This dispute could impact the MTA's ability to oversee and manage the Penn Station project, affecting daily commutes for millions of New Yorkers.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Lieber Strikes Back: Questions Penn Station Costs, Declines Amtrak \u00e2Partner\u00e2 Offer",
+        "article_url": "https://www.ourtownny.com/news/lieber-strikes-back-questions-penn-station-costs-declines-amtrak-partner-offer-YK5972256",
+        "published_at": "2026-06-23"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-24T10:07:20.405305+00:00"
+    },
+    {
+      "headline": "Top Long Island Seafood Market Cafes",
+      "bullets": [
+        "Artie's South Shore Fish Market & Grill offers a vast menu of local seafood, including whole fried fluke.",
+        "Point Lookout Clam Bar features a large fish market with fresh local catches and a sushi bar."
+      ],
+      "summary": "Top Long Island Seafood Market Cafes",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "These seafood market cafes highlight the importance of local fishing and fresh produce, which aligns with CM Maloney's focus on economic development and supporting small businesses in her district.",
+      "source_citation": {
+        "source_name": "Newsday",
+        "source_level": "local",
+        "article_title": "10 standout Long Island seafood market cafes",
+        "article_url": "https://www.newsday.com/lifestyle/restaurants/10-long-island-seafood-market-cafes-2026-p42rl2na",
+        "published_at": "2026-06-21"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-24T10:07:22.404207+00:00"
+    },
+    {
+      "headline": "17 States Sue California Over Plastic Packaging Law",
+      "bullets": [
+        "17 states and a trade group have sued California over a new recycling law aimed at reducing plastic packaging waste.",
+        "The law requires companies to reduce single-use plastics and ensure all packaging is recyclable or compostable."
+      ],
+      "summary": "17 States Sue California Over Plastic Packaging Law",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "This lawsuit could impact NYC's waste management policies and the cost of goods, affecting small businesses and consumers under CM Maloney's Economic Development committee.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "17 states and trade group sue California over plastics packaging law",
+        "article_url": "https://www.nydailynews.com/2026/06/23/california-plastics-lawsuit/",
+        "published_at": "2026-06-23"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-24T10:07:23.934702+00:00"
+    },
+    {
+      "headline": "Justice Department Withdraws Subpoenas for Journalists",
+      "bullets": [
+        "The Justice Department issued and then withdrew subpoenas for reporters from The Washington Post and The Wall Street Journal.",
+        "This move came after a rare and aggressive crackdown on media leaks, including an FBI search of a journalist's home."
+      ],
+      "summary": "Justice Department Withdraws Subpoenas for Journalists",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "This action underscores the ongoing tension between press freedom and national security, impacting the daily lives of New Yorkers who rely on a free press for information.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Justice Department withdraws subpoenas that sought reporters\u2019 grand jury testimony, sources say",
+        "article_url": "https://www.nydailynews.com/2026/06/23/justice-department-media-subpoenas-withdrawn/",
+        "published_at": "2026-06-23"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-24T10:07:26.629934+00:00"
+    },
+    {
+      "headline": "Gates Testifies on Epstein's Blackmail Attempts",
+      "bullets": [
+        "Bill Gates testified that Jeffrey Epstein attempted to use extramarital affairs to blackmail him.",
+        "Gates said Epstein's attempts were veiled and never explicit, but involved his science adviser."
+      ],
+      "summary": "Gates Testifies on Epstein's Blackmail Attempts",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "No direct committee or district connection identified.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Bill Gates told panel Jeffrey Epstein was plotting to blackmail him about extramarital affairs",
+        "article_url": "https://abc7ny.com/post/bill-gates-told-house-panel-jeffrey-epstein-was-plotting-blackmail-extramarital-affairs/19366623/",
+        "published_at": "2026-06-24"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-24T10:07:27.812290+00:00"
+    },
+    {
+      "headline": "Arsonist Gets 5.5 Year Sentence for Burning Suburb Rider",
+      "bullets": [
+        "Hiram Carrero set fire to a sleeping subway rider, leaving him burning as the train departed.",
+        "Carrero was sentenced to 66 months in federal prison and ordered to pay restitution."
+      ],
+      "summary": "Arsonist Gets 5.5 Year Sentence for Burning Suburb Rider",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "This incident highlights the ongoing need for enhanced public safety measures and surveillance in public transit systems, which falls under the jurisdiction of the Fire and Emergency Management committee.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Arsonist who set sleeping subway rider on fire 5 \u00bd year federal prison sentence",
+        "article_url": "https://abc7ny.com/post/arsonist-set-sleeping-subway-rider-fire-5-year-federal-prison-sentence/19366940/",
+        "published_at": "2026-06-24"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-24T10:07:29.320994+00:00"
+    },
+    {
+      "headline": "Guthrie Family Pleads for Public Help in Mother\u2019s Disappearance",
+      "bullets": [
+        "Savannah Guthrie renewed her plea for public help in finding her missing mother, Nancy Guthrie, who has been missing for over 100 days.",
+        "The second ransom note indicated Nancy was 'buried with nature,' and the FBI is working with media outlets to track down the kidnappers."
+      ],
+      "summary": "Guthrie Family Pleads for Public Help in Mother\u2019s Disappearance",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "This case highlights the ongoing need for public assistance in missing persons cases, which is relevant to the Fire and Emergency Management committee's focus on community safety and public awareness initiatives.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "'We need your help': Savannah Guthrie issues new plea in search for Nancy Guthrie",
+        "article_url": "https://www.fox5ny.com/news/we-need-your-help-savannah-guthrie-issues-new-plea-search-nancy-guthrie",
+        "published_at": "2026-06-23"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-24T10:07:31.634216+00:00"
+    },
+    {
+      "headline": "Vaccine Study Published Despite CDC Block",
+      "bullets": [
+        "A study on COVID-19 vaccine effectiveness, originally blocked by CDC, was published in JAMA Network Open, showing 55% effectiveness against hospitalizations and 50% reduction in urgent care visits.",
+        "The study used a 'test-negative design' that has been used in reputable journals like Pediatrics and the New England Journal of Medicine."
+      ],
+      "summary": "Vaccine Study Published Despite CDC Block",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "This study provides critical real-time data on vaccine effectiveness, which is important for NYC's ongoing public health strategy and policy decisions regarding vaccine distribution and public health measures.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "COVID-19 vaccine study that was blocked from CDC journal is published elsewhere",
+        "article_url": "https://www.nydailynews.com/2026/06/23/cdc-vaccine-study/",
+        "published_at": "2026-06-23"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-24T10:07:33.437817+00:00"
+    },
+    {
+      "headline": "NYC Pride Marshals Call for Hospital Ban",
+      "bullets": [
+        "20 NYC Pride grand marshals, including celebrities, signed a letter calling for hospitals that ended youth gender-affirming care to be banned from the 2026 NYC Pride March.",
+        "NYU Langone Health and Mount Sinai Health System ended gender-affirming care for minors under pressure from the Trump administration."
+      ],
+      "summary": "NYC Pride Marshals Call for Hospital Ban",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "This issue directly impacts NYC's healthcare policies and the daily lives of transgender youth, aligning with CM Maloney's focus on healthcare and youth services.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC Pride grand marshals call for ban on hospitals that ended youth gender-affirming care",
+        "article_url": "https://gothamist.com/news/nyc-pride-grand-marshals-call-for-ban-on-hospitals-that-ended-youth-gender-affirming-care",
+        "published_at": "2026-06-23T20:30:02+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-24T10:07:35.085942+00:00"
+    },
+    {
+      "headline": "Still Swinging: 92NY Celebrates 75 Years of Himan Brown Program",
+      "bullets": [
+        "Still Swinging: 92NY Celebrates 75 Years of Himan Brown Program 92NY recently held a Rock Around the Clock party to mark the 75th anniversary of its long-running Himan Brown program for New Yorkers 60 and up.",
+        "A rockin\u00e2 party was underway at the 92nd Street Y on Wednesday, June 17."
+      ],
+      "summary": "Still Swinging: 92NY Celebrates 75 Years of Himan Brown Program",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Still Swinging: 92NY Celebrates 75 Years of Himan Brown Program",
+        "article_url": "https://www.ourtownny.com/news/still-swinging-92ny-celebrates-75-years-of-himan-brown-program-AC5958367",
+        "published_at": "2026-06-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-24T10:07:35.150182+00:00"
+    },
+    {
+      "headline": "NYPD officer denies \u2018intentionally\u2019 pointing gun in subordinate\u2019s face amid",
+      "bullets": [
+        "An NYPD officer Tuesday denied \u201cintentionally\u201d pointing a loaded gun in a subordinate\u2019s face amid an alleged campaign of sexual harassment and refused to quit the force via a no-jail plea deal.",
+        "\u201cNot guilty, ma\u2019am,\u201d Officer Quilbvio Espinal, 35, said at his Manhattan Supreme Criminal Court arraignment when asked how he wished to plead to felony charges of second-degree menacing and one count of official misconduct stemming from the March 26 incident inside NYPD headquarters."
+      ],
+      "summary": "NYPD officer denies \u2018intentionally\u2019 pointing gun in subordinate\u2019s face amid",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYPD officer denies \u2018intentionally\u2019 pointing gun in subordinate\u2019s face amid alleged sex harassment",
+        "article_url": "https://www.nydailynews.com/2026/06/23/nypd-officer-denies-pointing-gun-subordinate-sexual-harassment-plea-deal/",
+        "published_at": "2026-06-23T20:38:57+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-24T10:07:35.314970+00:00"
+    },
+    {
+      "headline": "Readers sound off on mobilizing the left, carriage rides and",
+      "bullets": [
+        "The Dems should hit Trump where he hurts Long Beach, L.I.: It\u2019s time to dismantle President Trump.",
+        "Here\u2019s a three-point plan on how to motivate his decline by targeting his ego."
+      ],
+      "summary": "Readers sound off on mobilizing the left, carriage rides and",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on mobilizing the left, carriage rides and sports coverage",
+        "article_url": "https://www.nydailynews.com/2026/06/24/readers-sound-off-on-mobilizing-the-left-carriage-rides-and-sports-coverage/",
+        "published_at": "2026-06-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-24T10:07:35.375128+00:00"
+    },
+    {
+      "headline": "What to See and Do to Mark America\u00e2s Semiquincentennial 4th",
+      "bullets": [
+        "What to See and Do to Mark America\u00e2s Semiquincentennial 4th of July It\u00e2s been 250 years since the Declaration of Independence was adopted.",
+        "It\u00e2s been 50 years since the first Macy\u00e2s 4th of July firework went off."
+      ],
+      "summary": "What to See and Do to Mark America\u00e2s Semiquincentennial 4th",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "What to See and Do to Mark America\u00e2s Semiquincentennial 4th of July",
+        "article_url": "https://www.ourtownny.com/news/what-to-see-and-do-to-mark-america-s-semiquincentennial-4th-of-july-DG5954522",
+        "published_at": "2026-06-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-24T10:07:35.524689+00:00"
+    },
+    {
+      "headline": "Seeking a gritty St. Marks at Search and Destroy",
+      "bullets": [
+        "When Kyota Umeki was just a boy in the early 2000s, his mother would walk with him on St.",
+        "Marks Place, instructing him to keep his head down as they made their way to the family business, warning of a man with a bulldog who might aggressively ask them for money."
+      ],
+      "summary": "Seeking a gritty St. Marks at Search and Destroy",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Seeking a gritty St. Marks at Search and Destroy",
+        "article_url": "https://gothamist.com/arts-entertainment/seeking-a-gritty-st-marks-at-search-and-destroy",
+        "published_at": "2026-06-24T10:01:01+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-24T10:07:35.588845+00:00"
+    },
+    {
+      "headline": "Goodbye classic diners, hello booze on a boat: NYC businesses",
+      "bullets": [
+        "New York City\u2019s streetscape shifts as time marches on relentlessly.",
+        "Businesses open and close, bidding this town hello and goodbye."
+      ],
+      "summary": "Goodbye classic diners, hello booze on a boat: NYC businesses",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Goodbye classic diners, hello booze on a boat: NYC businesses opening and closing",
+        "article_url": "https://gothamist.com/arts-entertainment/goodbye-classic-diners-hello-booze-on-a-boat-nyc-businesses-opening-and-closing",
+        "published_at": "2026-06-23T16:00:23+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-24T10:07:35.704924+00:00"
+    }
+  ]
+}
