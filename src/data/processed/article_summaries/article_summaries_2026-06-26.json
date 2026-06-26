@@ -1,0 +1,408 @@
+{
+  "generated_at": "2026-06-26T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/ranked/ranked_articles_2026-06-26.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 9,
+    "fallback_summaries": 9
+  },
+  "summaries": [
+    {
+      "headline": "Reflecting Pool Damaged by Vandalism",
+      "bullets": [
+        "A sharp knife or razor cut a liner in the Lincoln Memorial Reflecting Pool, causing damage to a $16 million renovation project.",
+        "The incident occurred after the pool was refilled, suggesting the damage may have been done before the basin was fully refilled."
+      ],
+      "summary": "Reflecting Pool Damaged by Vandalism",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This incident highlights the need for enhanced security measures and oversight for public projects, which relates to the Cultural Affairs/Libraries/International Relations and Sanitation and Solid Waste Management committees under Council Member Maloney's portfolio.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Reflecting Pool liner was cut with a sharp knife or razor, National Park Service says",
+        "article_url": "https://abc7ny.com/post/reflecting-pool-liner-was-cut-sharp-knife-razor-national-park-service-says/19382765/",
+        "published_at": "2026-06-25"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-26T10:07:43.279936+00:00"
+    },
+    {
+      "headline": "E-bike Crash Victims Sue Mayor Over Enforcement Policy",
+      "bullets": [
+        "Plaintiffs seek to overturn Mayor Mamdani's March relaxation of e-bike penalties, replacing criminal summonses with civil ones.",
+        "The lawsuit argues the mayor exceeded his authority by making the change, which only the City Council and state Legislature can do."
+      ],
+      "summary": "E-bike Crash Victims Sue Mayor Over Enforcement Policy",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This case directly impacts the enforcement of traffic laws and public safety, which are key concerns for the Economic Development and Sanitation and Solid Waste Management committees.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "E-bike Crash Victims Sue Mamdani Over Enforcement Policy",
+        "article_url": "https://www.ourtownny.com/news/e-bike-crash-victims-sue-mamdani-over-enforcement-policy-HF5979191",
+        "published_at": "2026-06-25"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-26T10:07:44.848151+00:00"
+    },
+    {
+      "headline": "NYC Rent Freeze Approved",
+      "bullets": [
+        "Rent Guidelines Board approved a 0% increase on both one- and two-year leases.",
+        "The freeze is the first fulfillment of Mayor Mamdani's campaign promise."
+      ],
+      "summary": "NYC Rent Freeze Approved",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This rent freeze directly impacts NYC's housing policy and will provide stability for thousands of low-income and working-class tenants, aligning with CM Maloney's focus on affordable housing and tenant rights.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYC rent freeze passes in huge win for Mamdani",
+        "article_url": "https://www.nydailynews.com/2026/06/25/nyc-rent-freeze-passes-guidelines-board-huge-win-for-mamdani/",
+        "published_at": "2026-06-25"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-26T10:07:46.344766+00:00"
+    },
+    {
+      "headline": "Federal Judge Halts Trump\u2019s Voter List Executive Order",
+      "bullets": [
+        "A federal judge halted President Trump\u2019s executive order to create a federal voter list and limit mail ballots.",
+        "The ruling applies to the 2026 midterm elections and was based on the argument that the president cannot set election rules."
+      ],
+      "summary": "Federal Judge Halts Trump\u2019s Voter List Executive Order",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This ruling reinforces the separation of powers, ensuring that states retain control over their election processes, which is crucial for maintaining the integrity of New York City\u2019s elections.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Federal judge halts Trump\u2019s election executive order seeking to create a federal voter list",
+        "article_url": "https://www.nydailynews.com/2026/06/25/trump-election-voter-list/",
+        "published_at": "2026-06-25"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-26T10:07:47.681288+00:00"
+    },
+    {
+      "headline": "NYC Fourth of July Fireworks Schedule",
+      "bullets": [
+        "Multiple locations in NYC offer fireworks displays on July 4th, including the East River, Empire State Building, and Coney Island.",
+        "Fireworks events are also planned in various New York State towns and cities."
+      ],
+      "summary": "NYC Fourth of July Fireworks Schedule",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "The Fourth of July fireworks schedule provides entertainment and celebration opportunities for New Yorkers, aligning with CM Maloney's Economic Development Committee's focus on enhancing the city's cultural and economic activities.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Where to See Fourth of July Fireworks in 2026: New York, New Jersey and Connecticut",
+        "article_url": "https://abc7ny.com/post/fourth-july-fireworks-2026-nyc-new-york-jersey-connecticut/19374325/",
+        "published_at": "2026-06-25"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-26T10:07:49.153907+00:00"
+    },
+    {
+      "headline": "Luxury Condo Tower Completes Construction on UES",
+      "bullets": [
+        "A 20-story luxury condominium building has topped out on the Upper East Side, replacing a long-stalled project.",
+        "The development includes 60 luxury condos, with prices and sales launch date yet to be announced."
+      ],
+      "summary": "Luxury Condo Tower Completes Construction on UES",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "This development reflects ongoing residential growth in Manhattan and impacts local real estate markets, relevant to the Economic Development Committee's focus on housing and economic activity.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "20-Story Luxury Condo Building Tops Out On The UES",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/20-story-luxury-condo-building-tops-out-ues",
+        "published_at": "2026-06-25T21:45:45+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-26T10:07:50.525739+00:00"
+    },
+    {
+      "headline": "NYC Rent Guidelines Board Member Resigns Over Alleged Impropriety",
+      "bullets": [
+        "A Rent Guidelines Board member resigned before a rent freeze vote, alleging the board was politically influenced.",
+        "The freeze passed 7-1, despite concerns about improper influence on the board."
+      ],
+      "summary": "NYC Rent Guidelines Board Member Resigns Over Alleged Impropriety",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "This resignation highlights potential issues with the independence of the Rent Guidelines Board, which impacts rent regulations and affects New Yorkers, especially those in rent-stabilized apartments, under CM Maloney's Economic Development committee jurisdiction.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYC Rent Guidelines Board member abruptly resigns, alleging impropriety linked to Mamdani freeze",
+        "article_url": "https://www.nydailynews.com/2026/06/25/nyc-rent-guidelines-board-member-abruptly-resigns-alleging-impropriety-linked-to-mamdani-freeze/",
+        "published_at": "2026-06-25T20:46:07+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-26T10:07:52.655870+00:00"
+    },
+    {
+      "headline": "Venezuelans in US Rush to Aid Home Country After Earthquakes",
+      "bullets": [
+        "Venezuelans in the U.S., especially in Florida and Texas, are organizing donation drives for earthquake victims in Venezuela.",
+        "The U.S. government is sending $150 million in aid and mobilizing disaster response teams, while other countries like Mexico and Colombia are also offering assistance."
+      ],
+      "summary": "Venezuelans in US Rush to Aid Home Country After Earthquakes",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "This situation highlights the importance of community support and international aid in disaster relief, areas relevant to the Sanitation and Solid Waste Management, Small Business, and Economic Development committees under Council Member Maloney's portfolio.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Venezuelans in the US rush to send aid to earthquake victims, but Caracas airport is closed",
+        "article_url": "https://www.nydailynews.com/2026/06/25/venezuela-earthquake-donation-efforts/",
+        "published_at": "2026-06-25T18:23:09+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-26T10:07:54.470623+00:00"
+    },
+    {
+      "headline": "Prime Day Deals on Big-Ticket Items",
+      "bullets": [
+        "Prime Day offers discounts on high-end items like Apple Watch, Sony headphones, and KitchenAid mixers.",
+        "Deals range from 15% to 51% off on premium electronics and kitchen appliances."
+      ],
+      "summary": "Prime Day Deals on Big-Ticket Items",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "No direct committee or district connection identified.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Best sales on Big Ticket items for Prime Day 2026",
+        "article_url": "https://www.nydailynews.com/2026/06/24/best-sales-on-big-ticket-items-for-prime-day-2026/",
+        "published_at": "2026-06-25"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-26T10:07:55.836477+00:00"
+    },
+    {
+      "headline": "Harvey Weinstein rape case dropped as victim says she can\u2019t",
+      "bullets": [
+        "Manhattan prosecutors moved to dismiss their rape case against Harvey Weinstein on Thursday after Jessica Mann \u2014 among the first women to come forward against the once-powerful Hollywood producer \u2014 said she could not bear the brutality of taking the stand a fourth time.",
+        "The move announced at a Manhattan Supreme Court hearing came after jurors last month could not agree about whether Weinstein was guilty of raping Mann inside a Midtown hotel room in March 2013."
+      ],
+      "summary": "Harvey Weinstein rape case dropped as victim says she can\u2019t",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Harvey Weinstein rape case dropped as victim says she can\u2019t handle another trial",
+        "article_url": "https://www.nydailynews.com/2026/06/25/da-dismissing-rape-count-against-harvey-weinstein-as-victim-says-she-cant-handle-another-trial/",
+        "published_at": "2026-06-25T18:07:30+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-26T10:07:56.019909+00:00"
+    },
+    {
+      "headline": "Venezuelans search rubble for survivors after 2 strong earthquakes kill",
+      "bullets": [
+        "LA GUAIRA, Venezuela -- Venezuelans searched for survivors beneath collapsed buildings Thursday and rescue teams raced to northern areas rocked by a pair of powerful earthquakes that officials say killed around 235 people and left at least 4,300 people injured.",
+        "\"Unfortunately we have received around 235 patients who arrive without vital signs or die when they arrive at our health facilities,\" Health Minister Carlos Alvarado told state media Thursday."
+      ],
+      "summary": "Venezuelans search rubble for survivors after 2 strong earthquakes kill",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Venezuelans search rubble for survivors after 2 strong earthquakes kill at least 235",
+        "article_url": "https://abc7ny.com/post/venezuela-reeling-powerful-twin-earthquakes-kill-least-32-people-promises-aid-pour-amid-airport-closure/19378040/",
+        "published_at": "2026-06-25"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-26T10:07:56.163811+00:00"
+    },
+    {
+      "headline": "Local Event: #EGProductions Stupid F***ing Bird",
+      "bullets": [
+        "Aaron Posner\u2019s contemporary remix of Chekov\u2019s \u201cSeagull\u201d showcasing unique concepts of love, family, and mental health New York, NY - Stupid F***ing Bird is Aaron Posner\u2019s somewhat unhinged adaptation of Anton Chekov\u2019s Seagull.",
+        "Originally staged in 2013 at Wooly Mammoth Theatre Company in Washington D.C."
+      ],
+      "summary": "Local Event: #EGProductions Stupid F***ing Bird",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: #EGProductions Stupid F***ing Bird",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260702/32969a24-9346-44f2-af3d-2ca79f3e84f4/egproductions-stupid-f-ing-bird",
+        "published_at": "2026-07-02T23:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-26T10:07:56.318346+00:00"
+    },
+    {
+      "headline": "Harvey Weinstein rape case dropped as victim says she can\u2019t",
+      "bullets": [
+        "Manhattan prosecutors moved to dismiss their rape case against Harvey Weinstein on Thursday after Jessica Mann \u2014 among the first women to come forward against the once-powerful Hollywood producer \u2014 said she could not bear the brutality of taking the stand a fourth time.",
+        "The move announced at a Manhattan Supreme Court hearing came after jurors last month could not agree about whether Weinstein was guilty of raping Mann inside a Midtown hotel room in March 2013."
+      ],
+      "summary": "Harvey Weinstein rape case dropped as victim says she can\u2019t",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Harvey Weinstein rape case dropped as victim says she can\u2019t handle another trial",
+        "article_url": "https://www.nydailynews.com/2026/06/25/da-dismissing-rape-count-against-harvey-weinstein-as-victim-says-she-cant-handle-another-trial/",
+        "published_at": "2026-06-25T18:07:30+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-26T10:07:56.460198+00:00"
+    },
+    {
+      "headline": "Venezuela earthquakes kill at least 235, injure thousands, with toll",
+      "bullets": [
+        "At least 235 people were killed and some 4,300 injured by a pair of powerful earthquakes that rocked Venezuela Wednesday evening, officials said Thursday.",
+        "The toll was likely to keep rising as rescuers continued and emergency crews raced to access devastated areas."
+      ],
+      "summary": "Venezuela earthquakes kill at least 235, injure thousands, with toll",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Venezuela earthquakes kill at least 235, injure thousands, with toll likely to rise, officials say",
+        "article_url": "https://www.cbsnews.com/newyork/news/venezuela-earthquakes-death-toll-damage-la-guaira/",
+        "published_at": "2026-06-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-26T10:07:56.605064+00:00"
+    },
+    {
+      "headline": "Albany",
+      "bullets": [
+        "Unlike other states, New York hasn\u2019t taken basic anti-fraud measures found in commercial banking \u2014 and it doesn\u2019t reimburse the victims.",
+        "Major races on ballots include congressional and state seats."
+      ],
+      "summary": "Albany",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "THE CITY",
+        "source_level": "local",
+        "article_title": "Albany",
+        "article_url": "https://www.thecityreporter.nyc/category/albany/",
+        "published_at": "2026-06-25T14:49:30+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-26T10:07:56.746003+00:00"
+    },
+    {
+      "headline": "AccuWeather: Early AM and night rain",
+      "bullets": [
+        "AccuWeather forecast for NYC, New York, New Jersey and Connecticut NEW YORK (WABC) -- Early commuters Friday should watch for lingering wet roads and potential standing water, particularly in northern areas.",
+        "As the day progresses, clouds will give way to some sunshine, with warm and humid conditions continuing and a slight chance of a stray shower in central and southern New Jersey."
+      ],
+      "summary": "AccuWeather: Early AM and night rain",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "AccuWeather: Early AM and night rain",
+        "article_url": "https://abc7ny.com/nyc-weather-forecast-7-day-temperatures/27410/",
+        "published_at": "2020-02-12"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-26T10:07:56.884722+00:00"
+    },
+    {
+      "headline": "Will Mayor Mamdani get his rent freeze? What to know",
+      "bullets": [
+        "Mayor Zohran Mamdani is on the verge of a key victory when his hand-picked Rent Guidelines Board convenes Thursday night to decide the future of 1 million rent-stabilized apartments.",
+        "The nine-member board is considering its first-ever two-year rent freeze, a decision that could fulfill Mamdani\u2019s campaign pledge to keep rents flat for tenants in regulated units."
+      ],
+      "summary": "Will Mayor Mamdani get his rent freeze? What to know",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Will Mayor Mamdani get his rent freeze? What to know about Thursday's vote.",
+        "article_url": "https://gothamist.com/news/will-mayor-mamdani-get-his-rent-freeze-what-to-know-about-thursdays-vote",
+        "published_at": "2026-06-25T10:30:48+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-26T10:07:57.067512+00:00"
+    },
+    {
+      "headline": "New York City Rent Guidelines Board votes to freeze rent",
+      "bullets": [
+        "New York City's Rent Guidelines Board voted 7-1 on Thursday night in favor of a rent freeze, a decision that will of residents.",
+        "The outcome was another indication of Mayor Zohran Mamdani's political power, as one of his was to freeze rent."
+      ],
+      "summary": "New York City Rent Guidelines Board votes to freeze rent",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "New York City Rent Guidelines Board votes to freeze rent for first time since 2020",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-rent-guidelines-board-vote-possible-rent-freeze/",
+        "published_at": "2026-06-25"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-26T10:07:57.208852+00:00"
+    }
+  ]
+}
