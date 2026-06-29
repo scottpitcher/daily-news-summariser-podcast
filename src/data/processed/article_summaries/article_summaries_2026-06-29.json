@@ -1,0 +1,408 @@
+{
+  "generated_at": "2026-06-29T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/ranked/ranked_articles_2026-06-29.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 8,
+    "fallback_summaries": 10
+  },
+  "summaries": [
+    {
+      "headline": "NYC Seeks Camera-Enforced Parking to Ease Alternate-Side Rules",
+      "bullets": [
+        "The City Council proposes using cameras on street sweepers to enforce alternate-side parking rules.",
+        "An app would provide real-time updates to drivers, reducing the need for constant movement of cars."
+      ],
+      "summary": "NYC Seeks Camera-Enforced Parking to Ease Alternate-Side Rules",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This proposal could improve street cleanliness and reduce the hassle of alternate-side parking for New Yorkers, aligning with CM Maloney's committee focus on sanitation and small business.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "A better way for alternate-side parking",
+        "article_url": "https://www.nydailynews.com/2026/06/29/a-better-way-for-alternate-side-parking/",
+        "published_at": "2026-06-29"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-29T10:38:06.211003+00:00"
+    },
+    {
+      "headline": "Jersey City Residents Protest Possible 20% Property Tax Increase",
+      "bullets": [
+        "Mayor Solomon postponed a vote on a 20% property tax hike to address a $250 million budget shortfall.",
+        "Residents expressed frustration, with some saying they may lose their homes if the tax increase is implemented."
+      ],
+      "summary": "Jersey City Residents Protest Possible 20% Property Tax Increase",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This situation highlights the financial challenges cities face and the potential impact on property taxes, which could affect New Yorkers in similar districts.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Facing possible 20% property tax increase, Jersey City residents meet with Mayor James Solomon",
+        "article_url": "https://www.cbsnews.com/newyork/news/jersey-city-new-jersey-property-tax-increase/",
+        "published_at": "2026-06-28"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-29T10:38:07.562863+00:00"
+    },
+    {
+      "headline": "Mangione to Appear in Federal Court",
+      "bullets": [
+        "Luigi Mangione scheduled for pretrial hearing in federal court Monday.",
+        "Discussion of possible guilty plea before hearing, but no agreement reached."
+      ],
+      "summary": "Mangione to Appear in Federal Court",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "No direct committee or district connection identified.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Luigi Mangione due in federal court for pretrial hearing; jury selection plans expected",
+        "article_url": "https://abc7ny.com/post/luigi-mangione-due-federal-court-pretrial-hearing-jury-selection-plans-expected/19411585/",
+        "published_at": "2026-06-29"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-29T10:38:08.621591+00:00"
+    },
+    {
+      "headline": "MTA CEO Rejects Amtrak\u2019s Penn Station Deal",
+      "bullets": [
+        "MTA CEO Janno Lieber rejects Amtrak\u2019s offer to partner on Penn Station rebuild, citing unanswered questions about costs and Trump\u2019s involvement.",
+        "Lieber demands transparency and protections before entering into a deal with Trump-controlled entities."
+      ],
+      "summary": "MTA CEO Rejects Amtrak\u2019s Penn Station Deal",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This dispute highlights the MTA\u2019s concerns over transparency and potential conflicts of interest, which are critical for any major infrastructure project impacting New York City\u2019s transportation system.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Lieber Strikes Back: Questions Penn Station Costs, Declines Amtrak \u00e2Partner\u00e2 Offer",
+        "article_url": "https://www.ourtownny.com/news/lieber-strikes-back-questions-penn-station-costs-declines-amtrak-partner-offer-YK5972256",
+        "published_at": "2026-06-26"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-29T10:38:10.334437+00:00"
+    },
+    {
+      "headline": "Small Landlords and Shoplifting Concerns",
+      "bullets": [
+        "The article criticizes Mayor Mamdani for attacking small landlords, who are essential to the city's economy.",
+        "A Trader Joe's location in Manhattan is closing due to rampant shoplifting, highlighting increased theft in retail."
+      ],
+      "summary": "Small Landlords and Shoplifting Concerns",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "These issues directly impact NYC's small business community and city services, areas of focus for Council Member Maloney's Economic Development and Sanitation and Solid Waste Management committees.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on the rent freeze, shoplifting and James Dolan",
+        "article_url": "https://www.nydailynews.com/2026/06/29/readers-sound-off-on-the-rent-freeze-shoplifting-and-james-dolan/",
+        "published_at": "2026-06-29"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-29T10:38:11.800512+00:00"
+    },
+    {
+      "headline": "Class Size Debate at P.S./I.S. 187",
+      "bullets": [
+        "Parents and teachers at P.S./I.S. 187 in Washington Heights debate building a new addition on the schoolyard to reduce class sizes.",
+        "The city faces tradeoffs in complying with a new law limiting class sizes while managing declining enrollment."
+      ],
+      "summary": "Class Size Debate at P.S./I.S. 187",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "This class size debate highlights the challenges in balancing educational quality and resource allocation, directly impacting NYC's education policy and the daily lives of students and families in District 4.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Debate at Washington Heights school highlights difficult class size tradeoffs",
+        "article_url": "https://gothamist.com/news/debate-at-washington-heights-school-highlights-difficult-class-size-tradeoffs",
+        "published_at": "2026-06-29T10:01:03+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-29T10:38:13.395898+00:00"
+    },
+    {
+      "headline": "Iran Threatens to Halt Talks After U.S. Strikes",
+      "bullets": [
+        "Iran launched drone and missile attacks on Bahrain and Kuwait in response to U.S. airstrikes and threatened to halt negotiations.",
+        "The U.S. confirmed additional strikes on Iranian targets, indicating continued tensions."
+      ],
+      "summary": "Iran Threatens to Halt Talks After U.S. Strikes",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "These actions could disrupt ongoing peace talks and increase tensions in the region, impacting global oil prices and stability, which affects NYC's economic and energy security.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Iran threatens \"complete halt\" to talks after trading strikes with U.S.; Washington official says talks to continue",
+        "article_url": "https://www.cbsnews.com/newyork/live-updates/us-iran-war-israel-hezbollah-strait-of-hormuz-peace-deal-talks/",
+        "published_at": "2026-06-26"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-29T10:38:14.694988+00:00"
+    },
+    {
+      "headline": "3 Firefighters Die in Colorado Wildfire",
+      "bullets": [
+        "Three firefighters died and two were injured battling the Snyder Fire near the Colorado-Utah border.",
+        "The Wildland Fire Service, created this year, was part of the firefighting response."
+      ],
+      "summary": "3 Firefighters Die in Colorado Wildfire",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "This tragedy highlights the ongoing challenges and risks faced by firefighters in battling wildfires, which can impact public safety and emergency services in NYC, especially as climate change increases the frequency and intensity of such events.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "3 firefighters die fighting Snyder Fire near Colorado-Utah border",
+        "article_url": "https://www.fox5ny.com/news/3-firefighters-die-fighting-snyder-fire-near-colorado-utah-border",
+        "published_at": "2026-06-28"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-29T10:38:15.987530+00:00"
+    },
+    {
+      "headline": "3 firefighters killed responding to Snyder wildfire on Utah-Colorado border",
+      "bullets": [
+        "Several wildfires were burn on Saturday across the West.",
+        "Three firefighters were killed on Saturday while responding to the Snyder Fire, a wildfire burning along the Utah-Colorado border, the U.S."
+      ],
+      "summary": "3 firefighters killed responding to Snyder wildfire on Utah-Colorado border",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "3 firefighters killed responding to Snyder wildfire on Utah-Colorado border",
+        "article_url": "https://abc7ny.com/post/3-firefighters-killed-responding-snyder-wildfire-utah-colorado-border/19406331/",
+        "published_at": "2026-06-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-29T10:38:16.083198+00:00"
+    },
+    {
+      "headline": "Dangerous heat dome to scorch the Northeast for July 4th",
+      "bullets": [
+        "NEW YORK CITY - A dangerous heat dome is building over the eastern United States, threatening to bring record-shattering, triple-digit temperatures to the Northeast just in time for the Fourth of July holiday week.",
+        "As a surge of humid air moves in, feel-like temperatures will soar past 100 degrees, creating hazardous conditions that will linger across the region for several days."
+      ],
+      "summary": "Dangerous heat dome to scorch the Northeast for July 4th",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Dangerous heat dome to scorch the Northeast for July 4th weekend",
+        "article_url": "https://www.fox5ny.com/weather/dangerous-heat-dome-scorch-northeast-july-4th-weekend",
+        "published_at": "2026-06-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-29T10:38:16.149445+00:00"
+    },
+    {
+      "headline": "Local Event: #EGProductions Stupid F***ing Bird",
+      "bullets": [
+        "Aaron Posner\u2019s contemporary remix of Chekov\u2019s \u201cSeagull\u201d showcasing unique concepts of love, family, and mental health New York, NY - Stupid F***ing Bird is Aaron Posner\u2019s somewhat unhinged adaptation of Anton Chekov\u2019s Seagull.",
+        "Originally staged in 2013 at Wooly Mammoth Theatre Company in Washington D.C."
+      ],
+      "summary": "Local Event: #EGProductions Stupid F***ing Bird",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: #EGProductions Stupid F***ing Bird",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260702/32969a24-9346-44f2-af3d-2ca79f3e84f4/egproductions-stupid-f-ing-bird",
+        "published_at": "2026-07-02T23:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-29T10:38:16.216711+00:00"
+    },
+    {
+      "headline": "Teams scramble to locate survivors four days after Venezuela earthquakes",
+      "bullets": [
+        "LA GUAIRA, Venezuela -- Local and international rescue teams raced against the clock to pull survivors from the rubble in Venezuela on Sunday, four days after two powerful earthquakes shook the northern state of La Guaira.",
+        "The government reported 1,450 dead from the quakes Sunday afternoon as it faced growing criticism from Venezuelans that its response was inadequate and overshadowed by civilian-led efforts to rescue people buried under collapsed buildings."
+      ],
+      "summary": "Teams scramble to locate survivors four days after Venezuela earthquakes",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Teams scramble to locate survivors four days after Venezuela earthquakes",
+        "article_url": "https://abc7ny.com/post/venezuela-earthquake-update-teams-scramble-locate-survivors-days-earthquakes-death-toll-rises/19407667/",
+        "published_at": "2026-06-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-29T10:38:16.293444+00:00"
+    },
+    {
+      "headline": "A Trump commission urges \u2018bridges\u2019 between church and state in",
+      "bullets": [
+        "By PETER SMITH A new report by a Trump administration commission suggests replacing the idea of separating church and state with the idea of building bridges between them.",
+        "The assertion \u2014 challenging a longstanding concept in American law \u2014 comes amid a raft of recommendations in a draft report of the Religious Liberty Commission, released Friday afternoon."
+      ],
+      "summary": "A Trump commission urges \u2018bridges\u2019 between church and state in",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "A Trump commission urges \u2018bridges\u2019 between church and state in sweeping draft report",
+        "article_url": "https://www.nydailynews.com/2026/06/26/religious-liberty-commission-draft/",
+        "published_at": "2026-06-26"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-29T10:38:16.410860+00:00"
+    },
+    {
+      "headline": "Debate at Washington Heights school highlights difficult class size tradeoffs",
+      "bullets": [
+        "Parents and teachers at a popular Washington Heights school have advocated for smaller classes for years, but now some are upset about plans to achieve the goal by sacrificing part of the large schoolyard.",
+        "The debate at P.S./I.S."
+      ],
+      "summary": "Debate at Washington Heights school highlights difficult class size tradeoffs",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Debate at Washington Heights school highlights difficult class size tradeoffs",
+        "article_url": "https://gothamist.com/news/debate-at-washington-heights-school-highlights-difficult-class-size-tradeoffs",
+        "published_at": "2026-06-29T10:01:03+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-29T10:38:16.481065+00:00"
+    },
+    {
+      "headline": "A mobile glitter bar, rainbow cowgirl and Bowen Yang: What",
+      "bullets": [
+        "New York City's Pride March is as much about style as it is about making a statement.",
+        "This year\u2019s festivities drew thousands of marchers along a route that stretched from 26th Street and 5th Avenue, through Greenwich Village and past the legendary Stonewall Inn."
+      ],
+      "summary": "A mobile glitter bar, rainbow cowgirl and Bowen Yang: What",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "A mobile glitter bar, rainbow cowgirl and Bowen Yang: What we saw at the NYC Pride March",
+        "article_url": "https://gothamist.com/news/a-mobile-glitter-bar-rainbow-cowgirl-and-bowen-yang-what-we-saw-at-the-nyc-pride-march",
+        "published_at": "2026-06-28T18:56:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-29T10:38:16.548385+00:00"
+    },
+    {
+      "headline": "A better way for alternate-side parking",
+      "bullets": [
+        "The New York City Council recently sent a Home Rule Message to the state Legislature requesting it approve legislation to authorize the use of cameras attached to the mechanical brooms that sweep NYC\u2019s streets.",
+        "The state Senate passed the bill on June 1, but the Assembly never even took a vote before they left for the year."
+      ],
+      "summary": "A better way for alternate-side parking",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "A better way for alternate-side parking",
+        "article_url": "https://www.nydailynews.com/2026/06/29/a-better-way-for-alternate-side-parking/",
+        "published_at": "2026-06-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-29T10:38:16.621294+00:00"
+    },
+    {
+      "headline": "Aqueduct\u2019s big history and big future plans for housing",
+      "bullets": [
+        "In 2009, we wrote: \u201cThe season ends today at Aqueduct, and with the finish of the ninth race should come the closure of the Queens horse track.\u201d It\u2019s taken 17 years, but the ninth race at Aqueduct yesterday had a post time of 5:44 p.m.",
+        "and was won by Assume Nothing running the mile and an eighth in 1:51.21."
+      ],
+      "summary": "Aqueduct\u2019s big history and big future plans for housing",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Aqueduct\u2019s big history and big future plans for housing",
+        "article_url": "https://www.nydailynews.com/2026/06/29/aqueducts-big-history-and-big-future-plans-for-housing/",
+        "published_at": "2026-06-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-29T10:38:16.697470+00:00"
+    },
+    {
+      "headline": "July is the height of summer stargazing and the last",
+      "bullets": [
+        "July is peak stargazing season in New York City.",
+        "With warm summer nights and plenty of free public telescope viewing events across the five boroughs, it\u2019s prime time for looking up and pondering the heavens in the Big Apple."
+      ],
+      "summary": "July is the height of summer stargazing and the last",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "July is the height of summer stargazing and the last chance for Manhattanhenge",
+        "article_url": "https://gothamist.com/news/july-is-the-height-of-summer-stargazing-and-the-last-chance-for-manhattanhenge",
+        "published_at": "2026-06-28T15:00:49+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-29T10:38:16.764983+00:00"
+    }
+  ]
+}
