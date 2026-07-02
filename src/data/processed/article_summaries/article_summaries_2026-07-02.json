@@ -1,0 +1,408 @@
+{
+  "generated_at": "2026-07-02T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/ranked/ranked_articles_2026-07-02.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 8,
+    "fallback_summaries": 10
+  },
+  "summaries": [
+    {
+      "headline": "Swift-Kelce Wedding Requires Large Police Presence",
+      "bullets": [
+        "A permit was filed to close streets around MSG for Taylor Swift and Travis Kelce's wedding celebration.",
+        "Over 100 NYPD officers are expected to be present for security during the event."
+      ],
+      "summary": "Swift-Kelce Wedding Requires Large Police Presence",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "The large police presence for Swift and Kelce's wedding highlights the resources allocated for high-profile events, impacting city services and security during significant celebrations.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Taylor Swift\u2019s MSG wedding appears to require large police presence",
+        "article_url": "https://www.nydailynews.com/2026/07/01/taylor-swift-travis-kelce-msg-wedding-police/",
+        "published_at": "2026-07-01T20:57:37+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-02T10:04:37.587323+00:00"
+    },
+    {
+      "headline": "NYC Boosts Security for Fourth of July Celebrations",
+      "bullets": [
+        "NYPD and Coast Guard will enforce strict security measures, including metal detectors and bag checks.",
+        "Officers will work 12-hour shifts with no breaks, and drones are strictly prohibited."
+      ],
+      "summary": "NYC Boosts Security for Fourth of July Celebrations",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Increased security measures reflect the heightened-threat environment and ensure public safety during major city events, aligning with the Sanitation and Solid Waste Management Committee's focus on public safety and emergency preparedness.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Thousands of NYPD officers, security checks in place for NYC's Fourth of July events",
+        "article_url": "https://www.cbsnews.com/newyork/news/fourth-of-july-events-nyc-security-nypd-coast-guard-zohran-mamdani/",
+        "published_at": "2026-07-01"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-02T10:04:38.903427+00:00"
+    },
+    {
+      "headline": "NYPD Boosts Security for July 4th and Taylor Swift Wedding",
+      "bullets": [
+        "NYPD deploys thousands of officers for Independence Day celebrations and Taylor Swift's wedding.",
+        "Enhanced security measures include bomb-sniffing dogs, heavy weapons teams, and increased police presence."
+      ],
+      "summary": "NYPD Boosts Security for July 4th and Taylor Swift Wedding",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This increased security aligns with the NYPD's role in ensuring public safety during major events, impacting New Yorkers' experience at city celebrations and large gatherings.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYPD to deploy thousands of cops for Fourth of July festivities \u2026 and a certain wedding",
+        "article_url": "https://www.nydailynews.com/2026/07/01/nypd-to-deploy-thousands-of-cops-for-fourth-of-july-festivities-and-a-certain-wedding/",
+        "published_at": "2026-07-01"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-02T10:04:40.410692+00:00"
+    },
+    {
+      "headline": "Mamdani and NYC Budget Survive Final Hurdles",
+      "bullets": [
+        "The CityFHEPS housing voucher program was restructured to be regularly budgeted rather than an entitlement.",
+        "The budget includes augmenting the Fair Fares initiative and adding to the rainy day fund."
+      ],
+      "summary": "Mamdani and NYC Budget Survive Final Hurdles",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "The resolution of the CityFHEPS program and the inclusion of the Fair Fares initiative reflect the Council's priorities in housing and transportation, aligning with CM Maloney's committees on Economic Development and Cultural Affairs.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Mamdani and NYC survive the mayor\u2019s first budget",
+        "article_url": "https://www.nydailynews.com/2026/07/02/mamdani-and-nyc-survive-the-mayors-first-budget/",
+        "published_at": "2026-07-02"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-02T10:04:42.005152+00:00"
+    },
+    {
+      "headline": "Daredevils Climb Empire State Building for Proposal",
+      "bullets": [
+        "A couple climbed the Empire State Building for a marriage proposal, unfurling a banner and getting arrested.",
+        "The stunt resulted in eight criminal charges for the couple."
+      ],
+      "summary": "Daredevils Climb Empire State Building for Proposal",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "No direct committee or district connection identified.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Daredevil couple climb spire atop Empire State Building in apparent marriage proposal",
+        "article_url": "https://www.nydailynews.com/2026/07/01/couple-climb-spire-atop-empire-state-building-unfurl-banner-about-love/",
+        "published_at": "2026-07-01"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-02T10:04:43.256356+00:00"
+    },
+    {
+      "headline": "NYC Prosecutors Struggle to Combat Crypto Crimes",
+      "bullets": [
+        "Manhattan DA Alvin Bragg is pushing to change state law to license virtual currency businesses.",
+        "Special Narcotics Prosecutor Bridgette Brennan seeks $600,000 to launch a crypto crimes unit."
+      ],
+      "summary": "NYC Prosecutors Struggle to Combat Crypto Crimes",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "These efforts to regulate and combat crypto crimes directly impact NYC's law enforcement and financial services, aligning with CM Maloney's Economic Development and Sanitation and Solid Waste Management committees.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "NYC prosecutors face many hurdles as they try to crack down on crimes involving cryptocurrency",
+        "article_url": "https://www.cbsnews.com/newyork/news/cryptocurrency-crimes-dark-web-drughub-alvin-bragg-bridgette-brennan/",
+        "published_at": "2026-06-30"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-02T10:04:44.740195+00:00"
+    },
+    {
+      "headline": "Top Eats on Long Island This Month",
+      "bullets": [
+        "Vienna Cookie Company offers shortbread 'fries' at farmers markets for $10.",
+        "North Fork Big Oyster serves fresh Peconic Bay oysters at Theodore Roosevelt Beach."
+      ],
+      "summary": "Top Eats on Long Island This Month",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "These food options highlight local businesses and fresh, seasonal ingredients, supporting the economy and promoting sustainable practices, which align with the Economic Development and Small Business committees' goals.",
+      "source_citation": {
+        "source_name": "Newsday",
+        "source_level": "local",
+        "article_title": "8 best things we ate on Long Island this month",
+        "article_url": "https://www.newsday.com/lifestyle/restaurants/best-things-we-ate-long-island-kf2o8gop",
+        "published_at": "2026-06-30"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-02T10:04:46.181531+00:00"
+    },
+    {
+      "headline": "Climbers Face Charges After Empire State Building Climb",
+      "bullets": [
+        "A couple climbed to the top of the Empire State Building and were arrested for burglary, reckless endangerment, and other charges.",
+        "The climbers, known for their daredevil climbs, were captured on video and proposed to each other during the ascent."
+      ],
+      "summary": "Climbers Face Charges After Empire State Building Climb",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "This incident highlights the need for enhanced security measures at iconic city landmarks to prevent unauthorized access and ensure public safety.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Daredevil couple due in court after brazen climb to top of Empire State Building",
+        "article_url": "https://abc7ny.com/post/daredevil-couple-angela-nikolau-ivan-kuznetsov-aka-beerkus-due-court-brazen-climb-top-empire-state-building/19433946/",
+        "published_at": "2026-07-02"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-02T10:04:47.633427+00:00"
+    },
+    {
+      "headline": "AG Letitia James sues Brooklyn puppy store for violating ban",
+      "bullets": [
+        "Owners of Brooklyn\u2019s Puppy Boutique say they care too much about the dogs they sell to leave them in just anybody\u2019s hands.",
+        "\u201cSorry, we do not ship our babies,\u201d the company says on its website."
+      ],
+      "summary": "AG Letitia James sues Brooklyn puppy store for violating ban",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "AG Letitia James sues Brooklyn puppy store for violating ban on selling dogs",
+        "article_url": "https://www.nydailynews.com/2026/07/01/letitia-james-sues-brooklyn-puppy-store-illegally-selling-dogs/",
+        "published_at": "2026-07-01T18:54:03+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-02T10:04:47.764222+00:00"
+    },
+    {
+      "headline": "Grandson of legendary FDNY Chief Raymond Downey, who died on",
+      "bullets": [
+        "For most of his life, Joseph Downey has lived by three simple principles: faith, family and fitness.",
+        "Underlying them all is a fourth \u2014 the FDNY."
+      ],
+      "summary": "Grandson of legendary FDNY Chief Raymond Downey, who died on",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Grandson of legendary FDNY Chief Raymond Downey, who died on 9/11, carries on family firefighting tradition",
+        "article_url": "https://www.nydailynews.com/2026/07/01/grandson-legendary-fdny-chief-raymond-downey-died-9-11-family-tradition/",
+        "published_at": "2026-07-01T16:35:44+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-02T10:04:47.904180+00:00"
+    },
+    {
+      "headline": "Local Event: #EGProductions Stupid F***ing Bird",
+      "bullets": [
+        "Aaron Posner\u2019s contemporary remix of Chekov\u2019s \u201cSeagull\u201d showcasing unique concepts of love, family, and mental health New York, NY - Stupid F***ing Bird is Aaron Posner\u2019s somewhat unhinged adaptation of Anton Chekov\u2019s Seagull.",
+        "Originally staged in 2013 at Wooly Mammoth Theatre Company in Washington D.C."
+      ],
+      "summary": "Local Event: #EGProductions Stupid F***ing Bird",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: #EGProductions Stupid F***ing Bird",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260702/32969a24-9346-44f2-af3d-2ca79f3e84f4/egproductions-stupid-f-ing-bird",
+        "published_at": "2026-07-02T23:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-02T10:04:48.024847+00:00"
+    },
+    {
+      "headline": "Readers sound off on America at 250, genocidal intent and",
+      "bullets": [
+        "Take stock of what changed & what remains Bradford, Ontario: America\u2019s birthday approaches.",
+        "It will not be a sober affair, but a time to celebrate life, liberty and the pursuit of whatever you can acquire."
+      ],
+      "summary": "Readers sound off on America at 250, genocidal intent and",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on America at 250, genocidal intent and free Slurpees",
+        "article_url": "https://www.nydailynews.com/2026/07/02/readers-sound-off-on-america-at-250-genocidal-intent-and-free-slurpees/",
+        "published_at": "2026-07-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-02T10:04:48.146031+00:00"
+    },
+    {
+      "headline": "Changes to student loans are taking effect July 1. Here\u2019s",
+      "bullets": [
+        "By ADRIANA MORGA NEW YORK (AP) \u2014 Changes to federal student loans expected to affect millions of borrowers are taking effect July 1.",
+        "A part of President Donald Trump\u2019s \u201cBig Beautiful Bill,\u201d these changes mean the end of some payment plans and new limits for graduate loans."
+      ],
+      "summary": "Changes to student loans are taking effect July 1. Here\u2019s",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Changes to student loans are taking effect July 1. Here\u2019s what to know",
+        "article_url": "https://www.nydailynews.com/2026/07/01/student-loans-changes/",
+        "published_at": "2026-07-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-02T10:04:48.267416+00:00"
+    },
+    {
+      "headline": "Last-minute deal hands Gov. Sherrill notable wins in her first",
+      "bullets": [
+        "Lawmakers helped Gov.",
+        "Mikie Sherrill deliver a mixed bag in her first budget as governor, delivering on many priorities but still including hundreds of millions of dollars in spending on local projects she\u2019d asked lawmakers to curb."
+      ],
+      "summary": "Last-minute deal hands Gov. Sherrill notable wins in her first",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Last-minute deal hands Gov. Sherrill notable wins in her first NJ budget",
+        "article_url": "https://gothamist.com/news/last-minute-deal-hands-gov-sherrill-notable-wins-in-her-first-nj-budget",
+        "published_at": "2026-07-01T16:42:21+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-02T10:04:48.523949+00:00"
+    },
+    {
+      "headline": "AC, water bottles, common sense: How to stay cool and",
+      "bullets": [
+        "On this hot July 4, it might be a good idea to swap that soda or beer for a bottle of water.",
+        "Staying hydrated is just one important way city officials and healthcare providers say New Yorkers can avoid heat stroke or exhaustion during a heatwave, starting with the doozie hitting the region this week."
+      ],
+      "summary": "AC, water bottles, common sense: How to stay cool and",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "AC, water bottles, common sense: How to stay cool and alive during the NYC heat wave",
+        "article_url": "https://gothamist.com/news/ac-water-bottles-common-sense-how-to-stay-cool-and-alive-during-the-nyc-heat-wave",
+        "published_at": "2026-07-01T10:30:58+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-02T10:04:48.657818+00:00"
+    },
+    {
+      "headline": "What is a heat advisory? Excessive heat warning? Heat wave?",
+      "bullets": [
+        "The Tri-State Area during the days leading up to and including the Fourth of July.",
+        "Summers can sizzle around the New York City area, where the hottest normal high is 85 degrees in July."
+      ],
+      "summary": "What is a heat advisory? Excessive heat warning? Heat wave?",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "What is a heat advisory? Excessive heat warning? Heat wave? Why they feel even hotter in NYC.",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-heat-wave-excessive-heat-warning/",
+        "published_at": "2024-06-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-02T10:04:48.791448+00:00"
+    },
+    {
+      "headline": "Readers sound off on America at 250, genocidal intent and",
+      "bullets": [
+        "Take stock of what changed & what remains Bradford, Ontario: America\u2019s birthday approaches.",
+        "It will not be a sober affair, but a time to celebrate life, liberty and the pursuit of whatever you can acquire."
+      ],
+      "summary": "Readers sound off on America at 250, genocidal intent and",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on America at 250, genocidal intent and free Slurpees",
+        "article_url": "https://www.nydailynews.com/2026/07/02/readers-sound-off-on-america-at-250-genocidal-intent-and-free-slurpees/",
+        "published_at": "2026-07-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-02T10:04:48.934807+00:00"
+    },
+    {
+      "headline": "A peacetime armada echoes a wartime one",
+      "bullets": [
+        "In the predawn darkness, an enormous armada of ships will gather south of the Verrazzano-Narrows Bridge.",
+        "Then, as the sun begins to rise, the vessels \u2014 some sporting 10,000 square feet of sails and cadets, and others housing missiles and more than 15,000 combat marines and sailors \u2014 will make their way into New York Harbor, past the Statue of Liberty and towards Manhattan."
+      ],
+      "summary": "A peacetime armada echoes a wartime one",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "A peacetime armada echoes a wartime one",
+        "article_url": "https://www.nydailynews.com/2026/07/02/a-peacetime-armada-echoes-a-wartime-one/",
+        "published_at": "2026-07-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-02T10:04:49.054214+00:00"
+    }
+  ]
+}
