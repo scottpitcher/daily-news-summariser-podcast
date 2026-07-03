@@ -1,0 +1,409 @@
+{
+  "generated_at": "2026-07-03T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/ranked/ranked_articles_2026-07-03.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 8,
+    "fallback_summaries": 10
+  },
+  "summaries": [
+    {
+      "headline": "Democrats Accuse Trump Fundraisers of Fraud in 250th Anniversary Scandal",
+      "bullets": [
+        "Donors intended to support America250 but were tricked into sending money to Freedom 250, a Trump-linked group.",
+        "Freedom 250 has denied the allegations, calling the report a 'partisan smear'."
+      ],
+      "summary": "Democrats Accuse Trump Fundraisers of Fraud in 250th Anniversary Scandal",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This scandal highlights potential misuse of public funds and could impact transparency in city and state events, touching on CM Maloney's oversight of city services and finance committees.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Democrats accuse Trump-linked fundraisers of fraud over diverted donations for America\u2019s anniversary",
+        "article_url": "https://www.nydailynews.com/2026/07/02/america-250-trump-fraud-claims/",
+        "published_at": "2026-07-02"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-03T10:03:25.939589+00:00"
+    },
+    {
+      "headline": "NY Dems Split into Socialists and Capitalists",
+      "bullets": [
+        "Rep. Tom Suozzi and moderates announced 'Promise to America' principles, emphasizing capitalism over socialism.",
+        "The split reflects different electorates and strategies for the 2028 Democratic primary."
+      ],
+      "summary": "NY Dems Split into Socialists and Capitalists",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This division highlights the growing ideological divide within the Democratic Party, which could impact the 2028 presidential primary and influence policy stances on economic issues in New York City.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Factions emerge among NY Dems: Zohran Mamdani\u2019s socialists vs. Tom Suozzi\u2019s capitalists",
+        "article_url": "https://gothamist.com/news/factions-emerge-among-ny-dems-zohran-mamdanis-socialists-vs-tom-suozzis-capitalists",
+        "published_at": "2026-07-02T18:21:45+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-03T10:03:27.304756+00:00"
+    },
+    {
+      "headline": "Sail 4th 250 Celebrates NYC's Maritime Heritage",
+      "bullets": [
+        "More than 80 ships and 160 aircraft will gather in New York Harbor for the 250th anniversary celebration.",
+        "The event highlights the importance of the city's working waterfront and maritime infrastructure."
+      ],
+      "summary": "Sail 4th 250 Celebrates NYC's Maritime Heritage",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This event underscores the need for proper funding and protection of the working waterfront, which is crucial for transportation, commerce, and quality of life in NYC.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "What Mayor Mamdani can learn from Sail 4th 250",
+        "article_url": "https://www.nydailynews.com/2026/07/03/what-mayor-mamdani-can-learn-from-sail-4th-250/",
+        "published_at": "2026-07-03"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-03T10:03:28.829499+00:00"
+    },
+    {
+      "headline": "NYC Hits 100 Degrees in Heat Wave",
+      "bullets": [
+        "New York City tied the record high of 100 degrees on Day 2 of a heat wave.",
+        "Mayor Mamdani and Governor Hochul urged residents to set thermostats to 78 degrees to conserve energy."
+      ],
+      "summary": "NYC Hits 100 Degrees in Heat Wave",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This heat wave highlights the need for energy conservation policies, especially as it affects city services like cooling centers and electricity management during extreme weather conditions.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "NYC ties record high on Day 2 of expected heat wave",
+        "article_url": "https://www.cbsnews.com/newyork/news/expected-new-york-heat-wave-day-2/",
+        "published_at": "2026-07-02"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-03T10:03:30.264287+00:00"
+    },
+    {
+      "headline": "Supreme Court Rulings and Trump\u2019s Impact on Policy",
+      "bullets": [
+        "Supreme Court protected Roundup manufacturer from cancer claims, despite environmental concerns.",
+        "President Trump signed an order compelling Roundup production, despite bans in other areas.",
+        "Supreme Court allowed Trump to fire Federal Reserve Governor Lisa Cook based on unproven fraud charges."
+      ],
+      "summary": "Supreme Court Rulings and Trump\u2019s Impact on Policy",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "These rulings and actions by the Trump administration have implications for environmental and labor protections, which are relevant to CM Maloney's committee on Economic Development and Sanitation and Solid Waste Management.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on Supreme Court rulings, Venezuela\u2019s earthquake and Yanks\u2019 record",
+        "article_url": "https://www.nydailynews.com/2026/07/03/readers-sound-off-on-supreme-court-rulings-venezuelas-earthquake-and-yanks-record/",
+        "published_at": "2026-07-03"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-03T10:03:31.867646+00:00"
+    },
+    {
+      "headline": "Jaylen Brown Traded to 76ers",
+      "bullets": [
+        "Jaylen Brown, a five-time All-Star, was traded from the Celtics to the 76ers.",
+        "The trade includes 36-year-old Paul George and four draft picks for Brown."
+      ],
+      "summary": "Jaylen Brown Traded to 76ers",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "This trade impacts the Eastern Conference's balance of power and could affect the 76ers' roster stability, touching on CM Maloney's Economic Development committee's interest in local sports and business dynamics.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Jaylen Brown \u2018excited and disappointed\u2019 about being traded from Celtics to 76ers",
+        "article_url": "https://www.nydailynews.com/2026/07/02/jaylen-brown-excited-disappointed-trade-celtics-76ers/",
+        "published_at": "2026-07-02"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-03T10:03:33.203119+00:00"
+    },
+    {
+      "headline": "NYC Prosecutors Struggle to Combat Crypto Crimes",
+      "bullets": [
+        "Manhattan DA Alvin Bragg is pushing to change state law to license virtual currency businesses.",
+        "Special Narcotics Prosecutor Bridgette Brennan seeks $600,000 to launch a crypto crimes unit."
+      ],
+      "summary": "NYC Prosecutors Struggle to Combat Crypto Crimes",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "These efforts to regulate and investigate crypto crimes directly impact NYC's law enforcement and financial services, areas relevant to CM Maloney's Economic Development and Sanitation and Solid Waste Management committees.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "NYC prosecutors face many hurdles as they try to crack down on crimes involving cryptocurrency",
+        "article_url": "https://www.cbsnews.com/newyork/news/cryptocurrency-crimes-dark-web-drughub-alvin-bragg-bridgette-brennan/",
+        "published_at": "2026-06-30"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-03T10:03:34.490355+00:00"
+    },
+    {
+      "headline": "Legionnaires' Disease Cases Reported in Upper East Side",
+      "bullets": [
+        "Health inspectors are investigating a second case of Legionnaires' disease in Carnegie Hill and Yorkville, ZIP codes 10028 and 10128.",
+        "Cooling towers in the area are being tested for Legionella bacteria, with positive results leading to full remediation."
+      ],
+      "summary": "Legionnaires' Disease Cases Reported in Upper East Side",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "This incident highlights the ongoing need for regular testing and maintenance of cooling towers to prevent Legionnaires' disease outbreaks, which falls under the jurisdiction of the Fire and Emergency Management committee.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "2 Sickened By Legionnaires' Disease On The UES, Officials Say",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/2-sickened-legionnaires-disease-ues-officials-say",
+        "published_at": "2026-07-03T00:05:39+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-03T10:03:35.910009+00:00"
+    },
+    {
+      "headline": "NYPD reports fewest shootings, murders on record for first half",
+      "bullets": [
+        "NEW YORK - New York City recorded its fewest shooting incidents, shooting victims and murders for the first half of any year in recorded history, according to new NYPD data released Thursday.",
+        "What we know: Police Commissioner Jessica Tisch said the city recorded 322 shooting incidents from Jan."
+      ],
+      "summary": "NYPD reports fewest shootings, murders on record for first half",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "NYPD reports fewest shootings, murders on record for first half of year",
+        "article_url": "https://www.fox5ny.com/news/nypd-reports-fewest-shootings-murders-record-first-half-year",
+        "published_at": "2026-07-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-03T10:03:36.021706+00:00"
+    },
+    {
+      "headline": "Temperature reaches 100 degrees in Central Park for the first",
+      "bullets": [
+        "An extreme heat warning is in effect through Saturday for much of the Tri-State area NEW YORK (WABC) -- New York City remains in the grip of a historic heat wave, with temperatures reaching 100 degrees on Thursday and tying a record high set in 1966.",
+        "The dangerous stretch of heat will peak through Friday, when feels-like temperatures could soar as high as 115 degrees and a rare Level 4 of 4 Extreme Heat Risk remains in place."
+      ],
+      "summary": "Temperature reaches 100 degrees in Central Park for the first",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Temperature reaches 100 degrees in Central Park for the first time since 2012, ties record",
+        "article_url": "https://abc7ny.com/live-updates/extreme-heat-forecast-dangerous-wave-expected-hit-nyc-tri-state/19414088/entry/19436565/",
+        "published_at": "2026-07-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-03T10:03:36.147455+00:00"
+    },
+    {
+      "headline": "Here's what you need to know about NYC's epic July",
+      "bullets": [
+        "It\u2019s the nation\u2019s 250th birthday this weekend, and New York is celebrating the only way it knows how: by doing everything all at once.",
+        "We\u2019ve got tall ships in the harbor, a massive fireworks display overhead, a mystery event at Madison Square Garden (it\u2019s probably Taylor Swift\u2019s wedding), a World Cup game in New Jersey, and an intense heat wave moving in right on schedule."
+      ],
+      "summary": "Here's what you need to know about NYC's epic July",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Here's what you need to know about NYC's epic July 4 weekend",
+        "article_url": "https://gothamist.com/news/heres-what-you-need-to-know-about-nycs-epic-july-4-weekend",
+        "published_at": "2026-07-02T10:30:45+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-03T10:03:36.261758+00:00"
+    },
+    {
+      "headline": "MTA Spruces Up Subway Bathrooms, Secures Toilet Seats",
+      "bullets": [
+        "MTA Spruces Up Subway Bathrooms, Secures Toilet Seats Earlier this year, the MTA\u00e2s inspector general reported discovering a lack of toilet seats in a number of public subway bathrooms.",
+        "Now, improvement has been reported."
+      ],
+      "summary": "MTA Spruces Up Subway Bathrooms, Secures Toilet Seats",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "MTA Spruces Up Subway Bathrooms, Secures Toilet Seats",
+        "article_url": "https://www.ourtownny.com/news/mta-spruces-up-subway-bathrooms-secures-toilet-seats-XC5985154",
+        "published_at": "2026-07-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-03T10:03:36.388419+00:00"
+    },
+    {
+      "headline": "Empire State Building daredevil couple arraigned, court hears they did",
+      "bullets": [
+        "They say they did it all for love \u2014 but prosecutors say they recklessly put themselves and others in extreme danger.",
+        "Angelina Nikolau, 33, and Ivan \u201cVanya\u201d Kuznetsov, 32, were arraigned Thursday morning for scaling the spire on top of the Empire State Building for a marriage proposal a day earlier."
+      ],
+      "summary": "Empire State Building daredevil couple arraigned, court hears they did",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Empire State Building daredevil couple arraigned, court hears they did it all for love",
+        "article_url": "https://www.nydailynews.com/2026/07/02/empire-state-daredevil-couple-angelina-nikolau-ivan-vanya-kuznetsovhit-court-hears-they-did-it-all-for-love/",
+        "published_at": "2026-07-02T14:42:41+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-03T10:03:36.501150+00:00"
+    },
+    {
+      "headline": "Daredevil climbers hid in Empire State Building before stunt",
+      "bullets": [
+        "The climbers, identified as Angela Nikolau and Ivan Kuznetsov, appeared in court in Lower Manhattan on Thursday.",
+        "NEW YORK (WABC) -- The couple who climbed to the top of the Empire State Building on Wednesday got supervised release following a brief court appearance Thursday after being formally charged for their engagement stunt."
+      ],
+      "summary": "Daredevil climbers hid in Empire State Building before stunt",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Daredevil climbers hid in Empire State Building before stunt",
+        "article_url": "https://abc7ny.com/post/daredevil-couple-angela-nikolau-ivan-kuznetsov-aka-beerkus-due-court-brazen-climb-top-empire-state-building/19433946/",
+        "published_at": "2026-07-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-03T10:03:36.625445+00:00"
+    },
+    {
+      "headline": "NYC Mayor Zohran Mamdani roasted over \"78 degrees\" suggestion. Here's",
+      "bullets": [
+        "New York City Zohran Mamdani remained unperturbed Thursday after taking a viral roasting for telling sweat-soaked New Yorkers to set their thermostats to 78 degrees Fahrenheit.",
+        "It's the to protect the power grid, but the current mayor is the one catching heat for it."
+      ],
+      "summary": "NYC Mayor Zohran Mamdani roasted over \"78 degrees\" suggestion. Here's",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "NYC Mayor Zohran Mamdani roasted over \"78 degrees\" suggestion. Here's why he's not sweating it.",
+        "article_url": "https://www.cbsnews.com/newyork/news/zohran-mamdani-78-degrees/",
+        "published_at": "2026-07-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-03T10:03:36.734914+00:00"
+    },
+    {
+      "headline": "Heat-related calls, ER visits in NYC shoot up with temperatures",
+      "bullets": [
+        "Heat-related 911 calls and emergency room visits across New York City surged Wednesday as the summer's latest heat wave gripped the region, officials said.",
+        "Emergency medical crews responded to 209 heat-related calls on Wednesday, and hospitals recorded 151 heat-related emergency room visits the same day, according to city health figures."
+      ],
+      "summary": "Heat-related calls, ER visits in NYC shoot up with temperatures",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Heat-related calls, ER visits in NYC shoot up with temperatures as heat wave worsens",
+        "article_url": "https://gothamist.com/news/heat-related-calls-er-visits-in-nyc-shoot-up-with-temperatures-as-heat-wave-worsens",
+        "published_at": "2026-07-02T21:43:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-03T10:03:36.871367+00:00"
+    },
+    {
+      "headline": "NYC's surprising firsts: From the first subway to fine dining",
+      "bullets": [
+        "NEW YORK (WABC) -- 250 years ago, the Declaration of Independence was signed.",
+        "A new nation was born, and America as we know it began to take shape."
+      ],
+      "summary": "NYC's surprising firsts: From the first subway to fine dining",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "NYC's surprising firsts: From the first subway to fine dining",
+        "article_url": "https://abc7ny.com/post/how-new-york-city-became-home-americas-biggest-firsts-america-250/19435512/",
+        "published_at": "2026-07-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-03T10:03:36.980762+00:00"
+    },
+    {
+      "headline": "Taylor Swift, Travis Kelce events at Madison Square Garden prompt",
+      "bullets": [
+        "MIDTOWN, Manhattan (WABC) -- Drivers, commuters and pedestrians traveling through Midtown on Friday should expect significant disruptions around Madison Square Garden as the NYPD implements street closures ahead of two highly anticipated private events reportedly tied to Taylor Swift and Travis Kelce.",
+        "Beginning at 1 p.m."
+      ],
+      "summary": "Taylor Swift, Travis Kelce events at Madison Square Garden prompt",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Taylor Swift, Travis Kelce events at Madison Square Garden prompt Midtown street closures Friday",
+        "article_url": "https://abc7ny.com/post/taylor-swift-travis-kelce-events-madison-square-garden-prompt-midtown-street-closures-friday/19440379/",
+        "published_at": "2026-07-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-03T10:03:37.219454+00:00"
+    }
+  ]
+}
