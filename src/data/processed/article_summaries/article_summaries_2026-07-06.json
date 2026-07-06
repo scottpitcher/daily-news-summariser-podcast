@@ -1,0 +1,408 @@
+{
+  "generated_at": "2026-07-06T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/ranked/ranked_articles_2026-07-06.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 8,
+    "fallback_summaries": 10
+  },
+  "summaries": [
+    {
+      "headline": "Readers Debate Jewish Dissent, DSA Candidates, and Roosevelt Statue",
+      "bullets": [
+        "Readers discuss the impact of Jewish dissent and the role of democratic socialism in local politics.",
+        "The American Museum of Natural History removed a Theodore Roosevelt statue, sparking debate over historical representation."
+      ],
+      "summary": "Readers Debate Jewish Dissent, DSA Candidates, and Roosevelt Statue",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "These discussions touch on issues of community engagement, political ideology, and historical representation, which are relevant to CM Maloney's committee portfolio, particularly in Cultural Affairs and Education.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on Jewish dissent, DSA candidates and Teddy Roosevelt\u2019s statue",
+        "article_url": "https://www.nydailynews.com/2026/07/06/readers-sound-off-on-jewish-dissent-dsa-candidates-and-teddy-roosevelts-statue/",
+        "published_at": "2026-07-06"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-06T10:34:34.687776+00:00"
+    },
+    {
+      "headline": "NYPD Fails to Enforce Traffic Laws",
+      "bullets": [
+        "NYPD has issued 32% fewer traffic tickets citywide since 2015.",
+        "Staten Island cops have declined traffic ticketing by 52%."
+      ],
+      "summary": "NYPD Fails to Enforce Traffic Laws",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This decline in traffic enforcement impacts pedestrian safety, a key concern for CM Maloney's committee on Sanitation and Solid Waste Management and the overall quality of life in NYC.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYPD must enforce city traffic laws",
+        "article_url": "https://www.nydailynews.com/2026/07/06/nypd-must-enforce-city-traffic-laws/",
+        "published_at": "2026-07-06"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-06T10:34:36.214637+00:00"
+    },
+    {
+      "headline": "New York to Vote on Open Primaries",
+      "bullets": [
+        "Unite NY's petition drive will force a referendum on open primaries in New York City.",
+        "Over 1 million New Yorkers currently cannot vote in local primary elections."
+      ],
+      "summary": "New York to Vote on Open Primaries",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This referendum, if passed, would expand voting rights and increase democratic participation in local elections, aligning with CM Maloney's focus on expanding access to city services and enhancing civic engagement.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Let New Yorkers vote to have local open primaries",
+        "article_url": "https://www.nydailynews.com/2026/07/06/let-new-yorkers-vote-to-have-local-open-primaries/",
+        "published_at": "2026-07-06"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-06T10:34:37.750573+00:00"
+    },
+    {
+      "headline": "Upper East Side Legionnaires' Cases Reach 14",
+      "bullets": [
+        "The NYC Health Department has identified 14 cases of Legionnaires' Disease in the 10075 zip code.",
+        "Testing of cooling towers is ongoing, with building owners required to remediate if positive results are found."
+      ],
+      "summary": "Upper East Side Legionnaires' Cases Reach 14",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This outbreak highlights the importance of regular maintenance of cooling systems, which falls under the jurisdiction of the Sanitation and Solid Waste Management Committee.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Upper East Side Legionnaires' cases now at 14, health department says",
+        "article_url": "https://abc7ny.com/post/upper-east-side-legionnaires-cases-now-14-nyc-health-department-says/19455229/",
+        "published_at": "2026-07-06"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-06T10:34:39.108475+00:00"
+    },
+    {
+      "headline": "World Cup Boosts Manhattan Bars",
+      "bullets": [
+        "Manhattan bars report a 30% surge in business due to World Cup crowds.",
+        "Some venues, like O\u2019Hanlon\u2019s and The Standard Biergarten, see increased international and local patronage."
+      ],
+      "summary": "World Cup Boosts Manhattan Bars",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "This economic boost from the World Cup supports local businesses and highlights the cultural impact of international events on New York City's economy.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "World Cup Crowds Give Manhattan Bars a Summer Boost",
+        "article_url": "https://www.ourtownny.com/food-drink/world-cup-crowds-give-manhattan-bars-a-summer-boost-JA6002803",
+        "published_at": "2026-07-06"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-06T10:34:40.678544+00:00"
+    },
+    {
+      "headline": "NYC Celebrates 250th Independence Day",
+      "bullets": [
+        "New York Harbor hosted the Sail4th 250 Parade of Ships and International Aerial Review.",
+        "The event featured military and civilian ships from around the world, along with aerial displays."
+      ],
+      "summary": "NYC Celebrates 250th Independence Day",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "No direct committee or district connection identified.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Happy Independence Day! NYC celebrates 250 years of America on July 4, 2026",
+        "article_url": "https://www.nydailynews.com/2026/07/04/happy-independence-day-nyc-celebrates-250-years-of-america-on-july-4-2026/",
+        "published_at": "2026-07-04"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-06T10:34:41.910156+00:00"
+    },
+    {
+      "headline": "Film Industry Event in Western Queens",
+      "bullets": [
+        "Speakers from Wildflower Studios, United Scenic Artists, and Motion Picture Association discuss film industry trends and job opportunities.",
+        "Updates on transportation and economic development initiatives from NYC Ferry and Queens Economic Development Corporation."
+      ],
+      "summary": "Film Industry Event in Western Queens",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "This event connects to CM Maloney's Economic Development committee by highlighting potential economic growth and job creation through the film industry in Western Queens.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Filming in Western Queens: Path Forward",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260706/04729dd8-f289-47c2-84be-547b4def0e85/filming-in-western-queens-path-forward",
+        "published_at": "2026-07-06T22:30:00+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-06T10:34:43.089644+00:00"
+    },
+    {
+      "headline": "Heat Wave Causes Multiple Deaths in New Jersey",
+      "bullets": [
+        "At least 25 deaths in New Jersey linked to a heat wave.",
+        "High temperatures and lack of air conditioning led to fatalities."
+      ],
+      "summary": "Heat Wave Causes Multiple Deaths in New Jersey",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "This highlights the need for city services to address heat-related health issues, especially in areas without air conditioning, which ties to CM Maloney's committee on Sanitation and Solid Waste Management and Health and Buildings.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Unbearable heat suspected in 25 New Jersey deaths as high temperatures give way to thunderstorms",
+        "article_url": "https://abc7ny.com/post/unbearable-heat-suspected-19-new-jersey-deaths-high-temperatures-give-thunderstorms/19453527/",
+        "published_at": "2026-07-05"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-06T10:34:44.363944+00:00"
+    },
+    {
+      "headline": "Mamdani warns New Yorkers to prepare for severe flash flood",
+      "bullets": [
+        "NEW YORK - The City of New York has mobilized a full emergency response ahead of a severe weather system forecast to bring torrential rain, thunderstorms and widespread flash flooding to the area starting Sunday evening and lasting through Monday night.",
+        "Heavy rainfall and immediate risks By the numbers: The National Weather Service has issued a Flood Watch through 6 a.m."
+      ],
+      "summary": "Mamdani warns New Yorkers to prepare for severe flash flood",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Mamdani warns New Yorkers to prepare for severe flash flood threat",
+        "article_url": "https://www.fox5ny.com/weather/mamdani-warns-new-yorkers-prepare-severe-flash-flood-threat",
+        "published_at": "2026-07-05"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-06T10:34:44.510825+00:00"
+    },
+    {
+      "headline": "Powerful storms cause NJ Transit disruptions, suspensions; massive power outages,",
+      "bullets": [
+        "HOBOKEN, New Jersey (WABC) -- In New Jersey, clean up is underway after powerful storms toppled trees and knocked out power for several thousand residents.",
+        "There have been thunderstorms in the area since Friday, and it is impacting NJ Transit service Monday morning."
+      ],
+      "summary": "Powerful storms cause NJ Transit disruptions, suspensions; massive power outages,",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Powerful storms cause NJ Transit disruptions, suspensions; massive power outages, 1 man killed",
+        "article_url": "https://abc7ny.com/post/new-jersey-storm-powerful-storms-cause-nj-transit-disruptions-suspensions-massive-power-outages-1-man-killed/19456389/",
+        "published_at": "2026-07-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-06T10:34:44.584842+00:00"
+    },
+    {
+      "headline": "NYC Legionella inspections rose only gradually before latest Legionnaires' cluster",
+      "bullets": [
+        "City inspections of cooling towers \u2014 meant to prevent the spread of deadly Legionella bacteria \u2014 rose only gradually since last year\u2019s near record lows, according to a Gothamist analysis of public data and numbers provided by New York City's Department of Health and Mental Hygiene.",
+        "In over 20% of buildings, owners had not submitted required test results in the first five months of 2026."
+      ],
+      "summary": "NYC Legionella inspections rose only gradually before latest Legionnaires' cluster",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC Legionella inspections rose only gradually before latest Legionnaires' cluster in Manhattan",
+        "article_url": "https://gothamist.com/news/nyc-legionella-inspections-rose-only-gradually-before-latest-legionnaires-cluster-in-manhattan",
+        "published_at": "2026-07-06T10:00:59+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-06T10:34:44.656731+00:00"
+    },
+    {
+      "headline": "'Yes, this does suck': NYC health officials brace for new",
+      "bullets": [
+        "New York City health officials are strategizing now on how to keep as many people as possible enrolled in Medicaid, before new work requirements for the public health insurance program take effect in January, potentially leaving hundreds of thousands without coverage.",
+        "The new city budget includes $3 million for the health department to hire community health workers to help people navigate the new federal work requirements and figure out if they qualify for one of many possible exemptions."
+      ],
+      "summary": "'Yes, this does suck': NYC health officials brace for new",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "'Yes, this does suck': NYC health officials brace for new Medicaid work rules",
+        "article_url": "https://gothamist.com/news/yes-this-does-suck-nyc-health-officials-brace-for-new-medicaid-work-rules",
+        "published_at": "2026-07-06T10:30:47+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-06T10:34:44.777576+00:00"
+    },
+    {
+      "headline": "World Cup Crowds Give Manhattan Bars a Summer Boost",
+      "bullets": [
+        "World Cup Crowds Give Manhattan Bars a Summer Boost International fans and neighborhood regulars are filling tables as soccer and cultural traditions draw packed crowds across the city.",
+        "Some establishments are reporting a 30 percent surge in business, offsetting the usual summer slow down."
+      ],
+      "summary": "World Cup Crowds Give Manhattan Bars a Summer Boost",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "World Cup Crowds Give Manhattan Bars a Summer Boost",
+        "article_url": "https://www.ourtownny.com/food-drink/world-cup-crowds-give-manhattan-bars-a-summer-boost-JA6002803",
+        "published_at": "2026-07-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-06T10:34:44.851616+00:00"
+    },
+    {
+      "headline": "Readers sound off on Jewish dissent, DSA candidates and Teddy",
+      "bullets": [
+        "Silence debate and you lose your audience Manhattan: Re \u201cA 2028 letter to losing Brad Lander\u201d (op-ed, June 30): Dear Rabbi Elliot Cosgrove, I\u2019m sorry to hear about another High Holiday season of standing-room-only security lines and rows of empty pews.",
+        "Not because Jews disappeared, but because they stopped coming."
+      ],
+      "summary": "Readers sound off on Jewish dissent, DSA candidates and Teddy",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on Jewish dissent, DSA candidates and Teddy Roosevelt\u2019s statue",
+        "article_url": "https://www.nydailynews.com/2026/07/06/readers-sound-off-on-jewish-dissent-dsa-candidates-and-teddy-roosevelts-statue/",
+        "published_at": "2026-07-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-06T10:34:44.965691+00:00"
+    },
+    {
+      "headline": "Readers sound off on Jewish dissent, DSA candidates and Teddy",
+      "bullets": [
+        "Silence debate and you lose your audience Manhattan: Re \u201cA 2028 letter to losing Brad Lander\u201d (op-ed, June 30): Dear Rabbi Elliot Cosgrove, I\u2019m sorry to hear about another High Holiday season of standing-room-only security lines and rows of empty pews.",
+        "Not because Jews disappeared, but because they stopped coming."
+      ],
+      "summary": "Readers sound off on Jewish dissent, DSA candidates and Teddy",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on Jewish dissent, DSA candidates and Teddy Roosevelt\u2019s statue",
+        "article_url": "https://www.nydailynews.com/2026/07/06/readers-sound-off-on-jewish-dissent-dsa-candidates-and-teddy-roosevelts-statue/",
+        "published_at": "2026-07-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-06T10:34:45.068717+00:00"
+    },
+    {
+      "headline": "Trump pardons 11, including defendants convicted of Clean Air Act",
+      "bullets": [
+        "WASHINGTON - On Friday, President Donald Trump granted pardons to 11 people, including a former business partner of Washington lobbyist Jack Abramoff and nine individuals whom the White House said had assisted others in bypassing vehicle emissions control systems.",
+        "Dig deeper: The acts of clemency come as Trump has issued a slew of pardons in his second term, particularly for allies, public figures and those seen as politically aligned."
+      ],
+      "summary": "Trump pardons 11, including defendants convicted of Clean Air Act",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Trump pardons 11, including defendants convicted of Clean Air Act violations",
+        "article_url": "https://www.fox5ny.com/news/donald-trump-emissions-pardons",
+        "published_at": "2026-07-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-06T10:34:45.168151+00:00"
+    },
+    {
+      "headline": "RICHARD JOHNSON: Prince Harry, Meghan Markle visit Portugal",
+      "bullets": [
+        "Prince Harry was in Portugal with Meghan Markle and their two children, Prince Archie and Princess Lilibet.",
+        "A source in Portugal spotted them in Faro, the picturesque city on the ocean south of Lisbon."
+      ],
+      "summary": "RICHARD JOHNSON: Prince Harry, Meghan Markle visit Portugal",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "RICHARD JOHNSON: Prince Harry, Meghan Markle visit Portugal",
+        "article_url": "https://www.nydailynews.com/2026/07/05/richard-johnson-prince-harry-meghan/",
+        "published_at": "2026-07-05T14:37:40+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-06T10:34:45.245050+00:00"
+    },
+    {
+      "headline": "How NYC outreach workers try to protect the homeless from",
+      "bullets": [
+        "New Yorkers love to complain about the heat.",
+        "\u201cIt\u2019s so hot, I can\u2019t survive,\u201d is an often heard lament."
+      ],
+      "summary": "How NYC outreach workers try to protect the homeless from",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "How NYC outreach workers try to protect the homeless from deadly heat",
+        "article_url": "https://www.nydailynews.com/2026/07/04/nyc-streets-homeless-outreach-code-red-heat-alert/",
+        "published_at": "2026-07-05T17:30:08+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-06T10:34:45.318465+00:00"
+    }
+  ]
+}
