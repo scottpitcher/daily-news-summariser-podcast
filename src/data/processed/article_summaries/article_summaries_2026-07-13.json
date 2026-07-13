@@ -1,0 +1,409 @@
+{
+  "generated_at": "2026-07-13T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/ranked/ranked_articles_2026-07-13.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 6,
+    "fallback_summaries": 12
+  },
+  "summaries": [
+    {
+      "headline": "Basketball Star Kinu Rochford Shot and Killed in Harlem",
+      "bullets": [
+        "Kinu Rochford, a former professional basketball player, was fatally shot during a Harlem tournament.",
+        "Rochford later became a social worker with Win, a nonprofit providing shelter and supportive housing for homeless families."
+      ],
+      "summary": "Basketball Star Kinu Rochford Shot and Killed in Harlem",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This tragic event highlights the ongoing issue of gun violence in New York City, impacting communities and those involved in social services.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Kinu Rochford, shot dead at Harlem tournament, became social worker after basketball career",
+        "article_url": "https://www.nydailynews.com/2026/07/12/kinu-rochford-shot-dead-at-harlem-tournament-became-social-worker-after-basketball-career/",
+        "published_at": "2026-07-12"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-13T10:08:12.257038+00:00"
+    },
+    {
+      "headline": "Medical Examiner Reveals Cause of Senator Lindsey Graham\u2019s Death",
+      "bullets": [
+        "Preliminary findings indicate Senator Graham died from aortic dissection due to arteriosclerotic cardiovascular disease.",
+        "Graham was a prominent Republican senator from South Carolina, serving in the Senate since 2002."
+      ],
+      "summary": "Medical Examiner Reveals Cause of Senator Lindsey Graham\u2019s Death",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "No direct committee or district connection identified.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Medical examiner reveals preliminary findings in Sen. Lindsey Graham's cause of death: What we know",
+        "article_url": "https://abc7ny.com/post/lindsey-graham-cause-death-us-senator-dies-71-brief-sudden-illness-office-says-heres-what-know/19494199/",
+        "published_at": "2026-07-12"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-13T10:08:14.443518+00:00"
+    },
+    {
+      "headline": "Sen. Lindsey Graham Dies",
+      "bullets": [
+        "Sen. Lindsey Graham, a prominent Republican, died from aortic dissection.",
+        "Graham was a key player in bipartisan agreements and a hawk on foreign policy."
+      ],
+      "summary": "Sen. Lindsey Graham Dies",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "No direct committee or district connection identified.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Sen. Lindsey Graham dies at 71 from aortic dissection, according to medical examiner's preliminary findings",
+        "article_url": "https://www.cbsnews.com/newyork/news/senator-lindsey-graham-dies-after-brief-and-sudden-illness/",
+        "published_at": "2026-07-12"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-13T10:08:17.250112+00:00"
+    },
+    {
+      "headline": "Collectors Online Auction Features Rare Art and Antiques",
+      "bullets": [
+        "The auction includes fine jewelry, sterling silver, Asian art, and Persian rugs from the 19th and early 20th centuries.",
+        "Auction center in Hatfield, PA, with pick-up and third-party shipping options available."
+      ],
+      "summary": "Collectors Online Auction Features Rare Art and Antiques",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "No direct committee or district connection identified.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Collectors Online Auction | Art | Antiques | Persian Rugs | Asian | Fine Jewelry | Silver",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260716/d1460b81-f6e3-4c48-8b5d-dacfe383b65f/collectors-online-auction-art-antiques-persian-rugs-asian-fine-jewelry-silver",
+        "published_at": "2026-07-16T14:00:00+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-13T10:08:20.565724+00:00"
+    },
+    {
+      "headline": "Readers Criticize Censorship and Specialized Schools",
+      "bullets": [
+        "Readers argue against censorship of Stars and Stripes, citing press freedom concerns.",
+        "Critics question the fairness of specialized schools' admissions, suggesting it may not be merit-based.",
+        "A reader expresses frustration over recent bus lane reductions in Brooklyn, impacting daily commuters."
+      ],
+      "summary": "Readers Criticize Censorship and Specialized Schools",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "These issues touch on press freedom, educational equity, and city services, all relevant to CM Maloney's committee portfolio, particularly Economic Development and Transportation.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on censoring Stars and Stripes, specialized schools and bus commuters",
+        "article_url": "https://www.nydailynews.com/2026/07/13/readers-sound-off-on-censoring-stars-and-stripes-specialized-schools-and-bus-commuters/",
+        "published_at": "2026-07-13"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-13T10:08:25.270970+00:00"
+    },
+    {
+      "headline": "Trump Subpoenas NY Times Journalists Over Air Force One Article",
+      "bullets": [
+        "The Trump administration subpoenaed four New York Times journalists over an article about security concerns with the new Qatari-donated Air Force One.",
+        "The journalists were ordered to appear before a Manhattan federal court to testify about the article."
+      ],
+      "summary": "Trump Subpoenas NY Times Journalists Over Air Force One Article",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "This incident highlights the ongoing tension between the Trump administration and the press, potentially impacting press freedom and the ability of journalists to report on sensitive government matters.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Trump subpoenas New York Times journalists over Air Force One security concerns: report",
+        "article_url": "https://www.nydailynews.com/2026/07/11/trump-subpoenas-new-york-times-journalists-over-air-force-one-security-concerns-nyc/",
+        "published_at": "2026-07-11"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-13T10:08:28.733195+00:00"
+    },
+    {
+      "headline": "NYC must produce key WTC 9/11 records and do it",
+      "bullets": [
+        "It was 20 years ago this month when we started writing about how the toxic fallout from the 9/11 destruction of the World Trade Center by Osama Bin Laden\u2019s Al Qaeda terrorists was sickening and killing people.",
+        "Then the politicians were named Bloomberg, Pataki and Bush."
+      ],
+      "summary": "NYC must produce key WTC 9/11 records and do it",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYC must produce key WTC 9/11 records and do it now",
+        "article_url": "https://www.nydailynews.com/2026/07/13/nyc-must-produce-key-wtc-9-11-records-and-do-it-now/",
+        "published_at": "2026-07-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-13T10:08:28.854836+00:00"
+    },
+    {
+      "headline": "Fear and Chaos in Midtown East After Pfizer Building Beam",
+      "bullets": [
+        "Fear and Chaos in Midtown East After Pfizer Building Beam Collapse Steel beams buckled at a residential conversion project in the former HQ of Pfizer forcing mass evacuations on July 7.",
+        "Contractors installed emergency shoring on floors nine through the roof by week\u00e2s end but street closures and a full vacate order for other nearby buildings remained."
+      ],
+      "summary": "Fear and Chaos in Midtown East After Pfizer Building Beam",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Fear and Chaos in Midtown East After Pfizer Building Beam Collapse",
+        "article_url": "https://www.ourtownny.com/news/fear-and-chaos-in-midtown-east-after-pfizer-building-beam-collapse-HH6009485",
+        "published_at": "2026-07-11"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-13T10:08:29.034802+00:00"
+    },
+    {
+      "headline": "Missouri woman dies after home swept away in devastating floods",
+      "bullets": [
+        "A woman was found dead in Missouri on Saturday after heavy rainfall battered parts of the state the previous day, forcing numerous emergency rescues and evacuations, including at a summer camp with more than 200 children.",
+        "Several other states also faced the potential for severe thunderstorms and flash flooding as the slow moving storms moved southward."
+      ],
+      "summary": "Missouri woman dies after home swept away in devastating floods",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Missouri woman dies after home swept away in devastating floods",
+        "article_url": "https://www.fox5ny.com/weather/missouri-woman-dies-flooding",
+        "published_at": "2026-07-12"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-13T10:08:29.141687+00:00"
+    },
+    {
+      "headline": "Kinu Rochford, shot dead at Harlem tournament, became social worker",
+      "bullets": [
+        "Basketball standout Kinu Rochford, who was fatally shot during a Harlem neighborhood tournament, had a lengthy hoops career overseas before returning home to Brooklyn three years ago to pursue a career in social work.",
+        "After the 35-year-old victim\u2019s basketball career started at James Madison High School he quickly went on to attend sports camps orchestrated by Lebron James, James Harden, Carmelo Anthony and Lance Stephenson, his family says."
+      ],
+      "summary": "Kinu Rochford, shot dead at Harlem tournament, became social worker",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Kinu Rochford, shot dead at Harlem tournament, became social worker after basketball career",
+        "article_url": "https://www.nydailynews.com/2026/07/12/kinu-rochford-shot-dead-at-harlem-tournament-became-social-worker-after-basketball-career/",
+        "published_at": "2026-07-12"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-13T10:08:29.267455+00:00"
+    },
+    {
+      "headline": "Move seaplanes from East River corridor",
+      "bullets": [
+        "Last Sunday, a seaplane made a hard landing on the East River between Brooklyn and Manhattan, snapping a wing strut.",
+        "While all eight people aboard were rescued and only one person was injured, the outcome could easily have been far worse."
+      ],
+      "summary": "Move seaplanes from East River corridor",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Move seaplanes from East River corridor",
+        "article_url": "https://www.nydailynews.com/2026/07/13/move-seaplanes-from-east-river-corridor/",
+        "published_at": "2026-07-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-13T10:08:29.370313+00:00"
+    },
+    {
+      "headline": "Upper East Side Legionnaires\u2019 outbreak jumps to 56 cases as",
+      "bullets": [
+        "NEW YORK - A Legionnaires\u2019 disease cluster on the Upper East Side has grown to 56 cases, according to the NYC Health Department\u2019s latest update Sunday morning.",
+        "What we know: The NYC Health Department is investigating a community cluster of Legionnaires\u2019 disease in the Upper East Side neighborhoods of Carnegie Hill and Yorkville."
+      ],
+      "summary": "Upper East Side Legionnaires\u2019 outbreak jumps to 56 cases as",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Upper East Side Legionnaires\u2019 outbreak jumps to 56 cases as cooling towers investigated",
+        "article_url": "https://www.fox5ny.com/news/upper-east-side-legionnaires-cluster-grows-54-cases-nyc-health-officials",
+        "published_at": "2026-07-11"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-13T10:08:29.500346+00:00"
+    },
+    {
+      "headline": "Actor Sam Neill, known for roles in 'Jurassic Park,' 'Peaky",
+      "bullets": [
+        "Neill portrayed Dr.",
+        "Alan Grant in the 1993 film \"Jurassic Park.\" Actor Sam Neill, known for his roles in the \"Jurassic Park\" films and \"Peaky Blinders,\" died on Monday, according to his official social media account."
+      ],
+      "summary": "Actor Sam Neill, known for roles in 'Jurassic Park,' 'Peaky",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Actor Sam Neill, known for roles in 'Jurassic Park,' 'Peaky Blinders' and many more, dies at 78",
+        "article_url": "https://abc7ny.com/post/actor-sam-neill-known-roles-jurassic-park-peaky-blinders-many-more-dies-78/19496885/",
+        "published_at": "2026-07-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-13T10:08:29.614752+00:00"
+    },
+    {
+      "headline": "Local Event: The Wisdom Bar \u2013 \"Everything You Know about",
+      "bullets": [
+        "New York City, NY|Featured Event The Wisdom Bar \u2013 \"Everything You Know about Traditional Marriage is Wrong\" \ud83d\udcad Topic: \u201cEverything You Know about Traditional Marriage is Wrong\u201d \ud83c\udfa4 Lecturer: Azie Dungey \ud83d\udcc6 Date: Wednesday, July 15th \u23f0 Doors Open: 6:30PM \ud83d\udccd Location: Midtown East (exact address provided in confirmation email) \ud83d\udd17 \ud83c\udf9f\ufe0f This is a ticketed event, get your tickets here: https://www.eventbrite.com/e/the-wisdom-bar-everything-you-know-about-traditional-marriage-is-wrong-tickets-1991417227535 What if \"traditional marriage\" isn't traditional at all?",
+        "Turns out, the equal partnership we're advocating for in modern relationships?"
+      ],
+      "summary": "Local Event: The Wisdom Bar \u2013 \"Everything You Know about",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: The Wisdom Bar \u2013 \"Everything You Know about Traditional Marriage is Wrong\"",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260715/82ce5a69-8840-4033-9c57-68ac0fdb0883/the-wisdom-bar-everything-you-know-about-traditional-marriage-is-wrong",
+        "published_at": "2026-07-15T22:30:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-13T10:08:29.736183+00:00"
+    },
+    {
+      "headline": "Local Event: An Evening with Brian Tyler Cohen \u2014 The",
+      "bullets": [
+        "Upper East Side|Featured Event An Evening with Brian Tyler Cohen \u2014 The Day After: How to Wield Power in a Post-Trump World Brian Tyler Cohen doesn\u2019t just comment on politics \u2014 he dissects the machinery behind it.",
+        "Now the #1 New York Times bestselling author, MSNBC contributor, and creator of one of the most-watched independent political platforms in the country comes to 92NY to discuss his new book, The Day After: How to Wield Power in a Post-Trump World."
+      ],
+      "summary": "Local Event: An Evening with Brian Tyler Cohen \u2014 The",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: An Evening with Brian Tyler Cohen \u2014 The Day After: How to Wield Power in a Post-Trump World",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260715/187490e7-5da3-4759-92a7-3bf6863ec3a4/an-evening-with-brian-tyler-cohen-the-day-after-how-to-wield-power-in-a-post-trump-world",
+        "published_at": "2026-07-15T23:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-13T10:08:29.858395+00:00"
+    },
+    {
+      "headline": "NJ electric bills have been spiking, but $25 worth of",
+      "bullets": [
+        "New Jersey electric customers will soon get a modest break on their power bills.",
+        "Every electric customer in the Garden State will receive a one-time $25 credit on their August bill, Gov."
+      ],
+      "summary": "NJ electric bills have been spiking, but $25 worth of",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NJ electric bills have been spiking, but $25 worth of relief is on the way",
+        "article_url": "https://gothamist.com/news/nj-electric-bills-have-been-spiking-but-25-worth-of-relief-is-on-the-way",
+        "published_at": "2026-07-12T15:00:48+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-13T10:08:29.957513+00:00"
+    },
+    {
+      "headline": "Is Criticism of Trump Overriding Plans for Penn Station?",
+      "bullets": [
+        "Is Criticism of Trump Overriding Plans for Penn Station?",
+        "President Trump has said he wants to rebuild Penn Station."
+      ],
+      "summary": "Is Criticism of Trump Overriding Plans for Penn Station?",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Is Criticism of Trump Overriding Plans for Penn Station?",
+        "article_url": "https://www.ourtownny.com/voices/is-criticism-of-trump-overriding-plans-for-penn-station-AB6021442",
+        "published_at": "2026-07-11"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-13T10:08:30.064779+00:00"
+    },
+    {
+      "headline": "City to answer questions at town hall amid growing Upper",
+      "bullets": [
+        "UPPER EAST SIDE, Manhattan (WABC) -- New York City health officials say 56 people have been diagnosed with Legionnaires' disease as an outbreak on the Upper East Side continues to grow, with 16 people currently hospitalized.",
+        "The cluster has prompted officials to hold a virtual town hall Monday night to answer health questions."
+      ],
+      "summary": "City to answer questions at town hall amid growing Upper",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "City to answer questions at town hall amid growing Upper East Side Legionnaires' outbreak",
+        "article_url": "https://abc7ny.com/post/city-answer-questions-town-hall-amid-growing-upper-east-side-legionnaires-outbreak-reaches-56-cases/19497332/",
+        "published_at": "2026-07-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-13T10:08:30.174580+00:00"
+    }
+  ]
+}
