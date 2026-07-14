@@ -1,0 +1,408 @@
+{
+  "generated_at": "2026-07-14T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/ranked/ranked_articles_2026-07-14.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 5,
+    "fallback_summaries": 13
+  },
+  "summaries": [
+    {
+      "headline": "Collectors Online Auction Features Rare Art and Antiques",
+      "bullets": [
+        "Auction includes fine jewelry, sterling silver, Asian art, and Persian rugs.",
+        "Featured items range from 19th-century Persian rugs to 17th-century Spanish silver coins."
+      ],
+      "summary": "Collectors Online Auction Features Rare Art and Antiques",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "No direct committee or district connection identified.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Collectors Online Auction | Art | Antiques | Persian Rugs | Asian | Fine Jewelry | Silver",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260716/d1460b81-f6e3-4c48-8b5d-dacfe383b65f/collectors-online-auction-art-antiques-persian-rugs-asian-fine-jewelry-silver",
+        "published_at": "2026-07-16T14:00:00+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-14T09:36:38.714889+00:00"
+    },
+    {
+      "headline": "NYC's Closed Primaries Exclude Many Voters",
+      "bullets": [
+        "1.4 million independent voters in NYC are excluded from primary elections.",
+        "This disproportionately affects voters of color and young people."
+      ],
+      "summary": "NYC's Closed Primaries Exclude Many Voters",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Opening primary elections would ensure broader participation and inclusion in NYC governance, aligning with CM Maloney's commitment to fair and accessible voting rights.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYC\u2019s closed primaries harm voting rights",
+        "article_url": "https://www.nydailynews.com/2026/07/14/nycs-closed-primaries-harm-voting-rights/",
+        "published_at": "2026-07-14"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-14T09:36:39.932074+00:00"
+    },
+    {
+      "headline": "Jay-Z Concert Delayed by Security Breach",
+      "bullets": [
+        "A security breach at Yankee Stadium delayed Jay-Z's concert by over four hours.",
+        "The incident led to a temporary lockdown and thousands of fans waiting outside."
+      ],
+      "summary": "Jay-Z Concert Delayed by Security Breach",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This highlights the need for enhanced security measures at large events, which relates to the Sanitation and Solid Waste Management Committee's focus on public safety and emergency management.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Jay-Z takes stage after Yankee Stadium security breach",
+        "article_url": "https://abc7ny.com/post/security-breach-delays-jay-zs-final-yankee-stadium-concert-hours/19497423/",
+        "published_at": "2026-07-13"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-14T09:36:41.140084+00:00"
+    },
+    {
+      "headline": "Basketball Star Kinu Rochford Shot and Killed in Harlem",
+      "bullets": [
+        "Kinu Rochford, a former basketball player who played overseas for 20 years, was fatally shot during a Harlem tournament.",
+        "Rochford, a social worker with Win, a nonprofit, was known for his competitive spirit and community service."
+      ],
+      "summary": "Basketball Star Kinu Rochford Shot and Killed in Harlem",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This tragic event highlights the ongoing issue of gun violence in New York City, impacting communities and local residents involved in social work and sports.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Kinu Rochford, shot dead at Harlem tournament, became social worker after basketball career",
+        "article_url": "https://www.nydailynews.com/2026/07/12/kinu-rochford-shot-dead-at-harlem-tournament-became-social-worker-after-basketball-career/",
+        "published_at": "2026-07-12"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-14T09:36:42.450334+00:00"
+    },
+    {
+      "headline": "Kira Marie Britt's Summer Spell Market",
+      "bullets": [
+        "Kira Marie Britt hosts the Summer Spell Market, offering crystal candle workshops and other artistic activities.",
+        "Britt's event aims to bring communities together and provide a space for self-expression and creativity."
+      ],
+      "summary": "Kira Marie Britt's Summer Spell Market",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "The Summer Spell Market connects to CM Maloney's Cultural Affairs/Libraries/International Relations committee by promoting community engagement and artistic expression, which are key to fostering a vibrant cultural scene in NYC.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Kira Marie Britt Is A Selfless Swiss Army Artist",
+        "article_url": "https://www.ourtownny.com/city-arts/kira-marie-britt-is-a-selfless-swiss-army-artist-IB6012813",
+        "published_at": "2026-07-13"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-14T09:36:44.080872+00:00"
+    },
+    {
+      "headline": "Two More Buildings on UES are Quietly Being Offered for",
+      "bullets": [
+        "Two More Buildings on UES are Quietly Being Offered for Sale The two adjoining five-story walkup buildings at 341-343 East 65th St.",
+        "were purchased in 2020 by Tenor Realty, which is now apparently ready to sell."
+      ],
+      "summary": "Two More Buildings on UES are Quietly Being Offered for",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Two More Buildings on UES are Quietly Being Offered for Sale",
+        "article_url": "https://www.ourtownny.com/voices/two-more-buildings-on-ues-are-quietly-being-offered-for-sale-JD6005083",
+        "published_at": "2026-07-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-14T09:36:44.208181+00:00"
+    },
+    {
+      "headline": "'Tattoo artists at war': How New York City innovation (and",
+      "bullets": [
+        "Having a 250th birthday may be nice for America, but for New York City, a semiquincentennial is old news.",
+        "Literally."
+      ],
+      "summary": "'Tattoo artists at war': How New York City innovation (and",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "'Tattoo artists at war': How New York City innovation (and drama) made the modern tattoo",
+        "article_url": "https://gothamist.com/arts-entertainment/tattoo-artists-at-war-how-new-york-city-innovation-and-drama-made-the-modern-tattoo",
+        "published_at": "2026-07-13T16:00:50+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-14T09:36:44.335709+00:00"
+    },
+    {
+      "headline": "ICE involved in Maine fatal shooting",
+      "bullets": [
+        "The incident took place in Biddeford, Maine.",
+        "Federal immigration authorities were involved in a fatal shooting in Biddeford, Maine, on Monday, according to the local elected leaders and multiple sources."
+      ],
+      "summary": "ICE involved in Maine fatal shooting",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "ICE involved in Maine fatal shooting",
+        "article_url": "https://abc7ny.com/post/federal-immigration-authorities-involved-shooting-maine/19499069/",
+        "published_at": "2026-07-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-14T09:36:44.444525+00:00"
+    },
+    {
+      "headline": "Legionnaires' Town Hall Is Set As Cases Continue To Climb",
+      "bullets": [
+        "Legionnaires' Town Hall Is Set As Cases Continue To Climb On The Upper East Side The meeting comes as 31 Upper East Side cooling towers, including one at the Guggenheim Museum, have tested positive for Legionella.",
+        "UPPER EAST SIDE, NY \u2014 As the number of Legionnaires' disease cases continues to spike in Carnegie Hill and Yorkville, health officials are hosting another town hall on Monday night to answer New Yorkers' questions."
+      ],
+      "summary": "Legionnaires' Town Hall Is Set As Cases Continue To Climb",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Legionnaires' Town Hall Is Set As Cases Continue To Climb On The Upper East Side",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/legionnaires-town-hall-set-cases-continue-climb-upper-east-side",
+        "published_at": "2026-07-13T15:54:33+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-14T09:36:44.574734+00:00"
+    },
+    {
+      "headline": "Jay-Z\u2019s Yankee Stadium show runs nearly 3 hours late after",
+      "bullets": [
+        "The final night of Jay-Z\u2019s Yankee Stadium homestand got off to a late start and ran until nearly 3 a.m.",
+        "due to apparent safety concerns."
+      ],
+      "summary": "Jay-Z\u2019s Yankee Stadium show runs nearly 3 hours late after",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Jay-Z\u2019s Yankee Stadium show runs nearly 3 hours late after delayed start",
+        "article_url": "https://www.nydailynews.com/2026/07/13/jay-z-yankee-stadium-concert-late-start/",
+        "published_at": "2026-07-13T12:50:49+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-14T09:36:44.677233+00:00"
+    },
+    {
+      "headline": "Handling of Legionnaires' disease outbreak on NYC's Upper East Side",
+      "bullets": [
+        "As the number of cases of Legionnaires' disease on Manhattan's Upper East Side continues to rise, New York City Council Speaker Julie Menin is blasting Mayor Zohran Mamdani's administration over its handling of the outbreak.",
+        "Latest on UES Legionnaires' outbreak There are now 60 confirmed cases."
+      ],
+      "summary": "Handling of Legionnaires' disease outbreak on NYC's Upper East Side",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Handling of Legionnaires' disease outbreak on NYC's Upper East Side draws ire of City Council speaker. Here's why.",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-legionnaires-disease-ues-cluster/",
+        "published_at": "2026-07-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-14T09:36:44.790889+00:00"
+    },
+    {
+      "headline": "Upper East Side Legionnaires\u2019 outbreak jumps to 59 cases ahead",
+      "bullets": [
+        "NEW YORK CITY - A Legionnaires\u2019 disease cluster on the Upper East Side has grown to 59 cases, according to the NYC Health Department\u2019s latest update on Monday morning.",
+        "What we know: The NYC Health Department is investigating a community cluster of Legionnaires\u2019 disease in the Upper East Side neighborhoods of Carnegie Hill and Yorkville."
+      ],
+      "summary": "Upper East Side Legionnaires\u2019 outbreak jumps to 59 cases ahead",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Upper East Side Legionnaires\u2019 outbreak jumps to 59 cases ahead of Monday virtual town hall",
+        "article_url": "https://www.fox5ny.com/news/nyc-legionnaires-outbreak-upper-east-side-new-york-city",
+        "published_at": "2026-07-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-14T09:36:44.893395+00:00"
+    },
+    {
+      "headline": "Readers sound off on the CLARITY Act, E. Jean Carroll",
+      "bullets": [
+        "The crypto industry needs rules & clarity Astoria: Recently, I traveled to Washington, D.C.",
+        "with Stand With Crypto to meet with the offices of Sens."
+      ],
+      "summary": "Readers sound off on the CLARITY Act, E. Jean Carroll",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on the CLARITY Act, E. Jean Carroll and American horses",
+        "article_url": "https://www.nydailynews.com/2026/07/14/readers-sound-off-on-the-clarity-act-e-jean-carroll-and-american-horses/",
+        "published_at": "2026-07-14"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-14T09:36:44.991870+00:00"
+    },
+    {
+      "headline": "Local Event: The Wisdom Bar \u2013 \"Everything You Know about",
+      "bullets": [
+        "New York City, NY|Featured Event The Wisdom Bar \u2013 \"Everything You Know about Traditional Marriage is Wrong\" \ud83d\udcad Topic: \u201cEverything You Know about Traditional Marriage is Wrong\u201d \ud83c\udfa4 Lecturer: Azie Dungey \ud83d\udcc6 Date: Wednesday, July 15th \u23f0 Doors Open: 6:30PM \ud83d\udccd Location: Midtown East (exact address provided in confirmation email) \ud83d\udd17 \ud83c\udf9f\ufe0f This is a ticketed event, get your tickets here: https://www.eventbrite.com/e/the-wisdom-bar-everything-you-know-about-traditional-marriage-is-wrong-tickets-1991417227535 What if \"traditional marriage\" isn't traditional at all?",
+        "Turns out, the equal partnership we're advocating for in modern relationships?"
+      ],
+      "summary": "Local Event: The Wisdom Bar \u2013 \"Everything You Know about",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: The Wisdom Bar \u2013 \"Everything You Know about Traditional Marriage is Wrong\"",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260715/82ce5a69-8840-4033-9c57-68ac0fdb0883/the-wisdom-bar-everything-you-know-about-traditional-marriage-is-wrong",
+        "published_at": "2026-07-15T22:30:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-14T09:36:45.097321+00:00"
+    },
+    {
+      "headline": "Local Event: An Evening with Brian Tyler Cohen \u2014 The",
+      "bullets": [
+        "Upper East Side|Featured Event An Evening with Brian Tyler Cohen \u2014 The Day After: How to Wield Power in a Post-Trump World Brian Tyler Cohen doesn\u2019t just comment on politics \u2014 he dissects the machinery behind it.",
+        "Now the #1 New York Times bestselling author, MSNBC contributor, and creator of one of the most-watched independent political platforms in the country comes to 92NY to discuss his new book, The Day After: How to Wield Power in a Post-Trump World."
+      ],
+      "summary": "Local Event: An Evening with Brian Tyler Cohen \u2014 The",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: An Evening with Brian Tyler Cohen \u2014 The Day After: How to Wield Power in a Post-Trump World",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260715/187490e7-5da3-4759-92a7-3bf6863ec3a4/an-evening-with-brian-tyler-cohen-the-day-after-how-to-wield-power-in-a-post-trump-world",
+        "published_at": "2026-07-15T23:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-14T09:36:45.204531+00:00"
+    },
+    {
+      "headline": "What is a heat advisory? Excessive heat warning? Heat wave?",
+      "bullets": [
+        "The Tri-State Area during the days leading up to and including the Fourth of July.",
+        "Summers can sizzle around the New York City area, where the hottest normal high is 85 degrees in July."
+      ],
+      "summary": "What is a heat advisory? Excessive heat warning? Heat wave?",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "What is a heat advisory? Excessive heat warning? Heat wave? Why they feel even hotter in NYC.",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-heat-wave-excessive-heat-warning/",
+        "published_at": "2024-06-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-14T09:36:45.328187+00:00"
+    },
+    {
+      "headline": "Man fatally shot by ICE in Maine was not intended",
+      "bullets": [
+        "An Immigration and Customs Enforcement agent in Maine fatally shot a man in his car on Monday, the Department of Homeland Security said, marking the second time in a week that ICE officers have used deadly force in the U.S.",
+        "DHS alleged the man, who was in the country illegally, had \"attempted to flee the scene\" when ICE tried to stop him at around 7 a.m."
+      ],
+      "summary": "Man fatally shot by ICE in Maine was not intended",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Man fatally shot by ICE in Maine was not intended target of warrant, lawmakers say",
+        "article_url": "https://www.cbsnews.com/newyork/news/maine-shooting-ice-biddeford/",
+        "published_at": "2026-07-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-14T09:36:45.439229+00:00"
+    },
+    {
+      "headline": "Why careful people still end up on data broker sites",
+      "bullets": [
+        "Your data broker profile can expose more than most of us realize.",
+        "It may include your current address, old addresses, relatives, phone numbers and public records that were never tied to a phishing link or hacked password."
+      ],
+      "summary": "Why careful people still end up on data broker sites",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Why careful people still end up on data broker sites",
+        "article_url": "https://www.fox5ny.com/news/why-careful-people-still-end-up-data-broker-sites-security-privacy-identity-theft-scam",
+        "published_at": "2026-07-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-14T09:36:45.566215+00:00"
+    }
+  ]
+}
