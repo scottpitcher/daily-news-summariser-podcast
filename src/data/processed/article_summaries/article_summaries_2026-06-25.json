@@ -1,0 +1,408 @@
+{
+  "generated_at": "2026-06-25T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/ranked/ranked_articles_2026-06-25.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 11,
+    "fallback_summaries": 7
+  },
+  "summaries": [
+    {
+      "headline": "NYC Council Speaker Launches Animal Welfare Caucus",
+      "bullets": [
+        "Council Speaker Julie Menin and Councilman Harvey Epstein launched an Animal Welfare Caucus with 19 members.",
+        "The caucus aims to address issues like fireworks that negatively impact animals and people."
+      ],
+      "summary": "NYC Council Speaker Launches Animal Welfare Caucus",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "The Animal Welfare Caucus could lead to new policies addressing noise pollution from fireworks, which affects pets and wildlife, aligning with CM Maloney's committee on Sanitation and Solid Waste Management.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on regulating fireworks, stadium noise and presidential libraries",
+        "article_url": "https://www.nydailynews.com/2026/06/25/readers-sound-off-on-regulating-fireworks-stadium-noise-and-presidential-libraries/",
+        "published_at": "2026-06-25"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-25T10:06:27.522286+00:00"
+    },
+    {
+      "headline": "Trump Criticizes Senate Republicans Over Iran War Vote",
+      "bullets": [
+        "President Trump berated Senate Republicans for voting against his war in Iran, escalating tensions.",
+        "Trump called off a scheduled signing ceremony for a bipartisan housing bill, citing the need for a proof-of-citizenship voting bill."
+      ],
+      "summary": "Trump Criticizes Senate Republicans Over Iran War Vote",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This incident highlights the ongoing friction between Trump and Senate Republicans, which could impact the passage of legislation like the bipartisan housing bill that addresses affordability concerns for New Yorkers.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Trump berates Senate Republicans over Iran war vote after calling off bill signing",
+        "article_url": "https://abc7ny.com/story/house-gives-final-approval-bipartisan-housing-bill-aimed-lowering-costs/19370693/",
+        "published_at": "2026-06-24"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-25T10:06:28.988049+00:00"
+    },
+    {
+      "headline": "NYC Mayor Mamdani's Primary Wins Expand Democratic Socialist Reach",
+      "bullets": [
+        "Mayor Mamdani's endorsed candidates won in New York primaries, sending democratic socialists to Congress.",
+        "The victories reflect New Yorkers' desire for a new kind of politics, according to Mamdani."
+      ],
+      "summary": "NYC Mayor Mamdani's Primary Wins Expand Democratic Socialist Reach",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "These results could influence New York City's political landscape and potentially impact local policies, especially those related to economic development and social issues under Mamdani's chairmanship of the Economic Development committee.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "NYC Mayor Zohran Mamdani basks in the glow of big primary wins. Here's what they could mean.",
+        "article_url": "https://www.cbsnews.com/newyork/news/zohran-mamdani-endorsed-candidates-win-new-york-primaries/",
+        "published_at": "2026-06-24"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-25T10:06:30.614391+00:00"
+    },
+    {
+      "headline": "DSA Wins in NYC Primaries, Challenges Democratic Establishment",
+      "bullets": [
+        "DSA candidates won key races, including those against incumbents in Brooklyn and Queens.",
+        "Younger and well-educated voters are energized by DSA's progressive agenda."
+      ],
+      "summary": "DSA Wins in NYC Primaries, Challenges Democratic Establishment",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "The success of DSA candidates in NYC primaries could influence the city's political landscape and challenge traditional party structures, impacting policy decisions and legislation.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Dem socialists win big in NYC, but can their message play outside the five boroughs?",
+        "article_url": "https://gothamist.com/news/dem-socialists-win-big-in-nyc-but-can-their-message-play-outside-the-five-boroughs",
+        "published_at": "2026-06-24T17:06:00+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-25T10:06:31.820795+00:00"
+    },
+    {
+      "headline": "NYPD Graduates Honor Fallen Heroes",
+      "bullets": [
+        "Casey Kloepfer, son of a 9/11 officer, graduated as a full NYPD officer.",
+        "Christian Leon, saved by an off-duty officer in 2021, now joins the NYPD."
+      ],
+      "summary": "NYPD Graduates Honor Fallen Heroes",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "These stories highlight the NYPD's recruitment of families of fallen officers and the impact of heroic acts on aspiring officers, connecting to CM Maloney's focus on small business and community support through public service.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYPD grad joined force to honor police officer father who died on 9/11",
+        "article_url": "https://www.nydailynews.com/2026/06/24/rookie-officers-nypd-parents-hero-cop-inspiration/",
+        "published_at": "2026-06-24"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-25T10:06:33.354433+00:00"
+    },
+    {
+      "headline": "Best Lobster Rolls on Long Island",
+      "bullets": [
+        "Various Long Island restaurants offer lobster rolls ranging from $25 to $50, with options for warm or cold preparations.",
+        "Chef-partner Eric LeVine at 317 Main introduces a 3-foot lobster roll for $175, feeding four to six people."
+      ],
+      "summary": "Best Lobster Rolls on Long Island",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "No direct committee or district connection identified.",
+      "source_citation": {
+        "source_name": "Newsday",
+        "source_level": "local",
+        "article_title": "Best lobster rolls on Long Island: Critics' picks",
+        "article_url": "https://www.newsday.com/lifestyle/restaurants/critics-picks-best-lobster-rolls-2026-long-island-qu0w4tvg",
+        "published_at": "2026-06-23"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-25T10:06:34.500661+00:00"
+    },
+    {
+      "headline": "Top Long Island Seafood Market Cafes",
+      "bullets": [
+        "Artie's South Shore Fish Market & Grill offers a vast menu of local seafood, including whole fried fluke.",
+        "Point Lookout Clam Bar features a large fish market and a sushi bar, providing fresh local options."
+      ],
+      "summary": "Top Long Island Seafood Market Cafes",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "These seafood market cafes highlight the importance of local fishing and fresh produce, which aligns with CM Maloney's focus on economic development and supporting small businesses in her district.",
+      "source_citation": {
+        "source_name": "Newsday",
+        "source_level": "local",
+        "article_title": "10 standout Long Island seafood market cafes",
+        "article_url": "https://www.newsday.com/lifestyle/restaurants/10-long-island-seafood-market-cafes-2026-p42rl2na",
+        "published_at": "2026-06-21"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-25T10:06:36.198209+00:00"
+    },
+    {
+      "headline": "Strong Earthquakes Hit Venezuela, Collapsing Buildings",
+      "bullets": [
+        "Two powerful earthquakes, with magnitudes of 7.1 and 7.5, hit Venezuela, collapsing buildings in Caracas.",
+        "Interior Minister Diosdado Cabello reported alarming situations with collapsed homes and buildings in the Altamira neighborhood."
+      ],
+      "summary": "Strong Earthquakes Hit Venezuela, Collapsing Buildings",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "While not directly connected to NYC policy, these earthquakes highlight the importance of building codes and emergency preparedness, which are relevant to the city\u2019s safety and resilience.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Powerful 7.1 and 7.5-magnitude earthquakes hit Venezuela, collapsing buildings in the capital",
+        "article_url": "https://abc7ny.com/post/powerful-71-magnitude-earthquake-hits-venezuela-swaying-buildings-capital/19374775/",
+        "published_at": "2026-06-24"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-25T10:06:37.839004+00:00"
+    },
+    {
+      "headline": "Jacob Riis Bathhouse to Reopen as Private Club",
+      "bullets": [
+        "The Jacob Riis Bathhouse, a long-abandoned building, is set to reopen as the Rockaway Ocean Club by the end of July.",
+        "The club plans to open a pool, concert venue, and hotel, with limited beach access for members."
+      ],
+      "summary": "Jacob Riis Bathhouse to Reopen as Private Club",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "This redevelopment project, overseen by the Economic Development Committee, may impact local tourism and beach access in the Rockaway area.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Jacob Riis Bathhouse on track to reopen as private club by end of July",
+        "article_url": "https://gothamist.com/news/jacob-riis-bathhouse-on-track-to-reopen-as-private-club-by-end-of-july",
+        "published_at": "2026-06-24T10:30:59+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-25T10:06:39.391613+00:00"
+    },
+    {
+      "headline": "Venezuela Struck by Deadly Earthquakes",
+      "bullets": [
+        "Two powerful earthquakes killed at least 32 people and injured 700 in Venezuela.",
+        "Venezuela declared a state of emergency and requested international aid."
+      ],
+      "summary": "Venezuela Struck by Deadly Earthquakes",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "No direct committee or district connection identified.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Venezuela reeling after powerful twin earthquakes kill at least 32 people as promises of aid pour in",
+        "article_url": "https://abc7ny.com/post/venezuela-reeling-powerful-twin-earthquakes-kill-least-32-people-promises-aid-pour-amid-airport-closure/19378040/",
+        "published_at": "2026-06-25"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-25T10:06:40.518896+00:00"
+    },
+    {
+      "headline": "Judge Blocks Trump from Seizing Transgender Youth Medical Records",
+      "bullets": [
+        "A federal judge in Manhattan blocked the Trump Justice Department from seizing medical records of transgender youth from New York City hospitals.",
+        "The judge ruled the subpoena was unconstitutional and violated patients' privacy rights."
+      ],
+      "summary": "Judge Blocks Trump from Seizing Transgender Youth Medical Records",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "This ruling protects the privacy and health information of transgender youth, aligning with CM Maloney's commitment to supporting LGBTQ+ rights and healthcare access.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Trump blocked from seizing medical records of transgender youth from NYC hospital",
+        "article_url": "https://www.nydailynews.com/2026/06/24/trump-blocked-from-seizing-medical-records-of-transgender-youth-from-nyc-hospital/",
+        "published_at": "2026-06-24T15:27:09+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-25T10:06:42.007584+00:00"
+    },
+    {
+      "headline": "DiNapoli won again, now give us our cash",
+      "bullets": [
+        "Tom DiNapoli won the Democratic primary for state comptroller Tuesday.",
+        "Good for him."
+      ],
+      "summary": "DiNapoli won again, now give us our cash",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "DiNapoli won again, now give us our cash",
+        "article_url": "https://www.nydailynews.com/2026/06/25/dinapoli-won-again-now-give-us-our-cash/",
+        "published_at": "2026-06-25"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-25T10:06:42.151721+00:00"
+    },
+    {
+      "headline": "Venezuela reeling after powerful twin earthquakes kill at least 32",
+      "bullets": [
+        "CARACAS, Venezuela -- Powerful earthquakes that struck Venezuela in quick succession Wednesday evening killed at least 32 people and injured 700, the nation's acting president said, as communities across the South American country sustained damage.",
+        "Acting President Delcy Rodr\u00edguez warned the toll was expected to rise as rescuers search collapsed buildings and emergency crews reach devastated areas after the 7.2 and 7.5 magnitude earthquakes that struck shortly after 6 p.m."
+      ],
+      "summary": "Venezuela reeling after powerful twin earthquakes kill at least 32",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Venezuela reeling after powerful twin earthquakes kill at least 32 people as promises of aid pour in",
+        "article_url": "https://abc7ny.com/post/venezuela-reeling-powerful-twin-earthquakes-kill-least-32-people-promises-aid-pour-amid-airport-closure/19378040/",
+        "published_at": "2026-06-25"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-25T10:06:42.240595+00:00"
+    },
+    {
+      "headline": "Back-to-back Venezuela earthquakes kill at least 32, injure hundreds, acting",
+      "bullets": [
+        "said early Thursday there are at least 32 people dead and 700 injured after two powerful earthquakes struck northwest Venezuela within a minute of each other Wednesday evening.",
+        "She warned the toll was expected to rise as rescuers search collapsed buildings and emergency crews reach devastated areas."
+      ],
+      "summary": "Back-to-back Venezuela earthquakes kill at least 32, injure hundreds, acting",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Back-to-back Venezuela earthquakes kill at least 32, injure hundreds, acting president says",
+        "article_url": "https://www.cbsnews.com/newyork/news/7-1-magnitude-earthquake-venezuela-tsunami-advisory-puerto-rico-virgin-islands/",
+        "published_at": "2026-06-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-25T10:06:42.303253+00:00"
+    },
+    {
+      "headline": "What to See and Do to Mark America\u00e2s Semiquincentennial 4th",
+      "bullets": [
+        "What to See and Do to Mark America\u00e2s Semiquincentennial 4th of July It\u00e2s been 250 years since the Declaration of Independence was adopted.",
+        "It\u00e2s been 50 years since the first Macy\u00e2s 4th of July firework went off."
+      ],
+      "summary": "What to See and Do to Mark America\u00e2s Semiquincentennial 4th",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "What to See and Do to Mark America\u00e2s Semiquincentennial 4th of July",
+        "article_url": "https://www.ourtownny.com/news/what-to-see-and-do-to-mark-america-s-semiquincentennial-4th-of-july-DG5954522",
+        "published_at": "2026-06-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-25T10:06:42.412025+00:00"
+    },
+    {
+      "headline": "Queer Window\u00e2s Pride Month Show At UCB Is LGBTQ+ Joy",
+      "bullets": [
+        "Queer Window\u00e2s Pride Month Show At UCB Is LGBTQ+ Joy Queer Window is a creative and zany LGBTQ+ sketch comedy group that finds joy in community, queer art and providing a space for the audience to feel seen.",
+        "Queer Window\u00e2s magical blend of absurdist humor, physical comedy, and creative storytelling left audiences laughing at their show at the Upright Citizens Brigade."
+      ],
+      "summary": "Queer Window\u00e2s Pride Month Show At UCB Is LGBTQ+ Joy",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Queer Window\u00e2s Pride Month Show At UCB Is LGBTQ+ Joy",
+        "article_url": "https://www.ourtownny.com/city-arts/queer-window-s-pride-month-show-at-ucb-is-lgbtq-joy-MK5941592",
+        "published_at": "2026-06-19"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-25T10:06:42.493160+00:00"
+    },
+    {
+      "headline": "Trump refuses to sign bipartisan housing bill into law. What",
+      "bullets": [
+        "By ALEX VEIGA, AP Business Writer LOS ANGELES (AP) \u2014 A sprawling legislative package aimed at lowering the cost of housing and spurring more home construction won bipartisan approval from Congress this week, but it\u2019s hit a major roadblock in becoming law: President Donald Trump.",
+        "The White House supported the 21st Century ROAD to Housing Act, but on Wednesday Trump canceled the signing ceremony for the bill, saying he would not sign the measure until Congress passes legislation that would require proof of citizenship for all voters."
+      ],
+      "summary": "Trump refuses to sign bipartisan housing bill into law. What",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Trump refuses to sign bipartisan housing bill into law. What does that mean for homebuyers, renters?",
+        "article_url": "https://www.nydailynews.com/2026/06/24/trump-refusing-housing-legislation-explained/",
+        "published_at": "2026-06-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-25T10:06:42.602701+00:00"
+    },
+    {
+      "headline": "Contested UES Homeless Shelter Opens",
+      "bullets": [
+        "Contested UES Homeless Shelter Opens The facility has opened after heated community opposition, a switch from a men's shelter, and a failed legal challenge.",
+        "UPPER EAST SIDE, NY \u2014 The Upper East Side's newest homeless shelter, which sparked volatile public hearings and faced legal challenges when the proposal for the corner of First Avenue and East 61st Street was first announced, has quietly opened this week, Patch has learned."
+      ],
+      "summary": "Contested UES Homeless Shelter Opens",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Contested UES Homeless Shelter Opens",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/ues-womens-homeless-shelter-opens-after-months-controversy",
+        "published_at": "2026-06-25T01:34:53+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-25T10:06:42.687336+00:00"
+    }
+  ]
+}

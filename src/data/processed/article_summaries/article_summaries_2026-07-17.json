@@ -1,0 +1,408 @@
+{
+  "generated_at": "2026-07-17T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/ranked/ranked_articles_2026-07-17.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 5,
+    "fallback_summaries": 13
+  },
+  "summaries": [
+    {
+      "headline": "Plastic Foam Ban and Gas Delivery Charges",
+      "bullets": [
+        "New York State failed to pass legislation to curb single-use plastics, leaving federal action as a potential solution.",
+        "Con Ed charges Manhattan residents 19 times more for gas delivery than for the gas itself, highlighting the need for infrastructure changes."
+      ],
+      "summary": "Plastic Foam Ban and Gas Delivery Charges",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "These issues connect to CM Maloney's committee portfolio, particularly Economic Development and Sanitation and Solid Waste Management, as they impact city services and environmental policies.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on plastic foam, gas delivery charges and Todd Blanche",
+        "article_url": "https://www.nydailynews.com/2026/07/17/readers-sound-off-on-plastic-foam-gas-delivery-charges-and-todd-blanche/",
+        "published_at": "2026-07-17"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-17T09:37:44.188848+00:00"
+    },
+    {
+      "headline": "Trump Delivers Speech on Election Security, Voter ID Bill",
+      "bullets": [
+        "President Trump alleged China accessed U.S. voter data and pushed for the SAVE America Act, requiring proof of citizenship for voter registration.",
+        "Elections experts argue that claims of widespread voter fraud and vulnerabilities in voting machines are debunked."
+      ],
+      "summary": "Trump Delivers Speech on Election Security, Voter ID Bill",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "No direct committee or district connection identified.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Trump gives primetime speech on elections as White House alleges Chinese access to voter data",
+        "article_url": "https://www.cbsnews.com/newyork/live-updates/trump-primetime-speech-elections-china/",
+        "published_at": "2026-07-16"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-17T09:37:45.801462+00:00"
+    },
+    {
+      "headline": "Parents Win Gun Rights Case After Daughter\u2019s Depression Report",
+      "bullets": [
+        "A federal judge ruled that parents whose daughter reported depression can get their guns back after Nassau County suspended their licenses.",
+        "The ruling highlights the tension between protecting gun owners' rights and ensuring public safety."
+      ],
+      "summary": "Parents Win Gun Rights Case After Daughter\u2019s Depression Report",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This case underscores the ongoing debate over gun regulations and the Second Amendment, impacting how local governments balance safety and constitutional rights, relevant to CM Maloney's Economic Development and Small Business committees.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Long Island parents whose daughter reported depression can get guns back, judge rules",
+        "article_url": "https://gothamist.com/news/long-island-parents-whose-daughter-reported-depression-can-get-guns-back-judge-rules",
+        "published_at": "2026-07-16T14:59:00+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-17T09:37:47.449618+00:00"
+    },
+    {
+      "headline": "Texas Hill Country Floods: Record-Breaking Rain",
+      "bullets": [
+        "More than 28 inches of rain fell in parts of the Texas Hill Country over three days.",
+        "Two people died in the flooding, with more than 80 evacuations ordered."
+      ],
+      "summary": "Texas Hill Country Floods: Record-Breaking Rain",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "No direct committee or district connection identified.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "'More water than last year\u2019s flood': Texas Hill Country dealing with another devastating flood",
+        "article_url": "https://www.fox5ny.com/news/texas-floods-guadalupe-river-kerrville",
+        "published_at": "2026-07-16"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-17T09:37:48.875963+00:00"
+    },
+    {
+      "headline": "Aging Judges Seek Extensions; Reformers Raise Concerns",
+      "bullets": [
+        "49 aging Supreme Court justices in New York are seeking extensions to their terms.",
+        "Critics argue the certification process is opaque and lacks public accountability."
+      ],
+      "summary": "Aging Judges Seek Extensions; Reformers Raise Concerns",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "This process affects the quality of judicial decisions and public trust in the legal system, impacting NYC residents through the administration of justice.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "49 aging NY judges want more time on the bench. Reformers are worried about 4.",
+        "article_url": "https://gothamist.com/news/49-aging-ny-judges-want-more-time-on-the-bench-reformers-are-worried-about-4",
+        "published_at": "2026-07-16T11:00:58+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-17T09:37:50.445369+00:00"
+    },
+    {
+      "headline": "Trump Media plans paid high-speed access to Truth Social posts",
+      "bullets": [
+        "NEW YORK - President Donald Trump's media company plans to charge for premium, high-speed access to Truth Social posts, including potentially those from Trump himself that could influence national security matters and financial markets.",
+        "Why you should care: The feature, announced Thursday and called Truth PSI, would give Wall Street trading firms and other institutional customers access to posts from Truth Social contributors within milliseconds, allowing them to react more quickly to market-moving news involving stocks, bonds and interest rates."
+      ],
+      "summary": "Trump Media plans paid high-speed access to Truth Social posts",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Trump Media plans paid high-speed access to Truth Social posts",
+        "article_url": "https://www.fox5ny.com/news/trump-media-truth-social-paid-early-access-posts",
+        "published_at": "2026-07-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-17T09:37:50.548314+00:00"
+    },
+    {
+      "headline": "Neighbors Want To Turn Queensboro Bridge Lots Into New Pocket",
+      "bullets": [
+        "Neighbors Want To Turn Queensboro Bridge Lots Into New Pocket Parks New Yorkers say two city-owned parcels should be transformed into public space instead of sitting behind fences.",
+        "UPPER EAST SIDE, NY \u2014 Two fenced-off city-owned lots alongside the Queensboro Bridge could become the Upper East Side's next pocket parks if a growing neighborhood campaign gets its way."
+      ],
+      "summary": "Neighbors Want To Turn Queensboro Bridge Lots Into New Pocket",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Neighbors Want To Turn Queensboro Bridge Lots Into New Pocket Parks",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/neighbors-want-turn-queensboro-bridge-lots-new-pocket-parks",
+        "published_at": "2026-07-16T17:49:55+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-17T09:37:50.644489+00:00"
+    },
+    {
+      "headline": "Texas flooding: 2 reported deaths in catastrophic Hill Country flooding",
+      "bullets": [
+        "KERR COUNTY, Texas - Heavy rain across Central Texas has led to flooded rivers and creeks and multiple flash flood warnings and emergency notices from the National Weather Service.",
+        "According to the Texas Game Wardens, to date, they have successfully participated in the rescue of more than 40 individuals from submerged vehicles and flooded homes, particularly in the hardest-hit areas like Uvalde County."
+      ],
+      "summary": "Texas flooding: 2 reported deaths in catastrophic Hill Country flooding",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Texas flooding: 2 reported deaths in catastrophic Hill Country flooding",
+        "article_url": "https://www.fox5ny.com/news/texas-flooding-kerr-county-evacuations",
+        "published_at": "2026-07-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-17T09:37:50.781604+00:00"
+    },
+    {
+      "headline": "NYC\u2019s smoke-filled hellscape forecast: Good news and bad news",
+      "bullets": [
+        "For New Yorkers looking up at the sky and wondering when this sticky, smoky hellscape will end, there\u2019s good news and bad news.",
+        "The good news, according to meteorologists from the National Weather Service, is that the worst of the Canadian wildfire smoke should clear out of the city by Friday afternoon."
+      ],
+      "summary": "NYC\u2019s smoke-filled hellscape forecast: Good news and bad news",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC\u2019s smoke-filled hellscape forecast: Good news and bad news",
+        "article_url": "https://gothamist.com/news/nycs-smoke-filled-hellscape-forecast-good-news-and-bad-news-for-days-longer",
+        "published_at": "2026-07-16T15:25:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-17T09:37:50.903475+00:00"
+    },
+    {
+      "headline": "Where are the Canada wildfires burning?",
+      "bullets": [
+        "NEW YORK CITY - Hundreds of wildfires burning across Canada are causing hazardous air quality in the Midwest and parts of the Northeast, including New York City.",
+        "Forecasters say the heavy wildfire smoke could spread as far south as Washington, D.C., by midday Thursday, and Detroit and Minneapolis have some of the worst breathing conditions in the world."
+      ],
+      "summary": "Where are the Canada wildfires burning?",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Where are the Canada wildfires burning?",
+        "article_url": "https://www.fox5ny.com/weather/nyc-air-quality-canadian-wildfires-burning-smoke-new-york-city",
+        "published_at": "2026-07-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-17T09:37:50.999941+00:00"
+    },
+    {
+      "headline": "West Side homeless encampment draws Gov. Hochul response: \u2018Action is",
+      "bullets": [
+        "NEW YORK - A growing homeless encampment on Manhattan\u2019s West Side is drawing renewed attention from city and state leaders, with Gov.",
+        "Kathy Hochul saying her administration is working behind the scenes with New York City\u2019s mayor on the response."
+      ],
+      "summary": "West Side homeless encampment draws Gov. Hochul response: \u2018Action is",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "West Side homeless encampment draws Gov. Hochul response: \u2018Action is warranted\u2019",
+        "article_url": "https://www.fox5ny.com/news/hochul-says-state-working-mayor-west-side-homeless-encampment-grows",
+        "published_at": "2026-07-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-17T09:37:51.122968+00:00"
+    },
+    {
+      "headline": "Time spent outside with AQI above 201 is like smoking",
+      "bullets": [
+        "Smoke from the Canadian wildfires suffocated the sun above, nearly wiping away Lady Liberty from view and shrouding the Lower Manhattan skyline in an apocalyptic haze on Thursday evening.",
+        "The scene gave some New Yorkers a tinge of nostalgia - a throwback to a time most would rather forget."
+      ],
+      "summary": "Time spent outside with AQI above 201 is like smoking",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Time spent outside with AQI above 201 is like smoking a cigarette",
+        "article_url": "https://abc7ny.com/live-updates/nyc-weather-air-quality-alert-new-york-nj-tri-state-canadian-wildfire-smoke-moves/19514675/entry/19523213/",
+        "published_at": "2026-07-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-17T09:37:51.244277+00:00"
+    },
+    {
+      "headline": "NYC Council approves $10K checks for teacher aides, Mamdani considers",
+      "bullets": [
+        "The New York City Council approved a measure on Thursday to send $10,000 in checks to low-paid teacher aides over the opposition of Mayor Mamdani, who claimed the pay bump outside of collective bargaining was in \u201cdirect violation\u201d of labor law.",
+        "Mamdani has said pay should be negotiated at the bargaining table, not through Council legislation."
+      ],
+      "summary": "NYC Council approves $10K checks for teacher aides, Mamdani considers",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYC Council approves $10K checks for teacher aides, Mamdani considers \u2018next steps\u2019",
+        "article_url": "https://www.nydailynews.com/2026/07/16/nyc-council-approves-10k-checks-for-teacher-aides-despite-legality-concerns/",
+        "published_at": "2026-07-16T17:21:17+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-17T09:37:51.345787+00:00"
+    },
+    {
+      "headline": "Closed primaries have broken NYC politics",
+      "bullets": [
+        "New Yorkers want safe streets, reasonable taxes, and good schools.",
+        "Yet millions of New Yorkers who reject party labels are excluded from the elections that often matter most."
+      ],
+      "summary": "Closed primaries have broken NYC politics",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Closed primaries have broken NYC politics",
+        "article_url": "https://www.nydailynews.com/2026/07/17/closed-primaries-have-broken-nyc-politics/",
+        "published_at": "2026-07-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-17T09:37:51.441463+00:00"
+    },
+    {
+      "headline": "Hotter nights are costing you sleep: Here's how much",
+      "bullets": [
+        "Hotter nights are making it increasingly difficult for people around the world to get a good night's sleep, according to a new analysis from Climate Central.",
+        "The nonprofit organization analyzed 1,338 cities worldwide, including 253 in the United States."
+      ],
+      "summary": "Hotter nights are costing you sleep: Here's how much",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Hotter nights are costing you sleep: Here's how much",
+        "article_url": "https://www.fox5ny.com/news/hotter-nights-costing-you-sleep-heres-how-much",
+        "published_at": "2026-07-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-17T09:37:51.537908+00:00"
+    },
+    {
+      "headline": "How to keep your energy bill low despite being home",
+      "bullets": [
+        "With summer temperatures upon us, you might be enjoying sunshine and warmer weather \u2014 but dreading the jump in your energy bills.",
+        "Running fans and AC units can get expensive, especially when you spend more time indoors and require ongoing climate control and comfort."
+      ],
+      "summary": "How to keep your energy bill low despite being home",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "How to keep your energy bill low despite being home all summer",
+        "article_url": "https://www.nydailynews.com/2026/07/15/how-to-keep-your-energy-bill-low-despite-being-home-all-summer-2/",
+        "published_at": "2026-07-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-17T09:37:51.682591+00:00"
+    },
+    {
+      "headline": "Menin and Mamdani policy fights highlight NYC speaker\u2019s ambition",
+      "bullets": [
+        "This column originally appeared in The Politics Brief, our weekly newsletter on the people, power and policies that shape New Yorkers' lives.",
+        "Sign up to get the full version where you can ask questions, share news tips and weigh in on the conversation."
+      ],
+      "summary": "Menin and Mamdani policy fights highlight NYC speaker\u2019s ambition",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Menin and Mamdani policy fights highlight NYC speaker\u2019s ambition",
+        "article_url": "https://gothamist.com/news/menin-and-mamdani-policy-fights-highlight-nyc-speakers-ambition",
+        "published_at": "2026-07-16T16:39:16+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-17T09:37:51.803079+00:00"
+    },
+    {
+      "headline": "What remains of the Iran deal as fighting rages",
+      "bullets": [
+        "By JOSEPH KRAUSS The conflict between Iran and the United States has intensified in recent days and an interim deal to end the fighting has collapsed less than a month after it was signed.",
+        "The Memorandum of Understanding was supposed to halt all military operations and reopen the Strait of Hormuz, a crucial waterway for global oil and gas."
+      ],
+      "summary": "What remains of the Iran deal as fighting rages",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "What remains of the Iran deal as fighting rages",
+        "article_url": "https://www.nydailynews.com/2026/07/16/what-remains-iran-us-interim-deal/",
+        "published_at": "2026-07-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-17T09:37:51.898568+00:00"
+    }
+  ]
+}

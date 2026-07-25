@@ -1,0 +1,408 @@
+{
+  "generated_at": "2026-07-15T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/ranked/ranked_articles_2026-07-15.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 5,
+    "fallback_summaries": 13
+  },
+  "summaries": [
+    {
+      "headline": "Opinions on Trump, SATs, and NYC Sports",
+      "bullets": [
+        "Readers debate Trump's distractions and Lindsey Graham's loyalty.",
+        "Opinions vary on the SATs and their role in college admissions."
+      ],
+      "summary": "Opinions on Trump, SATs, and NYC Sports",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "While not directly related to CM Maloney's committees, these opinions reflect broader public sentiment on education and leadership, which can influence policy discussions and voter behavior in her district.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on Trump\u2019s distractions, Lindsey Graham and SATs",
+        "article_url": "https://www.nydailynews.com/2026/07/15/readers-sound-off-on-trumps-distractions-lindsey-graham-and-sats/",
+        "published_at": "2026-07-15"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-15T09:39:26.873402+00:00"
+    },
+    {
+      "headline": "NYC Council Speaker Supports Ban on Horse Carriages",
+      "bullets": [
+        "NYC Council Speaker Julie Menin backs a bill to ban horse carriages by June 2028, following the death of 18-year-old Romanch Mahajan.",
+        "The bill, nicknamed Romanch's Law, aims to improve safety and end the carriage industry, which has been controversial for years."
+      ],
+      "summary": "NYC Council Speaker Supports Ban on Horse Carriages",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This ban aligns with CM Maloney's focus on safety and animal welfare, impacting Central Park tourism and city services.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYC Council speaker backs ban on horse carriages ahead of hearing",
+        "article_url": "https://www.nydailynews.com/2026/07/14/council-speaker-julie-menin-ban-horse-carriages-nyc/",
+        "published_at": "2026-07-14T18:41:36+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-15T09:39:28.821616+00:00"
+    },
+    {
+      "headline": "Collectors Online Auction Features Rare Art and Antiques",
+      "bullets": [
+        "The auction includes fine jewelry, sterling silver, Asian art, and Persian rugs from the late 19th to early 20th centuries.",
+        "Luxury audio equipment from McIntosh will also be available for bidding."
+      ],
+      "summary": "Collectors Online Auction Features Rare Art and Antiques",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This event connects to the Cultural Affairs/Libraries committee portfolio by offering a diverse range of art and antiques, enriching New York City's cultural offerings and providing opportunities for residents to engage with and purchase historical artifacts.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Collectors Online Auction | Art | Antiques | Persian Rugs | Asian | Fine Jewelry | Silver",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260716/d1460b81-f6e3-4c48-8b5d-dacfe383b65f/collectors-online-auction-art-antiques-persian-rugs-asian-fine-jewelry-silver",
+        "published_at": "2026-07-16T14:00:00+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-15T09:39:31.060351+00:00"
+    },
+    {
+      "headline": "NY Enacts First Statewide Ban on New Data Centers",
+      "bullets": [
+        "New York state bans new data center construction for one year to protect resources and address environmental concerns.",
+        "The ban aims to prevent energy and water shortages and ensure fair community investments from data centers."
+      ],
+      "summary": "NY Enacts First Statewide Ban on New Data Centers",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This policy directly impacts CM Maloney's committee on Economic Development, as it affects data center construction and the related economic and environmental implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "New York enacts nation's first statewide temporary ban on new data centers. Here's why.",
+        "article_url": "https://www.cbsnews.com/newyork/news/new-york-data-center-moratorium-kathy-hochul/",
+        "published_at": "2026-07-14"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-15T09:39:33.462268+00:00"
+    },
+    {
+      "headline": "76 Upper East Side Buildings Test Positive for Legionella",
+      "bullets": [
+        "76 buildings on the Upper East Side, including the Metropolitan Museum of Art, tested positive for Legionella bacteria in preliminary testing.",
+        "The outbreak has sickened 63 people, with hospitalizations decreasing from 15 to 12."
+      ],
+      "summary": "76 Upper East Side Buildings Test Positive for Legionella",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "This outbreak highlights the need for proactive measures in sanitation and solid waste management, areas under Council Member Maloney's jurisdiction, to ensure public health and safety.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Legionnaires' outbreak: 76 buildings test positive for Legionella bacteria in preliminary testing",
+        "article_url": "https://abc7ny.com/post/upper-east-side-legionnaires-outbreak-reaches-60-cases-more-cooling-towers-investigated/19504456/",
+        "published_at": "2026-07-14"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-15T09:39:35.623161+00:00"
+    },
+    {
+      "headline": "Bill to ban horse-drawn carriages in NYC to be presented",
+      "bullets": [
+        "NEW YORK CITY (WABC) -- The debate over horse-drawn carriages in New York City is back in the spotlight.",
+        "On Wednesday, the City Council will take up legislation to phase out the industry."
+      ],
+      "summary": "Bill to ban horse-drawn carriages in NYC to be presented",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Bill to ban horse-drawn carriages in NYC to be presented at council hearing Wednesday",
+        "article_url": "https://abc7ny.com/post/bill-ban-horse-drawn-carriages-nyc-presented-wednesday-council-hearing/19508465/",
+        "published_at": "2026-07-14"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-15T09:39:35.718986+00:00"
+    },
+    {
+      "headline": "Trump task force uncovers more than $1B in alleged trade",
+      "bullets": [
+        "BENSENVILLE, Ill.",
+        "-- The Trump administration says its trade fraud crackdown has already topped $1 billion in recoveries and alleged losses, less than a year after the launch of a task force dedicated to this initiative."
+      ],
+      "summary": "Trump task force uncovers more than $1B in alleged trade",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Trump task force uncovers more than $1B in alleged trade fraud",
+        "article_url": "https://abc7ny.com/post/president-donald-trump-administration-task-force-uncovers-more-1b-alleged-trade-fraud/19508156/",
+        "published_at": "2026-07-14"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-15T09:39:35.841901+00:00"
+    },
+    {
+      "headline": "NYC poised to pay $700K in Queens principal sex abuse",
+      "bullets": [
+        "One of \u201ccreepy\u201d Queens high school principal William Bassell\u2019s sex abuse accusers is poised to get a whopping $700,000 settlement from the city in a civil lawsuit, the Daily News has learned \u2014 and the six-figure payoff could be the tip of the iceberg.",
+        "The accuser \u2014 a \u201cJane Doe\u201d teacher who says the veteran Queens principal sent her more than 30,000 text messages and inappropriately touched her for years while the Department of Education turned a blind eye \u2013 has agreed with the city to the eye-popping amount, according to a July 6 filing in Brooklyn Federal Court."
+      ],
+      "summary": "NYC poised to pay $700K in Queens principal sex abuse",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYC poised to pay $700K in Queens principal sex abuse lawsuit, with more payouts looming",
+        "article_url": "https://www.nydailynews.com/2026/07/14/nyc-poised-to-pay-700k-in-queens-principal-sex-abuse-lawsuit-with-more-payouts-looming/",
+        "published_at": "2026-07-14T20:21:49+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-15T09:39:35.930854+00:00"
+    },
+    {
+      "headline": "Canada wildfire smoke pushing down to NY area this week,",
+      "bullets": [
+        "NEW YORK - A massive outbreak of Canadian wildfires is sending plumes of smoke all the way down to the New York region this week, impacting air quality, according to the National Weather Service.",
+        "Canada wildfires What we know: Ontario is in the middle of its annual wildfire season, which goes from April through October."
+      ],
+      "summary": "Canada wildfire smoke pushing down to NY area this week,",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Canada wildfire smoke pushing down to NY area this week, NWS warns",
+        "article_url": "https://www.fox5ny.com/news/canada-wildfire-smoke-forecast-new-york-city-july-15-2026",
+        "published_at": "2026-07-14"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-15T09:39:36.008483+00:00"
+    },
+    {
+      "headline": "Trump\u2019s awful IRS \u2018settlement\u2019 is dead",
+      "bullets": [
+        "When Acting Attorney General Todd Blanche goes before the Senate today for his confirmation hearing to be Donald Trump\u2019s permanent AG, both Democrats and Republican senators must question him vigorously under oath about the stinks-to-high-heaven deal he crafted to settle Trump\u2019s self-serving lawsuit against the IRS with a self-serving agreement that a judge just eviscerated.",
+        "Florida Federal Judge Kathleen Williams on Monday issued a decision fully unwinding Trump\u2019s settlement with the IRS that packed a one-two punch against our democratic systems and basic decency by attempting to set up a nearly $1.8 billion slush fund to pay Jan."
+      ],
+      "summary": "Trump\u2019s awful IRS \u2018settlement\u2019 is dead",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Trump\u2019s awful IRS \u2018settlement\u2019 is dead",
+        "article_url": "https://www.nydailynews.com/2026/07/15/trumps-awful-irs-settlement-is-dead/",
+        "published_at": "2026-07-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-15T09:39:36.085060+00:00"
+    },
+    {
+      "headline": "Schools, nursing home and Met Museum among buildings flagged in",
+      "bullets": [
+        "UPPER EAST SIDE, Manhattan (WABC) -- City health officials identified 45 additional positive tests for Legionella bacteria on Tuesday and have ordered a total of 76 buildings to clean their cooling towers as they work to contain the ongoing Legionnaires' disease outbreak.",
+        "Among the buildings ordered to take action is the Metropolitan Museum of Art on the Upper East Side."
+      ],
+      "summary": "Schools, nursing home and Met Museum among buildings flagged in",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Schools, nursing home and Met Museum among buildings flagged in Legionella outbreak",
+        "article_url": "https://abc7ny.com/post/legionnaires-outbreak-76-buildings-ordered-clean-cooling-towers-including-met/19511708/",
+        "published_at": "2026-07-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-15T09:39:36.157148+00:00"
+    },
+    {
+      "headline": "N.Y.\u2019s secret weapon to lower Rx prices",
+      "bullets": [
+        "The NYC Health Department, where I previously served as commissioner, has an annual budget of about $2 billion.",
+        "The city\u2019s annual contribution to NYC Health + Hospitals, the public healthcare system that serves more than 1 million New Yorkers a year, is also about $2 billion."
+      ],
+      "summary": "N.Y.\u2019s secret weapon to lower Rx prices",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "N.Y.\u2019s secret weapon to lower Rx prices",
+        "article_url": "https://www.nydailynews.com/2026/07/15/n-y-s-secret-weapon-to-lower-rx-prices/",
+        "published_at": "2026-07-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-15T09:39:36.254291+00:00"
+    },
+    {
+      "headline": "76 UES Buildings Test Positive For Legionella: See New List",
+      "bullets": [
+        "76 UES Buildings Test Positive For Legionella: See New List Several private schools, including Spence and Dalton, are on the new list, as well as the Metropolitan Museum of Art.",
+        "UPPER EAST SIDE, NY \u2014 New York City health officials said Tuesday that 76 buildings have cooling towers that have tested positive for Legionella bacteria in a PCR test on the Upper East Side, up from the 31 buildings confirmed last week."
+      ],
+      "summary": "76 UES Buildings Test Positive For Legionella: See New List",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "76 UES Buildings Test Positive For Legionella: See New List",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/76-ues-buildings-test-positive-legionella-officials-say",
+        "published_at": "2026-07-15T04:12:33+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-15T09:39:36.330153+00:00"
+    },
+    {
+      "headline": "Local Event: The Wisdom Bar \u2013 \"Everything You Know about",
+      "bullets": [
+        "New York City, NY|Featured Event The Wisdom Bar \u2013 \"Everything You Know about Traditional Marriage is Wrong\" \ud83d\udcad Topic: \u201cEverything You Know about Traditional Marriage is Wrong\u201d \ud83c\udfa4 Lecturer: Azie Dungey \ud83d\udcc6 Date: Wednesday, July 15th \u23f0 Doors Open: 6:30PM \ud83d\udccd Location: Midtown East (exact address provided in confirmation email) \ud83d\udd17 \ud83c\udf9f\ufe0f This is a ticketed event, get your tickets here: https://www.eventbrite.com/e/the-wisdom-bar-everything-you-know-about-traditional-marriage-is-wrong-tickets-1991417227535 What if \"traditional marriage\" isn't traditional at all?",
+        "Turns out, the equal partnership we're advocating for in modern relationships?"
+      ],
+      "summary": "Local Event: The Wisdom Bar \u2013 \"Everything You Know about",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: The Wisdom Bar \u2013 \"Everything You Know about Traditional Marriage is Wrong\"",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260715/82ce5a69-8840-4033-9c57-68ac0fdb0883/the-wisdom-bar-everything-you-know-about-traditional-marriage-is-wrong",
+        "published_at": "2026-07-15T22:30:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-15T09:39:36.414037+00:00"
+    },
+    {
+      "headline": "Summer Of \u00e269 Returns as Musical \u00e2A Walk on the",
+      "bullets": [
+        "Summer Of \u00e269 Returns as Musical \u00e2A Walk on the Moon\u00e2 \u00e2A Walk on the Moon,\u00e2 Pamela Gray\u00e2s acclaimed film about the awakening of a 1960s housewife, is reimagined as an Off-Broadway musical at the Laura Pels Theatre now through August 22.",
+        "Hot fun in the summertime."
+      ],
+      "summary": "Summer Of \u00e269 Returns as Musical \u00e2A Walk on the",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Summer Of \u00e269 Returns as Musical \u00e2A Walk on the Moon\u00e2",
+        "article_url": "https://www.ourtownny.com/city-arts/summer-of-69-returns-as-musical-a-walk-on-the-moon-EB6021611",
+        "published_at": "2026-07-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-15T09:39:36.500877+00:00"
+    },
+    {
+      "headline": "Local Event: An Evening with Brian Tyler Cohen \u2014 The",
+      "bullets": [
+        "Upper East Side|Featured Event An Evening with Brian Tyler Cohen \u2014 The Day After: How to Wield Power in a Post-Trump World Brian Tyler Cohen doesn\u2019t just comment on politics \u2014 he dissects the machinery behind it.",
+        "Now the #1 New York Times bestselling author, MSNBC contributor, and creator of one of the most-watched independent political platforms in the country comes to 92NY to discuss his new book, The Day After: How to Wield Power in a Post-Trump World."
+      ],
+      "summary": "Local Event: An Evening with Brian Tyler Cohen \u2014 The",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: An Evening with Brian Tyler Cohen \u2014 The Day After: How to Wield Power in a Post-Trump World",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260715/187490e7-5da3-4759-92a7-3bf6863ec3a4/an-evening-with-brian-tyler-cohen-the-day-after-how-to-wield-power-in-a-post-trump-world",
+        "published_at": "2026-07-15T23:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-15T09:39:36.599031+00:00"
+    },
+    {
+      "headline": "NYC and tristate under heat advisory as new high-temp blast",
+      "bullets": [
+        "A National Weather Service heat advisory took effect for the tristate area Tuesday as temperatures headed for the 90s in the summer heatwave.",
+        "New York, New Jersey and Connecticut were placed under heat advisory starting at 11 a.m."
+      ],
+      "summary": "NYC and tristate under heat advisory as new high-temp blast",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYC and tristate under heat advisory as new high-temp blast hits",
+        "article_url": "https://www.nydailynews.com/2026/07/14/nyc-heat-advisory-through-wednesday/",
+        "published_at": "2026-07-14"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-15T09:39:36.673534+00:00"
+    },
+    {
+      "headline": "Capt. 'Sully' Sullenberger reveals Alzheimer's diagnosis",
+      "bullets": [
+        "Sullenberger shared the update on his personal website.",
+        "NEW YORK -- Capt."
+      ],
+      "summary": "Capt. 'Sully' Sullenberger reveals Alzheimer's diagnosis",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Capt. 'Sully' Sullenberger reveals Alzheimer's diagnosis",
+        "article_url": "https://abc7ny.com/post/capt-sully-sullenberger-reveals-alzheimers-diagnosis/19506780/",
+        "published_at": "2026-07-14"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-15T09:39:36.746546+00:00"
+    }
+  ]
+}

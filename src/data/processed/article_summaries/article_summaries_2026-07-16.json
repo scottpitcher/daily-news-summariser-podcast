@@ -1,0 +1,408 @@
+{
+  "generated_at": "2026-07-16T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/ranked/ranked_articles_2026-07-16.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Ex-captain pleads guilty to drugging, raping US Merchant Marine Academy",
+      "bullets": [
+        "A former cargo ship captain pleaded guilty on Wednesday to drugging and raping a 21-year-old U.S.",
+        "Merchant Marine Academy cadet who was working on the vessel as part of the academy's Sea Year training program."
+      ],
+      "summary": "Ex-captain pleads guilty to drugging, raping US Merchant Marine Academy",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Ex-captain pleads guilty to drugging, raping US Merchant Marine Academy cadet on cargo ship",
+        "article_url": "https://www.cbsnews.com/newyork/news/ship-captain-us-merchant-marine-academy-cadet-rape/",
+        "published_at": "2026-07-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:504 Server Error: Gateway Time-out for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-16T09:43:36.772263+00:00"
+    },
+    {
+      "headline": "Local Event: Collectors Online Auction | Art | Antiques |",
+      "bullets": [
+        "New York City, NY|Featured Event Collectors Online Auction | Art | Antiques | Persian Rugs | Asian | Fine Jewelry | Silver Collectors Online Auction | Thursday, July 16, 2026 at 10:00 AM Bid via our free app or online at alderferauction.com This Collectors Auction features fine jewelry, sterling silver, Asian art, fine art, period furniture, decorative arts, and historical collectibles spanning multiple collecting categories.",
+        "Auction is open for pre-bidding at alderferauction.com until Thursday July 16th at 10AM, at which time pre-bidding will cease and the auction will go live at the auction center (no live audience, just our auctioneer and auction staff)."
+      ],
+      "summary": "Local Event: Collectors Online Auction | Art | Antiques |",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Collectors Online Auction | Art | Antiques | Persian Rugs | Asian | Fine Jewelry | Silver",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260716/d1460b81-f6e3-4c48-8b5d-dacfe383b65f/collectors-online-auction-art-antiques-persian-rugs-asian-fine-jewelry-silver",
+        "published_at": "2026-07-16T14:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:504 Server Error: Gateway Time-out for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-16T09:44:06.849748+00:00"
+    },
+    {
+      "headline": "'I'm not an election denier': Trump's director of national intelligence",
+      "bullets": [
+        "WASHINGTON -- Jay Clayton, President Donald Trump's pick to serve as director of national intelligence, faced repeated questions from Democrats on the Senate Select Committee on Intelligence during his confirmation hearing on Wednesday about whether Joe Biden won the 2020 election -- with Clayton saying Biden was certified as president, but stopped short of saying he won legitimately.",
+        "Sen."
+      ],
+      "summary": "'I'm not an election denier': Trump's director of national intelligence",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "'I'm not an election denier': Trump's director of national intelligence pick faces tense questions",
+        "article_url": "https://abc7ny.com/post/jay-clayton-confirmation-dni-could-pave-extension-lapsed-surveillance-tool/19513789/",
+        "published_at": "2026-07-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:504 Server Error: Gateway Time-out for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-16T09:44:36.997622+00:00"
+    },
+    {
+      "headline": "Readers sound off on Patty the elephant, 9/11 illnesses and",
+      "bullets": [
+        "Stop stalling and give Patty her freedom Syracuse: More than $41 million in taxpayer funds support the silk-stocking Wildlife Conservation Society.",
+        "As citizens of a city with more champions per acre than anywhere else, will we step up for the ultimate voiceless underdog?"
+      ],
+      "summary": "Readers sound off on Patty the elephant, 9/11 illnesses and",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on Patty the elephant, 9/11 illnesses and outdoor hazards",
+        "article_url": "https://www.nydailynews.com/2026/07/16/readers-sound-off-on-patty-the-elephant-9-11-illnesses-and-outdoor-hazards/",
+        "published_at": "2026-07-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:504 Server Error: Gateway Time-out for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-16T09:45:07.201484+00:00"
+    },
+    {
+      "headline": "Paramount\u2019s $81B Warner Bros. Discovery merger faces lawsuit from 12",
+      "bullets": [
+        "NEW YORK - Twelve states filed a lawsuit Monday seeking to block Paramount's proposed $81 billion takeover of Warner Bros.",
+        "Discovery, arguing the merger would eliminate competition in Hollywood and reduce choices for consumers nationwide."
+      ],
+      "summary": "Paramount\u2019s $81B Warner Bros. Discovery merger faces lawsuit from 12",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Paramount\u2019s $81B Warner Bros. Discovery merger faces lawsuit from 12 states",
+        "article_url": "https://www.fox5ny.com/news/states-sue-block-paramount-warner-bros-discovery-merger",
+        "published_at": "2026-07-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:504 Server Error: Gateway Time-out for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-16T09:45:37.274941+00:00"
+    },
+    {
+      "headline": "Readers sound off on Patty the elephant, 9/11 illnesses and",
+      "bullets": [
+        "Stop stalling and give Patty her freedom Syracuse: More than $41 million in taxpayer funds support the silk-stocking Wildlife Conservation Society.",
+        "As citizens of a city with more champions per acre than anywhere else, will we step up for the ultimate voiceless underdog?"
+      ],
+      "summary": "Readers sound off on Patty the elephant, 9/11 illnesses and",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on Patty the elephant, 9/11 illnesses and outdoor hazards",
+        "article_url": "https://www.nydailynews.com/2026/07/16/readers-sound-off-on-patty-the-elephant-9-11-illnesses-and-outdoor-hazards/",
+        "published_at": "2026-07-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:504 Server Error: Gateway Time-out for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-16T09:46:07.353754+00:00"
+    },
+    {
+      "headline": "Food pantries see long summer lines as New Yorkers lose",
+      "bullets": [
+        "The line outside a South Bronx food pantry snaked down the block, across the avenue and down two more blocks on a recent summer day.",
+        "People began lining up as early as 5 a.m., even though the pantry doesn't open until 10 a.m."
+      ],
+      "summary": "Food pantries see long summer lines as New Yorkers lose",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Food pantries see long summer lines as New Yorkers lose SNAP benefits in Trump overhaul",
+        "article_url": "https://gothamist.com/news/food-pantries-see-long-summer-lines-as-new-yorkers-lose-snap-benefits-in-trump-overhaul",
+        "published_at": "2026-07-15T10:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:HTTPSConnectionPool(host='router.huggingface.co', port=443): Read timed out. (read timeout=30)",
+      "summarized_at": "2026-07-16T09:46:37.447531+00:00"
+    },
+    {
+      "headline": "What To Know About The Upper East Side's Legionella Building",
+      "bullets": [
+        "What To Know About The Upper East Side's Legionella Building List Patch spoke with Dr.",
+        "Dana Mazo, an infectious disease specialist at NYU Langone Health, about what Upper East Siders should know."
+      ],
+      "summary": "What To Know About The Upper East Side's Legionella Building",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "What To Know About The Upper East Side's Legionella Building List",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/what-know-if-your-building-tests-positive-legionella",
+        "published_at": "2026-07-15T22:56:52+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:504 Server Error: Gateway Time-out for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-16T09:47:07.589402+00:00"
+    },
+    {
+      "headline": "AG nominee Todd Blanche says he\u2019s Trump\u2019s lawyer in slip",
+      "bullets": [
+        "Todd Blanche fueled widespread concerns about his lack of independence when he committed a gaffe by saying he represents President Trump during a stormy Senate confirmation hearing for his nomination to be U.S.",
+        "attorney general."
+      ],
+      "summary": "AG nominee Todd Blanche says he\u2019s Trump\u2019s lawyer in slip",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "AG nominee Todd Blanche says he\u2019s Trump\u2019s lawyer in slip at Senate confirmation hearing",
+        "article_url": "https://www.nydailynews.com/2026/07/15/todd-blanche-senate-confirmation-hearing-trump-lawyer/",
+        "published_at": "2026-07-15T13:01:54+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:504 Server Error: Gateway Time-out for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-16T09:47:37.665067+00:00"
+    },
+    {
+      "headline": "ICE should keep making traffic stops despite recent shootings, Trump",
+      "bullets": [
+        "By REBECCA SANTANA and PATRICK WHITTLE, Associated Press WASHINGTON (AP) \u2014 President Donald Trump wants Immigration and Customs Enforcement officers to keep pulling over vehicles, signaling his opposition Wednesday to plans announced just a day earlier to suspend most traffic stops following another string of fatal shootings.",
+        "It\u2019s not clear whether ICE will quickly reverse course and resume most stops, which have been a key tool in Trump\u2019s immigration crackdown."
+      ],
+      "summary": "ICE should keep making traffic stops despite recent shootings, Trump",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "ICE should keep making traffic stops despite recent shootings, Trump says",
+        "article_url": "https://www.nydailynews.com/2026/07/15/trump-ice-deaths-traffic-stops/",
+        "published_at": "2026-07-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:504 Server Error: Gateway Time-out for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-16T09:48:07.749208+00:00"
+    },
+    {
+      "headline": "West Side homeless encampment draws Gov. Hochul response: \u2018Action is",
+      "bullets": [
+        "NEW YORK - A growing homeless encampment on Manhattan\u2019s West Side is drawing renewed attention from city and state leaders, with Gov.",
+        "Kathy Hochul saying her administration is working behind the scenes with New York City\u2019s mayor on the response."
+      ],
+      "summary": "West Side homeless encampment draws Gov. Hochul response: \u2018Action is",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "West Side homeless encampment draws Gov. Hochul response: \u2018Action is warranted\u2019",
+        "article_url": "https://www.fox5ny.com/news/hochul-says-state-working-mayor-west-side-homeless-encampment-grows",
+        "published_at": "2026-07-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:504 Server Error: Gateway Time-out for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-16T09:48:37.825095+00:00"
+    },
+    {
+      "headline": "What to know about eating at home and dining out",
+      "bullets": [
+        "A parasite causing \u201cexplosive diarrhea\u201d has caused widespread panic across the country, adding new complexities to safe food handling at home and worrying diners about ordering the wrong leafy green at a restaurant.",
+        "Health experts say caution is warranted either way, but suggest considering several key factors before raising the alarm."
+      ],
+      "summary": "What to know about eating at home and dining out",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "What to know about eating at home and dining out during the cyclospora outbreak",
+        "article_url": "https://www.nydailynews.com/2026/07/15/what-to-know-about-eating-at-home-dining-out-cyclospora/",
+        "published_at": "2026-07-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:504 Server Error: Gateway Time-out for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-16T09:49:07.879388+00:00"
+    },
+    {
+      "headline": "Tylenol autism lawsuits revived by federal appeals court",
+      "bullets": [
+        "NEW YORK - A federal appeals court has revived more than 500 private lawsuits alleging that Tylenol use during pregnancy contributed to autism and attention deficit hyperactivity disorder (ADHD) in children, overturning a lower court ruling that had dismissed the cases, according to Reuters.",
+        "Dig deeper: In a decision issued Monday, the 2nd U.S."
+      ],
+      "summary": "Tylenol autism lawsuits revived by federal appeals court",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Tylenol autism lawsuits revived by federal appeals court",
+        "article_url": "https://www.fox5ny.com/news/tylenol-autism-lawsuits-trump",
+        "published_at": "2026-07-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:HTTPSConnectionPool(host='router.huggingface.co', port=443): Read timed out. (read timeout=30)",
+      "summarized_at": "2026-07-16T09:49:37.991270+00:00"
+    },
+    {
+      "headline": "Attorneys for Nolan Wells' family agree to joint inspection of",
+      "bullets": [
+        "Attorneys for Nolan Wells' family said they will work with the local district attorney's office investigating his death to inspect the contents of his cellphone.",
+        "The family recovered the phone from his friends after he was reported missing during a July 4 boat trip to an island off the Mississippi coast."
+      ],
+      "summary": "Attorneys for Nolan Wells' family agree to joint inspection of",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Attorneys for Nolan Wells' family agree to joint inspection of teen's recovered cellphone",
+        "article_url": "https://abc7ny.com/post/attorneys-nolan-wells-family-agree-joint-inspection-teens-recovered-cellphone/19516042/",
+        "published_at": "2026-07-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:504 Server Error: Gateway Time-out for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-16T09:50:08.114302+00:00"
+    },
+    {
+      "headline": "What NYC does when it's brutally, dangerously, disgustingly hot (like",
+      "bullets": [
+        "New York City is in the midst of its second heat wave of the summer \u2014 and we\u2019re only halfway through July.",
+        "While there\u2019s no beating the heat (short of moving to San Francisco), government and nonprofit leaders across the city are deploying a range of initiatives to help New Yorkers make it through increasingly brutal summers."
+      ],
+      "summary": "What NYC does when it's brutally, dangerously, disgustingly hot (like",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "What NYC does when it's brutally, dangerously, disgustingly hot (like right now)",
+        "article_url": "https://gothamist.com/news/what-nyc-does-when-its-brutally-dangerously-disgustingly-hot-like-right-now",
+        "published_at": "2026-07-15T15:58:35+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:504 Server Error: Gateway Time-out for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-16T09:50:38.181716+00:00"
+    },
+    {
+      "headline": "Hotter nights are costing you sleep: Here's how much",
+      "bullets": [
+        "Hotter nights are making it increasingly difficult for people around the world to get a good night's sleep, according to a new analysis from Climate Central.",
+        "The nonprofit organization analyzed 1,338 cities worldwide, including 253 in the United States."
+      ],
+      "summary": "Hotter nights are costing you sleep: Here's how much",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Hotter nights are costing you sleep: Here's how much",
+        "article_url": "https://www.fox5ny.com/news/hotter-nights-costing-you-sleep-heres-how-much",
+        "published_at": "2026-07-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:504 Server Error: Gateway Time-out for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-16T09:51:08.231605+00:00"
+    },
+    {
+      "headline": "Hegseth announces new policy to test troops for low testosterone",
+      "bullets": [
+        "By KONSTANTIN TOROPIN and MATTHEW PERRONE WASHINGTON (AP) \u2014 Defense Secretary Pete Hegseth announced Wednesday that he is rolling out a new screening program for \u201ctestosterone deficiency\u201d among troops, calling it necessary to allow them to operate at their \u201cabsolute best.\u201d The screenings will be conducted annually as part of service members\u2019 required medical screenings for those 30 and older, he said.",
+        "Troops under 30 can volunteer to be tested."
+      ],
+      "summary": "Hegseth announces new policy to test troops for low testosterone",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Hegseth announces new policy to test troops for low testosterone",
+        "article_url": "https://www.nydailynews.com/2026/07/15/hegseth-testosterone-testing/",
+        "published_at": "2026-07-15T18:12:26+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:504 Server Error: Gateway Time-out for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-16T09:51:38.312227+00:00"
+    },
+    {
+      "headline": "Food pantries see long summer lines as New Yorkers lose",
+      "bullets": [
+        "The line outside a South Bronx food pantry snaked down the block, across the avenue and down two more blocks on a recent summer day.",
+        "People began lining up as early as 5 a.m., even though the pantry doesn't open until 10 a.m."
+      ],
+      "summary": "Food pantries see long summer lines as New Yorkers lose",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Food pantries see long summer lines as New Yorkers lose SNAP benefits in Trump overhaul",
+        "article_url": "https://gothamist.com/news/food-pantries-see-long-summer-lines-as-new-yorkers-lose-snap-benefits-in-trump-overhaul",
+        "published_at": "2026-07-15T10:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:504 Server Error: Gateway Time-out for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-16T09:52:08.423067+00:00"
+    }
+  ]
+}

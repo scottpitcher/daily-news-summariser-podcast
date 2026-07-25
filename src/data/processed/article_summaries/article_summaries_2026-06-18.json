@@ -1,0 +1,408 @@
+{
+  "generated_at": "2026-06-18T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/ranked/ranked_articles_2026-06-18.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Luigi Mangione to mount emotional disturbance defense to justify killing",
+      "bullets": [
+        "Luigi Mangione plans to mount a psychiatric defense at his state murder trial this fall, an attempt to justify killing UnitedHealthcare CEO Brian Thompson on the grounds he was experiencing an extreme emotional disturbance, a Manhattan judge said Wednesday.",
+        "Manhattan Supreme Court Justice Gregory Carro revealed the stunning development at a brief court hearing in announcing he would unseal a recent defense motion."
+      ],
+      "summary": "Luigi Mangione to mount emotional disturbance defense to justify killing",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Luigi Mangione to mount emotional disturbance defense to justify killing of United Healthcare CEO",
+        "article_url": "https://www.nydailynews.com/2026/06/17/luigi-mangione-brian-thompson-uhc-extreme-emotional-disturbance/",
+        "published_at": "2026-06-17T22:22:55+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-18T10:32:35.244155+00:00"
+    },
+    {
+      "headline": "Few voters casting early ballots in NYC primaries that will",
+      "bullets": [
+        "Young New York City voters flocked early to the polls in June 2025.",
+        "This year, not so much."
+      ],
+      "summary": "Few voters casting early ballots in NYC primaries that will",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Few voters casting early ballots in NYC primaries that will test Mamdani's power",
+        "article_url": "https://gothamist.com/news/few-voters-casting-early-ballots-in-nyc-primaries-that-will-test-mamdanis-power",
+        "published_at": "2026-06-17T18:28:05+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-18T10:32:35.341166+00:00"
+    },
+    {
+      "headline": "Trump delays his own national intelligence nominee, fueling tension with",
+      "bullets": [
+        "WASHINGTON -- President Donald Trump on Wednesday derailed the confirmation process of his own nominee to head the nation's intelligence agencies, an extraordinary move that upended Senate efforts to renew a crucial surveillance program and fueled fresh tensions with fellow Republicans on Capitol Hill.",
+        "In an overnight social media post from the Group of Seven summit in France, Trump declared he was delaying the nomination of federal prosecutor Jay Clayton as director of national intelligence just hours ahead of his scheduled hearing, despite bipartisan praise for the nominee and Republican efforts to speed him through the confirmation process."
+      ],
+      "summary": "Trump delays his own national intelligence nominee, fueling tension with",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Trump delays his own national intelligence nominee, fueling tension with fellow Republicans",
+        "article_url": "https://abc7ny.com/post/president-donald-trump-delays-nomination-hearing-own-director-intelligence-dni-nominee-jay-clayton-amid-fisa-lapse/19317757/",
+        "published_at": "2026-06-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-18T10:32:35.472190+00:00"
+    },
+    {
+      "headline": "Cab driver attacked outside MSG during violent Knicks celebrations speaks",
+      "bullets": [
+        "MIDTOWN, Manhattan (WABC) -- As the NYPD prepares for Thursday's parade, the taxi driver who was assaulted and had his cab vandalized outside of Madison Square Garden when some celebratory crowds turned violent last week is speaking out.",
+        "The head of the Taxi & Limousine Commission is condemning the behavior during the Knicks celebrations, saying there's no excuse for this kind of behavior."
+      ],
+      "summary": "Cab driver attacked outside MSG during violent Knicks celebrations speaks",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Cab driver attacked outside MSG during violent Knicks celebrations speaks out",
+        "article_url": "https://abc7ny.com/post/nyc-taxi-driver-speaks-cab-vandalized-during-violent-knicks-celebrations-outside-madison-square-garden/19317552/",
+        "published_at": "2026-06-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-18T10:32:35.542701+00:00"
+    },
+    {
+      "headline": "Bernie Sanders unveils plan to give the public direct ownership",
+      "bullets": [
+        "By JOEY CAPPELLETTI WASHINGTON (AP) \u2014 As artificial intelligence companies reshape the economy and race toward trillion-dollar valuations, Sen.",
+        "Bernie Sanders is proposing a sweeping transfer of wealth and power from the industry to the American public."
+      ],
+      "summary": "Bernie Sanders unveils plan to give the public direct ownership",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Bernie Sanders unveils plan to give the public direct ownership of AI companies",
+        "article_url": "https://www.nydailynews.com/2026/06/17/us-congress-ai/",
+        "published_at": "2026-06-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-18T10:32:35.660953+00:00"
+    },
+    {
+      "headline": "US officials say Iran deal calls for diluting uranium at",
+      "bullets": [
+        "WASHINGTON -- President Donald Trump said he signed an agreement with Iran Wednesday that U.S.",
+        "officials say calls for Tehran to dilute its stockpile of highly enriched uranium and waive sanctions on the country, immediately allowing Iran to sell its oil freely in a major concession from Washington."
+      ],
+      "summary": "US officials say Iran deal calls for diluting uranium at",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "US officials say Iran deal calls for diluting uranium at minimum, waiving sanctions, opening strait",
+        "article_url": "https://abc7ny.com/post/iran-will-reopen-strait-hormuz-can-sell-oil-freely-deal-us-officials-say/19315693/",
+        "published_at": "2026-06-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-18T10:32:35.713371+00:00"
+    },
+    {
+      "headline": "Takeaways from the G7: Trump\u2019s new attitude toward allies buoyed",
+      "bullets": [
+        "By DARLENE SUPERVILLE, SYLVIE CORBET, ROB GILLIES, AAMER MADHANI and JOHN LEICESTER EVIAN-LES-BAINS, France (AP) \u2014 President Donald Trump is not known to be a fan of international gatherings of world leaders, but he changed his tune at this year\u2019s G7 summit at a French Alpine resort, where he was buoyed by support from his counterparts for his tentative agreement with Iran to end the war.",
+        "It was an about-face for Trump, who weeks ago had sharply criticized his counterparts for refusing to join the United States and Israel in bombing Iran to force it to abandon its nuclear aspirations \u2014 and who last year spent only a day at the G7 summit before cutting out early and going back to Washington."
+      ],
+      "summary": "Takeaways from the G7: Trump\u2019s new attitude toward allies buoyed",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Takeaways from the G7: Trump\u2019s new attitude toward allies buoyed by their praise for Iran deal",
+        "article_url": "https://www.nydailynews.com/2026/06/17/trump-g7-summit-iran-ukraine-unity-deals/",
+        "published_at": "2026-06-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-18T10:32:35.809549+00:00"
+    },
+    {
+      "headline": "85-year-old NYC woman shoved by stranger in Union Square out",
+      "bullets": [
+        "A great-grandmother who suffered a massive head injury when she was shoved unprovoked face-first into the sidewalk near Union Square Park is slowly recovering \u2014 while Paris Valentine, the stranger accused of attacking her, has been released on bail.",
+        "The victim is now able to communicate with her family after spending two week in a medically-induced coma in the intensive care unit following the June 1 Manhattan attack."
+      ],
+      "summary": "85-year-old NYC woman shoved by stranger in Union Square out",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "85-year-old NYC woman shoved by stranger in Union Square out of coma in \u2018miraculous recovery\u2019",
+        "article_url": "https://www.nydailynews.com/2026/06/17/85-year-old-nyc-woman-shoved-stranger-union-square-slowly-recovering-suspect-paris-valentine-makes-bail/",
+        "published_at": "2026-06-17T21:37:04+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-18T10:32:35.884539+00:00"
+    },
+    {
+      "headline": "Rex Heuermann to be sentenced in New York\u2019s Gilgo Beach",
+      "bullets": [
+        "By PHILIP MARCELO RIVERHEAD, N.Y.",
+        "(AP) \u2014 A Long Island architect who lived a secret life as New York\u2019s Gilgo Beach serial killer was set to hear from a lineup of victims\u2019 loved ones at his sentencing Wednesday for the admitted killings of eight women."
+      ],
+      "summary": "Rex Heuermann to be sentenced in New York\u2019s Gilgo Beach",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Rex Heuermann to be sentenced in New York\u2019s Gilgo Beach serial killings",
+        "article_url": "https://www.nydailynews.com/2026/06/17/rex-heuermann-sentencing-gilgo-beach-serial-killer/",
+        "published_at": "2026-06-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-18T10:32:35.936412+00:00"
+    },
+    {
+      "headline": "18-year-old killed after horse carriage crashes in Central Park",
+      "bullets": [
+        "NEW YORK - An 18-year-old was killed after a horse carriage crashed in Central Park on Wednesday.",
+        "Central Park horse carriage crash What we know: The crash happened around 2:45 p.m., according to the NYPD, near 71st Street and Central Drive."
+      ],
+      "summary": "18-year-old killed after horse carriage crashes in Central Park",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "18-year-old killed after horse carriage crashes in Central Park",
+        "article_url": "https://www.fox5ny.com/news/central-park-horse-carriage-crash-teen-killed-june-17-2026",
+        "published_at": "2026-06-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-18T10:32:36.009047+00:00"
+    },
+    {
+      "headline": "Teenage tourist dies as horse-drawn carriage overturns in NYC\u2019s Central",
+      "bullets": [
+        "A family of tourists\u2019 picturesque outing in a Central Park carriage turned into a nightmare Wednesday when an 18-year-old from India died after an out-of-control horse pulling the carriage he was riding in suddenly bolted, sending the carriage careening onto its side as onlookers watched in horror.",
+        "The precise circumstances of the 2:47 p.m."
+      ],
+      "summary": "Teenage tourist dies as horse-drawn carriage overturns in NYC\u2019s Central",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Teenage tourist dies as horse-drawn carriage overturns in NYC\u2019s Central Park",
+        "article_url": "https://www.nydailynews.com/2026/06/17/teenager-injured-horse-drawn-carriage-overturns-nyc-central-park/",
+        "published_at": "2026-06-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-18T10:32:36.061034+00:00"
+    },
+    {
+      "headline": "18-year-old tourist killed after carriage horse gets loose in Central",
+      "bullets": [
+        "CENTRAL PARK, Manhattan (WABC) -- An 18-year-old tourist visiting New York City with his family was killed when a Central Park carriage horse got loose and took off in the park on Wednesday afternoon, throwing him from the carriage.",
+        "It happened near Tavern on the Green around 2:45 p.m."
+      ],
+      "summary": "18-year-old tourist killed after carriage horse gets loose in Central",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "18-year-old tourist killed after carriage horse gets loose in Central Park",
+        "article_url": "https://abc7ny.com/post/central-park-carriage-horse-gets-loose-leaving-1-person-injured-nyc/19317465/",
+        "published_at": "2026-06-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-18T10:32:36.136903+00:00"
+    },
+    {
+      "headline": "Rex Heuermann sentenced to life in prison for Gilgo Beach",
+      "bullets": [
+        "By PHILIP MARCELO RIVERHEAD, N.Y.",
+        "(AP) \u2014 After decades waiting for justice, relatives of women murdered by New York\u2019s Gilgo Beach serial killer laid into him Wednesday before he was sentenced to life in prison."
+      ],
+      "summary": "Rex Heuermann sentenced to life in prison for Gilgo Beach",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Rex Heuermann sentenced to life in prison for Gilgo Beach serial murders",
+        "article_url": "https://www.nydailynews.com/2026/06/17/rex-heuermann-sentenced-life-prison-gilgo-beach-murders/",
+        "published_at": "2026-06-17T15:11:12+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-18T10:32:36.320704+00:00"
+    },
+    {
+      "headline": "Rex Heuermann sentenced to life in prison without parole for",
+      "bullets": [
+        "LONG ISLAND - Long Island architect Rex Heuermann will spend his life behind bars, bringing legal finality to a serial killer case that has haunted New York for over a decade.",
+        "What we know: Rex Heuermann, 62, was sentenced to life in prison without the possibility of parole in court on Wednesday as the judge called him a \"coward,\" and the families of his victims stood to applaud and cheer."
+      ],
+      "summary": "Rex Heuermann sentenced to life in prison without parole for",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Rex Heuermann sentenced to life in prison without parole for Gilgo Beach murders",
+        "article_url": "https://www.fox5ny.com/news/rex-heuermann-be-sentenced-after-pleading-guilty-7-murders-admitting-another",
+        "published_at": "2026-06-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-18T10:32:36.451317+00:00"
+    },
+    {
+      "headline": "These summer heat waves have us wondering if it\u2019s time",
+      "bullets": [
+        "How to beat the heat Maintaining a neutral body temperature during the summer months prevents ailments like heat stroke and exhaustion.",
+        "Cooling vests do just this and serve as long-lasting temperature regulators."
+      ],
+      "summary": "These summer heat waves have us wondering if it\u2019s time",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "These summer heat waves have us wondering if it\u2019s time to buy a cooling vest",
+        "article_url": "https://www.nydailynews.com/2026/06/16/these-summer-heat-waves-have-us-wondering-if-its-time-to-buy-a-cooling-vest-2/",
+        "published_at": "2026-06-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-18T10:32:36.548580+00:00"
+    },
+    {
+      "headline": "'Pride 2026: For All of Us' explores LGBTQ stories in",
+      "bullets": [
+        "NEW YORK (WABC) -- \"Pride 2026: For All of Us,\" WABC-TV's annual Pride special, features a variety of stories about New York City's LGBTQ community and beyond.",
+        "This year's show is hosted by WABC-TV's Sam Champion, Lauren Glassberg and Kemberly Richardson."
+      ],
+      "summary": "'Pride 2026: For All of Us' explores LGBTQ stories in",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "'Pride 2026: For All of Us' explores LGBTQ stories in NYC and beyond",
+        "article_url": "https://abc7ny.com/post/pride-2026-us-explores-lgbtq-stories-nyc-beyond/19316556/",
+        "published_at": "2026-06-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-18T10:32:36.599445+00:00"
+    },
+    {
+      "headline": "Trump departs G7 summit, says Strait of Hormuz will be",
+      "bullets": [
+        "President Donald Trump spoke at the Group of Seven summit on Wednesday discussing Iran and the Strait of Hormuz, which he expects to be opened \"in full\" within two days.",
+        "Trump posted on Truth Social saying the summit was a \"Great Success\" During the three-day summit, leaders from France, Canada, Germany, Italy, Japan, the U.S."
+      ],
+      "summary": "Trump departs G7 summit, says Strait of Hormuz will be",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Trump departs G7 summit, says Strait of Hormuz will be opened 'in full' within two days",
+        "article_url": "https://www.fox5ny.com/news/trump-addresses-g7-summit-6-17-26",
+        "published_at": "2026-06-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-18T10:32:36.694535+00:00"
+    },
+    {
+      "headline": "Park or subway? Mamdani's backing of 'Queensway' plan divides borough",
+      "bullets": [
+        "A long-abandoned train line that cuts through Queens has divided the borough\u2019s residents.",
+        "The 3.5-mile elevated structure runs between Ozone Park and Rego Park."
+      ],
+      "summary": "Park or subway? Mamdani's backing of 'Queensway' plan divides borough",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Park or subway? Mamdani's backing of 'Queensway' plan divides borough",
+        "article_url": "https://gothamist.com/news/park-or-subway-mamdanis-backing-of-queensway-plan-divides-borough",
+        "published_at": "2026-06-18T10:01:01+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:401 Client Error: Unauthorized for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-18T10:32:36.746677+00:00"
+    }
+  ]
+}

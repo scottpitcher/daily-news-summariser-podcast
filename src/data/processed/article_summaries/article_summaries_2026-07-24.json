@@ -1,0 +1,408 @@
+{
+  "generated_at": "2026-07-24T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/ranked/ranked_articles_2026-07-24.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 1,
+    "fallback_summaries": 17
+  },
+  "summaries": [
+    {
+      "headline": "Readers Debate 'The Odyssey', Iran Attack, and Israel-Palestine Conflict",
+      "bullets": [
+        "Readers discuss the relevance and impact of 'The Odyssey' in today's context.",
+        "A reader criticizes the U.S. and Israel for launching an immoral and illegal attack on Iran, citing significant casualties and economic impacts."
+      ],
+      "summary": "Readers Debate 'The Odyssey', Iran Attack, and Israel-Palestine Conflict",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "These discussions touch on cultural relevance and foreign policy, which are relevant to CM Maloney's committee portfolio, particularly in terms of cultural affairs and international relations.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on \u2018The Odyssey,\u2019 Iranian sovereignty and Mamdani vs. Bibi",
+        "article_url": "https://www.nydailynews.com/2026/07/24/readers-sound-off-on-the-odyssey-iranian-sovereignty-and-mamdani-vs-bibi/",
+        "published_at": "2026-07-24"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-24T09:50:05.602397+00:00"
+    },
+    {
+      "headline": "New York\u2019s organized labor looks to regroup after string of",
+      "bullets": [
+        "This column originally appeared in The Politics Brief, our weekly newsletter on the people, power and policies that shape New Yorkers' lives.",
+        "Sign up to get the full version where you can ask questions, share news tips and weigh in on the conversation."
+      ],
+      "summary": "New York\u2019s organized labor looks to regroup after string of",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "New York\u2019s organized labor looks to regroup after string of political defeats",
+        "article_url": "https://gothamist.com/news/new-yorks-organized-labor-looks-to-regroup-after-string-of-political-defeats",
+        "published_at": "2026-07-23T19:58:44+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-24T09:50:05.841471+00:00"
+    },
+    {
+      "headline": "Local Event: Jazz By The Water(tm) on Governor's Island (Colonel",
+      "bullets": [
+        "Gwen Black Arts/Arts and Jazzfest NYC(tm) invite you to experience the magic of Jazz By The Water\u2122 with straight ahead and soulful jazz on Saturday, July 25th at 12 PM-6PM.",
+        "Join us for an unforgettable free, all-day concert in the lush green oasis of Governor\u2019s Island inside Colonel Row."
+      ],
+      "summary": "Local Event: Jazz By The Water(tm) on Governor's Island (Colonel",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Jazz By The Water(tm) on Governor's Island (Colonel Row)",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260725/b3702a4b-1bc1-4c82-9c73-622754d0e25e/jazz-by-the-water-tm-on-governors-island-colonel-row",
+        "published_at": "2026-07-25T16:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-24T09:50:06.017156+00:00"
+    },
+    {
+      "headline": "25 states sue FEMA and DHS, accusing Trump administration of",
+      "bullets": [
+        "A coalition of states is suing the Federal Emergency Management Agency and the Department of Homeland Security, accusing the Trump administration of withholding hundreds of millions of dollars in disaster-preparedness and homeland security grants to force states to adopt its policies on elections and immigration.",
+        "The complaint challenges new conditions imposed on the funding that would require states to verify voter citizenship through a federal database, move toward hand-marked paper ballots, conduct federally prescribed election audits and cooperate with federal immigration enforcement."
+      ],
+      "summary": "25 states sue FEMA and DHS, accusing Trump administration of",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "25 states sue FEMA and DHS, accusing Trump administration of withholding funding",
+        "article_url": "https://www.cbsnews.com/newyork/news/states-sue-fema-dhs-trump-administration-funding/",
+        "published_at": "2026-07-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-24T09:50:06.216911+00:00"
+    },
+    {
+      "headline": "Teen arrested for shooting Brooklyn 18-year-old drill rapper to death",
+      "bullets": [
+        "A 17-year-old gangbanger who shot up a Sweet 16 party last year has now been arrested for the Mother\u2019s Day murder of a teen drill rapper in Brooklyn, authorities said Thursday.",
+        "The suspect, whose name was not released because he is a minor, is accused of shooting 18-year-old Quah\u2019mir Cruz on Blake Ave."
+      ],
+      "summary": "Teen arrested for shooting Brooklyn 18-year-old drill rapper to death",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Teen arrested for shooting Brooklyn 18-year-old drill rapper to death on Mother\u2019s Day",
+        "article_url": "https://www.nydailynews.com/2026/07/23/teen-arrested-shooting-brooklyn-18-year-old-drill-rapper-quahmir-cruz-death-mothers-day-nycha-van-dyke-houses/",
+        "published_at": "2026-07-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-24T09:50:06.437088+00:00"
+    },
+    {
+      "headline": "Government withdraws subpoenas for New York Times reporters in Air",
+      "bullets": [
+        "The Justice Department told a judge Thursday it will withdraw its subpoenas for grand jury testimony and phone records from over an article on security systems in the new Air Force One jet.",
+        "The judge later said it had happened."
+      ],
+      "summary": "Government withdraws subpoenas for New York Times reporters in Air",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Government withdraws subpoenas for New York Times reporters in Air Force One leak probe, after judge reprimands DOJ",
+        "article_url": "https://www.cbsnews.com/newyork/news/government-withdraws-subpoenas-for-new-york-times-reporters/",
+        "published_at": "2026-07-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-24T09:50:06.579969+00:00"
+    },
+    {
+      "headline": "Where to watch free outdoor movies this summer in NYC",
+      "bullets": [
+        "There are several places to catch a free movie night happening across all five boroughs this summer.",
+        "While some of the biggest blockbusters are taking place in theaters, there are some spectacular screenings taking movie night outdoors."
+      ],
+      "summary": "Where to watch free outdoor movies this summer in NYC",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Where to watch free outdoor movies this summer in NYC",
+        "article_url": "https://abc7ny.com/post/where-enjoy-free-outdoor-movies-nyc-summer/19564868/",
+        "published_at": "2026-07-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-24T09:50:06.774366+00:00"
+    },
+    {
+      "headline": "DOJ withdraws subpoenas of NY Times journalists after judge\u2019s rebuke",
+      "bullets": [
+        "The Justice Department on Thursday withdrew subpoenas issued to journalists for The New York Times who reported on security issues with President Trump\u2019s Qatari-gifted Air Force One after the department admitted to a series of missteps that an incredulous judge said would normally warrant sanctions.",
+        "The DOJ backed down on the demands at a Manhattan Federal Court hearing after Judge Arun Subramanian rebuked prosecutors over their procedures and the misleading representations they made in a mad dash to uncover the journalists\u2019 sources."
+      ],
+      "summary": "DOJ withdraws subpoenas of NY Times journalists after judge\u2019s rebuke",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "DOJ withdraws subpoenas of NY Times journalists after judge\u2019s rebuke",
+        "article_url": "https://www.nydailynews.com/2026/07/23/dof-drop-subpoenas-new-york-times-qatari-jet-trump/",
+        "published_at": "2026-07-23T19:13:37+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-24T09:50:06.920990+00:00"
+    },
+    {
+      "headline": "Battle of the beaches: The Jersey Shore vs. Long Island",
+      "bullets": [
+        "This column originally appeared in Looped In NYC newsletter.",
+        "Sign up here."
+      ],
+      "summary": "Battle of the beaches: The Jersey Shore vs. Long Island",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Battle of the beaches: The Jersey Shore vs. Long Island",
+        "article_url": "https://gothamist.com/arts-entertainment/battle-of-the-beaches-the-jersey-shore-vs-long-island",
+        "published_at": "2026-07-23T16:14:23+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-24T09:50:07.060972+00:00"
+    },
+    {
+      "headline": "Fate of ICC chief prosecutor heads to unprecedented vote as",
+      "bullets": [
+        "By MOLLY QUELL THE HAGUE, Netherlands (AP) \u2014 Diplomats from around the world are gathering at United Nations headquarters in New York on Friday to decide whether to permanently remove the embattled chief prosecutor of the International Criminal Court.",
+        "British barrister Karim Khan has been accused of sexual misconduct with a female aide, as outlined by The Associated Press in a series of stories, allegations which he has steadfastly denied."
+      ],
+      "summary": "Fate of ICC chief prosecutor heads to unprecedented vote as",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Fate of ICC chief prosecutor heads to unprecedented vote as US sanctions keep him out of New York",
+        "article_url": "https://www.nydailynews.com/2026/07/23/icc-prosecutor-vote-karim-khan/",
+        "published_at": "2026-07-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-24T09:50:07.212135+00:00"
+    },
+    {
+      "headline": "Upper West Side double-stabbing suspect in custody after barricading himself",
+      "bullets": [
+        "A suspect is in custody after a double stabbing on the Upper West Side, police said Thursday.",
+        "Investigators are now looking into whether the two attacks were driven by hate."
+      ],
+      "summary": "Upper West Side double-stabbing suspect in custody after barricading himself",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Upper West Side double-stabbing suspect in custody after barricading himself in apartment, police say",
+        "article_url": "https://www.cbsnews.com/newyork/news/upper-west-side-double-stabbing/",
+        "published_at": "2026-07-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-24T09:50:07.398590+00:00"
+    },
+    {
+      "headline": "Five Dead Due to Legionnaires\u00e2 Disease on Upper East Side",
+      "bullets": [
+        "Five Dead Due to Legionnaires\u00e2 Disease on Upper East Side The disease had sickened 82 people as of July 21, with eight people hospitalized and 160 buildings testing positive for the disease.",
+        "However, the Health Department has also noted that the source of the outbreak has been eliminated."
+      ],
+      "summary": "Five Dead Due to Legionnaires\u00e2 Disease on Upper East Side",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Five Dead Due to Legionnaires\u00e2 Disease on Upper East Side",
+        "article_url": "https://www.ourtownny.com/news/five-dead-due-to-legionnaires-disease-on-upper-east-side-HD6041339",
+        "published_at": "2026-07-22"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-24T09:50:07.619829+00:00"
+    },
+    {
+      "headline": "$4,300 in missing rugs, online shame, 7 hours in NYPD",
+      "bullets": [
+        "A Brooklyn woman says she was arrested, handcuffed and held for seven hours in a Bushwick precinct after police accused her of stealing rugs that she thought had been discarded and left on the street, up for grabs.",
+        "Jocelyn Ullman was arrested on July 15 after police got a call from Chyelle Milgrom, who said someone had taken $4,300 worth of rugs from in front of her namesake vintage store and cafe, Chyelle."
+      ],
+      "summary": "$4,300 in missing rugs, online shame, 7 hours in NYPD",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "$4,300 in missing rugs, online shame, 7 hours in NYPD custody: A stooping story",
+        "article_url": "https://gothamist.com/news/4300-in-missing-rugs-online-shame-7-hours-in-nypd-custody-a-stooping-story",
+        "published_at": "2026-07-23T17:39:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-24T09:50:07.784631+00:00"
+    },
+    {
+      "headline": "Medical examiner lists acute drug intoxication in all 3 NYPD",
+      "bullets": [
+        "All three people known to have died in NYPD booking facilities so far this year had acute drug intoxication listed among the causes of their deaths, according to newly released findings from the city's medical examiner.",
+        "The rulings cover Vincent Thoms, Zamiqua Miller and Hector Sierra \u2014 the only three people known to have died while being held at NYPD booking facilities so far this year."
+      ],
+      "summary": "Medical examiner lists acute drug intoxication in all 3 NYPD",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Medical examiner lists acute drug intoxication in all 3 NYPD booking deaths this year",
+        "article_url": "https://gothamist.com/news/medical-examiner-lists-acute-drug-intoxication-in-all-3-nypd-booking-deaths-this-year",
+        "published_at": "2026-07-23T12:01:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-24T09:50:07.997784+00:00"
+    },
+    {
+      "headline": "Did you know you can row for free on the",
+      "bullets": [
+        "Every week this summer, as they have for the last 20 years (except in cases of lightning, a pandemic, or Canadian wildfire smoke), anywhere from four to 24 people will climb into carbon-fiber boats called shells and row down the Harlem River.",
+        "These intrepid athletes, who range from former-D1 champions to total beginners, are part of Harlem River Community Rowing, or HRCR."
+      ],
+      "summary": "Did you know you can row for free on the",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Did you know you can row for free on the Harlem River?",
+        "article_url": "https://gothamist.com/arts-entertainment/did-you-know-you-can-row-for-free-on-the-harlem-river",
+        "published_at": "2026-07-23T14:00:52+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-24T09:50:08.194384+00:00"
+    },
+    {
+      "headline": "Suspect arrested after 2 men stabbed near Central Park on",
+      "bullets": [
+        "The NYPD is looking into the attacks as potential hate crimes based on witness statements UPPER WEST SIDE, Manhattan (WABC) -- A suspect was arrested after two men were stabbed near Central Park on the Upper West Side on Thursday afternoon, an attack police are now looking into as a potential hate crime.",
+        "The stabbings began at West 84th Street and Central Park West where a 57-year-old Asian man was stabbed in the torso around 1:30 p.m."
+      ],
+      "summary": "Suspect arrested after 2 men stabbed near Central Park on",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Suspect arrested after 2 men stabbed near Central Park on Upper West Side",
+        "article_url": "https://abc7ny.com/post/nypd-searching-suspect-2-men-stabbed-upper-west-side-nyc/19563947/",
+        "published_at": "2026-07-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-24T09:50:08.400240+00:00"
+    },
+    {
+      "headline": "Disney brings back D23 FANtastic Prizes: The Ultimate Disney Sweepstakes",
+      "bullets": [
+        "D23,On-The-Red-Carpet'] --- LOS ANGELES -- Ahead of its annual D23 fan event in Anaheim, California, Disney is announcing that it's bringing back D23 FANtastic Prizes: The Ultimate Disney Sweepstakes.",
+        "The sweepstakes features one-of-a-kind offerings from across the Walt Disney Company and is available exclusively to D23 Members."
+      ],
+      "summary": "Disney brings back D23 FANtastic Prizes: The Ultimate Disney Sweepstakes",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Disney brings back D23 FANtastic Prizes: The Ultimate Disney Sweepstakes",
+        "article_url": "https://abc7ny.com/post/disney-brings-back-d23-fantastic-prizes-ultimate-sweepstakes/19563374/",
+        "published_at": "2026-07-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-24T09:50:08.557928+00:00"
+    },
+    {
+      "headline": "New coffee shop and cafe openings on Long Island",
+      "bullets": [
+        "Long Island coffee lovers have likely noticed something happening this year: A slew of new shops opening.",
+        "Some, like Karmic Grind in Oyster Bay, are independently owned spots aiming to be a community meetup spot for seasonal lattes and light bites."
+      ],
+      "summary": "New coffee shop and cafe openings on Long Island",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Newsday",
+        "source_level": "local",
+        "article_title": "New coffee shop and cafe openings on Long Island",
+        "article_url": "https://www.newsday.com/lifestyle/restaurants/long-island-coffee-shop-cafe-openings-vbntzv9b",
+        "published_at": "2026-07-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-24T09:50:08.715558+00:00"
+    }
+  ]
+}

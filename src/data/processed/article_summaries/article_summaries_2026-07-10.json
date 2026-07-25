@@ -1,0 +1,408 @@
+{
+  "generated_at": "2026-07-10T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/ranked/ranked_articles_2026-07-10.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 6,
+    "fallback_summaries": 12
+  },
+  "summaries": [
+    {
+      "headline": "Collectors Online Auction Features Rare Art and Antiques",
+      "bullets": [
+        "Auction includes fine jewelry, sterling silver, Asian art, and Persian rugs.",
+        "Featured items range from 19th-century Persian rugs to 17th-century Spanish silver coins."
+      ],
+      "summary": "Collectors Online Auction Features Rare Art and Antiques",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "No direct committee or district connection identified.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Collectors Online Auction | Art | Antiques | Persian Rugs | Asian | Fine Jewelry | Silver",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260716/d1460b81-f6e3-4c48-8b5d-dacfe383b65f/collectors-online-auction-art-antiques-persian-rugs-asian-fine-jewelry-silver",
+        "published_at": "2026-07-16T14:00:00+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-10T10:10:01.456631+00:00"
+    },
+    {
+      "headline": "Trump Ordered to Pay $5M to Carroll",
+      "bullets": [
+        "Trump has been ordered by a Manhattan federal judge to pay E. Jean Carroll $5 million for sexual abuse and defamation.",
+        "This ruling is a small step towards holding Trump accountable for his actions, despite his history of avoiding consequences."
+      ],
+      "summary": "Trump Ordered to Pay $5M to Carroll",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This case highlights the importance of enforcing the rule of law, especially for public figures, and demonstrates the need for consistent accountability in the city and state.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Trump isn\u2019t above the law, must finally pay Carroll",
+        "article_url": "https://www.nydailynews.com/2026/07/10/trump-isnt-above-the-law-must-finally-pay-carroll/",
+        "published_at": "2026-07-10"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-10T10:10:02.928733+00:00"
+    },
+    {
+      "headline": "Legionnaires' Disease Outbreak on Upper East Side",
+      "bullets": [
+        "23 new cases of Legionnaires' disease reported in the Upper East Side as of July 7.",
+        "Health officials advise residents to monitor for flu-like symptoms and avoid showers if advised."
+      ],
+      "summary": "Legionnaires' Disease Outbreak on Upper East Side",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This outbreak highlights the need for robust testing and maintenance of cooling towers, which falls under the jurisdiction of the Sanitation and Small Business committees, impacting public health and safety.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Legionnaires\u00e2 Disease Outbreak Hits UES, With 23 New Cases",
+        "article_url": "https://www.ourtownny.com/news/legionnaires-disease-outbreak-hits-ues-with-23-new-cases-FF6007315",
+        "published_at": "2026-07-09"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-10T10:10:04.541521+00:00"
+    },
+    {
+      "headline": "Demolition Starts for 350 Park Avenue Skyscraper",
+      "bullets": [
+        "Demolition has begun on the site of a new 64-story office tower in Midtown East.",
+        "The project, valued at $4.5 billion, will be developed by Vornado Realty Trust, Rudin Management, and Citadel."
+      ],
+      "summary": "Demolition Starts for 350 Park Avenue Skyscraper",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This project, approved by the City Council, will contribute to economic development and enhance public spaces in Manhattan, aligning with CM Maloney's Economic Development Committee focus.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Demolition Begins at Future Site of 350 Park Avenue Skyscraper",
+        "article_url": "https://www.ourtownny.com/news/demolition-begins-at-future-site-of-350-park-avenue-skyscraper-HB6012339",
+        "published_at": "2026-07-09"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-10T10:10:05.940892+00:00"
+    },
+    {
+      "headline": "Buildings on UES Offered for Sale",
+      "bullets": [
+        "Two five-story walk-up buildings at 341-343 East 65th St. are being offered for sale.",
+        "The buildings consist of 40 one-bedroom apartments with a mix of stabilized, market rate, and rent-controlled units."
+      ],
+      "summary": "Buildings on UES Offered for Sale",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "No direct committee or district connection identified.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Two More Buildings on UES are Quietly Being Offered for Sale",
+        "article_url": "https://www.ourtownny.com/voices/two-more-buildings-on-ues-are-quietly-being-offered-for-sale-JD6005083",
+        "published_at": "2026-07-09"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-10T10:10:07.277650+00:00"
+    },
+    {
+      "headline": "Former Pfizer HQ Stabilization Update",
+      "bullets": [
+        "Workers continue stabilizing the former Pfizer headquarters in Midtown Manhattan, with shoring installed on 17 floors.",
+        "The Department of Buildings is investigating the project, including violations by the general contractor and the inspection agency."
+      ],
+      "summary": "Former Pfizer HQ Stabilization Update",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "This incident highlights the importance of building safety and the role of the Department of Buildings in overseeing construction projects, which is relevant to CM Maloney's Economic Development and Sanitation and Solid Waste Management committees.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "NYC workers continue stabilizing 29 floors of former Pfizer HQ in Midtown. Here's the latest on the investigation.",
+        "article_url": "https://www.cbsnews.com/newyork/news/new-york-city-unstable-building-pfizer-headquarters-midtown-manhattan/",
+        "published_at": "2026-07-09"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-10T10:10:08.900220+00:00"
+    },
+    {
+      "headline": "World Trade Center's last office tower breaks ground 25 years",
+      "bullets": [
+        "LOWER MANHATTAN (WABC) -- A quarter century after the terror attacks of September 11 left a gaping void in Lower Manhattan, American Express broke ground Thursday on its new headquarters, a tiered glass and steel tower at 2 World Trade Center.",
+        "The 55-story building, with more than an acre of outdoor terraces and gardens, is the last commercial development within the footprint of the fallen twin towers of the World Trade Center."
+      ],
+      "summary": "World Trade Center's last office tower breaks ground 25 years",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "World Trade Center's last office tower breaks ground 25 years after 9/11 attacks",
+        "article_url": "https://abc7ny.com/post/world-trade-centers-last-office-tower-american-express-headquarters-breaks-ground-25-years-911-attacks/19475441/",
+        "published_at": "2026-07-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-10T10:10:08.969138+00:00"
+    },
+    {
+      "headline": "Union says E. 42nd St. building developers cut corners, put",
+      "bullets": [
+        "Thanks to a young union member who spotted shockingly buckled support beams in the Midtown East high-rise that suffered a partial collapse Tuesday, a major catastrophe may have been averted.",
+        "His union is now hailing the hard hat as \u201cThe Hero of 42nd Street.\u201d Meanwhile, slamming the project\u2019s developers as reckless, the union says the site\u2019s safety must be guaranteed if any work there is to resume."
+      ],
+      "summary": "Union says E. 42nd St. building developers cut corners, put",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Union says E. 42nd St. building developers cut corners, put safety at risk",
+        "article_url": "https://www.nydailynews.com/2026/07/09/union-42nd-st-building-developers-cut-corners-safety/",
+        "published_at": "2026-07-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-10T10:10:09.066183+00:00"
+    },
+    {
+      "headline": "Workers Shore up Building after Steel Beams Buckled, Streets Still",
+      "bullets": [
+        "Workers Shore up Building after Steel Beams Buckled, Streets Still Closed Steel building beams that buckled at an under-construction tower conversion in midtown forced a mass evacuation on July 7.",
+        "Contractors installed emergency shoring on six floors by July 8 to avert a potential building collapse."
+      ],
+      "summary": "Workers Shore up Building after Steel Beams Buckled, Streets Still",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Workers Shore up Building after Steel Beams Buckled, Streets Still Closed",
+        "article_url": "https://www.ourtownny.com/news/workers-shore-up-building-after-steel-beams-buckled-streets-still-closed-HH6009485",
+        "published_at": "2026-07-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-10T10:10:09.132260+00:00"
+    },
+    {
+      "headline": "Murders Down, But Hate Crimes, Shootings Rise in Manhattan",
+      "bullets": [
+        "Murders Down, But Hate Crimes, Shootings Rise in Manhattan The first six months of 2026 saw a six percent decline in major crime throughout the city, with reported historic lows in shooting incidents/victims and murders across the five boroughs.",
+        "However, Manhattan\u00e2s solo shooting statistics show the opposite, with increases over 25 percent for year-to-date compared to a year ago."
+      ],
+      "summary": "Murders Down, But Hate Crimes, Shootings Rise in Manhattan",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Murders Down, But Hate Crimes, Shootings Rise in Manhattan",
+        "article_url": "https://www.ourtownny.com/news/murders-down-but-hate-crimes-shootings-rise-in-manhattan-HH6009823",
+        "published_at": "2026-07-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-10T10:10:09.195878+00:00"
+    },
+    {
+      "headline": "NYC Council speaker blasts health department over Legionnaires' cluster on",
+      "bullets": [
+        "New York City Council Speaker Julie Menin blasted the city's health department on Thursday over its handling of the .",
+        "As of Thursday night, city officials say 46 cases of the life-threatening bacterial infection, which causes flu-like symptoms, have been linked to cooling towers in three Manhattan zip codes: 10075, 10028 and 10128."
+      ],
+      "summary": "NYC Council speaker blasts health department over Legionnaires' cluster on",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "NYC Council speaker blasts health department over Legionnaires' cluster on Upper East Side",
+        "article_url": "https://www.cbsnews.com/newyork/news/legionnaires-julie-menin-blasts-nyc-health-department/",
+        "published_at": "2026-07-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-10T10:10:09.294072+00:00"
+    },
+    {
+      "headline": "NYC Legionnaires\u2019 disease cluster on Upper East Side grows to",
+      "bullets": [
+        "NEW YORK - NYC health officials are investigating a community cluster of Legionnaires\u2019 disease on the Upper East Side, after the number of cases grew to 46 on Thursday.",
+        "What we know: The NYC Health Department said the cluster is in the Upper East Side neighborhoods of Carnegie Hill and Yorkville."
+      ],
+      "summary": "NYC Legionnaires\u2019 disease cluster on Upper East Side grows to",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "NYC Legionnaires\u2019 disease cluster on Upper East Side grows to 46 cases",
+        "article_url": "https://www.fox5ny.com/news/nyc-legionnaires-disease-cluster-upper-east-side-grows-36-cases",
+        "published_at": "2026-07-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-10T10:10:09.388937+00:00"
+    },
+    {
+      "headline": "New York City's trash is causing a stink in this",
+      "bullets": [
+        "An upstate landfill that receives a sizable amount of New York City\u2019s waste is pushing plans to expand, but neighbors say the dump is already way too big and smelly.",
+        "The Seneca Meadows landfill, situated between Seneca Falls and Waterloo, is stuck in legal limbo."
+      ],
+      "summary": "New York City's trash is causing a stink in this",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "New York City's trash is causing a stink in this upstate town",
+        "article_url": "https://gothamist.com/news/new-york-citys-trash-is-causing-a-stink-in-this-upstate-town",
+        "published_at": "2026-07-09T16:54:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-10T10:10:09.481219+00:00"
+    },
+    {
+      "headline": "What you discover when you take absurdly long walks through",
+      "bullets": [
+        "This column originally appeared in Looped In NYC newsletter.",
+        "Sign up here."
+      ],
+      "summary": "What you discover when you take absurdly long walks through",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "What you discover when you take absurdly long walks through NYC",
+        "article_url": "https://gothamist.com/arts-entertainment/what-you-discover-when-you-take-absurdly-long-walks-through-nyc",
+        "published_at": "2026-07-09T19:32:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-10T10:10:09.547311+00:00"
+    },
+    {
+      "headline": "Experience cozy evenings with these premium outdoor gas fire pits",
+      "bullets": [
+        "When to consider a gas fire pit Whether you need a way to keep warm when enjoying your outdoor space or you simply want to add a bit of charm to your yard, a gas fire pit is the way to go.",
+        "They are cleaner than wood-burning pits, easier to maintain and are generally more economical."
+      ],
+      "summary": "Experience cozy evenings with these premium outdoor gas fire pits",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Experience cozy evenings with these premium outdoor gas fire pits",
+        "article_url": "https://www.nydailynews.com/2026/07/09/experience-cozy-evenings-with-these-premium-outdoor-gas-fire-pits/",
+        "published_at": "2026-07-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-10T10:10:09.615326+00:00"
+    },
+    {
+      "headline": "Clearwater Sloop Booted from Boat Parade Over Advocacy Banners",
+      "bullets": [
+        "Clearwater Sloop Booted from Boat Parade Over Advocacy Banners The U.S.",
+        "Coast Guard made the historic vessel withdraw from the July 4th celebration featuring warships and aircraft from across the world due to politically-charged banners."
+      ],
+      "summary": "Clearwater Sloop Booted from Boat Parade Over Advocacy Banners",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Clearwater Sloop Booted from Boat Parade Over Advocacy Banners",
+        "article_url": "https://www.ourtownny.com/news/clearwater-sloop-booted-from-boat-parade-over-advocacy-banners-NC6004942",
+        "published_at": "2026-07-08"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-10T10:10:09.707954+00:00"
+    },
+    {
+      "headline": "The near-collapsed Midtown building is now stable, but its finances",
+      "bullets": [
+        "Picture yourself living high above the heart of Midtown, mere blocks from the Chrysler Building and the United Nations \u2013 your 21st story bedroom window offering sweeping views of the cityscape leading north to Central Park and beyond.",
+        "There\u2019s just one minor detail: The apartment nearly collapsed before you moved in, sparking the mass evacuation of not just the building, but a large swath of the neighborhood, after workers spotted key structural columns bending under the weight of the newly constructed floors above."
+      ],
+      "summary": "The near-collapsed Midtown building is now stable, but its finances",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "The near-collapsed Midtown building is now stable, but its finances may not be",
+        "article_url": "https://gothamist.com/news/the-near-collapsed-midtown-building-is-now-stable-but-its-finances-may-not-be",
+        "published_at": "2026-07-10T10:00:48+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-10T10:10:09.871757+00:00"
+    },
+    {
+      "headline": "The Bay Butcher opens in Oyster Bay from the team",
+      "bullets": [
+        "Oyster Bay residents may have noticed that the space next to L\u2019Etoile, once used as its storage space, as well as a Max & Mina's pop-up last summer, has sprung back to life.",
+        "The restaurant\u2019s executive chef saw an opportunity for the space that the Milanas \u2014 the family behind L\u2019Etoile and Stellina restaurants \u2014 couldn\u2019t refuse: The Bay Butcher, a new meat shop, debuted late last month."
+      ],
+      "summary": "The Bay Butcher opens in Oyster Bay from the team",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Newsday",
+        "source_level": "local",
+        "article_title": "The Bay Butcher opens in Oyster Bay from the team behind L'Etoile",
+        "article_url": "https://www.newsday.com/lifestyle/restaurants/bay-butcher-opens-oyster-bay-mlcvmcmt",
+        "published_at": "2026-07-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-10T10:10:09.935551+00:00"
+    }
+  ]
+}

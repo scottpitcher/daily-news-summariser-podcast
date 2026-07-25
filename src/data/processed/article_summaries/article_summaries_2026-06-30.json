@@ -1,0 +1,408 @@
+{
+  "generated_at": "2026-06-30T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/ranked/ranked_articles_2026-06-30.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 9,
+    "fallback_summaries": 9
+  },
+  "summaries": [
+    {
+      "headline": "Supreme Court ruling gives a reprieve to states with grace",
+      "bullets": [
+        "By JULIE CARR SMYTH States that allow mail ballots to be counted after Election Day reacted with relief Monday after the U.S.",
+        "Supreme Court rejected a Republican effort to outlaw the practice."
+      ],
+      "summary": "Supreme Court ruling gives a reprieve to states with grace",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Supreme Court ruling gives a reprieve to states with grace periods for receiving mail ballots",
+        "article_url": "https://www.nydailynews.com/2026/06/29/supreme-court-upholds-post-election-mail-ballots/",
+        "published_at": "2026-06-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:HTTPSConnectionPool(host='router.huggingface.co', port=443): Read timed out. (read timeout=30)",
+      "summarized_at": "2026-06-30T10:17:43.008737+00:00"
+    },
+    {
+      "headline": "Haitian Immigrants Panic After Supreme Court Ruling",
+      "bullets": [
+        "The Supreme Court ruled the Trump administration can end Temporary Protected Status for hundreds of thousands of Haitians and Syrians, potentially leading to deportation.",
+        "Community groups in New York are seeing a surge in calls from immigrants seeking guidance and support."
+      ],
+      "summary": "Haitian Immigrants Panic After Supreme Court Ruling",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This ruling affects New Yorkers with Temporary Protected Status, impacting their employment and daily lives, and highlights the need for city services to provide legal support and resources.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "'Nonstop calls and community panic' in NY after Supreme Court immigration ruling",
+        "article_url": "https://gothamist.com/news/nonstop-calls-and-community-panic-in-ny-after-supreme-court-immigration-ruling",
+        "published_at": "2026-06-29T22:09:00+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-30T10:17:44.484935+00:00"
+    },
+    {
+      "headline": "Budget Battle Over Rental Assistance Program",
+      "bullets": [
+        "Mayor Mamdani and City Council are deadlocked over expanding the CityFHEPS rental assistance program.",
+        "Council Speaker Menin demands $300 million for the program, while Mamdani seeks reforms to make it sustainable."
+      ],
+      "summary": "Budget Battle Over Rental Assistance Program",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This budget dispute over rental assistance directly impacts New Yorkers' housing stability, aligning with CM Maloney's focus on housing and buildings.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Racing against the clock, Mamdani and City Council locked in budget slugfest",
+        "article_url": "https://gothamist.com/news/racing-against-the-clock-mamdani-and-city-council-locked-in-budget-slugfest",
+        "published_at": "2026-06-29T20:44:13+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-30T10:17:45.662664+00:00"
+    },
+    {
+      "headline": "Jersey City Reduces Property Tax Increase",
+      "bullets": [
+        "Jersey City reduced its proposed property tax increase from 20% to 15% after securing $120 million in state aid.",
+        "The tax increase is necessary due to the city's budget deficit, which Mayor Solomon attributes to his predecessor."
+      ],
+      "summary": "Jersey City Reduces Property Tax Increase",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This reduction in property taxes may provide some relief to New Yorkers in the area, though the city still needs to find an additional $20 million to balance its budget.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Jersey City, N.J. revises proposed property tax increase to 15%. Here's why.",
+        "article_url": "https://www.cbsnews.com/newyork/news/jersey-city-new-jersey-property-tax-increase-james-solomon/",
+        "published_at": "2026-06-29"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-30T10:17:47.457552+00:00"
+    },
+    {
+      "headline": "Long Island Farmers Markets Expand for 2026",
+      "bullets": [
+        "Two new markets are added in Ronkonkoma and Bay Shore.",
+        "38 weekly farmers markets across Nassau and Suffolk provide fresh produce and artisanal goods."
+      ],
+      "summary": "Long Island Farmers Markets Expand for 2026",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "These markets offer fresh, locally-sourced produce, supporting local farmers and providing healthy food options for New Yorkers, aligning with CM Maloney's focus on economic development and food security.",
+      "source_citation": {
+        "source_name": "Newsday",
+        "source_level": "local",
+        "article_title": "Long Island farmers markets for 2026",
+        "article_url": "https://www.newsday.com/lifestyle/restaurants/farmers-markets-long-island-station-yards-eas03q9t",
+        "published_at": "2026-06-29"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-30T10:18:08.769066+00:00"
+    },
+    {
+      "headline": "New Jersey 4th of July Fireworks Celebrations",
+      "bullets": [
+        "New Jersey communities are hosting fireworks events for the 4th of July, including Macy's 50th anniversary show visible from parts of New Jersey.",
+        "The Macy's fireworks show will celebrate America's 250th birthday and will be visible from select locations along the Hudson River."
+      ],
+      "summary": "New Jersey 4th of July Fireworks Celebrations",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "No direct committee or district connection identified.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "New Jersey fireworks guide 2026: Best places to see July 4th shows",
+        "article_url": "https://www.fox5ny.com/news/nj-fireworks-4th-july-shows-new-jersey-america-250",
+        "published_at": "2026-06-29"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-30T10:18:11.815676+00:00"
+    },
+    {
+      "headline": "What the Supreme Court\u2019s ruling in the Cook case means",
+      "bullets": [
+        "By CHRISTOPHER RUGABER WASHINGTON (AP) \u2014 The Supreme Court on Monday said the Federal Reserve, unlike any other agency in Washington, has a measure of independence from the presidency and day-to-day politics.",
+        "But the court didn\u2019t define to what extent."
+      ],
+      "summary": "What the Supreme Court\u2019s ruling in the Cook case means",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "What the Supreme Court\u2019s ruling in the Cook case means for Federal Reserve independence",
+        "article_url": "https://www.nydailynews.com/2026/06/29/supreme-court-upholds-federal-reserve-independence-ruling/",
+        "published_at": "2026-06-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:HTTPSConnectionPool(host='router.huggingface.co', port=443): Read timed out. (read timeout=30)",
+      "summarized_at": "2026-06-30T10:18:41.935271+00:00"
+    },
+    {
+      "headline": "Supreme Court Upholds Verdict Against Trump in E. Jean Carroll Case",
+      "bullets": [
+        "President Trump must now pay $5 million to E. Jean Carroll after the Supreme Court upheld a civil jury's verdict that he sexually assaulted her.",
+        "The case highlights the impact of New York's Adult Survivors Act, which allowed Carroll to bring her claim."
+      ],
+      "summary": "Supreme Court Upholds Verdict Against Trump in E. Jean Carroll Case",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "This case underscores the importance of legal protections for sexual assault victims and the role of the Adult Survivors Act in enabling such claims, impacting public safety and justice in New York City.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "SCOTUS ruling in E. Jean Carroll sex assault case means Trump will now have to pay up",
+        "article_url": "https://www.nydailynews.com/2026/06/29/scotus-ruling-in-e-jean-carroll-sex-assault-case-means-trump-will-now-have-to-pay-up/",
+        "published_at": "2026-06-29T16:10:37+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-30T10:18:46.035964+00:00"
+    },
+    {
+      "headline": "Firefighter Injured in Midtown Fire",
+      "bullets": [
+        "A firefighter was injured while battling a second-alarm fire in a Midtown Manhattan commercial building.",
+        "The fire broke out early Tuesday morning and required a large emergency response."
+      ],
+      "summary": "Firefighter Injured in Midtown Fire",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "This incident highlights the ongoing need for robust public safety measures and resources for firefighters, which is a key focus of the Fire and Emergency Management committee.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Firefighter injured while battling second-alarm fire at Midtown Manhattan commercial building",
+        "article_url": "https://abc7ny.com/post/firefighter-injured-second-alarm-fire-midtown-manhattan-commercial-building/19419769/",
+        "published_at": "2026-06-30"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-30T10:18:52.466750+00:00"
+    },
+    {
+      "headline": "Deported Venezuelans Missing After Earthquakes",
+      "bullets": [
+        "Over 100 deported Venezuelans were in a hotel in Caracas when earthquakes struck, leading to a search for survivors.",
+        "Many deportees were trapped under rubble and had to walk for miles to seek help."
+      ],
+      "summary": "Deported Venezuelans Missing After Earthquakes",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "This incident highlights the vulnerability of deportees and the need for improved communication and assistance protocols for those being deported, especially in crisis situations.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "More than 100 Venezuelans who were deported from the US hours before the earthquakes are missing",
+        "article_url": "https://abc7ny.com/post/more-100-venezuelans-were-deported-us-hours-before-earthquakes-are-missing/19415931/",
+        "published_at": "2026-06-29"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-30T10:18:53.983746+00:00"
+    },
+    {
+      "headline": "Stupid F***ing Bird: Contemporary Take on Seagull",
+      "bullets": [
+        "Aaron Posner's adaptation of Chekhov's Seagull focuses on love, family, and mental health.",
+        "The production features a unique in-the-round seating arrangement and explores complex emotional dynamics."
+      ],
+      "summary": "Stupid F***ing Bird: Contemporary Take on Seagull",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "While not directly related to any of Council Member Maloney's committees, this production highlights themes of family and mental health that could inform policies and services related to community well-being and mental health support in NYC.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: #EGProductions Stupid F***ing Bird",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260702/32969a24-9346-44f2-af3d-2ca79f3e84f4/egproductions-stupid-f-ing-bird",
+        "published_at": "2026-07-02T23:00:00+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-06-30T10:18:55.792909+00:00"
+    },
+    {
+      "headline": "New Medicaid rules put my mother at risk",
+      "bullets": [
+        "My mother, a 51-year-old service worker, immigrated to the U.S.",
+        "in 2004 and lives in New York with my father."
+      ],
+      "summary": "New Medicaid rules put my mother at risk",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "New Medicaid rules put my mother at risk",
+        "article_url": "https://www.nydailynews.com/2026/06/30/new-medicaid-rules-put-my-mother-at-risk/",
+        "published_at": "2026-06-30"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-30T10:18:55.879276+00:00"
+    },
+    {
+      "headline": "NJ advances $60.7 billion budget that caps tax rebates, cuts",
+      "bullets": [
+        "Lawmakers introduced New Jersey\u2019s next state budget, slated for a record size at $60.7 billion, late on Sunday night, a little more than 48 hours before the deadline for the spending plan to be passed and signed to avoid a government shutdown.",
+        "The budget will come in at the size Gov."
+      ],
+      "summary": "NJ advances $60.7 billion budget that caps tax rebates, cuts",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NJ advances $60.7 billion budget that caps tax rebates, cuts deficit, boosts school aid",
+        "article_url": "https://gothamist.com/news/nj-lawmakers-advance-607-billion-budget-bill-as-deadline-looms",
+        "published_at": "2026-06-29T10:58:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-30T10:18:55.928529+00:00"
+    },
+    {
+      "headline": "New ranking reveals America\u2019s most and least educated cities",
+      "bullets": [
+        "America\u2019s most educated workers aren\u2019t spread evenly across the nation, they cluster in places that offer better job markets, higher wages and better lifestyle rewards for their degrees.",
+        "According to a WalletHub survey that analyzed the 150 largest metro areas across 11 education-focused areas."
+      ],
+      "summary": "New ranking reveals America\u2019s most and least educated cities",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "New ranking reveals America\u2019s most and least educated cities",
+        "article_url": "https://www.fox5ny.com/news/new-ranking-reveals-americas-most-least-educated-cities",
+        "published_at": "2026-06-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-30T10:18:55.980615+00:00"
+    },
+    {
+      "headline": "How to stay cool and save on energy as heat",
+      "bullets": [
+        "Temperatures in the 90s are spreading across the Midwest and will reach the East Coast by midweek, when it will feel like 100 to 110 degrees for tens of millions of people ahead of the 4th of July weekend.",
+        "This graphic shows how many people will experience over 90 degree temperatures in the U.S."
+      ],
+      "summary": "How to stay cool and save on energy as heat",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "How to stay cool and save on energy as heat dome brings triple-digit temperatures to millions",
+        "article_url": "https://www.fox5ny.com/news/how-save-energy-heat-dome",
+        "published_at": "2026-06-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-30T10:18:56.059272+00:00"
+    },
+    {
+      "headline": "Readers sound off on centrist Democrats, temperature extremes and Carlos",
+      "bullets": [
+        "Moderate Dems neither defend nor inspire Manhattan: The Democratic Party needs to chill out.",
+        "They allowed the Republicans to define them for more than 40 years, and they\u2019re allowing the miscreant President Trump and his MAGA cultists to divide them."
+      ],
+      "summary": "Readers sound off on centrist Democrats, temperature extremes and Carlos",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on centrist Democrats, temperature extremes and Carlos Mendoza",
+        "article_url": "https://www.nydailynews.com/2026/06/30/readers-sound-off-on-centrist-democrats-temperature-extremes-and-carlos-mendoza/",
+        "published_at": "2026-06-30"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-30T10:18:56.110920+00:00"
+    },
+    {
+      "headline": "Readers sound off on centrist Democrats, temperature extremes and Carlos",
+      "bullets": [
+        "Moderate Dems neither defend nor inspire Manhattan: The Democratic Party needs to chill out.",
+        "They allowed the Republicans to define them for more than 40 years, and they\u2019re allowing the miscreant President Trump and his MAGA cultists to divide them."
+      ],
+      "summary": "Readers sound off on centrist Democrats, temperature extremes and Carlos",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on centrist Democrats, temperature extremes and Carlos Mendoza",
+        "article_url": "https://www.nydailynews.com/2026/06/30/readers-sound-off-on-centrist-democrats-temperature-extremes-and-carlos-mendoza/",
+        "published_at": "2026-06-30"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-30T10:18:56.240632+00:00"
+    },
+    {
+      "headline": "Everything you need to clean your pool",
+      "bullets": [
+        "Keep your pool sparkling with these pool cleaning supplies Regular pool maintenance is vital for the health and longevity of your pool.",
+        "Cleaning your pool requires several tools, some of which are interchangeable depending on whether you prefer to clean manually or use an automatic cleaner."
+      ],
+      "summary": "Everything you need to clean your pool",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Everything you need to clean your pool",
+        "article_url": "https://www.nydailynews.com/2026/06/29/everything-you-need-to-clean-your-pool/",
+        "published_at": "2026-06-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-06-30T10:18:56.350867+00:00"
+    }
+  ]
+}

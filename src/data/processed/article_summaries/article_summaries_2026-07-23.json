@@ -1,0 +1,408 @@
+{
+  "generated_at": "2026-07-23T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/ranked/ranked_articles_2026-07-23.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Landlords sue NYC Rent Guidelines Board to block Mamdani\u2019s rent",
+      "bullets": [
+        "A group of landlords is suing the city\u2019s Rent Guidelines Board, claiming the board, which is designed to operate independently, made a \u201csham\u201d decision to implement a rent freeze.",
+        "The lawsuit, filed in Staten Island State Court, seeks to stop the freeze and force the board to reevaluate and vote for a rent increase."
+      ],
+      "summary": "Landlords sue NYC Rent Guidelines Board to block Mamdani\u2019s rent",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Landlords sue NYC Rent Guidelines Board to block Mamdani\u2019s rent freeze",
+        "article_url": "https://www.nydailynews.com/2026/07/22/landlords-sue-nyc-rent-guidelines-board-mamdanis-rent-freeze/",
+        "published_at": "2026-07-22T17:29:45+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-23T09:50:46.123894+00:00"
+    },
+    {
+      "headline": "Mamdani has to drop his Netanyahu arrest nonsense",
+      "bullets": [
+        "Zohran Mamdani, a lifelong foe of the existent of the Jewish state of Israel, knows he can\u2019t do anything of the sort by ordering the arrest of Israeli Prime Minister Bibi Netanyahu should he come to New York.",
+        "So why does Mamdani keep talking about the impossible?"
+      ],
+      "summary": "Mamdani has to drop his Netanyahu arrest nonsense",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Mamdani has to drop his Netanyahu arrest nonsense",
+        "article_url": "https://www.nydailynews.com/2026/07/23/mamdani-has-to-drop-his-netanyahu-arrest-nonsense/",
+        "published_at": "2026-07-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-23T09:50:46.221397+00:00"
+    },
+    {
+      "headline": "New Jersey MVC software error registered 6,600 non-citizens to vote,",
+      "bullets": [
+        "TRENTON, N.J.",
+        "- New Jersey Gov."
+      ],
+      "summary": "New Jersey MVC software error registered 6,600 non-citizens to vote,",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "New Jersey MVC software error registered 6,600 non-citizens to vote, Gov. Sherrill says",
+        "article_url": "https://www.fox5ny.com/news/new-jersey-software-error-registered-6600-non-citizens-vote-gov-sherrill-says",
+        "published_at": "2026-07-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-23T09:50:46.334231+00:00"
+    },
+    {
+      "headline": "28-year-old from Ozone Park, Queens among US soldiers killed in",
+      "bullets": [
+        "OZONE PARK, Queens (WABC) -- Sgt.",
+        "Angel Rampersad, from Ozone Park, Queens, is believed to be among the U.S."
+      ],
+      "summary": "28-year-old from Ozone Park, Queens among US soldiers killed in",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "28-year-old from Ozone Park, Queens among US soldiers killed in missile attack",
+        "article_url": "https://abc7ny.com/post/army-releases-photo-ozone-park-soldier-sgt-angel-rampersad-believed-killed-jordan-missile-attack/19555810/",
+        "published_at": "2026-07-22"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-23T09:50:46.401621+00:00"
+    },
+    {
+      "headline": "As Jersey City cuts workers amid budget crisis, unions make",
+      "bullets": [
+        "The harsh reality of Jersey City\u2019s financial crisis is striking dozens of city workers.",
+        "Thirty-one provisional workers were laid off this month by Mayor James Solomon\u2019s administration, without any prior notice given to the City Council \u2014 on a Friday, July 10."
+      ],
+      "summary": "As Jersey City cuts workers amid budget crisis, unions make",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "As Jersey City cuts workers amid budget crisis, unions make their voices heard",
+        "article_url": "https://gothamist.com/news/as-jersey-city-cuts-workers-amid-budget-crisis-unions-make-their-voices-heard",
+        "published_at": "2026-07-22T13:01:06+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-23T09:50:46.468796+00:00"
+    },
+    {
+      "headline": "30% of Americans admit to shoplifting, annual survey finds",
+      "bullets": [
+        "A growing number of Americans say they've shoplifted, with many pointing to inflation and ongoing financial pressures as major reasons behind the behavior, according to a new LendingTree survey.",
+        "The survey, conducted online last month, polled 2,000 U.S."
+      ],
+      "summary": "30% of Americans admit to shoplifting, annual survey finds",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "30% of Americans admit to shoplifting, annual survey finds",
+        "article_url": "https://www.fox5ny.com/news/americans-admit-shoplifting-survey",
+        "published_at": "2026-07-22"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-23T09:50:46.566654+00:00"
+    },
+    {
+      "headline": "Mamdani appoints antitrust crusader Lina Khan as chair of NYC",
+      "bullets": [
+        "Mayor Zohran Mamdani announced Wednesday that progressive antitrust regulator Lina Khan will serve as the chair of the city\u2019s Economic Development Corporation.",
+        "Her appointment \u2014 along with Mamdani\u2019s pick of government veteran Tony Shorris as EDC president \u2014 comes after months of speculation among political observers over how a democratic socialist mayor would run a powerful economic development agency that has been accused of prioritizing business interests over the public."
+      ],
+      "summary": "Mamdani appoints antitrust crusader Lina Khan as chair of NYC",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Mamdani appoints antitrust crusader Lina Khan as chair of NYC economic development agency",
+        "article_url": "https://gothamist.com/news/mamdani-to-appoint-antitrust-crusader-lina-khan-as-chair-of-nyc-economic-development-agency",
+        "published_at": "2026-07-22T15:19:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-23T09:50:46.632647+00:00"
+    },
+    {
+      "headline": "34 Cooling Towers Test Positive For Live Legionella On The",
+      "bullets": [
+        "34 Cooling Towers Test Positive For Live Legionella On The UES: See List A fifth person has died from Legionnaires' disease on the Upper East Side.",
+        "UPPER EAST SIDE, NY \u2014 City officials said Wednesday they have identified 34 cooling towers on the Upper East Side linked to the Legionnaires' disease that has killed five and made 82 people sick since the outbreak began on July 2."
+      ],
+      "summary": "34 Cooling Towers Test Positive For Live Legionella On The",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "34 Cooling Towers Test Positive For Live Legionella On The UES: See List",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/34-cooling-towers-test-positive-legionella-ues-see-list",
+        "published_at": "2026-07-22T14:33:17+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-23T09:50:46.700448+00:00"
+    },
+    {
+      "headline": "Man escaping lithium-ion battery fire in Queens home dies in",
+      "bullets": [
+        "New York City recorded its first fatality related to a lithium-ion battery fire this year when a 48-year-old Queens man who scrambled out a window to escape a massive blaze sparked by an e-bike battery died in the hospital, fire officials said Wednesday.",
+        "The fire ignited after a battery charging in the kitchen of a basement apartment at the two-story home on 91st Ave."
+      ],
+      "summary": "Man escaping lithium-ion battery fire in Queens home dies in",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Man escaping lithium-ion battery fire in Queens home dies in hospital",
+        "article_url": "https://www.nydailynews.com/2026/07/22/man-escaping-lithium-ion-battery-fire-in-queens-home-dies-in-hospital/",
+        "published_at": "2026-07-22T21:01:16+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-23T09:50:46.778268+00:00"
+    },
+    {
+      "headline": "\u2018Violent enforcer\u2019 for murderous Brooklyn Bully Gang gets 52 years",
+      "bullets": [
+        "An ex-con described by prosecutors as the \u201cmost violent member\u201d of Brooklyn\u2019s bloodthirsty Bully Gang was sentenced to 52 years behind bars Wednesday, after he and three other gang leaders were convicted in a sweeping racketeering trial.",
+        "Franklin Gillespie, 35, was convicted of racketeering alongside gang leader Moeleek Harrell, who beat two state murder raps in 2017 and 2023, and his loyal lieutenants, Derrick Ayers and Anthony Kennedy, after a two-month trial that covered three killings, several shootings, and a cruel interstate drug-trafficking organization."
+      ],
+      "summary": "\u2018Violent enforcer\u2019 for murderous Brooklyn Bully Gang gets 52 years",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "\u2018Violent enforcer\u2019 for murderous Brooklyn Bully Gang gets 52 years in prison",
+        "article_url": "https://www.nydailynews.com/2026/07/22/violent-enforcer-murderous-brooklyn-bully-gang-sentenced-prison/",
+        "published_at": "2026-07-22T22:35:27+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-23T09:50:46.874320+00:00"
+    },
+    {
+      "headline": "Five Dead Due to Legionnaires\u00e2 Disease on Upper East Side",
+      "bullets": [
+        "Five Dead Due to Legionnaires\u00e2 Disease on Upper East Side The disease had sickened 82 people as of July 21, with eight people hospitalized and 160 buildings testing positive for the disease.",
+        "However, the Health Department has also noted that the source of the outbreak has been eliminated."
+      ],
+      "summary": "Five Dead Due to Legionnaires\u00e2 Disease on Upper East Side",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Five Dead Due to Legionnaires\u00e2 Disease on Upper East Side",
+        "article_url": "https://www.ourtownny.com/news/five-dead-due-to-legionnaires-disease-on-upper-east-side-HD6041339",
+        "published_at": "2026-07-22"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-23T09:50:46.971122+00:00"
+    },
+    {
+      "headline": "Widow of Man Killed in UES Legionnaires\u00e2 Outbreak Plans Lawsuit",
+      "bullets": [
+        "Widow of Man Killed in UES Legionnaires\u00e2 Outbreak Plans Lawsuit Ida Goldstein says that her husband Robert was killed due to negligent disease monitoring by a building owner in the area.",
+        "The outbreak has sickened 82 people overall, killing five, with 34 buildings testing positive for live bacteria."
+      ],
+      "summary": "Widow of Man Killed in UES Legionnaires\u00e2 Outbreak Plans Lawsuit",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Widow of Man Killed in UES Legionnaires\u00e2 Outbreak Plans Lawsuit",
+        "article_url": "https://www.ourtownny.com/news/widow-of-man-killed-in-ues-legionnaires-outbreak-plans-lawsuit-DF6052731",
+        "published_at": "2026-07-22"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-23T09:50:47.044762+00:00"
+    },
+    {
+      "headline": "Prosecutor focuses on who knew about singer D4vd's relationship with",
+      "bullets": [
+        "LOS ANGELES -- A money manager for D4vd testified Wednesday that he had heard only the first name of Celeste Rivas Hernandez, the 14-year-old girl the singer is charged with killing, before her dismembered body was found in the trunk of a car.",
+        "The testimony from Benjamin Gregor came on the second day of a preliminary hearing in a Los Angeles court to determine whether there is enough evidence to put D4vd, whose legal name is David Burke, on trial on charges of murder, continuous sexual abuse of a child under the age of 14 and mutilation of a body."
+      ],
+      "summary": "Prosecutor focuses on who knew about singer D4vd's relationship with",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Prosecutor focuses on who knew about singer D4vd's relationship with teen girl before her killing",
+        "article_url": "https://abc7ny.com/post/detective-says-d4vd-ordered-chain-saws-body-bags-hearing-decide-singer-should-go-trial/19556323/",
+        "published_at": "2026-07-22"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-23T09:50:47.106955+00:00"
+    },
+    {
+      "headline": "Mamdani hits back at Menin\u2019s charge of mishandling Legionnaires\u2019 outbreak",
+      "bullets": [
+        "Mayor Mamdani hit back against City Council Speaker Menin\u2019s attacks over his administration\u2019s handling of the Legionnaires\u2019 outbreak \u2014 saying he was putting public health over politics.",
+        "Menin has criticized the mayor for not ordering more proactive cleaning of cooling towers on the Upper East Side, where the outbreak occurred and has been linked to five deaths and nearly 80 infections in Menin\u2019s Council district."
+      ],
+      "summary": "Mamdani hits back at Menin\u2019s charge of mishandling Legionnaires\u2019 outbreak",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Mamdani hits back at Menin\u2019s charge of mishandling Legionnaires\u2019 outbreak",
+        "article_url": "https://www.nydailynews.com/2026/07/22/mamdani-hits-back-menins-charge-mishandling-legionnaires-outbreak/",
+        "published_at": "2026-07-22"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-23T09:50:47.172793+00:00"
+    },
+    {
+      "headline": "What exactly is an AI data center?",
+      "bullets": [
+        "WASHINGTON, D.C.",
+        "- An AI data center is essentially a building \u2014 or sometimes a sprawling campus \u2014 packed with powerful computers that train and run artificial intelligence systems, but the infrastructure required to keep those machines operating has turned the once-obscure facilities into a growing political issue."
+      ],
+      "summary": "What exactly is an AI data center?",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "What exactly is an AI data center?",
+        "article_url": "https://www.fox5ny.com/news/what-exactly-is-ai-data-center",
+        "published_at": "2026-07-22"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-23T09:50:47.237307+00:00"
+    },
+    {
+      "headline": "What is a heat advisory? Excessive heat warning? Heat wave?",
+      "bullets": [
+        "The Tri-State Area during the days leading up to and including the Fourth of July.",
+        "Summers can sizzle around the New York City area, where the hottest normal high is 85 degrees in July."
+      ],
+      "summary": "What is a heat advisory? Excessive heat warning? Heat wave?",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "What is a heat advisory? Excessive heat warning? Heat wave? Why they feel even hotter in NYC.",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-heat-wave-excessive-heat-warning/",
+        "published_at": "2024-06-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-23T09:50:47.302868+00:00"
+    },
+    {
+      "headline": "US military says it\u2019s carrying out strikes on Iran as",
+      "bullets": [
+        "By JON GAMBRELL, COLLIN BINKLEY and KONSTANTIN TOROPIN, Associated Press DUBAI, United Arab Emirates (AP) \u2014 The U.S.",
+        "military announced Wednesday that it was conducting a 12th night of strikes against Iran as both sides increasingly targeted civilian infrastructure."
+      ],
+      "summary": "US military says it\u2019s carrying out strikes on Iran as",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "US military says it\u2019s carrying out strikes on Iran as both sides threaten civilian infrastructure",
+        "article_url": "https://www.nydailynews.com/2026/07/22/trump-threatens-iranian-infrastructure-strait-hormuz/",
+        "published_at": "2026-07-22"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-23T09:50:47.368857+00:00"
+    },
+    {
+      "headline": "What exactly is an AI data center?",
+      "bullets": [
+        "WASHINGTON, D.C.",
+        "- An AI data center is essentially a building \u2014 or sometimes a sprawling campus \u2014 packed with powerful computers that train and run artificial intelligence systems, but the infrastructure required to keep those machines operating has turned the once-obscure facilities into a growing political issue."
+      ],
+      "summary": "What exactly is an AI data center?",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "What exactly is an AI data center?",
+        "article_url": "https://www.fox5ny.com/news/what-exactly-is-ai-data-center",
+        "published_at": "2026-07-22"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-23T09:50:47.468034+00:00"
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "generated_at": "2026-07-09T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/ranked/ranked_articles_2026-07-09.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 6,
+    "fallback_summaries": 12
+  },
+  "summaries": [
+    {
+      "headline": "Maine Democrats Plan Convention to Replace Platner",
+      "bullets": [
+        "Maine Democrats will hold a convention to choose a new U.S. Senate candidate after Graham Platner withdrew due to sexual assault allegations.",
+        "Potential contenders include Nirav Shah, Troy Jackson, and Dan Kleban."
+      ],
+      "summary": "Maine Democrats Plan Convention to Replace Platner",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "No direct committee or district connection identified.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Maine Democrats plan convention to replace Platner: What to know about Senate race",
+        "article_url": "https://www.nydailynews.com/2026/07/08/maine-democrats-plan-convention-platner-senate-race/",
+        "published_at": "2026-07-08T21:15:30+00:00"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-09T10:12:59.322432+00:00"
+    },
+    {
+      "headline": "Legionnaires' Disease Outbreak on Upper East Side",
+      "bullets": [
+        "23 new cases of Legionnaires' disease reported in a cluster on the Upper East Side.",
+        "Health officials advise monitoring for symptoms in residents and visitors to Central Park between East 76th and 97th Streets."
+      ],
+      "summary": "Legionnaires' Disease Outbreak on Upper East Side",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This outbreak highlights the ongoing need for robust testing and maintenance of cooling towers, which falls under the jurisdiction of the City Council's Environmental Protection and Sanitation committees, impacting public health and safety.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Legionnaire\u00e2s Disease Outbreak Hits UES, With 23 New Cases",
+        "article_url": "https://www.ourtownny.com/news/legionnaire-s-disease-outbreak-hits-ues-with-23-new-cases-FF6007315",
+        "published_at": "2026-07-08"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-09T10:13:01.116863+00:00"
+    },
+    {
+      "headline": "Maine Senate Candidate Graham Platner Suspends Campaign",
+      "bullets": [
+        "Maine Democratic Senate candidate Graham Platner suspended his campaign after sexual assault allegations.",
+        "Platner denied the allegations but said the pressure from Democrats made it impossible to continue."
+      ],
+      "summary": "Maine Senate Candidate Graham Platner Suspends Campaign",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "No direct committee or district connection identified.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Graham Platner suspends Maine Senate campaign after sexual assault allegation",
+        "article_url": "https://www.cbsnews.com/newyork/news/platner-suspends-maine-senate-race-democrat-susan-collins/",
+        "published_at": "2026-07-08"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-09T10:13:02.246338+00:00"
+    },
+    {
+      "headline": "Midtown Building Stabilized After Collapse Scare",
+      "bullets": [
+        "Structural engineers discovered severe buckling on upper floors of a Midtown high-rise, leading to evacuations.",
+        "Emergency crews installed steel beams to stabilize the building, with no movement detected since Tuesday morning."
+      ],
+      "summary": "Midtown Building Stabilized After Collapse Scare",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "This incident highlights the critical importance of structural integrity inspections and emergency response planning, which are key areas of focus for the City Council's Economic Development and Sanitation and Solid Waste Management committees.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Midtown building stable after collapse scare forces mass evacuations",
+        "article_url": "https://www.fox5ny.com/news/midtown-building-stabilized-after-collapse-scare-forces-mass-evacuations-frozen-zone-remains",
+        "published_at": "2026-07-08"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-09T10:13:03.533373+00:00"
+    },
+    {
+      "headline": "Readers Criticize Democrats, Red Cards, and Hot Dog Eating",
+      "bullets": [
+        "Manhattan readers criticize Democrats for accepting antisemites and Nazis into the party.",
+        "A veteran is being unfairly targeted for sexual violence allegations, highlighting a double standard in the justice system."
+      ],
+      "summary": "Readers Criticize Democrats, Red Cards, and Hot Dog Eating",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "These issues touch on the need for fair and just policies in the city, which is relevant to CM Maloney's role in the Economic Development and Small Business committees, ensuring that businesses and veterans are treated equitably.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on undesirable Democrats, red card rules and excessive hot dogs",
+        "article_url": "https://www.nydailynews.com/2026/07/09/readers-sound-off-on-undesirable-democrats-red-card-rules-and-excessive-hot-dogs/",
+        "published_at": "2026-07-09"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-09T10:13:05.028077+00:00"
+    },
+    {
+      "headline": "US Strikes Iran After Ceasefire Ends",
+      "bullets": [
+        "The U.S. launched strikes on Iran in response to recent attacks on ships in the Strait of Hormuz, signaling the end of the ceasefire.",
+        "Iranian state media reported explosions in several locations, including Bandar Abbas and Bushehr."
+      ],
+      "summary": "US Strikes Iran After Ceasefire Ends",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "No direct committee or district connection identified.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "US carries out another round of strikes on Iran after Trump says ceasefire is over",
+        "article_url": "https://abc7ny.com/post/iran-targets-bahrain-kuwait-us-launches-strikes-limits-sale-iranian-oil/19468397/",
+        "published_at": "2026-07-08"
+      },
+      "summary_status": "generated",
+      "summary_method": "llm_api",
+      "failure_reason": null,
+      "summarized_at": "2026-07-09T10:13:06.173507+00:00"
+    },
+    {
+      "headline": "World Cup Crowds Give Manhattan Bars a Summer Boost",
+      "bullets": [
+        "World Cup Crowds Give Manhattan Bars a Summer Boost International fans and neighborhood regulars are filling tables as soccer and cultural traditions draw packed crowds across the city.",
+        "Some establishments are reporting a 30 percent surge in business, offsetting the usual summer slowdown."
+      ],
+      "summary": "World Cup Crowds Give Manhattan Bars a Summer Boost",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "World Cup Crowds Give Manhattan Bars a Summer Boost",
+        "article_url": "https://www.ourtownny.com/food-drink/world-cup-crowds-give-manhattan-bars-a-summer-boost-JA6002803",
+        "published_at": "2026-07-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-09T10:13:06.274102+00:00"
+    },
+    {
+      "headline": "2026 Emmy nominations sport a slew of shocking snubs and",
+      "bullets": [
+        "Every year, the awards for television\u2019s best are full of seeming shoe-ins, but as the Emmy nominations were announced Wednesday, the snubs and surprises made themselves known.",
+        "Sure, \u201cThe Pitt,\u201d \u201cLove Story\u201d and \u201cWidow\u2019s Bay\u201d all made the cut \u2014 albeit not in all the categories for which they were originally predicted \u2014 and there were plenty of series that ended up left out in the cold, and others that snuck in right past them."
+      ],
+      "summary": "2026 Emmy nominations sport a slew of shocking snubs and",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "2026 Emmy nominations sport a slew of shocking snubs and surprises",
+        "article_url": "https://www.nydailynews.com/2026/07/08/snubs-surprises-2026-emmy-nominations/",
+        "published_at": "2026-07-08T19:09:32+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-09T10:13:06.341910+00:00"
+    },
+    {
+      "headline": "Second suspect arrested in slay of former friend and theft",
+      "bullets": [
+        "A second suspect accused in the fatal shooting of his former friend and theft of his diamond jewelry in a plot that involved placing a tracking device on the victim\u2019s car and tracing it to his Bronx home, has been arrested more than a year after the crime, police said on Wednesday.",
+        "Welfy Espinal, 25, and Lenyn Toribio, 27, were charged in a federal indictment unsealed in June with interstate stalking resulting in death for the shocking slay of 24-year-old Jeremy Ortega in April 2025."
+      ],
+      "summary": "Second suspect arrested in slay of former friend and theft",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Second suspect arrested in slay of former friend and theft of diamond jewelry in Bronx: cops",
+        "article_url": "https://www.nydailynews.com/2026/07/08/second-suspect-arrested-in-slay-of-former-friend-and-theft-of-diamond-jewelry-in-bronx-cops/",
+        "published_at": "2026-07-08"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-09T10:13:06.411751+00:00"
+    },
+    {
+      "headline": "MTA construction worker rescued after falling into 10-foot trench",
+      "bullets": [
+        "NEW YORK CITY - A major emergency response flooded the streets of East Harlem on Wednesday morning after a construction worker fell into a 10-foot trench, triggering a complex rescue operation.",
+        "What we know: Emergency crews arrived within three minutes after receiving a 911 call about a worker trapped in a ditch at the intersection of 108th Street and Second Avenue around 9:30 a.m."
+      ],
+      "summary": "MTA construction worker rescued after falling into 10-foot trench",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "MTA construction worker rescued after falling into 10-foot trench",
+        "article_url": "https://www.fox5ny.com/news/mta-construction-worker-rescued-after-falling-10-foot-trench-construction-site",
+        "published_at": "2026-07-08"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-09T10:13:06.478696+00:00"
+    },
+    {
+      "headline": "City To Release Addresses Of Buildings With Positive Legionella Tests",
+      "bullets": [
+        "City To Release Addresses Of Buildings With Positive Legionella Tests On UES Mayor Zohran Mamdani announced unprecedented emergency measures as the Upper East Side outbreak has sickened 23 people and hospitalized 17.",
+        "UPPER EAST SIDE, NY \u2014 New York City will begin publicly naming buildings whose cooling towers initially test positive for Legionella bacteria as officials ramp up their response to the Upper East Side Legionnaires' disease outbreak that has sickened at least 28 people."
+      ],
+      "summary": "City To Release Addresses Of Buildings With Positive Legionella Tests",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "City To Release Addresses Of Buildings With Positive Legionella Tests On UES",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/ues-legionnaires-response-intensifies-mamdani-pledges-name-positive",
+        "published_at": "2026-07-08T17:31:29+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-09T10:13:06.550728+00:00"
+    },
+    {
+      "headline": "Mayor vows disclosure of UES buildings that test positive for",
+      "bullets": [
+        "Mayor Zohran Mamdani is vowing to release the addresses of all buildings whose water-cooling towers test positive for Legionella, the bacteria that cause Legionnaires\u2019 disease, as the city investigates the source of an outbreak of severe pneumonia on Manhattan\u2019s Upper East Side.",
+        "\u201cWhen there\u2019s a public health threat, New Yorkers deserve urgency and transparency from their government,\u201d Mamdani said of the pledge Tuesday afternoon, ahead of an evening town hall on the Upper East Side, where at least a hundred people turned out to learn about the current outbreak and steps being taken by the city to contain it."
+      ],
+      "summary": "Mayor vows disclosure of UES buildings that test positive for",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Mayor vows disclosure of UES buildings that test positive for Legionella contamination",
+        "article_url": "https://gothamist.com/news/mamdani-vows-disclosure-of-ues-buildings-that-test-positive-for-legionella-contamination",
+        "published_at": "2026-07-08T14:53:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-09T10:13:06.615782+00:00"
+    },
+    {
+      "headline": "New York City's trash is causing a stink in this",
+      "bullets": [
+        "An upstate landfill that receives a sizable amount of New York City\u2019s waste is pushing plans to expand, but neighbors say the dump is already way too big and smelly.",
+        "The Seneca Meadows landfill, situated between Seneca Falls and Waterloo, is stuck in legal limbo."
+      ],
+      "summary": "New York City's trash is causing a stink in this",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "New York City's trash is causing a stink in this upstate town",
+        "article_url": "https://gothamist.com/news/new-york-citys-trash-is-causing-a-stink-in-this-upstate-town",
+        "published_at": "2026-07-08T15:01:02+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-09T10:13:06.711463+00:00"
+    },
+    {
+      "headline": "Midtown neighborhood remains in limbo a day after structural emergency",
+      "bullets": [
+        "Traffic restrictions continued and several buildings in a busy stretch of Midtown remained under an emergency evacuation order early Wednesday \u2014 a day after a structural failure at a building being converted into apartments disrupted the area.",
+        "Officials from the city\u2019s Office of Emergency Management said the affected addresses include an Episcopal Church building at 815 Second Ave., the Mission of India at 235 East 43rd St., a Hampton Inn at 231 East 43rd St., a commercial building at 225 East 43rd St., and the ground floor restaurant of an apartment building at 217 East 43rd St."
+      ],
+      "summary": "Midtown neighborhood remains in limbo a day after structural emergency",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Midtown neighborhood remains in limbo a day after structural emergency shut down blocks",
+        "article_url": "https://gothamist.com/news/midtown-neighborhood-spent-a-day-in-limbo-as-structural-emergency-shut-down-blocks",
+        "published_at": "2026-07-08T12:03:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-09T10:13:06.800596+00:00"
+    },
+    {
+      "headline": "Clearwater Sloop Booted from Boat Parade Over Advocacy Banners",
+      "bullets": [
+        "Clearwater Sloop Booted from Boat Parade Over Advocacy Banners The U.S.",
+        "Coast Guard made the historic vessel withdraw from the July 4th celebration featuring warships and aircraft from across the world due to politically-charged banners."
+      ],
+      "summary": "Clearwater Sloop Booted from Boat Parade Over Advocacy Banners",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Clearwater Sloop Booted from Boat Parade Over Advocacy Banners",
+        "article_url": "https://www.ourtownny.com/news/clearwater-sloop-booted-from-boat-parade-over-advocacy-banners-NC6004942",
+        "published_at": "2026-07-08"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-09T10:13:06.869253+00:00"
+    },
+    {
+      "headline": "Why Americans are flocking to this Florida retirement hot spot",
+      "bullets": [
+        "A community on Florida's Gulf Coast has seen a large influx of new residents from the Midwest who are driving the area's rapid growth.",
+        "The population of Sarasota County, Florida, has grown 12.4% over the five years leading up to April 2025, according to Florida's Bureau of Economic and Business Research (BEBR)."
+      ],
+      "summary": "Why Americans are flocking to this Florida retirement hot spot",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Why Americans are flocking to this Florida retirement hot spot",
+        "article_url": "https://www.fox5ny.com/news/why-americans-flocking-florida-retirement-hot-spot",
+        "published_at": "2026-07-08"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-09T10:13:06.955931+00:00"
+    },
+    {
+      "headline": "Bonnie Tyler, who sang \"Total Eclipse of the Heart,\" dies",
+      "bullets": [
+        "London \u2014 Bonnie Tyler, the gravelly voiced, Grammy-nominated Welsh pop star best known for singing the chart-topping power ballad \"Total Eclipse of the Heart\" in 1983 and seeing new generations succumb to its bombastic charms during solar and lunar eclipses, has died.",
+        "She was 75."
+      ],
+      "summary": "Bonnie Tyler, who sang \"Total Eclipse of the Heart,\" dies",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Bonnie Tyler, who sang \"Total Eclipse of the Heart,\" dies at 75",
+        "article_url": "https://www.cbsnews.com/newyork/news/bonnie-tyler-total-eclipse-of-the-heart-dead-75/",
+        "published_at": "2026-07-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-09T10:13:07.022300+00:00"
+    },
+    {
+      "headline": "Live Updates: U.S., Iran trade more strikes after Trump says",
+      "bullets": [
+        "What to know about the Iran war today: - The U.S.",
+        "military launched a against Iranian targets late Wednesday, saying it was retaliating against Iran for attacking commercial ships earlier this week."
+      ],
+      "summary": "Live Updates: U.S., Iran trade more strikes after Trump says",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Live Updates: U.S., Iran trade more strikes after Trump says ceasefire is \"over\"",
+        "article_url": "https://www.cbsnews.com/newyork/live-updates/us-iran-war-trump-says-ceasefire-over/",
+        "published_at": "2026-07-08"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-09T10:13:07.096708+00:00"
+    }
+  ]
+}
