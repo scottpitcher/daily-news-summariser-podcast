@@ -414,6 +414,10 @@ PIPELINE_STAGES: Final[dict[str, dict[str, object]]] = {
         "enabled": True,
         "output_dir": BASE_DIR / "data" / "ranked_articles",
     },
+    "verify_articles": {
+        "enabled": True,
+        "output_dir": BASE_DIR / "data" / "processed" / "verified",
+    },
     "summarize_articles": {
         "enabled": True,
         "output_dir": BASE_DIR / "data" / "summaries",
@@ -580,6 +584,20 @@ MODELS: Final[dict[str, dict[str, object]]] = {
         "speed": float(_get_env("TTS_SPEED", "1.0")),
         "api_key": _get_env("OPENAI_TTS_API_KEY"),
         "target_duration_minutes": BRIEFING_OUTPUT["target_audio_duration_minutes"],
+    },
+    "verification": {
+        # Verification reuses the summarization provider/model/credentials so it
+        # only needs to add tool-calling capability, not a second LLM account.
+        "provider": _get_env("SUMMARIZATION_PROVIDER", "cerebras"),
+        "model": _get_env("VERIFICATION_MODEL") or _get_env("SUMMARIZATION_MODEL", "llama3.1-8b"),
+        "temperature": float(_get_env("VERIFICATION_TEMPERATURE", "0.1")),
+        "max_tokens": int(_get_env("VERIFICATION_MAX_TOKENS", "600")),
+        "api_key": _get_env("SUMMARIZATION_API_KEY") or _get_env("HF_API_TOKEN"),
+        "base_url": _get_env("SUMMARIZATION_BASE_URL") or _get_env("HF_BASE_URL", "https://api.cerebras.ai/v1"),
+        "search_provider": _get_env("VERIFICATION_SEARCH_PROVIDER", "tavily"),
+        "search_api_key": _get_env("VERIFICATION_SEARCH_API_KEY") or _get_env("TAVILY_API_KEY"),
+        "search_base_url": _get_env("VERIFICATION_SEARCH_BASE_URL", "https://api.tavily.com"),
+        "max_search_results": _get_int_env("VERIFICATION_MAX_SEARCH_RESULTS", 3),
     },
 }
 

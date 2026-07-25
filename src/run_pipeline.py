@@ -23,6 +23,7 @@ import fetch_sources
 import rank_articles
 import summarize_articles
 import tag_articles
+import verify_articles
 
 
 BASE_DIR = Path(__file__).resolve().parent
@@ -191,6 +192,44 @@ def run_rank_articles(run_date: str, run_time: datetime) -> dict[str, Any]:
         "input_file": str(input_path),
         "output_file": str(output_path),
         "ranking_stats": stats,
+    }
+
+
+def run_verify_articles(run_date: str, run_time: datetime) -> dict[str, Any]:
+    """Run the per-story agentic verification stage and return artifact metadata."""
+    input_path = verify_articles.resolve_input_file(
+        input_dir=verify_articles.DEFAULT_INPUT_DIR,
+        run_date=run_date,
+    )
+    payload = verify_articles.load_payload(input_path)
+    selected_articles = verify_articles.collect_selected_articles(payload)
+
+    output_dir = verify_articles.DEFAULT_OUTPUT_DIR
+    output_dir.mkdir(parents=True, exist_ok=True)
+    selected_by_issue, stats = verify_articles.verify_articles(
+        articles=selected_articles,
+        provider=verify_articles.DEFAULT_PROVIDER,
+        api_key=str(verify_articles.DEFAULT_API_KEY) if verify_articles.DEFAULT_API_KEY else None,
+        base_url=verify_articles.DEFAULT_API_BASE,
+        model=verify_articles.DEFAULT_MODEL,
+        temperature=verify_articles.DEFAULT_TEMPERATURE,
+        max_tokens=verify_articles.DEFAULT_MAX_TOKENS,
+        timeout=verify_articles.DEFAULT_TIMEOUT_SECONDS,
+        search_api_key=str(verify_articles.DEFAULT_SEARCH_API_KEY) if verify_articles.DEFAULT_SEARCH_API_KEY else None,
+        search_base_url=verify_articles.DEFAULT_SEARCH_BASE_URL,
+        max_search_results=verify_articles.DEFAULT_MAX_SEARCH_RESULTS,
+    )
+    output_path = verify_articles.write_verified_json(
+        selected_by_issue=selected_by_issue,
+        stats=stats,
+        output_dir=output_dir,
+        run_time=run_time,
+        source_file=input_path,
+    )
+    return {
+        "input_file": str(input_path),
+        "output_file": str(output_path),
+        "verification_stats": stats,
     }
 
 
@@ -467,6 +506,16 @@ def main() -> int:
     rank_result = run_stage("rank_articles", run_rank_articles, run_date, stage_run_time)
     stage_results.append(rank_result)
     if stage_failed(rank_result):
+        run_ended_at = iso_now()
+        summary = build_run_summary(stage_results, run_started_at, run_ended_at)
+        summary_path = write_run_summary(summary, run_id)
+        LOGGER.info("Pipeline finished with status %s", summary["pipeline_status"])
+        LOGGER.info("Run summary written to %s", summary_path)
+        return 1
+
+    verify_result = run_stage("verify_articles", run_verify_articles, run_date, stage_run_time)
+    stage_results.append(verify_result)
+    if stage_failed(verify_result):
         run_ended_at = iso_now()
         summary = build_run_summary(stage_results, run_started_at, run_ended_at)
         summary_path = write_run_summary(summary, run_id)

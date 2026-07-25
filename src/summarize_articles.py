@@ -22,7 +22,7 @@ import requests
 from config import BASE_DIR, MODELS
 
 
-DEFAULT_INPUT_DIR = BASE_DIR / "data" / "processed" / "ranked"
+DEFAULT_INPUT_DIR = BASE_DIR / "data" / "processed" / "verified"
 DEFAULT_OUTPUT_DIR = BASE_DIR / "data" / "processed" / "article_summaries"
 DEFAULT_OUTPUT_PREFIX = "article_summaries"
 DEFAULT_TIMEOUT_SECONDS = 30
@@ -79,19 +79,19 @@ def resolve_input_file(
     input_file: Path | None = None,
     run_date: str | None = None,
 ) -> Path:
-    """Resolve which ranked-article file this run should process."""
+    """Resolve which verified-article file this run should process."""
     if input_file is not None:
         return input_file
 
     if run_date is not None:
-        dated_path = input_dir / f"ranked_articles_{run_date}.json"
+        dated_path = input_dir / f"verified_articles_{run_date}.json"
         if dated_path.exists():
             return dated_path
-        raise FileNotFoundError(f"Ranked article file not found for date: {run_date}")
+        raise FileNotFoundError(f"Verified article file not found for date: {run_date}")
 
-    input_files = sorted(input_dir.glob("ranked_articles_*.json"))
+    input_files = sorted(input_dir.glob("verified_articles_*.json"))
     if not input_files:
-        raise FileNotFoundError(f"No ranked article files found in {input_dir}")
+        raise FileNotFoundError(f"No verified article files found in {input_dir}")
 
     return input_files[-1]
 
@@ -147,12 +147,19 @@ def build_user_prompt(article: dict[str, Any], target_summary_words: int) -> str
         "target_summary_words": target_summary_words,
         "article_text": article_text,
     }
+    verification_caveat = normalize_text(str(article.get("verification_caveat") or ""))
+    caveat_instruction = (
+        f'- Verification caveat to fold into "so_what" or a bullet: {verification_caveat}\n'
+        if verification_caveat
+        else ""
+    )
     return (
         "Summarize the following news article for a daily briefing.\n"
         "Return valid JSON with keys:\n"
         '- "headline": short rewritten title (5-10 words, not the original headline)\n'
         '- "bullets": array of 1-2 key facts (each under 25 words)\n'
-        '- "so_what": 1 specific sentence on how this connects to NYC policy, legislation, city services, or daily life for New Yorkers (never generic)\n\n'
+        '- "so_what": 1 specific sentence on how this connects to NYC policy, legislation, city services, or daily life for New Yorkers (never generic)\n'
+        f"{caveat_instruction}\n"
         f"{json.dumps(prompt_payload, ensure_ascii=True)}"
     )
 
@@ -310,6 +317,7 @@ def build_summary_record(
         "summary_method": "llm_api" if summary_status == "generated" else "fallback",
         "failure_reason": failure_reason,
         "summarized_at": summarized_at,
+        "verification": article.get("verification"),
     }
 
 
