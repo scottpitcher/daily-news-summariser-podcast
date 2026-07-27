@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-07-27T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-07-27.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "3 dead, 4 injured in shooting at Seattle Center",
+      "bullets": [
+        "SEATTLE - Three people were killed and four others were injured in a shooting at Seattle Center Sunday afternoon.",
+        "Seattle police confirmed that a shooting occurred during the Bite of Seattle event at 6 p.m."
+      ],
+      "summary": "3 dead, 4 injured in shooting at Seattle Center",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "3 dead, 4 injured in shooting at Seattle Center",
+        "article_url": "https://www.fox5ny.com/news/multiple-people-shot-seattle-center",
+        "published_at": "2026-07-26"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-27T10:20:30.899076+00:00",
+      "verification": {
+        "article_title": "3 dead, 4 injured in shooting at Seattle Center",
+        "article_url": "https://www.fox5ny.com/news/multiple-people-shot-seattle-center",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is from a local source and provides details from multiple officials, making it likely to be accurate.",
+        "verified_at": "2026-07-27T10:20:28.912563+00:00"
+      }
+    },
+    {
+      "headline": "Will Mamdani \u2018stop the chop?\u2019 Helicopter foes look to mayor",
+      "bullets": [
+        "Longtime opponents of helicopters in New York City are hoping Mayor Zohran Mamdani will end their decades-old battle against noise by keeping a campaign promise to restrict flights from city-owned heliports.",
+        "In a new twist, some are appealing to Mamdani\u2019s political identity as a democratic socialist willing to clash with billionaires."
+      ],
+      "summary": "Will Mamdani \u2018stop the chop?\u2019 Helicopter foes look to mayor",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Will Mamdani \u2018stop the chop?\u2019 Helicopter foes look to mayor to quiet the skies.",
+        "article_url": "https://gothamist.com/news/will-mamdani-stop-the-chop-helicopter-foes-look-to-mayor-to-quiet-the-skies",
+        "published_at": "2026-07-26T11:00:56+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-27T10:20:30.949496+00:00",
+      "verification": {
+        "article_title": "Will Mamdani \u2018stop the chop?\u2019 Helicopter foes look to mayor to quiet the skies.",
+        "article_url": "https://gothamist.com/news/will-mamdani-stop-the-chop-helicopter-foes-look-to-mayor-to-quiet-the-skies",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-27T10:20:29.537911+00:00"
+      }
+    },
+    {
+      "headline": "3 dead, 4 injured in shooting at Seattle Center during",
+      "bullets": [
+        "The shooting occurred during Bite of Seattle, an annual food festival.",
+        "SEATTLE -- Three people are dead and four others are injured after shots rang out at the Bite of Seattle food festival at the Seattle Center on Sunday, according to officials."
+      ],
+      "summary": "3 dead, 4 injured in shooting at Seattle Center during",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "3 dead, 4 injured in shooting at Seattle Center during food festival, officials say",
+        "article_url": "https://abc7ny.com/post/seattle-shooting-officers-respond-multiple-victims-center-police-say/19582487/",
+        "published_at": "2026-07-27"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-27T10:20:30.996401+00:00",
+      "verification": {
+        "article_title": "3 dead, 4 injured in shooting at Seattle Center during food festival, officials say",
+        "article_url": "https://abc7ny.com/post/seattle-shooting-officers-respond-multiple-victims-center-police-say/19582487/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-27T10:20:29.656381+00:00"
+      }
+    },
+    {
+      "headline": "Showdown Time: Schneps Reporters Seeking to Unionize Head to Vote",
+      "bullets": [
+        "Showdown Time: Schneps Reporters Seeking to Unionize Head to Vote Union organizers at the privately owned publisher say low wages and poor health plan coverage have prompted the union organizing effort at the family-owned company headed by CEO Joshua Schneps and his mother, president Vicki Schneps-Yunis.",
+        "Schneps Media, which publishes a string of local newspapers from Manhattan to the Hamptons, is under fire from its editorial employees who are pushing to unionize with a vote set for July 24."
+      ],
+      "summary": "Showdown Time: Schneps Reporters Seeking to Unionize Head to Vote",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Showdown Time: Schneps Reporters Seeking to Unionize Head to Vote",
+        "article_url": "https://www.ourtownny.com/news/showdown-time-schneps-reporters-seeking-to-unionize-head-to-vote-AL6049398",
+        "published_at": "2026-07-26"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-27T10:20:31.142025+00:00",
+      "verification": {
+        "article_title": "Showdown Time: Schneps Reporters Seeking to Unionize Head to Vote",
+        "article_url": "https://www.ourtownny.com/news/showdown-time-schneps-reporters-seeking-to-unionize-head-to-vote-AL6049398",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-27T10:20:29.741517+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on horse carriage workers, healthy movement and",
+      "bullets": [
+        "Consider the people who are the industry Manhattan: Bravo to the Daily News for its courageous and insightful editorial \u201cHold the horses on City Council\u2019s carriage ban\u201d (July 20).",
+        "Why would the City Council want to ban such a time-honored tradition such as the horse carriage industry in Central Park?"
+      ],
+      "summary": "Readers sound off on horse carriage workers, healthy movement and",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on horse carriage workers, healthy movement and socialism\u2019s benefits",
+        "article_url": "https://www.nydailynews.com/2026/07/27/readers-sound-off-on-horse-carriage-workers-healthy-movement-and-socialisms-benefits/",
+        "published_at": "2026-07-27"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-27T10:20:31.305350+00:00",
+      "verification": {
+        "article_title": "Readers sound off on horse carriage workers, healthy movement and socialism\u2019s benefits",
+        "article_url": "https://www.nydailynews.com/2026/07/27/readers-sound-off-on-horse-carriage-workers-healthy-movement-and-socialisms-benefits/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-27T10:20:29.808357+00:00"
+      }
+    },
+    {
+      "headline": "For some, so-called 'Skynet Day' came too close to sci-fi",
+      "bullets": [
+        "SAN FRANCISCO -- To be fair, James Cameron did warn us.",
+        "Long before OpenAI broke out of its test corral and hacked into Hugging Face, before the internet and Sam Altman were even born, Cameron wrote a screenplay about an autonomous artificial intelligence system that triggers a nuclear apocalypse."
+      ],
+      "summary": "For some, so-called 'Skynet Day' came too close to sci-fi",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "For some, so-called 'Skynet Day' came too close to sci-fi after a rogue agent hacked into a startup",
+        "article_url": "https://abc7ny.com/post/called-skynet-day-came-close-sci-fi-rogue-openai-agent-hacked-startup/19580875/",
+        "published_at": "2026-07-26"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-27T10:20:31.356450+00:00",
+      "verification": {
+        "article_title": "For some, so-called 'Skynet Day' came too close to sci-fi after a rogue agent hacked into a startup",
+        "article_url": "https://abc7ny.com/post/called-skynet-day-came-close-sci-fi-rogue-openai-agent-hacked-startup/19580875/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-27T10:20:29.893857+00:00"
+      }
+    },
+    {
+      "headline": "Amazon Crime: E-bike Driver Hits Pedestrian, Charged with Assault",
+      "bullets": [
+        "Amazon Crime: E-bike Driver Hits Pedestrian, Charged with Assault Words were exchanged between a delivery driver of an Amazon e-van delivery vehicle and a 79 year-old man.",
+        "The driver is charged with two counts of felony assault after cops said after the exchange, he deliberately drove into the pedestrian, knocking him to the ground."
+      ],
+      "summary": "Amazon Crime: E-bike Driver Hits Pedestrian, Charged with Assault",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Amazon Crime: E-bike Driver Hits Pedestrian, Charged with Assault",
+        "article_url": "https://www.ourtownny.com/news/amazon-crime-e-bike-driver-hits-pedestrian-charged-with-assault-DE6060467",
+        "published_at": "2026-07-26"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-27T10:20:31.410513+00:00",
+      "verification": {
+        "article_title": "Amazon Crime: E-bike Driver Hits Pedestrian, Charged with Assault",
+        "article_url": "https://www.ourtownny.com/news/amazon-crime-e-bike-driver-hits-pedestrian-charged-with-assault-DE6060467",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-27T10:20:29.957252+00:00"
+      }
+    },
+    {
+      "headline": "Jogger emerges from coma after e-biker hits her in Central",
+      "bullets": [
+        "A 43-year-old Upper West Side woman has emerged from a coma nearly two weeks after being mowed down by an e-biker while jogging in Central Park and left with a traumatic brain injury \u2014 but her full recovery is far from assured, relatives fear.",
+        "The coming weeks will likely tell what lies ahead for the woman, only identified by her family as Jean."
+      ],
+      "summary": "Jogger emerges from coma after e-biker hits her in Central",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Jogger emerges from coma after e-biker hits her in Central Park, faces long recovery",
+        "article_url": "https://www.nydailynews.com/2026/07/25/jogger-emerges-coma-e-biker-hits-her-central-park/",
+        "published_at": "2026-07-25"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-27T10:20:31.462869+00:00",
+      "verification": {
+        "article_title": "Jogger emerges from coma after e-biker hits her in Central Park, faces long recovery",
+        "article_url": "https://www.nydailynews.com/2026/07/25/jogger-emerges-coma-e-biker-hits-her-central-park/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-27T10:20:30.042014+00:00"
+      }
+    },
+    {
+      "headline": "Suspect in deadly Berlin LGBTQ+ parade vehicle crash is killed,",
+      "bullets": [
+        "The 21-year-old suspect was shot and killed by police, officials said.",
+        "LONDON -- The man suspected of allegedly driving a vehicle into a crowd during Berlin's LGBTQ+ celebrations on Saturday, killing one person and injuring several others, has been killed, police said."
+      ],
+      "summary": "Suspect in deadly Berlin LGBTQ+ parade vehicle crash is killed,",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Suspect in deadly Berlin LGBTQ+ parade vehicle crash is killed, police say",
+        "article_url": "https://abc7ny.com/post/berlin-police-seek-21-year-old-vehicle-crashes-crowd-during-lgbtq-parade/19580320/",
+        "published_at": "2026-07-26"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-27T10:20:31.549170+00:00",
+      "verification": {
+        "article_title": "Suspect in deadly Berlin LGBTQ+ parade vehicle crash is killed, police say",
+        "article_url": "https://abc7ny.com/post/berlin-police-seek-21-year-old-vehicle-crashes-crowd-during-lgbtq-parade/19580320/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-27T10:20:30.110459+00:00"
+      }
+    },
+    {
+      "headline": "2 women sought in apparent road rage killing of man",
+      "bullets": [
+        "The NYPD is looking for two women suspected of killing a man in a road rage attack in Queens.",
+        "It happened just after 1 a.m."
+      ],
+      "summary": "2 women sought in apparent road rage killing of man",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "2 women sought in apparent road rage killing of man on NYC's Belt Parkway. Here's what we know.",
+        "article_url": "https://www.cbsnews.com/newyork/news/road-rage-killing-belt-parkway-queens/",
+        "published_at": "2026-07-26"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-27T10:20:31.597663+00:00",
+      "verification": {
+        "article_title": "2 women sought in apparent road rage killing of man on NYC's Belt Parkway. Here's what we know.",
+        "article_url": "https://www.cbsnews.com/newyork/news/road-rage-killing-belt-parkway-queens/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-27T10:20:30.203051+00:00"
+      }
+    },
+    {
+      "headline": "Politicos Divided Over How City Handled UES Legionnaires\u00e2 Disease Outbreak",
+      "bullets": [
+        "Politicos Divided Over How City Handled UES Legionnaires\u00e2 Disease Outbreak Several council members, led by Speaker Julie Menin, criticized the Mamdani Administration\u00e2s response to the latest deadly outbreak.",
+        "Mamdani defended the City response and NYS Senator Liz Krueger also praised the Health Department\u00e2s response."
+      ],
+      "summary": "Politicos Divided Over How City Handled UES Legionnaires\u00e2 Disease Outbreak",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Politicos Divided Over How City Handled UES Legionnaires\u00e2 Disease Outbreak",
+        "article_url": "https://www.ourtownny.com/news/politicos-divided-over-how-city-handled-ues-legionnaires-disease-outbreak-DF6052126",
+        "published_at": "2026-07-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-27T10:20:31.722399+00:00",
+      "verification": {
+        "article_title": "Politicos Divided Over How City Handled UES Legionnaires\u00e2 Disease Outbreak",
+        "article_url": "https://www.ourtownny.com/news/politicos-divided-over-how-city-handled-ues-legionnaires-disease-outbreak-DF6052126",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-27T10:20:30.288181+00:00"
+      }
+    },
+    {
+      "headline": "Man dies in solitary confinement at MDC Brooklyn; sources suspect",
+      "bullets": [
+        "A 25-year-old man with \u201csevere, persistent mental illness\u201d has died in solitary confinement in the MDC Brooklyn federal jail \u2014 the second death in the notorious lock-up in the last three months.",
+        "Godfrie Cole was found unresponsive in his cell in the Sunset Park jail\u2019s segregated housing unit on Tuesday, with pills nearby according to sources familiar with his death."
+      ],
+      "summary": "Man dies in solitary confinement at MDC Brooklyn; sources suspect",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Man dies in solitary confinement at MDC Brooklyn; sources suspect OD",
+        "article_url": "https://www.nydailynews.com/2026/07/26/godfrie-cole-mdc-brooklyn-dead-suspected-od-solitary/",
+        "published_at": "2026-07-26"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-27T10:20:31.813555+00:00",
+      "verification": {
+        "article_title": "Man dies in solitary confinement at MDC Brooklyn; sources suspect OD",
+        "article_url": "https://www.nydailynews.com/2026/07/26/godfrie-cole-mdc-brooklyn-dead-suspected-od-solitary/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-27T10:20:30.372351+00:00"
+      }
+    },
+    {
+      "headline": "ICE plans to target Haitians as Temporary Protected Status is",
+      "bullets": [
+        "U.S.",
+        "Immigration and Customs Enforcement has made plans to ramp up operations to arrest and deport Haitian migrants, as hundreds of thousands of Haitians brace for the termination of their legal status, according to two agency sources and federal documents obtained by CBS News."
+      ],
+      "summary": "ICE plans to target Haitians as Temporary Protected Status is",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "ICE plans to target Haitians as Temporary Protected Status is set to end, sources say",
+        "article_url": "https://www.cbsnews.com/newyork/news/ice-haitian-migrants-arrest-deport-temporary-protected-status/",
+        "published_at": "2026-07-26"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-27T10:20:31.861400+00:00",
+      "verification": {
+        "article_title": "ICE plans to target Haitians as Temporary Protected Status is set to end, sources say",
+        "article_url": "https://www.cbsnews.com/newyork/news/ice-haitian-migrants-arrest-deport-temporary-protected-status/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-27T10:20:30.460549+00:00"
+      }
+    },
+    {
+      "headline": "Man dies in solitary confinement at MDC Brooklyn; sources suspect",
+      "bullets": [
+        "A 25-year-old man with \u201csevere, persistent mental illness\u201d has died in solitary confinement in the MDC Brooklyn federal jail \u2014 the second death in the notorious lock-up in the last three months.",
+        "Godfrie Cole was found unresponsive in his cell in the Sunset Park jail\u2019s segregated housing unit on Tuesday, with pills nearby according to sources familiar with his death."
+      ],
+      "summary": "Man dies in solitary confinement at MDC Brooklyn; sources suspect",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Man dies in solitary confinement at MDC Brooklyn; sources suspect OD",
+        "article_url": "https://www.nydailynews.com/2026/07/26/godfrie-cole-mdc-brooklyn-dead-suspected-od-solitary/",
+        "published_at": "2026-07-26"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-27T10:20:31.920577+00:00",
+      "verification": {
+        "article_title": "Man dies in solitary confinement at MDC Brooklyn; sources suspect OD",
+        "article_url": "https://www.nydailynews.com/2026/07/26/godfrie-cole-mdc-brooklyn-dead-suspected-od-solitary/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-27T10:20:30.512710+00:00"
+      }
+    },
+    {
+      "headline": "Shooting at food festival near Seattle's Space Needle leaves 3",
+      "bullets": [
+        "Three people were killed and four others wounded in a shooting at a food festival near Seattle's Space Needle on Sunday evening, police said.",
+        "A suspect was arrested and another was being sought, they said."
+      ],
+      "summary": "Shooting at food festival near Seattle's Space Needle leaves 3",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Shooting at food festival near Seattle's Space Needle leaves 3 dead, 4 wounded, authorities say",
+        "article_url": "https://www.cbsnews.com/newyork/news/seattle-shooting-bite-of-seattle/",
+        "published_at": "2026-07-26"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-27T10:20:32.001475+00:00",
+      "verification": {
+        "article_title": "Shooting at food festival near Seattle's Space Needle leaves 3 dead, 4 wounded, authorities say",
+        "article_url": "https://www.cbsnews.com/newyork/news/seattle-shooting-bite-of-seattle/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-27T10:20:30.565569+00:00"
+      }
+    },
+    {
+      "headline": "Politicos Divided Over How City Handled UES Legionnaires\u00e2 Disease Outbreak",
+      "bullets": [
+        "Politicos Divided Over How City Handled UES Legionnaires\u00e2 Disease Outbreak Several council members, led by Speaker Julie Menin, criticized the Mamdani Administration\u00e2s response to the latest deadly outbreak.",
+        "Mamdani defended the City response and NYS Senator Liz Krueger also praised the Health Department\u00e2s response."
+      ],
+      "summary": "Politicos Divided Over How City Handled UES Legionnaires\u00e2 Disease Outbreak",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Politicos Divided Over How City Handled UES Legionnaires\u00e2 Disease Outbreak",
+        "article_url": "https://www.ourtownny.com/news/politicos-divided-over-how-city-handled-ues-legionnaires-disease-outbreak-DF6052126",
+        "published_at": "2026-07-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-27T10:20:32.055153+00:00",
+      "verification": {
+        "article_title": "Politicos Divided Over How City Handled UES Legionnaires\u00e2 Disease Outbreak",
+        "article_url": "https://www.ourtownny.com/news/politicos-divided-over-how-city-handled-ues-legionnaires-disease-outbreak-DF6052126",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-27T10:20:30.649530+00:00"
+      }
+    },
+    {
+      "headline": "All NYC ride share apps must obey all the rules",
+      "bullets": [
+        "New York City is all about competition and we welcome any new ride share apps to take on the duopoly of Uber and Lyft.",
+        "But the newcomers have to follow all the laws and rules as laid down by the Taxi & Limousine Commission or there will be chaos on the streets."
+      ],
+      "summary": "All NYC ride share apps must obey all the rules",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "All NYC ride share apps must obey all the rules",
+        "article_url": "https://www.nydailynews.com/2026/07/27/all-nyc-ride-share-apps-must-obey-all-the-rules/",
+        "published_at": "2026-07-27"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-27T10:20:32.102882+00:00",
+      "verification": {
+        "article_title": "All NYC ride share apps must obey all the rules",
+        "article_url": "https://www.nydailynews.com/2026/07/27/all-nyc-ride-share-apps-must-obey-all-the-rules/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-27T10:20:30.699430+00:00"
+      }
+    },
+    {
+      "headline": "Bike Lane Becomes Flashpoint in Park Avenue Vision Project",
+      "bullets": [
+        "Bike Lane Becomes Flashpoint in Park Avenue Vision Project As new renderings of the Park Avenue Vision Project circulate, New Yorkers are divided over a proposed bike lane, traffic impacts, and the future of Midtown\u00e2s iconic median.",
+        "The Park Avenue Vision Project moved forward last week after the city approved $39 million outlay to advance the redesign of the avenue\u00e2s iconic median."
+      ],
+      "summary": "Bike Lane Becomes Flashpoint in Park Avenue Vision Project",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Bike Lane Becomes Flashpoint in Park Avenue Vision Project",
+        "article_url": "https://www.ourtownny.com/news/bike-lane-becomes-flashpoint-in-park-avenue-vision-project-MX6055439",
+        "published_at": "2026-07-25"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-27T10:20:32.153828+00:00",
+      "verification": {
+        "article_title": "Bike Lane Becomes Flashpoint in Park Avenue Vision Project",
+        "article_url": "https://www.ourtownny.com/news/bike-lane-becomes-flashpoint-in-park-avenue-vision-project-MX6055439",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-27T10:20:30.756965+00:00"
+      }
+    }
+  ]
+}
