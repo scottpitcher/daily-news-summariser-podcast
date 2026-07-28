@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-07-28T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-07-28.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Shootout that killed 3 at food festival near Seattle's Space",
+      "bullets": [
+        "SEATTLE -- There were at least three suspects involved in a shootout at a crowded food festival near Seattle's Space Needle over the weekend, police said Monday.",
+        "One of them was among those killed in the violence."
+      ],
+      "summary": "Shootout that killed 3 at food festival near Seattle's Space",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Shootout that killed 3 at food festival near Seattle's Space Needle may have been gang-related",
+        "article_url": "https://abc7ny.com/post/police-believe-were-bite-seattle-shooting-suspects-victims-shootout-space-needle-idd/19588000/",
+        "published_at": "2026-07-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-28T09:54:59.938106+00:00",
+      "verification": {
+        "article_title": "Shootout that killed 3 at food festival near Seattle's Space Needle may have been gang-related",
+        "article_url": "https://abc7ny.com/post/police-believe-were-bite-seattle-shooting-suspects-victims-shootout-space-needle-idd/19588000/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides details from multiple officials and witnesses.",
+        "verified_at": "2026-07-28T09:54:57.783962+00:00"
+      }
+    },
+    {
+      "headline": "Accused stray bullet killer of Bronx 12-year-old held without bail",
+      "bullets": [
+        "The Bronx gunman accused of killing 12-year-old Jacob Freytes in a stray bullet shooting outside a bodega was ordered held without bail early Monday, as an NYPD union and Mayor Mamdani lamented the loss of such a young victim, the son of a retired NYPD sergeant.",
+        "William Ferrer shot three people, killing Jacob Freytes, 12, and wounding two others, including a 34-year-old man struck in the left foot and a 25-year-old man hit in the buttocks, cops said."
+      ],
+      "summary": "Accused stray bullet killer of Bronx 12-year-old held without bail",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Accused stray bullet killer of Bronx 12-year-old held without bail as union, Mamdani decry slaying",
+        "article_url": "https://www.nydailynews.com/2026/07/27/accused-stray-bullet-killer-of-bronx-12-year-old-held-without-bail-as-union-mamdani-decry-slaying/",
+        "published_at": "2026-07-27T17:32:54+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-28T09:55:00.012130+00:00",
+      "verification": {
+        "article_title": "Accused stray bullet killer of Bronx 12-year-old held without bail as union, Mamdani decry slaying",
+        "article_url": "https://www.nydailynews.com/2026/07/27/accused-stray-bullet-killer-of-bronx-12-year-old-held-without-bail-as-union-mamdani-decry-slaying/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-28T09:54:58.312404+00:00"
+      }
+    },
+    {
+      "headline": "Court documents say there were at least 3 shooters at",
+      "bullets": [
+        "The shooting occurred during Bite of Seattle, an annual food festival.",
+        "SEATTLE -- Police now say there were at least three suspects involved in a shootout at a crowded food festival near Seattle's Space Needle over the weekend."
+      ],
+      "summary": "Court documents say there were at least 3 shooters at",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Court documents say there were at least 3 shooters at Seattle food festival, 1 among the dead",
+        "article_url": "https://abc7ny.com/post/seattle-shooting-officers-respond-multiple-victims-center-police-say/19582487/",
+        "published_at": "2026-07-27"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-28T09:55:00.091846+00:00",
+      "verification": {
+        "article_title": "Court documents say there were at least 3 shooters at Seattle food festival, 1 among the dead",
+        "article_url": "https://abc7ny.com/post/seattle-shooting-officers-respond-multiple-victims-center-police-say/19582487/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-28T09:54:58.413346+00:00"
+      }
+    },
+    {
+      "headline": "East Side Democratic Club Social, & Meet the Judges",
+      "bullets": [
+        "Post primary kumbaya.",
+        "The East Side\u00e2s Lexington Democratic Club\u00e2s Summer Social brought together the Democratic Party faithful at Dorrian\u00e2s Red Hand on Second Avenue and 84th Street and that included those who lost and those who won in the June primary."
+      ],
+      "summary": "East Side Democratic Club Social, & Meet the Judges",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "East Side Democratic Club Social, & Meet the Judges",
+        "article_url": "https://www.ourtownny.com/home/east-side-democratic-club-social-meet-the-judges-AA6064244",
+        "published_at": "2026-07-27"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-28T09:55:00.164333+00:00",
+      "verification": {
+        "article_title": "East Side Democratic Club Social, & Meet the Judges",
+        "article_url": "https://www.ourtownny.com/home/east-side-democratic-club-social-meet-the-judges-AA6064244",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-28T09:54:58.484403+00:00"
+      }
+    },
+    {
+      "headline": "All Americans lose from Trump\u2019s vendetta on TPS",
+      "bullets": [
+        "Temporary Protected Status has expired for more than 300,000 Haitians and Syrians, leaving thousands in New York and around the country vulnerable and unmoored after sometimes decades here, all to please Stephen Miller and Donald Trump\u2019s anti-immigrant zealotry.",
+        "We know what isn\u2019t going to happen: these people are not going to just up and leave lives they\u2019ve spent years building here with the express permission of Uncle Sam."
+      ],
+      "summary": "All Americans lose from Trump\u2019s vendetta on TPS",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "All Americans lose from Trump\u2019s vendetta on TPS",
+        "article_url": "https://www.nydailynews.com/2026/07/28/all-americans-lose-from-trumps-vendetta-on-tps/",
+        "published_at": "2026-07-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-28T09:55:00.244548+00:00",
+      "verification": {
+        "article_title": "All Americans lose from Trump\u2019s vendetta on TPS",
+        "article_url": "https://www.nydailynews.com/2026/07/28/all-americans-lose-from-trumps-vendetta-on-tps/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-28T09:54:58.639907+00:00"
+      }
+    },
+    {
+      "headline": "NYC-run grocery stores to offer 30 percent discounts on produce,",
+      "bullets": [
+        "The city-run grocery stores the Mamdani administration is spending $70 million to set up will provide a 30% discount on essential foods like produce, eggs and milk, the mayor said Monday.",
+        "\u201cNo exceptions, no gimmicks,\u201d Mayor Mamdani said at an East New York press conference."
+      ],
+      "summary": "NYC-run grocery stores to offer 30 percent discounts on produce,",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYC-run grocery stores to offer 30 percent discounts on produce, eggs, milk",
+        "article_url": "https://www.nydailynews.com/2026/07/27/nyc-run-grocery-stores-to-offer-30-percent-discounts-on-produce-eggs-milk/",
+        "published_at": "2026-07-27"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-28T09:55:00.316341+00:00",
+      "verification": {
+        "article_title": "NYC-run grocery stores to offer 30 percent discounts on produce, eggs, milk",
+        "article_url": "https://www.nydailynews.com/2026/07/27/nyc-run-grocery-stores-to-offer-30-percent-discounts-on-produce-eggs-milk/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-28T09:54:58.711956+00:00"
+      }
+    },
+    {
+      "headline": "Mamdani\u2019s city-run grocery stores to offer 30% price cuts on",
+      "bullets": [
+        "Mayor Zohran Mamdani\u2019s city-run grocery stores will offer New Yorkers meat, seafood and fresh produce 30% cheaper than at other retail stores, city officials announced Monday.",
+        "Mamdani said the five subsidized stores \u2014 the first of which is set to open in 2027 \u2014 will set prices for items every month, based on typical prices for the same items."
+      ],
+      "summary": "Mamdani\u2019s city-run grocery stores to offer 30% price cuts on",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Mamdani\u2019s city-run grocery stores to offer 30% price cuts on meat, produce",
+        "article_url": "https://gothamist.com/news/mamdanis-city-run-grocery-stores-to-offer-30-price-cuts-on-meat-produce",
+        "published_at": "2026-07-27T18:20:43+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-28T09:55:00.391876+00:00",
+      "verification": {
+        "article_title": "Mamdani\u2019s city-run grocery stores to offer 30% price cuts on meat, produce",
+        "article_url": "https://gothamist.com/news/mamdanis-city-run-grocery-stores-to-offer-30-price-cuts-on-meat-produce",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-28T09:54:58.812536+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on war crimes terminology, sacrificed soldiers and",
+      "bullets": [
+        "If not genocide, what would you call it?",
+        "Manhattan: Re \u201cMamdani has to drop his Netanyahu arrest nonsense\u201d (editorial, July 23): Boy, you haven\u2019t let up on Mayor Mamdani for even a day."
+      ],
+      "summary": "Readers sound off on war crimes terminology, sacrificed soldiers and",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on war crimes terminology, sacrificed soldiers and sea level rise",
+        "article_url": "https://www.nydailynews.com/2026/07/28/readers-sound-off-on-war-crimes-terminology-sacrificed-soldiers-and-sea-level-rise/",
+        "published_at": "2026-07-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-28T09:55:00.470778+00:00",
+      "verification": {
+        "article_title": "Readers sound off on war crimes terminology, sacrificed soldiers and sea level rise",
+        "article_url": "https://www.nydailynews.com/2026/07/28/readers-sound-off-on-war-crimes-terminology-sacrificed-soldiers-and-sea-level-rise/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-28T09:54:58.922280+00:00"
+      }
+    },
+    {
+      "headline": "To Grandmother\u00e2s House We Go...in the Wake of a Hurricane",
+      "bullets": [
+        "To Grandmother\u00e2s House We Go...in the Wake of a Hurricane In the upcoming feature film \u00e2Hurricane Seasons,\u00e2 a family weathers personal storms with acceptance, forgiveness, and understanding.",
+        "Award-winning director Nicole Gomez Fisher is eyeing a fall release."
+      ],
+      "summary": "To Grandmother\u00e2s House We Go...in the Wake of a Hurricane",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "To Grandmother\u00e2s House We Go...in the Wake of a Hurricane",
+        "article_url": "https://www.ourtownny.com/city-arts/to-grandmother-s-house-we-go-in-the-wake-of-a-hurricane-YY6032098",
+        "published_at": "2026-07-26"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-28T09:55:00.547546+00:00",
+      "verification": {
+        "article_title": "To Grandmother\u00e2s House We Go...in the Wake of a Hurricane",
+        "article_url": "https://www.ourtownny.com/city-arts/to-grandmother-s-house-we-go-in-the-wake-of-a-hurricane-YY6032098",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-28T09:54:58.994831+00:00"
+      }
+    },
+    {
+      "headline": "AccuWeather Alert: Flood Watch for NYC and much of Tri-State",
+      "bullets": [
+        "NEW YORK (WABC) -- A Flood Watch is in effect for New York City and much of the Tri-State area as powerful storms are poised to hit the region on Tuesday with significant rainfall and the potential for flash flooding.",
+        "The Flood Watch will take effect Tuesday at 8 a.m."
+      ],
+      "summary": "AccuWeather Alert: Flood Watch for NYC and much of Tri-State",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "AccuWeather Alert: Flood Watch for NYC and much of Tri-State Tuesday",
+        "article_url": "https://abc7ny.com/post/accuweather-alert-tuesday-flooding-downpours-new-york-area/19585373/",
+        "published_at": "2026-07-27"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-28T09:55:00.627212+00:00",
+      "verification": {
+        "article_title": "AccuWeather Alert: Flood Watch for NYC and much of Tri-State Tuesday",
+        "article_url": "https://abc7ny.com/post/accuweather-alert-tuesday-flooding-downpours-new-york-area/19585373/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-28T09:54:59.075559+00:00"
+      }
+    },
+    {
+      "headline": "Will climate change make plague-filled NYC summers like this one",
+      "bullets": [
+        "Extreme heat and wildfire smoke, flash flood warnings and the second deadly Legionnaires\u2019 outbreak in two years \u2014 not to mention a rise in tick-borne illnesses.",
+        "If it feels like this New York summer has featured a biblical number of plagues, you're not alone."
+      ],
+      "summary": "Will climate change make plague-filled NYC summers like this one",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Will climate change make plague-filled NYC summers like this one the new norm?",
+        "article_url": "https://gothamist.com/news/will-climate-change-make-plague-filled-nyc-summers-like-this-one-the-new-norm",
+        "published_at": "2026-07-27T10:30:59+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-28T09:55:00.704652+00:00",
+      "verification": {
+        "article_title": "Will climate change make plague-filled NYC summers like this one the new norm?",
+        "article_url": "https://gothamist.com/news/will-climate-change-make-plague-filled-nyc-summers-like-this-one-the-new-norm",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-28T09:54:59.197727+00:00"
+      }
+    },
+    {
+      "headline": "Legionnaires\u00e2 Disease: Some City Council Members Blame Mamdani",
+      "bullets": [
+        "Legionnaires\u00e2 Disease: Some City Council Members Blame Mamdani Led by SpeakerJulie Menin, several city council members criticized the Mamdani administration.",
+        "Mamdani defended the city\u00e2s response, as did Liz Krueger."
+      ],
+      "summary": "Legionnaires\u00e2 Disease: Some City Council Members Blame Mamdani",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Legionnaires\u00e2 Disease: Some City Council Members Blame Mamdani",
+        "article_url": "https://www.ourtownny.com/news/legionnaires-disease-some-city-council-members-blame-mamdani-DF6052126",
+        "published_at": "2026-07-26"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-28T09:55:00.773665+00:00",
+      "verification": {
+        "article_title": "Legionnaires\u00e2 Disease: Some City Council Members Blame Mamdani",
+        "article_url": "https://www.ourtownny.com/news/legionnaires-disease-some-city-council-members-blame-mamdani-DF6052126",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-28T09:54:59.269093+00:00"
+      }
+    },
+    {
+      "headline": "Sitcoms from the 1990s made NYC apartments seem huge. The",
+      "bullets": [
+        "New Yorkers might find that they pay closer attention to fictional TV apartments in the city than the average viewer \u2014 especially if they, like me, were recently scrolling through StreetEasy to secure their own place to live.",
+        "While watching the Hulu sitcom \u201cNot Suitable for Work,\u201d I couldn\u2019t stop thinking about the plausibility of these characters\u2019 lifestyles, and how much their generic Murray Hill apartments differed from the unrealistic luxury of the \u201990s sitcoms I grew up watching."
+      ],
+      "summary": "Sitcoms from the 1990s made NYC apartments seem huge. The",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Sitcoms from the 1990s made NYC apartments seem huge. The truth is coming out.",
+        "article_url": "https://gothamist.com/arts-entertainment/sitcoms-from-the-1990s-made-nyc-apartments-seem-huge-the-truth-is-coming-out",
+        "published_at": "2026-07-27T18:00:59+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-28T09:55:00.847933+00:00",
+      "verification": {
+        "article_title": "Sitcoms from the 1990s made NYC apartments seem huge. The truth is coming out.",
+        "article_url": "https://gothamist.com/arts-entertainment/sitcoms-from-the-1990s-made-nyc-apartments-seem-huge-the-truth-is-coming-out",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-28T09:54:59.338659+00:00"
+      }
+    },
+    {
+      "headline": "\u2018Actual innocence is my truth\u2019: Bryan Kohberger now wants a",
+      "bullets": [
+        "By Kevin Fixler, Idaho Statesman BOISE, Idaho \u2014 Almost 13 months after he pleaded guilty, Bryan Kohberger claims he\u2019s innocent and says he will fight his conviction for killing four University of Idaho students.",
+        "For a New York Times report published Monday, Kohberger provided a statement and interview for the first time since he was sentenced to four consecutive life terms in prison in July 2025 and dating to when he was arrested on suspicion of the murders in December 2022."
+      ],
+      "summary": "\u2018Actual innocence is my truth\u2019: Bryan Kohberger now wants a",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "\u2018Actual innocence is my truth\u2019: Bryan Kohberger now wants a trial, report says",
+        "article_url": "https://www.nydailynews.com/2026/07/27/actual-innocence-is-my-truth-bryan-kohberger-now-wants-a-trial-report-says/",
+        "published_at": "2026-07-27"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-28T09:55:00.918575+00:00",
+      "verification": {
+        "article_title": "\u2018Actual innocence is my truth\u2019: Bryan Kohberger now wants a trial, report says",
+        "article_url": "https://www.nydailynews.com/2026/07/27/actual-innocence-is-my-truth-bryan-kohberger-now-wants-a-trial-report-says/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-28T09:54:59.441018+00:00"
+      }
+    },
+    {
+      "headline": "Will climate change make plague-filled NYC summers like this one",
+      "bullets": [
+        "Extreme heat and wildfire smoke, flash flood warnings and the second deadly Legionnaires\u2019 outbreak in two years \u2014 not to mention a rise in tick-borne illnesses.",
+        "If it feels like this New York summer has featured a biblical number of plagues, you're not alone."
+      ],
+      "summary": "Will climate change make plague-filled NYC summers like this one",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Will climate change make plague-filled NYC summers like this one the new norm?",
+        "article_url": "https://gothamist.com/news/will-climate-change-make-plague-filled-nyc-summers-like-this-one-the-new-norm",
+        "published_at": "2026-07-27T10:30:59+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-28T09:55:01.045789+00:00",
+      "verification": {
+        "article_title": "Will climate change make plague-filled NYC summers like this one the new norm?",
+        "article_url": "https://gothamist.com/news/will-climate-change-make-plague-filled-nyc-summers-like-this-one-the-new-norm",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-28T09:54:59.521750+00:00"
+      }
+    },
+    {
+      "headline": "Legionnaires\u00e2 Disease: Some City Council Members Blame Mamdani",
+      "bullets": [
+        "Legionnaires\u00e2 Disease: Some City Council Members Blame Mamdani Led by SpeakerJulie Menin, several city council members criticized the Mamdani administration.",
+        "Mamdani defended the city\u00e2s response, as did Liz Krueger."
+      ],
+      "summary": "Legionnaires\u00e2 Disease: Some City Council Members Blame Mamdani",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Legionnaires\u00e2 Disease: Some City Council Members Blame Mamdani",
+        "article_url": "https://www.ourtownny.com/news/legionnaires-disease-some-city-council-members-blame-mamdani-DF6052126",
+        "published_at": "2026-07-26"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-28T09:55:01.127100+00:00",
+      "verification": {
+        "article_title": "Legionnaires\u00e2 Disease: Some City Council Members Blame Mamdani",
+        "article_url": "https://www.ourtownny.com/news/legionnaires-disease-some-city-council-members-blame-mamdani-DF6052126",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-28T09:54:59.605706+00:00"
+      }
+    },
+    {
+      "headline": "\u2018Odyssey\u2019 expert says she\u2019d be \u2019embarrassed\u2019 if she worked on",
+      "bullets": [
+        "A University of Pennsylvania scholar whose translation of Homer\u2019s \u201cThe Odyssey\u201d helped inspire filmmaker Christopher Nolan\u2019s blockbuster movie interpretation of the the 2,700- year-old story says she\u2019d be \u201cembarrassed\u201d to have worked on the epic project.",
+        "\u201cIt has nothing convincing to say about time, memory, history, war, or about the relationship between one warrior\u2019s glorious return and the lives of his family, adversaries, comrades, friends and neighbours,\u201d Emily Wilson wrote for the London Review of Books."
+      ],
+      "summary": "\u2018Odyssey\u2019 expert says she\u2019d be \u2019embarrassed\u2019 if she worked on",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "\u2018Odyssey\u2019 expert says she\u2019d be \u2019embarrassed\u2019 if she worked on movie",
+        "article_url": "https://www.nydailynews.com/2026/07/27/odyssey-homer-christopher-nolan-emily-wilson-ba-review/",
+        "published_at": "2026-07-27"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-28T09:55:01.200345+00:00",
+      "verification": {
+        "article_title": "\u2018Odyssey\u2019 expert says she\u2019d be \u2019embarrassed\u2019 if she worked on movie",
+        "article_url": "https://www.nydailynews.com/2026/07/27/odyssey-homer-christopher-nolan-emily-wilson-ba-review/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-28T09:54:59.676928+00:00"
+      }
+    },
+    {
+      "headline": "Mediators see progress in diplomatic efforts to halt Iran war,",
+      "bullets": [
+        "CAIRO -- Mediators have achieved progress in efforts to get the United States and Iran back to negotiations and avert an all-out war in the Middle East, two regional officials said Monday, with a pause in attacks coming after a period of rapidly escalating tensions.",
+        "The comments came after neither the U.S."
+      ],
+      "summary": "Mediators see progress in diplomatic efforts to halt Iran war,",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Mediators see progress in diplomatic efforts to halt Iran war, 2 regional officials say",
+        "article_url": "https://abc7ny.com/post/iran-war-update-mediators-see-progress-diplomatic-efforts-officials-say-no-negotiations-ongoing-us-baghaei-says/19584507/",
+        "published_at": "2026-07-27"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-28T09:55:01.277396+00:00",
+      "verification": {
+        "article_title": "Mediators see progress in diplomatic efforts to halt Iran war, 2 regional officials say",
+        "article_url": "https://abc7ny.com/post/iran-war-update-mediators-see-progress-diplomatic-efforts-officials-say-no-negotiations-ongoing-us-baghaei-says/19584507/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-28T09:54:59.747628+00:00"
+      }
+    }
+  ]
+}
