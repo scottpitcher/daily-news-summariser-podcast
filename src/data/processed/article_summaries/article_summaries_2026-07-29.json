@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-07-29T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-07-29.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Mayor Mamdani orders all NYC agencies to find spending cuts",
+      "bullets": [
+        "Mayor Mamdani on Tuesday ordered every city agency to find savings cuts of 2.5% as the city is projected to face a multi-billion-dollar budget gap in the upcoming fiscal year.",
+        "Chief Savings Officers, who were appointed earlier this year, will be heading these efforts."
+      ],
+      "summary": "Mayor Mamdani orders all NYC agencies to find spending cuts",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Mayor Mamdani orders all NYC agencies to find spending cuts of 2.5% amid looming budget deficit",
+        "article_url": "https://www.nydailynews.com/2026/07/28/mayor-mamdani-orders-all-nyc-agencies-to-find-spending-cuts-of-2-5-amid-looming-budget-deficit/",
+        "published_at": "2026-07-28T16:04:19+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-29T09:55:47.027768+00:00",
+      "verification": {
+        "article_title": "Mayor Mamdani orders all NYC agencies to find spending cuts of 2.5% amid looming budget deficit",
+        "article_url": "https://www.nydailynews.com/2026/07/28/mayor-mamdani-orders-all-nyc-agencies-to-find-spending-cuts-of-2-5-amid-looming-budget-deficit/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides context from multiple officials and experts.",
+        "verified_at": "2026-07-29T09:55:43.403078+00:00"
+      }
+    },
+    {
+      "headline": "NYC hopes for best, braces for worst by opening 'safe",
+      "bullets": [
+        "KENSINGTON, Brooklyn (WABC) -- There are more than 50 \"safe overnight locations\" available for any New Yorkers needing shelter from the potential flooding rain from Tuesday night's storms.",
+        "P.S."
+      ],
+      "summary": "NYC hopes for best, braces for worst by opening 'safe",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "NYC hopes for best, braces for worst by opening 'safe overnight locations' amid stormy night",
+        "article_url": "https://abc7ny.com/post/nyc-storms-ps-230-kensington-brooklynhouses-citys-safe-overnight-locations/19593865/",
+        "published_at": "2026-07-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-29T09:55:47.183155+00:00",
+      "verification": {
+        "article_title": "NYC hopes for best, braces for worst by opening 'safe overnight locations' amid stormy night",
+        "article_url": "https://abc7ny.com/post/nyc-storms-ps-230-kensington-brooklynhouses-citys-safe-overnight-locations/19593865/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-29T09:55:44.049007+00:00"
+      }
+    },
+    {
+      "headline": "Shield N.Y.\u2019s Climate Change Superfund Law",
+      "bullets": [
+        "New Yorkers understand that climate change is an existential threat.",
+        "And they also understand that there is no time to waste when it comes to the kind of bold, game changing actions that will be required to mitigate its most harmful effects."
+      ],
+      "summary": "Shield N.Y.\u2019s Climate Change Superfund Law",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Shield N.Y.\u2019s Climate Change Superfund Law",
+        "article_url": "https://www.nydailynews.com/2026/07/28/shield-n-y-s-climate-change-superfund-law/",
+        "published_at": "2026-07-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-29T09:55:47.319954+00:00",
+      "verification": {
+        "article_title": "Shield N.Y.\u2019s Climate Change Superfund Law",
+        "article_url": "https://www.nydailynews.com/2026/07/28/shield-n-y-s-climate-change-superfund-law/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-29T09:55:44.236205+00:00"
+      }
+    },
+    {
+      "headline": "New Jersey communities again flooded with rain as strong storms",
+      "bullets": [
+        "A Tornado Warning was issued in Sussex and Warren Counties in New Jersey Tuesday afternoon as officials prepared for another round of across the state.",
+        "The warning expired at 2:15, only to be followed by a Severe Thunderstorm Warning."
+      ],
+      "summary": "New Jersey communities again flooded with rain as strong storms",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "New Jersey communities again flooded with rain as strong storms move through",
+        "article_url": "https://www.cbsnews.com/newyork/news/nj-weather-flood-watch-storms-rain/",
+        "published_at": "2026-07-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-29T09:55:47.504453+00:00",
+      "verification": {
+        "article_title": "New Jersey communities again flooded with rain as strong storms move through",
+        "article_url": "https://www.cbsnews.com/newyork/news/nj-weather-flood-watch-storms-rain/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-29T09:55:44.378865+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on Trump\u2019s base, Black unemployment and Adrienne",
+      "bullets": [
+        "There\u2019s a method to the constant madness Dartmouth, Mass.: President Trump has ridden to victory twice by addressing the grievances of millions of Americans.",
+        "By blaming their problems on undocumented immigrants, he and his administration continually divert their attention from deepening financial woes."
+      ],
+      "summary": "Readers sound off on Trump\u2019s base, Black unemployment and Adrienne",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on Trump\u2019s base, Black unemployment and Adrienne Adams",
+        "article_url": "https://www.nydailynews.com/2026/07/29/readers-sound-off-on-trumps-base-black-unemployment-and-adrienne-adams/",
+        "published_at": "2026-07-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-29T09:55:47.640132+00:00",
+      "verification": {
+        "article_title": "Readers sound off on Trump\u2019s base, Black unemployment and Adrienne Adams",
+        "article_url": "https://www.nydailynews.com/2026/07/29/readers-sound-off-on-trumps-base-black-unemployment-and-adrienne-adams/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-29T09:55:44.629201+00:00"
+      }
+    },
+    {
+      "headline": "Brooklyn\u2019s smallest \u2013 and strangest? \u2013 art history museum is",
+      "bullets": [
+        "Look closely next time you find yourself in Carroll Gardens: Tucked into the residential streetscape, just past the BQE on Union Street, is a minuscule exhibition visible entirely from the street through a panel on one local artist\u2019s front door.",
+        "This is the Salvator Mundi Museum of Art, sculptor Elliott Arkin\u2019s homage to the strange story of Leonardo da Vinci painting The Salvator Mundi."
+      ],
+      "summary": "Brooklyn\u2019s smallest \u2013 and strangest? \u2013 art history museum is",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Brooklyn\u2019s smallest \u2013 and strangest? \u2013 art history museum is hidden in plain sight",
+        "article_url": "https://gothamist.com/arts-entertainment/brooklyns-smallest-and-strangest-art-history-museum-is-hidden-in-plain-sight",
+        "published_at": "2026-07-28T14:00:51+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-29T09:55:47.786744+00:00",
+      "verification": {
+        "article_title": "Brooklyn\u2019s smallest \u2013 and strangest? \u2013 art history museum is hidden in plain sight",
+        "article_url": "https://gothamist.com/arts-entertainment/brooklyns-smallest-and-strangest-art-history-museum-is-hidden-in-plain-sight",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-29T09:55:44.859835+00:00"
+      }
+    },
+    {
+      "headline": "Local Business Spotlight: Keller Williams \u2013 Mark Slade Team",
+      "bullets": [
+        "Local Business Spotlight: Keller Williams \u2013 Mark Slade Team Helping New Yorkers moving to New Jersey navigate the real estate market with experience, local insight and personalized service.",
+        "This Patch article is sponsored by Keller Williams \u2013 Mark Slade Team."
+      ],
+      "summary": "Local Business Spotlight: Keller Williams \u2013 Mark Slade Team",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Business Spotlight: Keller Williams \u2013 Mark Slade Team",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/local-business-spotlight-keller-williams-mark-slade-team",
+        "published_at": "2026-07-28T18:10:28+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-29T09:55:47.923548+00:00",
+      "verification": {
+        "article_title": "Local Business Spotlight: Keller Williams \u2013 Mark Slade Team",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/local-business-spotlight-keller-williams-mark-slade-team",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-29T09:55:44.998552+00:00"
+      }
+    },
+    {
+      "headline": "Harlem Meer Performance Festival Returns to Central Park",
+      "bullets": [
+        "Harlem Meer Performance Festival Returns to Central Park The free festival, now in its 33rd year, continues the annual tradition of free performances over six Sundays in the summer.",
+        "Musicians who have a special connection to Harlem perform blues, salsa and jazz."
+      ],
+      "summary": "Harlem Meer Performance Festival Returns to Central Park",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Harlem Meer Performance Festival Returns to Central Park",
+        "article_url": "https://www.ourtownny.com/city-arts/harlem-meer-performance-festival-returns-to-central-park-EL6058457",
+        "published_at": "2026-07-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-29T09:55:48.104965+00:00",
+      "verification": {
+        "article_title": "Harlem Meer Performance Festival Returns to Central Park",
+        "article_url": "https://www.ourtownny.com/city-arts/harlem-meer-performance-festival-returns-to-central-park-EL6058457",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-29T09:55:45.133546+00:00"
+      }
+    },
+    {
+      "headline": "Tornadoes and thunderstorms: Busting some of the biggest severe weather",
+      "bullets": [
+        "When severe weather strikes, panic can set in.",
+        "Unfortunately, many of the safety tips passed down through generations are outdated and potentially dangerous."
+      ],
+      "summary": "Tornadoes and thunderstorms: Busting some of the biggest severe weather",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Tornadoes and thunderstorms: Busting some of the biggest severe weather myths",
+        "article_url": "https://www.fox5ny.com/weather/tornadoes-thunderstorms-busting-some-biggest-myths",
+        "published_at": "2026-07-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-29T09:55:48.244140+00:00",
+      "verification": {
+        "article_title": "Tornadoes and thunderstorms: Busting some of the biggest severe weather myths",
+        "article_url": "https://www.fox5ny.com/weather/tornadoes-thunderstorms-busting-some-biggest-myths",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-29T09:55:45.349154+00:00"
+      }
+    },
+    {
+      "headline": "To Grandmother\u00e2s House We Go...in the Wake of a Hurricane",
+      "bullets": [
+        "To Grandmother\u00e2s House We Go...in the Wake of a Hurricane In the upcoming feature film \u00e2Hurricane Seasons,\u00e2 a family weathers personal storms with acceptance, forgiveness, and understanding.",
+        "Award-winning director Nicole Gomez Fisher is eyeing a fall release."
+      ],
+      "summary": "To Grandmother\u00e2s House We Go...in the Wake of a Hurricane",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "To Grandmother\u00e2s House We Go...in the Wake of a Hurricane",
+        "article_url": "https://www.ourtownny.com/city-arts/to-grandmother-s-house-we-go-in-the-wake-of-a-hurricane-YY6032098",
+        "published_at": "2026-07-26"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-29T09:55:48.422290+00:00",
+      "verification": {
+        "article_title": "To Grandmother\u00e2s House We Go...in the Wake of a Hurricane",
+        "article_url": "https://www.ourtownny.com/city-arts/to-grandmother-s-house-we-go-in-the-wake-of-a-hurricane-YY6032098",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-29T09:55:45.482436+00:00"
+      }
+    },
+    {
+      "headline": "UWS Stabbing Attacker Charged With Attempted Murder as Hate Crime",
+      "bullets": [
+        "UWS Stabbing Attacker Charged With Attempted Murder as Hate Crime Politicians condemned the broad daylight stabbing on the Upper West Side of two victims: an Asian man and a Jewish man.",
+        "The suspect has been charged with two counts of attempted murder as a hate crime."
+      ],
+      "summary": "UWS Stabbing Attacker Charged With Attempted Murder as Hate Crime",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "UWS Stabbing Attacker Charged With Attempted Murder as Hate Crime",
+        "article_url": "https://www.ourtownny.com/news/uws-stabbing-attacker-charged-with-attempted-murder-as-hate-crime-LL6058379",
+        "published_at": "2026-07-27"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-29T09:55:48.560620+00:00",
+      "verification": {
+        "article_title": "UWS Stabbing Attacker Charged With Attempted Murder as Hate Crime",
+        "article_url": "https://www.ourtownny.com/news/uws-stabbing-attacker-charged-with-attempted-murder-as-hate-crime-LL6058379",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-29T09:55:45.615855+00:00"
+      }
+    },
+    {
+      "headline": "Upstairs neighbor recalls fear and terror as troubled vet sets",
+      "bullets": [
+        "A Queens mother recalled the fear and terror she and her family endured as they cowered in their upstairs apartment amid an explosion that filled their home with black smoke and the sound of gunfire as police shot a troubled vet accused of executing his mother and sister downstairs.",
+        "The 34-year-old mother, who only gave her name as Shakira, said she, her girlfriend and four children, her 12-year-old son, 12-year-old godson, and her daughters, ages 1 and 4, were watching television in their living room Saturday when a loud bang erupted just before noon."
+      ],
+      "summary": "Upstairs neighbor recalls fear and terror as troubled vet sets",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Upstairs neighbor recalls fear and terror as troubled vet sets Queens home ablaze amid killings",
+        "article_url": "https://www.nydailynews.com/2026/07/28/upstairs-neighbor-recalls-fear-and-terror-as-troubled-vet-sets-queens-home-ablaze-amid-killings/",
+        "published_at": "2026-07-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-29T09:55:48.698063+00:00",
+      "verification": {
+        "article_title": "Upstairs neighbor recalls fear and terror as troubled vet sets Queens home ablaze amid killings",
+        "article_url": "https://www.nydailynews.com/2026/07/28/upstairs-neighbor-recalls-fear-and-terror-as-troubled-vet-sets-queens-home-ablaze-amid-killings/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-29T09:55:45.803127+00:00"
+      }
+    },
+    {
+      "headline": "Pupils need more schools like Bard Bronx",
+      "bullets": [
+        "Most students hear that college is the place where they will finally learn to think independently, to express themselves with confidence, and to have control over what they want to learn.",
+        "But at early college programs such as Bard High School Early College (BHSEC) Bronx, that process begins before many students are even old enough to drive."
+      ],
+      "summary": "Pupils need more schools like Bard Bronx",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Pupils need more schools like Bard Bronx",
+        "article_url": "https://www.nydailynews.com/2026/07/29/pupils-need-more-schools-like-bard-bronx/",
+        "published_at": "2026-07-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-29T09:55:48.846099+00:00",
+      "verification": {
+        "article_title": "Pupils need more schools like Bard Bronx",
+        "article_url": "https://www.nydailynews.com/2026/07/29/pupils-need-more-schools-like-bard-bronx/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-29T09:55:45.938351+00:00"
+      }
+    },
+    {
+      "headline": "Mega Millions winning numbers drawn for Tuesday's $800M jackpot; Powerball",
+      "bullets": [
+        "Watch Mega Millions drawings streamed on ABC 7 New York on Tuesdays and Fridays at 10:59 p.m.",
+        "NEW YORK (WABC) -- The winning numbers have been drawn for Tuesday's Mega Millions jackpot worth $800 million."
+      ],
+      "summary": "Mega Millions winning numbers drawn for Tuesday's $800M jackpot; Powerball",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Mega Millions winning numbers drawn for Tuesday's $800M jackpot; Powerball grows to $663M",
+        "article_url": "https://abc7ny.com/post/mega-millions-800m-tuesday-powerball-grows-663m-wednesday/19589931/",
+        "published_at": "2026-07-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-29T09:55:48.982388+00:00",
+      "verification": {
+        "article_title": "Mega Millions winning numbers drawn for Tuesday's $800M jackpot; Powerball grows to $663M",
+        "article_url": "https://abc7ny.com/post/mega-millions-800m-tuesday-powerball-grows-663m-wednesday/19589931/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-29T09:55:46.074069+00:00"
+      }
+    },
+    {
+      "headline": "What's happening at New York's libraries this August",
+      "bullets": [
+        "The city's three library systems \u2014 the Brooklyn Public Library, the Queens Public Library, and New York Public Library, which serves Manhattan, the Bronx and Staten Island \u2014 all offer free events all year round.",
+        "And while things may slow down a bit in August, there is still plenty to do."
+      ],
+      "summary": "What's happening at New York's libraries this August",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "What's happening at New York's libraries this August",
+        "article_url": "https://gothamist.com/arts-entertainment/whats-happening-at-new-yorks-libraries-this-august",
+        "published_at": "2026-07-28T15:00:49+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-29T09:55:49.126509+00:00",
+      "verification": {
+        "article_title": "What's happening at New York's libraries this August",
+        "article_url": "https://gothamist.com/arts-entertainment/whats-happening-at-new-yorks-libraries-this-august",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-29T09:55:46.215798+00:00"
+      }
+    },
+    {
+      "headline": "Shield N.Y.\u2019s Climate Change Superfund Law",
+      "bullets": [
+        "New Yorkers understand that climate change is an existential threat.",
+        "And they also understand that there is no time to waste when it comes to the kind of bold, game changing actions that will be required to mitigate its most harmful effects."
+      ],
+      "summary": "Shield N.Y.\u2019s Climate Change Superfund Law",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Shield N.Y.\u2019s Climate Change Superfund Law",
+        "article_url": "https://www.nydailynews.com/2026/07/28/shield-n-y-s-climate-change-superfund-law/",
+        "published_at": "2026-07-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-29T09:55:49.261002+00:00",
+      "verification": {
+        "article_title": "Shield N.Y.\u2019s Climate Change Superfund Law",
+        "article_url": "https://www.nydailynews.com/2026/07/28/shield-n-y-s-climate-change-superfund-law/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-29T09:55:46.350117+00:00"
+      }
+    },
+    {
+      "headline": "BROADWAY REVIEW: \u2018Les Miserables\u2019 goes beyond the barricade to Radio",
+      "bullets": [
+        "Come September, \u201cLes Miserables,\u201d surely the greatest musical of the latter half of the 20th Century, will have been gone from Broadway for a decade.",
+        "But to quote Victor Hugo\u2019s Jean Valjean, \u201caimer, c\u2019est agir,\u201d or \u201cto love is to act.\u201d That probably explains better than anything why theater impresario Cameron Mackintosh couldn\u2019t just let Victor Hugo\u2019s immortal Prisoner 24601 gather dust as we all go turning, turning through the years, aging, aging all the way."
+      ],
+      "summary": "BROADWAY REVIEW: \u2018Les Miserables\u2019 goes beyond the barricade to Radio",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "BROADWAY REVIEW: \u2018Les Miserables\u2019 goes beyond the barricade to Radio City",
+        "article_url": "https://www.nydailynews.com/2026/07/28/les-miserables-radio-city-musical-hall-review/",
+        "published_at": "2026-07-28T22:30:14+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-29T09:55:49.406149+00:00",
+      "verification": {
+        "article_title": "BROADWAY REVIEW: \u2018Les Miserables\u2019 goes beyond the barricade to Radio City",
+        "article_url": "https://www.nydailynews.com/2026/07/28/les-miserables-radio-city-musical-hall-review/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-29T09:55:46.506686+00:00"
+      }
+    },
+    {
+      "headline": "Pet fountains that will keep your furry friend hydrated and",
+      "bullets": [
+        "Which pet water fountains are best?",
+        "Staying hydrated when it\u2019s hot out is just as important for pets as it is for their owners."
+      ],
+      "summary": "Pet fountains that will keep your furry friend hydrated and",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Pet fountains that will keep your furry friend hydrated and happy",
+        "article_url": "https://www.nydailynews.com/2026/07/28/pet-fountains-that-will-keep-your-furry-friend-hydrated-and-happy/",
+        "published_at": "2026-07-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-29T09:55:49.541691+00:00",
+      "verification": {
+        "article_title": "Pet fountains that will keep your furry friend hydrated and happy",
+        "article_url": "https://www.nydailynews.com/2026/07/28/pet-fountains-that-will-keep-your-furry-friend-hydrated-and-happy/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-29T09:55:46.639353+00:00"
+      }
+    }
+  ]
+}
