@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-07-30T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-07-30.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Fauci repeatedly invokes the Fifth Amendment in a contentious Senate",
+      "bullets": [
+        "By LAURAN NEERGAARD and ALI SWENSON WASHINGTON (AP) \u2014 Dr.",
+        "Anthony Fauci on Wednesday repeatedly invoked the Fifth Amendment and declined to answer dozens of questions from senators in a Republican-led committee hearing about his handling of the COVID-19 pandemic."
+      ],
+      "summary": "Fauci repeatedly invokes the Fifth Amendment in a contentious Senate",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Fauci repeatedly invokes the Fifth Amendment in a contentious Senate committee hearing",
+        "article_url": "https://www.nydailynews.com/2026/07/29/anthony-fauci-senate-hearing-rand-paul/",
+        "published_at": "2026-07-29T19:15:04+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-30T09:52:36.610272+00:00",
+      "verification": {
+        "article_title": "Fauci repeatedly invokes the Fifth Amendment in a contentious Senate committee hearing",
+        "article_url": "https://www.nydailynews.com/2026/07/29/anthony-fauci-senate-hearing-rand-paul/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is supported by multiple sources and the Associated Press is a reputable news organization.",
+        "verified_at": "2026-07-30T09:52:33.821419+00:00"
+      }
+    },
+    {
+      "headline": "NJ Rep. Kean profited from AI stocks as data center",
+      "bullets": [
+        "U.S.",
+        "Rep."
+      ],
+      "summary": "NJ Rep. Kean profited from AI stocks as data center",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NJ Rep. Kean profited from AI stocks as data center backlash grew",
+        "article_url": "https://gothamist.com/news/nj-rep-kean-profited-from-ai-stocks-as-data-center-backlash-grew",
+        "published_at": "2026-07-29T12:00:56+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-30T09:52:36.721094+00:00",
+      "verification": {
+        "article_title": "NJ Rep. Kean profited from AI stocks as data center backlash grew",
+        "article_url": "https://gothamist.com/news/nj-rep-kean-profited-from-ai-stocks-as-data-center-backlash-grew",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-30T09:52:34.434769+00:00"
+      }
+    },
+    {
+      "headline": "President Trump unveils $22.5 billion plan to overhaul Dulles International",
+      "bullets": [
+        "DULLES, Va.",
+        "- President Donald Trump unveiled plans Wednesday to carry out a $22.5 billion modernization of Washington Dulles International Airport, calling the project \"sorely needed\" after previously criticizing the facility as a \"terrible airport.\" President Trump, appearing alongside the Transportation Secretary, announced the overhaul after months of reviewing design proposals submitted by 30 architects."
+      ],
+      "summary": "President Trump unveils $22.5 billion plan to overhaul Dulles International",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "President Trump unveils $22.5 billion plan to overhaul Dulles International Airport",
+        "article_url": "https://www.fox5ny.com/news/president-trump-unveils-22-5-billion-plan-overhaul-dulles-international-airport",
+        "published_at": "2026-07-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-30T09:52:36.829354+00:00",
+      "verification": {
+        "article_title": "President Trump unveils $22.5 billion plan to overhaul Dulles International Airport",
+        "article_url": "https://www.fox5ny.com/news/president-trump-unveils-22-5-billion-plan-overhaul-dulles-international-airport",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-30T09:52:34.575468+00:00"
+      }
+    },
+    {
+      "headline": "Dr. Anthony Fauci invokes Fifth Amendment 111 times, declines to",
+      "bullets": [
+        "Dr.",
+        "Anthony Fauci invoked the Fifth Amendment 111 times, and declined to answer questions during Wednesday's Senate Homeland Security and Governmental Affairs subcommittee hearing about his handling of the COVID-19 pandemic."
+      ],
+      "summary": "Dr. Anthony Fauci invokes Fifth Amendment 111 times, declines to",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Dr. Anthony Fauci invokes Fifth Amendment 111 times, declines to testify at Senate hearing on COVID-19",
+        "article_url": "https://www.fox5ny.com/news/fauci-testify-before-senate-wednesday-following-release-diary-pages",
+        "published_at": "2026-07-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-30T09:52:36.936620+00:00",
+      "verification": {
+        "article_title": "Dr. Anthony Fauci invokes Fifth Amendment 111 times, declines to testify at Senate hearing on COVID-19",
+        "article_url": "https://www.fox5ny.com/news/fauci-testify-before-senate-wednesday-following-release-diary-pages",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-30T09:52:34.716279+00:00"
+      }
+    },
+    {
+      "headline": "Mamdani charter panel tries to stop open primaries",
+      "bullets": [
+        "Mayor Mamdani\u2019s 15-member Charter Revision Commission was formed in a rush on May 28 and did its work in a rush, finishing last week, but that was because of their ultimate political purpose: to block a referendum question proposing nonpartisan elections (also called open primaries) from the November ballot.",
+        "The effort may succeed this year, but then the issue will appear on ballots in November 2027."
+      ],
+      "summary": "Mamdani charter panel tries to stop open primaries",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Mamdani charter panel tries to stop open primaries",
+        "article_url": "https://www.nydailynews.com/2026/07/30/mamdani-charter-panel-tries-to-stop-open-primaries/",
+        "published_at": "2026-07-30"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-30T09:52:37.045612+00:00",
+      "verification": {
+        "article_title": "Mamdani charter panel tries to stop open primaries",
+        "article_url": "https://www.nydailynews.com/2026/07/30/mamdani-charter-panel-tries-to-stop-open-primaries/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-30T09:52:34.850735+00:00"
+      }
+    },
+    {
+      "headline": "Teenager riding illegal e-bike killed in lower Manhattan crash with",
+      "bullets": [
+        "A 17-year-old boy riding an illegal e-bike near City Hall in Lower Manhattan was killed Wednesday in a crash with an SUV driver \u2014 a tragic death \u201cat the doorstep of government\u201d that has transportation advocates demanding an end to the sale of illegal high-speed e-mobility devices within the five boroughs.",
+        "Gabriel Nacato, who was riding a Deepower e-moto bike and the driver of a 2008 black Chevy Tahoe were heading in the same direction along Center St."
+      ],
+      "summary": "Teenager riding illegal e-bike killed in lower Manhattan crash with",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Teenager riding illegal e-bike killed in lower Manhattan crash with SUV",
+        "article_url": "https://www.nydailynews.com/2026/07/29/teenage-e-bike-rider-killed-in-lower-manhattan-crash/",
+        "published_at": "2026-07-29T21:20:21+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-30T09:52:37.156540+00:00",
+      "verification": {
+        "article_title": "Teenager riding illegal e-bike killed in lower Manhattan crash with SUV",
+        "article_url": "https://www.nydailynews.com/2026/07/29/teenage-e-bike-rider-killed-in-lower-manhattan-crash/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-30T09:52:34.980132+00:00"
+      }
+    },
+    {
+      "headline": "Today in History: July 29, Drew Peterson gets 40 more",
+      "bullets": [
+        "Today is Wednesday, July 29, the 210th day of 2026.",
+        "There are 155 days left in the year."
+      ],
+      "summary": "Today in History: July 29, Drew Peterson gets 40 more",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Today in History: July 29, Drew Peterson gets 40 more years for murder-for-hire plot",
+        "article_url": "https://www.nydailynews.com/2026/07/29/today-in-history-july-29-drew-peterson-gets-more-time-for-murder-for-hire-plot/",
+        "published_at": "2026-07-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-30T09:52:37.263533+00:00",
+      "verification": {
+        "article_title": "Today in History: July 29, Drew Peterson gets 40 more years for murder-for-hire plot",
+        "article_url": "https://www.nydailynews.com/2026/07/29/today-in-history-july-29-drew-peterson-gets-more-time-for-murder-for-hire-plot/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-30T09:52:35.146818+00:00"
+      }
+    },
+    {
+      "headline": "Update your kitchen with the best stainless steel dishwasher",
+      "bullets": [
+        "Which stainless steel dishwasher is best?",
+        "Dishwashers are a common convenience in many kitchens."
+      ],
+      "summary": "Update your kitchen with the best stainless steel dishwasher",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Update your kitchen with the best stainless steel dishwasher",
+        "article_url": "https://www.nydailynews.com/2026/07/28/update-your-kitchen-with-the-best-stainless-steel-dishwasher/",
+        "published_at": "2026-07-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-30T09:52:37.369992+00:00",
+      "verification": {
+        "article_title": "Update your kitchen with the best stainless steel dishwasher",
+        "article_url": "https://www.nydailynews.com/2026/07/28/update-your-kitchen-with-the-best-stainless-steel-dishwasher/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-30T09:52:35.285608+00:00"
+      }
+    },
+    {
+      "headline": "Flood threat lingers in New York, Long Island after storms",
+      "bullets": [
+        "NEW YORK - Heavy rain continues to affect parts of the Northeast Wednesday after storms moved through the corridor from Washington and Philadelphia to New Jersey and New York.",
+        "The greatest remaining flood threat within the region is focused on parts of New York City, the Lower Hudson Valley and Long Island as the storm system shifts toward New England."
+      ],
+      "summary": "Flood threat lingers in New York, Long Island after storms",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Flood threat lingers in New York, Long Island after storms hit DC, Philly and New Jersey",
+        "article_url": "https://www.fox5ny.com/news/heavy-rain-flood-threat-stretch-from-d-c-new-york-storms-soak-northeast",
+        "published_at": "2026-07-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-30T09:52:37.475068+00:00",
+      "verification": {
+        "article_title": "Flood threat lingers in New York, Long Island after storms hit DC, Philly and New Jersey",
+        "article_url": "https://www.fox5ny.com/news/heavy-rain-flood-threat-stretch-from-d-c-new-york-storms-soak-northeast",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-30T09:52:35.409645+00:00"
+      }
+    },
+    {
+      "headline": "Lightning strike sparks fire at Hicksville firefighter's home during storm",
+      "bullets": [
+        "HICKSVILLE, New York (WABC) -- Lightning struck a Hicksville firefighter's home during Wednesday morning's storms, sparking a fire.",
+        "The front of the Hemp Lane house was struck just after 3:15 a.m., jolting the family from their sleep."
+      ],
+      "summary": "Lightning strike sparks fire at Hicksville firefighter's home during storm",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Lightning strike sparks fire at Hicksville firefighter's home during storm",
+        "article_url": "https://abc7ny.com/post/lightning-strike-sparks-fire-hicksville-firefighters-home-during-storm-fellow-respond-put-blaze/19596144/",
+        "published_at": "2026-07-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-30T09:52:37.581345+00:00",
+      "verification": {
+        "article_title": "Lightning strike sparks fire at Hicksville firefighter's home during storm",
+        "article_url": "https://abc7ny.com/post/lightning-strike-sparks-fire-hicksville-firefighters-home-during-storm-fellow-respond-put-blaze/19596144/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-30T09:52:35.526132+00:00"
+      }
+    },
+    {
+      "headline": "Sixth Death Reported In UES Legionnaires' Disease Outbreak",
+      "bullets": [
+        "Sixth Death Reported In UES Legionnaires' Disease Outbreak Health officials said the source of the deadly outbreak has been eliminated, but the investigation is not over.",
+        "UPPER EAST SIDE, NY\u2014 A sixth person has died in connection with the City's Legionnaires' disease outbreak on the Upper East Side, as health officials reported no new cases have been diagnosed in more than 10 days."
+      ],
+      "summary": "Sixth Death Reported In UES Legionnaires' Disease Outbreak",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Sixth Death Reported In UES Legionnaires' Disease Outbreak",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/sixth-death-reported-ues-legionnaires-disease-outbreak",
+        "published_at": "2026-07-29T14:33:25+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-30T09:52:37.685835+00:00",
+      "verification": {
+        "article_title": "Sixth Death Reported In UES Legionnaires' Disease Outbreak",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/sixth-death-reported-ues-legionnaires-disease-outbreak",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-30T09:52:35.634719+00:00"
+      }
+    },
+    {
+      "headline": "\u2018She killed the kids!\u2019 911 call from Lindsay Clancy\u2019s husband",
+      "bullets": [
+        "By MICHAEL CASEY and LEAH WILLINGHAM EDITOR\u2019S NOTE: This story includes discussion of suicide.",
+        "If you or someone you know needs help, the national suicide and crisis lifeline in the U.S."
+      ],
+      "summary": "\u2018She killed the kids!\u2019 911 call from Lindsay Clancy\u2019s husband",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "\u2018She killed the kids!\u2019 911 call from Lindsay Clancy\u2019s husband brings tears to the courtroom",
+        "article_url": "https://www.nydailynews.com/2026/07/29/lindsay-clancy-ex-husband-resumes-testifying/",
+        "published_at": "2026-07-29T17:01:14+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-30T09:52:37.792977+00:00",
+      "verification": {
+        "article_title": "\u2018She killed the kids!\u2019 911 call from Lindsay Clancy\u2019s husband brings tears to the courtroom",
+        "article_url": "https://www.nydailynews.com/2026/07/29/lindsay-clancy-ex-husband-resumes-testifying/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-30T09:52:35.755860+00:00"
+      }
+    },
+    {
+      "headline": "Powerball winning numbers drawn for Wednesday's $667M jackpot",
+      "bullets": [
+        "Watch Powerball drawings streamed on ABC 7 New York on Monday, Wednesday, and Saturday at 10:59 p.m.",
+        "NEW YORK (WABC) -- The winning numbers have been drawn for Wednesday night's Powerball numbers worth $667 million."
+      ],
+      "summary": "Powerball winning numbers drawn for Wednesday's $667M jackpot",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Powerball winning numbers drawn for Wednesday's $667M jackpot",
+        "article_url": "https://abc7ny.com/post/1-ticket-florida-wins-800m-mega-millions-powerball-663m-drawing-wednesday-night/19595553/",
+        "published_at": "2026-07-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-30T09:52:37.900680+00:00",
+      "verification": {
+        "article_title": "Powerball winning numbers drawn for Wednesday's $667M jackpot",
+        "article_url": "https://abc7ny.com/post/1-ticket-florida-wins-800m-mega-millions-powerball-663m-drawing-wednesday-night/19595553/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-30T09:52:35.863771+00:00"
+      }
+    },
+    {
+      "headline": "NYC rideshare app might owe MTA millions in unpaid congestion",
+      "bullets": [
+        "New York - Experts say millions of dollars in congestion pricing are not being paid, and New York City leaders are urging the MTA to go after those avoiding the toll.",
+        "Some of the biggest culprits, they say, are unlicensed rideshare apps."
+      ],
+      "summary": "NYC rideshare app might owe MTA millions in unpaid congestion",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "NYC rideshare app might owe MTA millions in unpaid congestion pricing tolls",
+        "article_url": "https://www.fox5ny.com/news/empower-nyc-congestion-pricing-rideshare-apps-mta",
+        "published_at": "2026-07-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-30T09:52:38.008725+00:00",
+      "verification": {
+        "article_title": "NYC rideshare app might owe MTA millions in unpaid congestion pricing tolls",
+        "article_url": "https://www.fox5ny.com/news/empower-nyc-congestion-pricing-rideshare-apps-mta",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-30T09:52:35.968788+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on homelessness expertise, a broken curse and",
+      "bullets": [
+        "Those who know homelessness can solve it Bronx: A cottage industry has developed regarding homelessness, and what was started under Mayor Ed Koch\u2019s administration in the 1970s has morphed into \u201chousing experts\u201d who receive hundreds of millions of dollars yearly.",
+        "Yet, it only churns people through the system."
+      ],
+      "summary": "Readers sound off on homelessness expertise, a broken curse and",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on homelessness expertise, a broken curse and science",
+        "article_url": "https://www.nydailynews.com/2026/07/30/readers-sound-off-on-homelessness-expertise-a-broken-curse-and-science/",
+        "published_at": "2026-07-30"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-30T09:52:38.118863+00:00",
+      "verification": {
+        "article_title": "Readers sound off on homelessness expertise, a broken curse and science",
+        "article_url": "https://www.nydailynews.com/2026/07/30/readers-sound-off-on-homelessness-expertise-a-broken-curse-and-science/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-30T09:52:36.074124+00:00"
+      }
+    },
+    {
+      "headline": "Using AI to help with heat safety",
+      "bullets": [
+        "Extreme heat in New York City is an increasingly dangerous health threat that must be taken seriously.",
+        "Last summer alone, 21 New Yorkers died directly from high heat, 490 died due to exacerbated underlying conditions like diabetes and heart disease, and more than 1,100 were hospitalized during heat waves."
+      ],
+      "summary": "Using AI to help with heat safety",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Using AI to help with heat safety",
+        "article_url": "https://www.nydailynews.com/2026/07/30/using-ai-to-help-with-heat-safety/",
+        "published_at": "2026-07-30"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-30T09:52:38.225264+00:00",
+      "verification": {
+        "article_title": "Using AI to help with heat safety",
+        "article_url": "https://www.nydailynews.com/2026/07/30/using-ai-to-help-with-heat-safety/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-30T09:52:36.181012+00:00"
+      }
+    },
+    {
+      "headline": "Salman Rushdie attacker convicted in federal terrorism trial over 2022",
+      "bullets": [
+        "A man was convicted Wednesday of federal terrorism charges in the 2022 stabbing of , the author who has faced a decades-old death threat over his novel \"The Satanic Verses.\" A jury found Hadi Matar guilty of all the charges against him, including engaging in an act of transnational terrorism.",
+        "A message from The Associated Press seeking comment was sent to Matar's attorneys and to Rushdie's assistant."
+      ],
+      "summary": "Salman Rushdie attacker convicted in federal terrorism trial over 2022",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Salman Rushdie attacker convicted in federal terrorism trial over 2022 stabbing",
+        "article_url": "https://www.cbsnews.com/newyork/news/salman-rushdie-convicted-federal-terrorism-2022-stabbing/",
+        "published_at": "2026-07-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-30T09:52:38.329797+00:00",
+      "verification": {
+        "article_title": "Salman Rushdie attacker convicted in federal terrorism trial over 2022 stabbing",
+        "article_url": "https://www.cbsnews.com/newyork/news/salman-rushdie-convicted-federal-terrorism-2022-stabbing/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-30T09:52:36.286458+00:00"
+      }
+    },
+    {
+      "headline": "Why Long Island diners are banking on trendy menus",
+      "bullets": [
+        "Long Island diners are expanding their offerings with social media menus and trending dishes to appeal to younger generations who follow the \"phone eats first\" rule \u2014 meaning glamour shots of freshly delivered plates posted on TikTok and Instagram take precedence over the first bite.",
+        "Young \"people don\u2019t go out to diners anymore,\" said Donya Parsa, CEO of World Media Marketing and a full-time social media creator who's been managing social media for Ronkonkoma's Island Lake Diner for the past two years."
+      ],
+      "summary": "Why Long Island diners are banking on trendy menus",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Newsday",
+        "source_level": "local",
+        "article_title": "Why Long Island diners are banking on trendy menus",
+        "article_url": "https://www.newsday.com/lifestyle/restaurants/island-lake-diner-viral-menu-long-island-hgrwmzt6",
+        "published_at": "2026-07-30"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-30T09:52:38.455081+00:00",
+      "verification": {
+        "article_title": "Why Long Island diners are banking on trendy menus",
+        "article_url": "https://www.newsday.com/lifestyle/restaurants/island-lake-diner-viral-menu-long-island-hgrwmzt6",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-30T09:52:36.391821+00:00"
+      }
+    }
+  ]
+}
