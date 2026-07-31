@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-07-31T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-07-31.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Readers sound off on Medicare Advantage, masked cops and Israel\u2019s",
+      "bullets": [
+        "Medicare Advantage does have advantages Bronx: As a practicing physician, I respectfully offer a different perspective on the discussion surrounding Medicare Advantage.",
+        "For many of my patients, these plans \u2014 including Aetna Medicare Advantage \u2014 have provided meaningful benefits that traditional Medicare alone often does not."
+      ],
+      "summary": "Readers sound off on Medicare Advantage, masked cops and Israel\u2019s",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on Medicare Advantage, masked cops and Israel\u2019s leaders",
+        "article_url": "https://www.nydailynews.com/2026/07/31/readers-sound-off-on-medicare-advantage-masked-cops-and-israels-leaders/",
+        "published_at": "2026-07-31"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-31T09:56:09.706932+00:00",
+      "verification": {
+        "article_title": "Readers sound off on Medicare Advantage, masked cops and Israel\u2019s leaders",
+        "article_url": "https://www.nydailynews.com/2026/07/31/readers-sound-off-on-medicare-advantage-masked-cops-and-israels-leaders/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The article is an opinion piece and does not contain specific, verifiable claims.",
+        "verified_at": "2026-07-31T09:56:06.680153+00:00"
+      }
+    },
+    {
+      "headline": "A people\u2019s guide to the \u2018Commie Corridor\u2019 of Brooklyn and",
+      "bullets": [
+        "Astoria, Queens, was once the home of Archie Bunker, the fictional 1970s archetype of a bigoted, blue-collar white man angry about the change happening around him.",
+        "Those days are long gone."
+      ],
+      "summary": "A people\u2019s guide to the \u2018Commie Corridor\u2019 of Brooklyn and",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "A people\u2019s guide to the \u2018Commie Corridor\u2019 of Brooklyn and Queens",
+        "article_url": "https://gothamist.com/news/a-peoples-guide-to-the-commie-corridor-of-brooklyn-and-queens",
+        "published_at": "2026-07-30T10:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-31T09:56:09.819584+00:00",
+      "verification": {
+        "article_title": "A people\u2019s guide to the \u2018Commie Corridor\u2019 of Brooklyn and Queens",
+        "article_url": "https://gothamist.com/news/a-peoples-guide-to-the-commie-corridor-of-brooklyn-and-queens",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-31T09:56:07.381159+00:00"
+      }
+    },
+    {
+      "headline": "Seattle mayor says police chief resigned after criticism of response",
+      "bullets": [
+        "SEATTLE (AP) - -- Seattle's police chief has resigned amid criticism of the city's response to a fatal shootout at a food festival last weekend, Mayor Katie Wilson said Thursday.",
+        "The announcement followed hours of speculation about whether Police Chief Shon Barnes would step down, as some of his supporters said he had rebuffed Wilson's request that he resign."
+      ],
+      "summary": "Seattle mayor says police chief resigned after criticism of response",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Seattle mayor says police chief resigned after criticism of response to festival shooting",
+        "article_url": "https://abc7ny.com/post/seattle-mayor-says-police-chief-resigned-criticism-response-festival-shooting/19603694/",
+        "published_at": "2026-07-30"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-31T09:56:09.925232+00:00",
+      "verification": {
+        "article_title": "Seattle mayor says police chief resigned after criticism of response to festival shooting",
+        "article_url": "https://abc7ny.com/post/seattle-mayor-says-police-chief-resigned-criticism-response-festival-shooting/19603694/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-31T09:56:07.577395+00:00"
+      }
+    },
+    {
+      "headline": "Mamdani wise to seek savings in the city budget",
+      "bullets": [
+        "Mayor Mamdani has moved forward with his first real Program to Eliminate the Gap (PEG) cuts, even if he doesn\u2019t seem super keen on that acronym or its history.",
+        "Regardless of the name, we commend him for doing it."
+      ],
+      "summary": "Mamdani wise to seek savings in the city budget",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Mamdani wise to seek savings in the city budget",
+        "article_url": "https://www.nydailynews.com/2026/07/31/mamdani-wise-to-seek-savings-in-the-city-budget/",
+        "published_at": "2026-07-31"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-31T09:56:10.042782+00:00",
+      "verification": {
+        "article_title": "Mamdani wise to seek savings in the city budget",
+        "article_url": "https://www.nydailynews.com/2026/07/31/mamdani-wise-to-seek-savings-in-the-city-budget/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-31T09:56:07.735692+00:00"
+      }
+    },
+    {
+      "headline": "At least 18 die after breach of border between Morocco",
+      "bullets": [
+        "CEUTA, Spain -- At least 18 migrants have died trying to reach the Spanish territory of Ceuta after thousands of people breached the frontier with Morocco and poured in.",
+        "The border crisis boiled over Thursday and overnight."
+      ],
+      "summary": "At least 18 die after breach of border between Morocco",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "At least 18 die after breach of border between Morocco and Spanish territory of Ceuta",
+        "article_url": "https://abc7ny.com/story/ceuta-border-news-spain-territory-sees-influx-migrants-breach-morocco-least-18-dead-thousands-move/19605835/",
+        "published_at": "2026-07-31"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-31T09:56:10.168987+00:00",
+      "verification": {
+        "article_title": "At least 18 die after breach of border between Morocco and Spanish territory of Ceuta",
+        "article_url": "https://abc7ny.com/story/ceuta-border-news-spain-territory-sees-influx-migrants-breach-morocco-least-18-dead-thousands-move/19605835/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-31T09:56:07.875912+00:00"
+      }
+    },
+    {
+      "headline": "Don\u2019t kill my efficient delivery business",
+      "bullets": [
+        "At 50 years old, I decided to stop helping other people build businesses and finally build one of my own.",
+        "For most of my career, I coached entrepreneurs, advised small businesses, and helped companies grow."
+      ],
+      "summary": "Don\u2019t kill my efficient delivery business",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Don\u2019t kill my efficient delivery business",
+        "article_url": "https://www.nydailynews.com/2026/07/30/dont-kill-my-efficient-delivery-business/",
+        "published_at": "2026-07-30"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-31T09:56:10.274413+00:00",
+      "verification": {
+        "article_title": "Don\u2019t kill my efficient delivery business",
+        "article_url": "https://www.nydailynews.com/2026/07/30/dont-kill-my-efficient-delivery-business/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-31T09:56:07.983742+00:00"
+      }
+    },
+    {
+      "headline": "Some consumers trade their smartphones for simpler Light Phones",
+      "bullets": [
+        "BROOKLYN, New York (WABC) -- More people are looking to disconnect from smartphones and reclaim their time, prompting some consumers to turn to a simpler alternative: The Light Phone.",
+        "\"I had one dad, he found himself holding his 3-month-old child, and then he had a smartphone in the other hand that he was staring at,\" The Light Phone co-founder Joe Hollier said."
+      ],
+      "summary": "Some consumers trade their smartphones for simpler Light Phones",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Some consumers trade their smartphones for simpler Light Phones",
+        "article_url": "https://abc7ny.com/post/light-phone-founders-say-simpler-devices-help-users-reclaim-time-reduce-distractions/19591262/",
+        "published_at": "2026-07-30"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-31T09:56:10.398775+00:00",
+      "verification": {
+        "article_title": "Some consumers trade their smartphones for simpler Light Phones",
+        "article_url": "https://abc7ny.com/post/light-phone-founders-say-simpler-devices-help-users-reclaim-time-reduce-distractions/19591262/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-31T09:56:08.107194+00:00"
+      }
+    },
+    {
+      "headline": "Bogus Queens doc sentenced for botched butt injection that killed",
+      "bullets": [
+        "A bogus Queens doctor who admitted his botched butt implant procedure killed his patient, a mother of two, last year was sentenced on Thursday to five to 15 years in prison.",
+        "Felipe Hoyos-Foronda pleaded guilty to a manslaughter charge months after his patient, Mar\u00eda Paz Pe\u00f1aloza Cabrera, 31, died following a bungled procedure in Hoyos-Foronda\u2019s Astoria home."
+      ],
+      "summary": "Bogus Queens doc sentenced for botched butt injection that killed",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Bogus Queens doc sentenced for botched butt injection that killed mom of two",
+        "article_url": "https://www.nydailynews.com/2026/07/30/bogus-queens-doc-sentenced-for-botched-butt-injection-that-killed-mom-of-two/",
+        "published_at": "2026-07-30"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-31T09:56:10.515177+00:00",
+      "verification": {
+        "article_title": "Bogus Queens doc sentenced for botched butt injection that killed mom of two",
+        "article_url": "https://www.nydailynews.com/2026/07/30/bogus-queens-doc-sentenced-for-botched-butt-injection-that-killed-mom-of-two/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-31T09:56:08.214460+00:00"
+      }
+    },
+    {
+      "headline": "Nancy Guthrie case: Sheriff defends investigation six months after disappearance",
+      "bullets": [
+        "TUCSON, Ariz.",
+        "- Six months after Nancy Guthrie was taken from her Tucson home, the search for answers has turned into a fierce debate over the investigation itself."
+      ],
+      "summary": "Nancy Guthrie case: Sheriff defends investigation six months after disappearance",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Nancy Guthrie case: Sheriff defends investigation six months after disappearance",
+        "article_url": "https://www.fox5ny.com/news/nancy-guthrie-complex-dna-analysis-underway-search-nears-6-month-mark-sheriff-says",
+        "published_at": "2026-07-30"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-31T09:56:10.619761+00:00",
+      "verification": {
+        "article_title": "Nancy Guthrie case: Sheriff defends investigation six months after disappearance",
+        "article_url": "https://www.fox5ny.com/news/nancy-guthrie-complex-dna-analysis-underway-search-nears-6-month-mark-sheriff-says",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-31T09:56:08.395403+00:00"
+      }
+    },
+    {
+      "headline": "Sean \u2018Diddy\u2019 Combs\u2019 release from federal prison moved up 1",
+      "bullets": [
+        "Sean \u201cDiddy\u201d Combs will be sprung from New Jersey\u2019s FCI Fort Dix a month ahead of schedule, according to the Federal Bureau of Prisons.",
+        "The 56-year-old music mogul is slated to be set free on Jan."
+      ],
+      "summary": "Sean \u2018Diddy\u2019 Combs\u2019 release from federal prison moved up 1",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Sean \u2018Diddy\u2019 Combs\u2019 release from federal prison moved up 1 month",
+        "article_url": "https://www.nydailynews.com/2026/07/29/sean-diddy-combs-prison-release-date-2/",
+        "published_at": "2026-07-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-31T09:56:10.732907+00:00",
+      "verification": {
+        "article_title": "Sean \u2018Diddy\u2019 Combs\u2019 release from federal prison moved up 1 month",
+        "article_url": "https://www.nydailynews.com/2026/07/29/sean-diddy-combs-prison-release-date-2/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-31T09:56:08.557536+00:00"
+      }
+    },
+    {
+      "headline": "After Lindsay Clancy killed her 3 children, first responders tell",
+      "bullets": [
+        "PLYMOUTH, Mass.",
+        "-- First responders offered jurors a firsthand account Thursday of what they found after Lindsay Clancy killed her three children and tried to end her life, during what her lawyers argue was an episode of postpregnancy psychosis."
+      ],
+      "summary": "After Lindsay Clancy killed her 3 children, first responders tell",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "After Lindsay Clancy killed her 3 children, first responders tell a jury what they found",
+        "article_url": "https://abc7ny.com/post/lindsay-clancy-trial-live-today-woman-killed-3-kids-first-responders-tell-jury-what-found/19601607/",
+        "published_at": "2026-07-30"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-31T09:56:10.839077+00:00",
+      "verification": {
+        "article_title": "After Lindsay Clancy killed her 3 children, first responders tell a jury what they found",
+        "article_url": "https://abc7ny.com/post/lindsay-clancy-trial-live-today-woman-killed-3-kids-first-responders-tell-jury-what-found/19601607/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-31T09:56:08.693602+00:00"
+      }
+    },
+    {
+      "headline": "Senate committee advances nomination of Dr. Erica Schwartz to be",
+      "bullets": [
+        "By MIKE STOBBE, AP Medical Writer NEW YORK (AP) \u2014 A Senate committee on Thursday advanced Dr.",
+        "Erica Schwartz\u2019s nomination to be director of the nation\u2019s top public health agency, setting aside concerns that she will not stand up to political meddling."
+      ],
+      "summary": "Senate committee advances nomination of Dr. Erica Schwartz to be",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Senate committee advances nomination of Dr. Erica Schwartz to be Trump\u2019s CDC director",
+        "article_url": "https://www.nydailynews.com/2026/07/30/senate-committee-erica-schwartz-cdc-director/",
+        "published_at": "2026-07-30"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-31T09:56:10.953103+00:00",
+      "verification": {
+        "article_title": "Senate committee advances nomination of Dr. Erica Schwartz to be Trump\u2019s CDC director",
+        "article_url": "https://www.nydailynews.com/2026/07/30/senate-committee-erica-schwartz-cdc-director/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-31T09:56:08.802619+00:00"
+      }
+    },
+    {
+      "headline": "Powerball jackpot grows to $707M for Saturday's drawing",
+      "bullets": [
+        "Watch Powerball drawings streamed on ABC 7 New York on Monday, Wednesday, and Saturday at 10:59 p.m.",
+        "NEW YORK (WABC) -- There was no big winner in Wednesday night's Powerball drawing."
+      ],
+      "summary": "Powerball jackpot grows to $707M for Saturday's drawing",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Powerball jackpot grows to $707M for Saturday's drawing",
+        "article_url": "https://abc7ny.com/post/powerball-winning-numbers-72926-jackpot-grows-707m-saturdays-drawing/19600861/",
+        "published_at": "2026-07-30"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-31T09:56:11.063476+00:00",
+      "verification": {
+        "article_title": "Powerball jackpot grows to $707M for Saturday's drawing",
+        "article_url": "https://abc7ny.com/post/powerball-winning-numbers-72926-jackpot-grows-707m-saturdays-drawing/19600861/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-31T09:56:08.940946+00:00"
+      }
+    },
+    {
+      "headline": "NYC rideshare app might owe MTA millions in unpaid congestion",
+      "bullets": [
+        "New York - Experts say millions of dollars in congestion pricing are not being paid, and New York City leaders are urging the MTA to go after those avoiding the toll.",
+        "Some of the biggest culprits, they say, are unlicensed rideshare apps."
+      ],
+      "summary": "NYC rideshare app might owe MTA millions in unpaid congestion",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "NYC rideshare app might owe MTA millions in unpaid congestion pricing tolls",
+        "article_url": "https://www.fox5ny.com/news/empower-nyc-congestion-pricing-rideshare-apps-mta",
+        "published_at": "2026-07-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-31T09:56:11.169433+00:00",
+      "verification": {
+        "article_title": "NYC rideshare app might owe MTA millions in unpaid congestion pricing tolls",
+        "article_url": "https://www.fox5ny.com/news/empower-nyc-congestion-pricing-rideshare-apps-mta",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-31T09:56:09.046954+00:00"
+      }
+    },
+    {
+      "headline": "Upstate NY crypto mine seeks to become data center",
+      "bullets": [
+        "A controversial bitcoin mining operation in the Finger Lakes is seeking to transform into a data center despite Gov.",
+        "Kathy Hochul\u2019s moratorium on new facilities powering the AI boom."
+      ],
+      "summary": "Upstate NY crypto mine seeks to become data center",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Upstate NY crypto mine seeks to become data center",
+        "article_url": "https://gothamist.com/news/upstate-ny-crypto-mine-seeks-to-become-data-center",
+        "published_at": "2026-07-30T12:00:45+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-31T09:56:11.275433+00:00",
+      "verification": {
+        "article_title": "Upstate NY crypto mine seeks to become data center",
+        "article_url": "https://gothamist.com/news/upstate-ny-crypto-mine-seeks-to-become-data-center",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-31T09:56:09.161010+00:00"
+      }
+    },
+    {
+      "headline": "Electric shock may have caused Central Park carriage horse to",
+      "bullets": [
+        "New York - There are new questions and growing concerns following a deadly horse carriage crash in Central Park.",
+        "The Transport Workers Union, which represents carriage horse drivers, now says the horse involved might have been shocked by electricity when it suddenly bolted, causing the crash that killed an 18-year-old tourist."
+      ],
+      "summary": "Electric shock may have caused Central Park carriage horse to",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Electric shock may have caused Central Park carriage horse to bolt in fatal crash, union says",
+        "article_url": "https://www.fox5ny.com/news/central-park-horse-carriage-crash-stray-voltage-claim",
+        "published_at": "2026-07-30"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-31T09:56:11.385727+00:00",
+      "verification": {
+        "article_title": "Electric shock may have caused Central Park carriage horse to bolt in fatal crash, union says",
+        "article_url": "https://www.fox5ny.com/news/central-park-horse-carriage-crash-stray-voltage-claim",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-31T09:56:09.269120+00:00"
+      }
+    },
+    {
+      "headline": "Teen Creates App That Could Solve The City\u00e2s Street Parking",
+      "bullets": [
+        "Teen Creates App That Could Solve The City\u00e2s Street Parking Issue A new app, ParkSignal NYC, could reduce the hours spent searching for an open street parking spot.",
+        "When teenager Theo Darringer\u00e2s family got a car two years ago, it quickly became his prized possession."
+      ],
+      "summary": "Teen Creates App That Could Solve The City\u00e2s Street Parking",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Teen Creates App That Could Solve The City\u00e2s Street Parking Issue",
+        "article_url": "https://www.ourtownny.com/news/teen-creates-app-that-could-solve-the-city-s-street-parking-issue-KD6063972",
+        "published_at": "2026-07-30"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-31T09:56:11.494095+00:00",
+      "verification": {
+        "article_title": "Teen Creates App That Could Solve The City\u00e2s Street Parking Issue",
+        "article_url": "https://www.ourtownny.com/news/teen-creates-app-that-could-solve-the-city-s-street-parking-issue-KD6063972",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-31T09:56:09.372873+00:00"
+      }
+    },
+    {
+      "headline": "The 8 best movies to see in theaters (and outside!)",
+      "bullets": [
+        "Picture this: A wealthy businessman buys an island, populates it with real live dinosaurs, and opens a theme park.",
+        "What could go wrong?"
+      ],
+      "summary": "The 8 best movies to see in theaters (and outside!)",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "The 8 best movies to see in theaters (and outside!) this August in NYC",
+        "article_url": "https://gothamist.com/arts-entertainment/the-8-best-movies-to-see-in-theaters-and-outside-this-august-in-nyc",
+        "published_at": "2026-07-30T14:16:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-07-31T09:56:11.601749+00:00",
+      "verification": {
+        "article_title": "The 8 best movies to see in theaters (and outside!) this August in NYC",
+        "article_url": "https://gothamist.com/arts-entertainment/the-8-best-movies-to-see-in-theaters-and-outside-this-august-in-nyc",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-07-31T09:56:09.485326+00:00"
+      }
+    }
+  ]
+}
