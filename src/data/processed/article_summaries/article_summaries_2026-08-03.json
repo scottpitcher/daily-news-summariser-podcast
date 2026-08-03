@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-08-03T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-08-03.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Sen. Bernie Moreno says former son-in-law Max Miller should not",
+      "bullets": [
+        "WASHINGTON -- U.S.",
+        "Sen."
+      ],
+      "summary": "Sen. Bernie Moreno says former son-in-law Max Miller should not",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Sen. Bernie Moreno says former son-in-law Max Miller should not serve in the House",
+        "article_url": "https://abc7ny.com/post/sen-bernie-moreno-max-miller-dispute-ohio-senator-says-daughter-emily-morenos-ex-husband-should-not-serve-house/19616255/",
+        "published_at": "2026-08-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-03T10:19:46.683912+00:00",
+      "verification": {
+        "article_title": "Sen. Bernie Moreno says former son-in-law Max Miller should not serve in the House",
+        "article_url": "https://abc7ny.com/post/sen-bernie-moreno-max-miller-dispute-ohio-senator-says-daughter-emily-morenos-ex-husband-should-not-serve-house/19616255/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and recent, with multiple details that can be verified through the provided text.",
+        "verified_at": "2026-08-03T10:19:39.315299+00:00"
+      }
+    },
+    {
+      "headline": "Live Updates: U.S.-Iran negotiations set to begin Monday, Trump says",
+      "bullets": [
+        "What to know about the Iran war today: - President Trump said negotiations with Iran are set to begin Monday after announcing Saturday night that he canceled a pending attack on Iran.",
+        "- The United States and Israel had been planning what would have been one of the to date against energy infrastructure targets in Iran, multiple sources previously told CBS News."
+      ],
+      "summary": "Live Updates: U.S.-Iran negotiations set to begin Monday, Trump says",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Live Updates: U.S.-Iran negotiations set to begin Monday, Trump says after calling off strikes",
+        "article_url": "https://www.cbsnews.com/newyork/live-updates/iran-war-us-trump-strait-of-hormuz-kuwait-jordan-air-base/",
+        "published_at": "2026-07-31"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-03T10:19:46.798284+00:00",
+      "verification": {
+        "article_title": "Live Updates: U.S.-Iran negotiations set to begin Monday, Trump says after calling off strikes",
+        "article_url": "https://www.cbsnews.com/newyork/live-updates/iran-war-us-trump-strait-of-hormuz-kuwait-jordan-air-base/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is from a reputable source and provides context and details about the negotiations with Iran.",
+        "verified_at": "2026-08-03T10:19:40.138994+00:00"
+      }
+    },
+    {
+      "headline": "Man wanted in Reading homicide arrested while waiting to board",
+      "bullets": [
+        "A 43-year-old man wanted in a Reading homicide was arrested while waiting to board a flight to the Dominican Republic at an airport in New Jersey Sunday, police said.",
+        "Federico Perez Polanco will be charged with first-degree murder in connection with a shooting on the 1400 block of North 5th Street in Reading around 3:40 a.m."
+      ],
+      "summary": "Man wanted in Reading homicide arrested while waiting to board",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Man wanted in Reading homicide arrested while waiting to board flight to Dominican Republic in New Jersey",
+        "article_url": "https://www.cbsnews.com/newyork/news/shooting-reading-pa-dominican-republic/",
+        "published_at": "2026-08-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-03T10:19:46.902403+00:00",
+      "verification": {
+        "article_title": "Man wanted in Reading homicide arrested while waiting to board flight to Dominican Republic in New Jersey",
+        "article_url": "https://www.cbsnews.com/newyork/news/shooting-reading-pa-dominican-republic/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is supported by the article text and aligns with the provided details.",
+        "verified_at": "2026-08-03T10:19:40.696995+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on climate realities, cheaper groceries and crime",
+      "bullets": [
+        "Climate deniers can\u2019t deny orange skies Brooklyn: It has become standard summer news that massive wildfires affect thousands of people who\u2019ve never experienced them before (\u201cMore than 250,000 flee wildfires,\u201d July 26.) Starting in 2024, it has been us in the Northeast who see annual orange skies and are warned against going outside.",
+        "And now Europe."
+      ],
+      "summary": "Readers sound off on climate realities, cheaper groceries and crime",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on climate realities, cheaper groceries and crime scene photos",
+        "article_url": "https://www.nydailynews.com/2026/08/03/readers-sound-off-on-climate-realities-cheaper-groceries-and-crime-scene-photos/",
+        "published_at": "2026-08-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-03T10:19:47.006081+00:00",
+      "verification": {
+        "article_title": "Readers sound off on climate realities, cheaper groceries and crime scene photos",
+        "article_url": "https://www.nydailynews.com/2026/08/03/readers-sound-off-on-climate-realities-cheaper-groceries-and-crime-scene-photos/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The article is an opinion piece and does not contain specific, verifiable claims that require fact-checking.",
+        "verified_at": "2026-08-03T10:19:41.299446+00:00"
+      }
+    },
+    {
+      "headline": "Immigration crackdown threatens Haitian caregivers and the seniors who rely",
+      "bullets": [
+        "By MATT SEDENSKY and GISELA SALOMON NEW YORK (AP) \u2014 Who will be there each morning with Solange French\u2019s eggs at breakfast, and who will be ready with soup or fish at lunch?",
+        "When the 91-year-old needs help in the shower, who will rush to her side, and when it\u2019s time for a doctor\u2019s appointment, who will take her?"
+      ],
+      "summary": "Immigration crackdown threatens Haitian caregivers and the seniors who rely",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Immigration crackdown threatens Haitian caregivers and the seniors who rely on them",
+        "article_url": "https://www.nydailynews.com/2026/07/31/immigration-crackdown-tps-haitian-caregivers/",
+        "published_at": "2026-07-31"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-03T10:19:47.122929+00:00",
+      "verification": {
+        "article_title": "Immigration crackdown threatens Haitian caregivers and the seniors who rely on them",
+        "article_url": "https://www.nydailynews.com/2026/07/31/immigration-crackdown-tps-haitian-caregivers/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides context without specific, verifiable claims that need external confirmation.",
+        "verified_at": "2026-08-03T10:19:42.278416+00:00"
+      }
+    },
+    {
+      "headline": "7 best things we ate on Long Island last month",
+      "bullets": [
+        "Newsday's food team eats out every day of the week on Long Island in search of standout meals at a good value.",
+        "Here are their favorite dishes from the past few weeks: Blowfish at 18 Bay 370 Manor Lane, Jamesport Don\u2019t let blowfish scare you!"
+      ],
+      "summary": "7 best things we ate on Long Island last month",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Newsday",
+        "source_level": "local",
+        "article_title": "7 best things we ate on Long Island last month",
+        "article_url": "https://www.newsday.com/lifestyle/restaurants/best-things-critics-ate-long-island-rmn389x1",
+        "published_at": "2026-08-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-03T10:19:47.230927+00:00",
+      "verification": {
+        "article_title": "7 best things we ate on Long Island last month",
+        "article_url": "https://www.newsday.com/lifestyle/restaurants/best-things-critics-ate-long-island-rmn389x1",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is a list of restaurant reviews and does not contain specific, verifiable claims.",
+        "verified_at": "2026-08-03T10:19:43.061010+00:00"
+      }
+    },
+    {
+      "headline": "Social Security COLA 2027: How much payments are projected to",
+      "bullets": [
+        "Social Security recipients are projected to get a bigger cost-of-living increase next year to counter a rise in inflation.",
+        "The official cost-of-living adjustment for Social Security recipients won\u2019t be announced until mid-October, but The Senior Citizens League, a nonprofit that advocates for seniors, releases its own projections each month."
+      ],
+      "summary": "Social Security COLA 2027: How much payments are projected to",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Social Security COLA 2027: How much payments are projected to increase",
+        "article_url": "https://www.fox5ny.com/news/social-security-cola-2027-how-much-payments-projected-increase",
+        "published_at": "2026-08-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-03T10:19:47.335369+00:00",
+      "verification": {
+        "article_title": "Social Security COLA 2027: How much payments are projected to increase",
+        "article_url": "https://www.fox5ny.com/news/social-security-cola-2027-how-much-payments-projected-increase",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides context and details from reputable organizations.",
+        "verified_at": "2026-08-03T10:19:43.629800+00:00"
+      }
+    },
+    {
+      "headline": "Savannah Guthrie marks six-month anniversary of mom\u2019s disappearance with plea",
+      "bullets": [
+        "It\u2019s been six months since Nancy Guthrie, mother of \u201cToday\u201d show anchor Savannah Guthrie, was last seen alive, and her family is still desperate for answers.",
+        "\u201cEvery day, we wake up and try to be strong and go on \u2014 because that\u2019s what our joyful and resilient Mom taught us to do."
+      ],
+      "summary": "Savannah Guthrie marks six-month anniversary of mom\u2019s disappearance with plea",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Savannah Guthrie marks six-month anniversary of mom\u2019s disappearance with plea for answers",
+        "article_url": "https://www.nydailynews.com/2026/08/01/savannah-guthrie-marks-six-month-anniversary-of-moms-disappearance-with-a-plea-for-answers/",
+        "published_at": "2026-08-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-03T10:19:47.442538+00:00",
+      "verification": {
+        "article_title": "Savannah Guthrie marks six-month anniversary of mom\u2019s disappearance with plea for answers",
+        "article_url": "https://www.nydailynews.com/2026/08/01/savannah-guthrie-marks-six-month-anniversary-of-moms-disappearance-with-a-plea-for-answers/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is recent and from a reputable local source, with no specific claims needing verification.",
+        "verified_at": "2026-08-03T10:19:44.172543+00:00"
+      }
+    },
+    {
+      "headline": "NYC weather: Severe thunderstorms possible Sunday into Monday, Northern NJ",
+      "bullets": [
+        "NEW YORK - More rain is coming to the New York Metro area going into this week, and weather officials say some severe storms could lead to flash flooding in the city and Northern New Jersey.",
+        "Rain in New York City area What we know: A slow-moving front is moving into the area on Sunday along with tropical air, according to the National Weather Service."
+      ],
+      "summary": "NYC weather: Severe thunderstorms possible Sunday into Monday, Northern NJ",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "NYC weather: Severe thunderstorms possible Sunday into Monday, Northern NJ under Flood Watch",
+        "article_url": "https://www.fox5ny.com/weather/nyc-weather-severe-thunderstorms-possible-sunday-monday-northern-nj-under-flood-watch",
+        "published_at": "2026-08-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-03T10:19:47.548125+00:00",
+      "verification": {
+        "article_title": "NYC weather: Severe thunderstorms possible Sunday into Monday, Northern NJ under Flood Watch",
+        "article_url": "https://www.fox5ny.com/weather/nyc-weather-severe-thunderstorms-possible-sunday-monday-northern-nj-under-flood-watch",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is from a local source and provides information from the National Weather Service and NYC Emergency Management.",
+        "verified_at": "2026-08-03T10:19:44.812905+00:00"
+      }
+    },
+    {
+      "headline": "Police confirm 3 deaths, 7 injuries after shooting at Idaho",
+      "bullets": [
+        "Suspect Chad Williams, 24, died from a self-inflicted gunshot wound, police say.",
+        "TWIN FALLS, IDAHO -- Three people were killed and another seven were injured when a gunman opened fire outside an In-N-Out Burger restaurant in Twin Falls, Idaho, on Saturday, authorities told ABC News on Sunday."
+      ],
+      "summary": "Police confirm 3 deaths, 7 injuries after shooting at Idaho",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Police confirm 3 deaths, 7 injuries after shooting at Idaho In-N-Out",
+        "article_url": "https://abc7ny.com/post/shooting-twin-falls-idaho-leaves-several-people-dead-including-burger-employee-body-suspected-gunman-found/19614991/",
+        "published_at": "2026-08-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-03T10:19:47.654219+00:00",
+      "verification": {
+        "article_title": "Police confirm 3 deaths, 7 injuries after shooting at Idaho In-N-Out",
+        "article_url": "https://abc7ny.com/post/shooting-twin-falls-idaho-leaves-several-people-dead-including-burger-employee-body-suspected-gunman-found/19614991/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-03T10:19:45.530203+00:00"
+      }
+    },
+    {
+      "headline": "SUV jumps curb in Bed-Stuy, crashes into mother walking with",
+      "bullets": [
+        "BEDFORD-STUYVESANT, Brooklyn (WABC) -- A 31-year-old woman is in critical condition and her 4-year-old daughter is in the hospital after police say they were struck by an SUV that jumped a curb in Bedford-Stuyvesant on Sunday night.",
+        "According to authorities, the crash happened around 9 p.m."
+      ],
+      "summary": "SUV jumps curb in Bed-Stuy, crashes into mother walking with",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "SUV jumps curb in Bed-Stuy, crashes into mother walking with her 3 children",
+        "article_url": "https://abc7ny.com/post/mother-critically-hurt-suv-jumps-curb-she-was-3-children-brooklyn/19618135/",
+        "published_at": "2026-08-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-03T10:19:47.759419+00:00",
+      "verification": {
+        "article_title": "SUV jumps curb in Bed-Stuy, crashes into mother walking with her 3 children",
+        "article_url": "https://abc7ny.com/post/mother-critically-hurt-suv-jumps-curb-she-was-3-children-brooklyn/19618135/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-03T10:19:45.659570+00:00"
+      }
+    },
+    {
+      "headline": "NYC parents can still get $120 in summer food aid",
+      "bullets": [
+        "New York City parents still have time to enroll their school-age kids for $120 in summer food benefits.",
+        "The federally funded program known as summer EBT gives low-income families money to spend on food and groceries while schools are closed and not offering free meals."
+      ],
+      "summary": "NYC parents can still get $120 in summer food aid",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC parents can still get $120 in summer food aid for their kids",
+        "article_url": "https://gothamist.com/news/nyc-parents-can-still-get-120-in-summer-food-aid-for-their-kids",
+        "published_at": "2026-08-02T15:30:50+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-03T10:19:47.868703+00:00",
+      "verification": {
+        "article_title": "NYC parents can still get $120 in summer food aid for their kids",
+        "article_url": "https://gothamist.com/news/nyc-parents-can-still-get-120-in-summer-food-aid-for-their-kids",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-03T10:19:45.763203+00:00"
+      }
+    },
+    {
+      "headline": "NYC\u2019s college savings plan empowers kids",
+      "bullets": [
+        "Buried in New York City\u2019s latest budget is a rare initiative that rewards saving: a $1,000 college savings account for every kindergartener who enrolls in public or charter schools.",
+        "The commitment expands NYC Kids RISE, a public-nonprofit collaboration championed by City Council Speaker Julie Menin, its founding board chair."
+      ],
+      "summary": "NYC\u2019s college savings plan empowers kids",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYC\u2019s college savings plan empowers kids",
+        "article_url": "https://www.nydailynews.com/2026/08/03/nycs-college-savings-plan-empowers-kids/",
+        "published_at": "2026-08-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-03T10:19:47.974531+00:00",
+      "verification": {
+        "article_title": "NYC\u2019s college savings plan empowers kids",
+        "article_url": "https://www.nydailynews.com/2026/08/03/nycs-college-savings-plan-empowers-kids/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-03T10:19:45.871649+00:00"
+      }
+    },
+    {
+      "headline": "WarrenPeace: An Albanian Bar with a Tolstoy Twist Wows Tribeca",
+      "bullets": [
+        "WarrenPeace: An Albanian Bar with a Tolstoy Twist Wows Tribeca Top cocktails, first-rate Balkan / Mediterannean / American fare and friendliess too?",
+        "In the spirit of Pierre Bezukov, Hail Albania!"
+      ],
+      "summary": "WarrenPeace: An Albanian Bar with a Tolstoy Twist Wows Tribeca",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "WarrenPeace: An Albanian Bar with a Tolstoy Twist Wows Tribeca",
+        "article_url": "https://www.ourtownny.com/food-drink/warrenpeace-an-albanian-bar-with-a-tolstoy-twist-wows-tribeca-GA6075697",
+        "published_at": "2026-08-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-03T10:19:48.082447+00:00",
+      "verification": {
+        "article_title": "WarrenPeace: An Albanian Bar with a Tolstoy Twist Wows Tribeca",
+        "article_url": "https://www.ourtownny.com/food-drink/warrenpeace-an-albanian-bar-with-a-tolstoy-twist-wows-tribeca-GA6075697",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-03T10:19:45.977271+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on climate realities, cheaper groceries and crime",
+      "bullets": [
+        "Climate deniers can\u2019t deny orange skies Brooklyn: It has become standard summer news that massive wildfires affect thousands of people who\u2019ve never experienced them before (\u201cMore than 250,000 flee wildfires,\u201d July 26.) Starting in 2024, it has been us in the Northeast who see annual orange skies and are warned against going outside.",
+        "And now Europe."
+      ],
+      "summary": "Readers sound off on climate realities, cheaper groceries and crime",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on climate realities, cheaper groceries and crime scene photos",
+        "article_url": "https://www.nydailynews.com/2026/08/03/readers-sound-off-on-climate-realities-cheaper-groceries-and-crime-scene-photos/",
+        "published_at": "2026-08-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-03T10:19:48.190938+00:00",
+      "verification": {
+        "article_title": "Readers sound off on climate realities, cheaper groceries and crime scene photos",
+        "article_url": "https://www.nydailynews.com/2026/08/03/readers-sound-off-on-climate-realities-cheaper-groceries-and-crime-scene-photos/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-03T10:19:46.081092+00:00"
+      }
+    },
+    {
+      "headline": "Esplanade Overhaul Starting at East 94th Street Hits Funding Snag",
+      "bullets": [
+        "Esplanade Overhaul Starting at East 94th Street Hits Funding Snag A $294 million reconstruction of the Bobby Wagner Walk will be significantly slimmed down due to construction concerns, project representatives announced at a Community Board 11 meeting earlier this month.",
+        "Advocates are not pleased."
+      ],
+      "summary": "Esplanade Overhaul Starting at East 94th Street Hits Funding Snag",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Esplanade Overhaul Starting at East 94th Street Hits Funding Snag",
+        "article_url": "https://www.ourtownny.com/news/esplanade-overhaul-starting-at-east-94th-street-hits-funding-snag-FN6069610",
+        "published_at": "2026-07-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-03T10:19:48.296321+00:00",
+      "verification": {
+        "article_title": "Esplanade Overhaul Starting at East 94th Street Hits Funding Snag",
+        "article_url": "https://www.ourtownny.com/news/esplanade-overhaul-starting-at-east-94th-street-hits-funding-snag-FN6069610",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-03T10:19:46.214046+00:00"
+      }
+    },
+    {
+      "headline": "Trump says Gulf leaders' input weighed heavily in decision to",
+      "bullets": [
+        "WASHINGTON -- U.S.",
+        "President Donald Trump said Sunday he decided to hold off on ordering American forces to carry out new strikes against Iran at the urging of Gulf allies Qatar, Saudi Arabia and the United Arab Emirates."
+      ],
+      "summary": "Trump says Gulf leaders' input weighed heavily in decision to",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Trump says Gulf leaders' input weighed heavily in decision to hold off on ordering new Iran strikes",
+        "article_url": "https://abc7ny.com/post/us-iran-deal-news-donald-trump-says-he-will-order-halt-strikes-parameters-reached-end-war/19616566/",
+        "published_at": "2026-08-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-03T10:19:48.405239+00:00",
+      "verification": {
+        "article_title": "Trump says Gulf leaders' input weighed heavily in decision to hold off on ordering new Iran strikes",
+        "article_url": "https://abc7ny.com/post/us-iran-deal-news-donald-trump-says-he-will-order-halt-strikes-parameters-reached-end-war/19616566/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-03T10:19:46.323470+00:00"
+      }
+    },
+    {
+      "headline": "Will the MTA ever be able to master elevators?",
+      "bullets": [
+        "In settling a long-running federal lawsuit against the MTA for its very poor maintenance of the limited number of elevators in the subway, the agency promises to do better in keeping its lifts working and to let passengers know when they are not.",
+        "This should be entirely possible, as any New Yorker who lives or works in an elevator building knows, but the MTA has struggled with it for years as passengers with disabilities have suffered."
+      ],
+      "summary": "Will the MTA ever be able to master elevators?",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Will the MTA ever be able to master elevators?",
+        "article_url": "https://www.nydailynews.com/2026/08/03/will-the-mta-ever-be-able-to-master-elevators/",
+        "published_at": "2026-08-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-03T10:19:48.511799+00:00",
+      "verification": {
+        "article_title": "Will the MTA ever be able to master elevators?",
+        "article_url": "https://www.nydailynews.com/2026/08/03/will-the-mta-ever-be-able-to-master-elevators/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-03T10:19:46.432601+00:00"
+      }
+    }
+  ]
+}
