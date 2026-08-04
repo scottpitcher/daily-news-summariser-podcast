@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-08-04T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-08-04.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Readers sound off on U.S. support for Israel, Founders\u2019 signatures",
+      "bullets": [
+        "Lose Americans and you will lose America Olivebridge, N.Y.: Benjamin Netanyahu, I know you were here to give direction to our president as you continue the wars that keep you in office.",
+        "Thank the American taxpayers who pay for your war."
+      ],
+      "summary": "Readers sound off on U.S. support for Israel, Founders\u2019 signatures",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on U.S. support for Israel, Founders\u2019 signatures and subway fares",
+        "article_url": "https://www.nydailynews.com/2026/08/04/readers-sound-off-on-u-s-support-for-israel-founders-signatures-and-subway-fares/",
+        "published_at": "2026-08-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-04T09:56:12.109847+00:00",
+      "verification": {
+        "article_title": "Readers sound off on U.S. support for Israel, Founders\u2019 signatures and subway fares",
+        "article_url": "https://www.nydailynews.com/2026/08/04/readers-sound-off-on-u-s-support-for-israel-founders-signatures-and-subway-fares/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The article is an opinion piece and does not contain specific, verifiable facts that need to be confirmed.",
+        "verified_at": "2026-08-04T09:56:05.558014+00:00"
+      }
+    },
+    {
+      "headline": "NYC home care workers urge end to 'torture' of 24-hour",
+      "bullets": [
+        "Home care workers are ramping up protests to end 24-hour work shifts they liken to \"torture\" and to pressure New York City Council Speaker Julie Menin to advance a local law capping their shifts at 12 hours.",
+        "A dozen current and former home care workers began a hunger strike last week to draw attention to their bid to end the 24-hour shifts, for which the workers say they also are undercompensated."
+      ],
+      "summary": "NYC home care workers urge end to 'torture' of 24-hour",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC home care workers urge end to 'torture' of 24-hour shifts",
+        "article_url": "https://gothamist.com/news/nyc-home-care-workers-urge-end-to-torture-of-24-hour-shifts",
+        "published_at": "2026-08-03T10:30:56+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-04T09:56:12.169924+00:00",
+      "verification": {
+        "article_title": "NYC home care workers urge end to 'torture' of 24-hour shifts",
+        "article_url": "https://gothamist.com/news/nyc-home-care-workers-urge-end-to-torture-of-24-hour-shifts",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides context and quotes from various stakeholders, making it less likely to be false.",
+        "verified_at": "2026-08-04T09:56:06.323363+00:00"
+      }
+    },
+    {
+      "headline": "How to build on NYC\u2019s summer of awe",
+      "bullets": [
+        "Was it all a dream?",
+        "The Knicks\u2019 epic playoff run on top of the global love fest that is the World Cup, all on the heels of a mayoral campaign that leaned into the magic of New York."
+      ],
+      "summary": "How to build on NYC\u2019s summer of awe",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "How to build on NYC\u2019s summer of awe",
+        "article_url": "https://www.nydailynews.com/2026/08/04/how-to-build-on-nycs-summer-of-awe/",
+        "published_at": "2026-08-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-04T09:56:12.269685+00:00",
+      "verification": {
+        "article_title": "How to build on NYC\u2019s summer of awe",
+        "article_url": "https://www.nydailynews.com/2026/08/04/how-to-build-on-nycs-summer-of-awe/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The article is an opinion piece and does not contain specific, verifiable claims.",
+        "verified_at": "2026-08-04T09:56:06.971381+00:00"
+      }
+    },
+    {
+      "headline": "Legionnaires\u00e2 Outbreak Over, Health Dept. Says\u00e2Just After 7th Death",
+      "bullets": [
+        "Legionnaires\u00e2 Outbreak Over, Health Dept.",
+        "Says\u00e2Just After 7th Death Though no new cases have been reported since July 17, the outbreak claimed another life on July 30, with five people still hospitalized."
+      ],
+      "summary": "Legionnaires\u00e2 Outbreak Over, Health Dept. Says\u00e2Just After 7th Death",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Legionnaires\u00e2 Outbreak Over, Health Dept. Says\u00e2Just After 7th Death",
+        "article_url": "https://www.ourtownny.com/home/legionnaires-outbreak-over-health-dept-says-just-after-7th-death-XD6072426",
+        "published_at": "2026-08-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-04T09:56:12.384427+00:00",
+      "verification": {
+        "article_title": "Legionnaires\u00e2 Outbreak Over, Health Dept. Says\u00e2Just After 7th Death",
+        "article_url": "https://www.ourtownny.com/home/legionnaires-outbreak-over-health-dept-says-just-after-7th-death-XD6072426",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and recent, and the claims are not specific or load-bearing enough to require verification.",
+        "verified_at": "2026-08-04T09:56:07.456931+00:00"
+      }
+    },
+    {
+      "headline": "Union Landlord Evicting Six Small Businesses from Third Avenue Block",
+      "bullets": [
+        "Union Landlord Evicting Six Small Businesses from Third Avenue Block The Metallic Lathers Union has given mixed signals about the end date to tenants who have been paying month-to-month for decades.",
+        "A labor union local in the landlord business is trying to evict a handful of mom and pop stores from a stretch of Third Avenue between East 75th and 76th Streets."
+      ],
+      "summary": "Union Landlord Evicting Six Small Businesses from Third Avenue Block",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Union Landlord Evicting Six Small Businesses from Third Avenue Block",
+        "article_url": "https://www.ourtownny.com/news/union-landlord-evicting-six-small-businesses-from-third-avenue-block-GB6074679",
+        "published_at": "2026-08-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-04T09:56:12.524157+00:00",
+      "verification": {
+        "article_title": "Union Landlord Evicting Six Small Businesses from Third Avenue Block",
+        "article_url": "https://www.ourtownny.com/news/union-landlord-evicting-six-small-businesses-from-third-avenue-block-GB6074679",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and recent, and does not contain specific, verifiable claims that need external verification.",
+        "verified_at": "2026-08-04T09:56:08.152821+00:00"
+      }
+    },
+    {
+      "headline": "From Rikers to the open road: Program helps detainees land",
+      "bullets": [
+        "On an ordinary summer day, a white delivery truck turned out of a commercial lot and rumbled down a narrow cobblestone street in Red Hook, Brooklyn.",
+        "The truck looked like any of the other hundreds of hulking vehicles that crisscross New York City, aside from a \u201cstudent driver\u201d sticker on the front."
+      ],
+      "summary": "From Rikers to the open road: Program helps detainees land",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "From Rikers to the open road: Program helps detainees land lucrative trucking jobs",
+        "article_url": "https://gothamist.com/news/from-rikers-to-the-open-road-program-helps-detainees-land-lucrative-trucking-jobs",
+        "published_at": "2026-08-03T12:01:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-04T09:56:12.601846+00:00",
+      "verification": {
+        "article_title": "From Rikers to the open road: Program helps detainees land lucrative trucking jobs",
+        "article_url": "https://gothamist.com/news/from-rikers-to-the-open-road-program-helps-detainees-land-lucrative-trucking-jobs",
+        "verification_triggered": true,
+        "search_query": "Next Mile NYC program success and funding details 2025",
+        "search_summary": "Web search is not configured (missing API key). No external results are available; use your own judgment based on the article text and source alone.",
+        "verdict": "verified",
+        "caveat_text": null,
+        "reasoning": "The article is well-sourced and provides specific details about the program's success and funding, which align with the claims made.",
+        "verified_at": "2026-08-04T09:56:08.800908+00:00"
+      }
+    },
+    {
+      "headline": "25 states sue over Trump\u2019s new tariffs, calling them \u2018pretext\u2019",
+      "bullets": [
+        "By PAUL WISEMAN and MAE ANDERSON WASHINGTON (AP) \u2014 Twenty-five states sued the Trump administration Monday over its latest tariffs, calling them a pretext for replacing import taxes the Supreme Court struck down in February.",
+        "The United States last month imposed double-digit tariffs on 59 countries and the European Union, charging that they had not done enough to crack down on imports produced by forced labor."
+      ],
+      "summary": "25 states sue over Trump\u2019s new tariffs, calling them \u2018pretext\u2019",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "25 states sue over Trump\u2019s new tariffs, calling them \u2018pretext\u2019 to replace his old ones",
+        "article_url": "https://www.nydailynews.com/2026/08/03/tariffs-forced-labor-lawsuits/",
+        "published_at": "2026-08-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-04T09:56:12.806374+00:00",
+      "verification": {
+        "article_title": "25 states sue over Trump\u2019s new tariffs, calling them \u2018pretext\u2019 to replace his old ones",
+        "article_url": "https://www.nydailynews.com/2026/08/03/tariffs-forced-labor-lawsuits/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides context from multiple news outlets and legal experts.",
+        "verified_at": "2026-08-04T09:56:10.227843+00:00"
+      }
+    },
+    {
+      "headline": "7 MTA workers, 5 firefighters injured in Astor Place train",
+      "bullets": [
+        "MANHATTAN (WABC) -- Up to 12 people, including seven MTA workers and five firefighters, were injured after a work train caught fire and filled the Astor Place subway station with smoke early Tuesday morning.",
+        "The southbound train caught fire on the express tracks at the station just before 2:30 a.m."
+      ],
+      "summary": "7 MTA workers, 5 firefighters injured in Astor Place train",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "7 MTA workers, 5 firefighters injured in Astor Place train fire; service disrupted",
+        "article_url": "https://abc7ny.com/post/7-mta-workers-5-firefighters-injured-astor-place-train-fire-service-disrupted/19623125/",
+        "published_at": "2026-08-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-04T09:56:12.894106+00:00",
+      "verification": {
+        "article_title": "7 MTA workers, 5 firefighters injured in Astor Place train fire; service disrupted",
+        "article_url": "https://abc7ny.com/post/7-mta-workers-5-firefighters-injured-astor-place-train-fire-service-disrupted/19623125/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides specific details that are not ambiguous.",
+        "verified_at": "2026-08-04T09:56:10.714664+00:00"
+      }
+    },
+    {
+      "headline": "Decorated NYPD cop dies after breast implant removal surgery in",
+      "bullets": [
+        "A decorated young NYPD cop, Rebecca De Paula, died following surgery to remove breast implants in the Dominican Republic, the Daily News has learned.",
+        "Officer De Paula, 31, died after having surgery to remove the implants at a clinic in Santo Domingo, her family told the Dominican news outlet Noticias Sin."
+      ],
+      "summary": "Decorated NYPD cop dies after breast implant removal surgery in",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Decorated NYPD cop dies after breast implant removal surgery in Dominican Republic",
+        "article_url": "https://www.nydailynews.com/2026/08/03/decorated-nypd-cop-dies-after-breast-implant-removal-surgery-in-dominican-republic/",
+        "published_at": "2026-08-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-04T09:56:12.979497+00:00",
+      "verification": {
+        "article_title": "Decorated NYPD cop dies after breast implant removal surgery in Dominican Republic",
+        "article_url": "https://www.nydailynews.com/2026/08/03/decorated-nypd-cop-dies-after-breast-implant-removal-surgery-in-dominican-republic/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-04T09:56:11.194764+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on U.S. support for Israel, Founders\u2019 signatures",
+      "bullets": [
+        "Lose Americans and you will lose America Olivebridge, N.Y.: Benjamin Netanyahu, I know you were here to give direction to our president as you continue the wars that keep you in office.",
+        "Thank the American taxpayers who pay for your war."
+      ],
+      "summary": "Readers sound off on U.S. support for Israel, Founders\u2019 signatures",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on U.S. support for Israel, Founders\u2019 signatures and subway fares",
+        "article_url": "https://www.nydailynews.com/2026/08/04/readers-sound-off-on-u-s-support-for-israel-founders-signatures-and-subway-fares/",
+        "published_at": "2026-08-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-04T09:56:13.114079+00:00",
+      "verification": {
+        "article_title": "Readers sound off on U.S. support for Israel, Founders\u2019 signatures and subway fares",
+        "article_url": "https://www.nydailynews.com/2026/08/04/readers-sound-off-on-u-s-support-for-israel-founders-signatures-and-subway-fares/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-04T09:56:11.290219+00:00"
+      }
+    },
+    {
+      "headline": "Lindsay Clancy\u2019s diary chronicled desperation and \u2018brain fog\u2019 before she",
+      "bullets": [
+        "EDITOR\u2019S NOTE: This story includes discussion of suicide.",
+        "If you or someone you know needs help, the national suicide and crisis lifeline in the U.S."
+      ],
+      "summary": "Lindsay Clancy\u2019s diary chronicled desperation and \u2018brain fog\u2019 before she",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Lindsay Clancy\u2019s diary chronicled desperation and \u2018brain fog\u2019 before she killed her 3 kids",
+        "article_url": "https://www.nydailynews.com/2026/08/03/lindsay-clancy-trial-second-week/",
+        "published_at": "2026-08-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-04T09:56:13.201384+00:00",
+      "verification": {
+        "article_title": "Lindsay Clancy\u2019s diary chronicled desperation and \u2018brain fog\u2019 before she killed her 3 kids",
+        "article_url": "https://www.nydailynews.com/2026/08/03/lindsay-clancy-trial-second-week/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-04T09:56:11.353743+00:00"
+      }
+    },
+    {
+      "headline": "A Girl Scout camp in upstate New York says knitting",
+      "bullets": [
+        "For most kids, summer camp is a time to make new friends and explore the outdoors, but at a Girl Scout camp in upstate New York, campers are learning a different skill: knitting.",
+        "The activity at Camp Kaufman is meant to foster community, boost self-esteem, and demonstrate a sense of accomplishment."
+      ],
+      "summary": "A Girl Scout camp in upstate New York says knitting",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "A Girl Scout camp in upstate New York says knitting helps campers \"find inner peace\"",
+        "article_url": "https://www.cbsnews.com/newyork/news/girl-scout-camp-upstate-new-york-knitting/",
+        "published_at": "2026-08-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-04T09:56:13.342681+00:00",
+      "verification": {
+        "article_title": "A Girl Scout camp in upstate New York says knitting helps campers \"find inner peace\"",
+        "article_url": "https://www.cbsnews.com/newyork/news/girl-scout-camp-upstate-new-york-knitting/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-04T09:56:11.455714+00:00"
+      }
+    },
+    {
+      "headline": "Police Athletic League Opens Tech Learning Space For Youth in",
+      "bullets": [
+        "Police Athletic League Opens Tech Learning Space For Youth in Harlem Members of the NYPD, the NYC Police Foundation, and PAL joined to celebrate the opening of the NYCPF\u00e2s OPTIONS Center and the annual launch of PAL Playstreets in Harlem.",
+        "\u00e2I am too smart to be the one who stands in the way of a bunch of kids and an open fire hydrant,\u00e2 was the scuttled remark from Commissioner Jessica Tisch at the Police Athletic League Center in Harlem on Wednesday, July 29th."
+      ],
+      "summary": "Police Athletic League Opens Tech Learning Space For Youth in",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Police Athletic League Opens Tech Learning Space For Youth in Harlem",
+        "article_url": "https://www.ourtownny.com/news/police-athletic-league-opens-tech-learning-space-for-youth-in-harlem-EE6071969",
+        "published_at": "2026-08-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-04T09:56:13.401578+00:00",
+      "verification": {
+        "article_title": "Police Athletic League Opens Tech Learning Space For Youth in Harlem",
+        "article_url": "https://www.ourtownny.com/news/police-athletic-league-opens-tech-learning-space-for-youth-in-harlem-EE6071969",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-04T09:56:11.592033+00:00"
+      }
+    },
+    {
+      "headline": "Federal judge blocks New York\u2019s ban on ICE agents wearing",
+      "bullets": [
+        "New York\u2019s effort to make immigration agents show their faces was put on hold by a Monday federal court ruling.",
+        "U.S."
+      ],
+      "summary": "Federal judge blocks New York\u2019s ban on ICE agents wearing",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Federal judge blocks New York\u2019s ban on ICE agents wearing masks",
+        "article_url": "https://gothamist.com/news/federal-judge-blocks-new-yorks-ban-on-ice-agents-wearing-masks",
+        "published_at": "2026-08-03T23:39:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-04T09:56:13.556995+00:00",
+      "verification": {
+        "article_title": "Federal judge blocks New York\u2019s ban on ICE agents wearing masks",
+        "article_url": "https://gothamist.com/news/federal-judge-blocks-new-yorks-ban-on-ice-agents-wearing-masks",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-04T09:56:11.651401+00:00"
+      }
+    },
+    {
+      "headline": "FEMA flood maps cause 'misunderstanding' among some homeowners, leaving millions",
+      "bullets": [
+        "Millions don't have flood insurance \"when they really should,\" an expert said.",
+        "On the morning of Sept."
+      ],
+      "summary": "FEMA flood maps cause 'misunderstanding' among some homeowners, leaving millions",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "FEMA flood maps cause 'misunderstanding' among some homeowners, leaving millions without insurance, experts say",
+        "article_url": "https://abc7ny.com/story/fema-flood-maps-cause-misunderstanding-among-homeowners-leaving-millions-insurance-experts-say/19619088/",
+        "published_at": "2026-08-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-04T09:56:13.616572+00:00",
+      "verification": {
+        "article_title": "FEMA flood maps cause 'misunderstanding' among some homeowners, leaving millions without insurance, experts say",
+        "article_url": "https://abc7ny.com/story/fema-flood-maps-cause-misunderstanding-among-homeowners-leaving-millions-insurance-experts-say/19619088/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-04T09:56:11.756677+00:00"
+      }
+    },
+    {
+      "headline": "Whale watchers identify 500th individual humpback prowling NYC waters",
+      "bullets": [
+        "Whale watchers in New York and New Jersey have documented their 500th individual humpback whale in local waters, a milestone they said highlights the creatures\u2019 growing role in the local ecosystem.",
+        "A confluence of factors has made the region more attractive to humpback whales, according to Chris St."
+      ],
+      "summary": "Whale watchers identify 500th individual humpback prowling NYC waters",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Whale watchers identify 500th individual humpback prowling NYC waters",
+        "article_url": "https://gothamist.com/news/whale-watchers-identify-500th-individual-humpback-prowling-nyc-waters",
+        "published_at": "2026-08-03T18:00:58+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-04T09:56:13.675980+00:00",
+      "verification": {
+        "article_title": "Whale watchers identify 500th individual humpback prowling NYC waters",
+        "article_url": "https://gothamist.com/news/whale-watchers-identify-500th-individual-humpback-prowling-nyc-waters",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-04T09:56:11.843963+00:00"
+      }
+    },
+    {
+      "headline": "FEMA flood maps cause 'misunderstanding' among some homeowners, leaving millions",
+      "bullets": [
+        "Millions don't have flood insurance \"when they really should,\" an expert said.",
+        "On the morning of Sept."
+      ],
+      "summary": "FEMA flood maps cause 'misunderstanding' among some homeowners, leaving millions",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "FEMA flood maps cause 'misunderstanding' among some homeowners, leaving millions without insurance, experts say",
+        "article_url": "https://abc7ny.com/story/fema-flood-maps-cause-misunderstanding-among-homeowners-leaving-millions-insurance-experts-say/19619088/",
+        "published_at": "2026-08-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-04T09:56:13.826315+00:00",
+      "verification": {
+        "article_title": "FEMA flood maps cause 'misunderstanding' among some homeowners, leaving millions without insurance, experts say",
+        "article_url": "https://abc7ny.com/story/fema-flood-maps-cause-misunderstanding-among-homeowners-leaving-millions-insurance-experts-say/19619088/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-04T09:56:11.903803+00:00"
+      }
+    },
+    {
+      "headline": "We can make New York State affordable",
+      "bullets": [
+        "What happens when an affluent New York village tries to make space for affordable housing?",
+        "In Sag Harbor \u2014 which has more yachts visible on Google\u2019s satellite view than it has apartments \u2014 the Village Board tried to amend its own rules and allow some parking lots to be developed as homes for the workers who serve wealthy residents."
+      ],
+      "summary": "We can make New York State affordable",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "We can make New York State affordable",
+        "article_url": "https://www.nydailynews.com/2026/08/04/we-can-make-new-york-state-affordable/",
+        "published_at": "2026-08-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-04T09:56:13.929525+00:00",
+      "verification": {
+        "article_title": "We can make New York State affordable",
+        "article_url": "https://www.nydailynews.com/2026/08/04/we-can-make-new-york-state-affordable/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-04T09:56:11.966892+00:00"
+      }
+    }
+  ]
+}
