@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-08-05T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-08-05.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "NYC Council pushing new e-bike laws, enforcement amid spate of",
+      "bullets": [
+        "City Council Speaker Julie Menin said Tuesday that city lawmakers will hold a hearing next month to consider a slew of new legislation aimed at improving e-bike safety in the five boroughs.",
+        "The hearing \u2014 which Menin said will also focus on the enforcement, or lack thereof, of current e-bike laws \u2014 comes a week after Gabriel Nacato, a 17-year-old Brooklyn boy, was killed when his high-speed e-bike crashed with an SUV in Lower Manhattan."
+      ],
+      "summary": "NYC Council pushing new e-bike laws, enforcement amid spate of",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYC Council pushing new e-bike laws, enforcement amid spate of fatal crashes",
+        "article_url": "https://www.nydailynews.com/2026/08/04/nyc-council-pushing-e-bike-laws-enforcement-spate-fatal-crashes/",
+        "published_at": "2026-08-04T17:59:26+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-05T09:55:33.230953+00:00",
+      "verification": {
+        "article_title": "NYC Council pushing new e-bike laws, enforcement amid spate of fatal crashes",
+        "article_url": "https://www.nydailynews.com/2026/08/04/nyc-council-pushing-e-bike-laws-enforcement-spate-fatal-crashes/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides details about upcoming legislation and a city council hearing, without making specific, verifiable claims.",
+        "verified_at": "2026-08-05T09:55:27.528870+00:00"
+      }
+    },
+    {
+      "headline": "Heavy police presence at Summer Streets marks latest NYPD surge",
+      "bullets": [
+        "As he biked through Manhattan\u2019s Summer Streets route last weekend, Clarence Eckerson Jr.",
+        "witnessed something he\u2019d never seen in his 18 years of attending the annual car-free event: gridlock, courtesy of the NYPD."
+      ],
+      "summary": "Heavy police presence at Summer Streets marks latest NYPD surge",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Heavy police presence at Summer Streets marks latest NYPD surge under Mamdani",
+        "article_url": "https://gothamist.com/news/heavy-police-presence-at-summer-streets-marks-latest-nypd-surge-under-mamdani",
+        "published_at": "2026-08-04T16:07:48+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-05T09:55:33.318593+00:00",
+      "verification": {
+        "article_title": "Heavy police presence at Summer Streets marks latest NYPD surge under Mamdani",
+        "article_url": "https://gothamist.com/news/heavy-police-presence-at-summer-streets-marks-latest-nypd-surge-under-mamdani",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides context and quotes from various experts and officials.",
+        "verified_at": "2026-08-05T09:55:28.162632+00:00"
+      }
+    },
+    {
+      "headline": "NYC lawmakers undertaking \"comprehensive review\" of e-bike safety with 17",
+      "bullets": [
+        "New York City Council Speaker Julie Menin announced more than a dozen new bills focused on e-bike safety Tuesday.",
+        "Menin is calling it a comprehensive legislative review of e-bike and e-scooter safety."
+      ],
+      "summary": "NYC lawmakers undertaking \"comprehensive review\" of e-bike safety with 17",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "NYC lawmakers undertaking \"comprehensive review\" of e-bike safety with 17 new bills, public hearing",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-city-council-e-bike-safety-bills/",
+        "published_at": "2026-08-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-05T09:55:33.379088+00:00",
+      "verification": {
+        "article_title": "NYC lawmakers undertaking \"comprehensive review\" of e-bike safety with 17 new bills, public hearing",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-city-council-e-bike-safety-bills/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides details from the City Council and Mayor's office.",
+        "verified_at": "2026-08-05T09:55:28.915885+00:00"
+      }
+    },
+    {
+      "headline": "NYC offers first 2,000 free 2-K seats amid huge demand",
+      "bullets": [
+        "NEW YORK - More than 2,000 children are receiving offers to be the first to join New York City's 2-K early education program, Mayor Zohran Mamdani and Gov.",
+        "Kathy Hochul announced Tuesday."
+      ],
+      "summary": "NYC offers first 2,000 free 2-K seats amid huge demand",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "NYC offers first 2,000 free 2-K seats amid huge demand for new early education program",
+        "article_url": "https://www.fox5ny.com/news/nyc-2-k-offers-announced-free-childcare-early-education",
+        "published_at": "2026-08-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-05T09:55:33.437398+00:00",
+      "verification": {
+        "article_title": "NYC offers first 2,000 free 2-K seats amid huge demand for new early education program",
+        "article_url": "https://www.fox5ny.com/news/nyc-2-k-offers-announced-free-childcare-early-education",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides specific details that do not require external verification.",
+        "verified_at": "2026-08-05T09:55:29.477545+00:00"
+      }
+    },
+    {
+      "headline": "Iran and Oman are working on a plan to reopen",
+      "bullets": [
+        "By ELENA BECATOROS and SAMY MAGDY CAIRO (AP) \u2014 Iran and Oman are inching toward a deal to reopen the disputed Strait of Hormuz and potentially help bring an end to the war.",
+        "The emerging agreement calls for ships to enter the Persian Gulf through an Iranian-controlled route and exit through a route controlled by Oman, two regional officials told The Associated Press."
+      ],
+      "summary": "Iran and Oman are working on a plan to reopen",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Iran and Oman are working on a plan to reopen the Strait of Hormuz, and other Mideast developments",
+        "article_url": "https://www.nydailynews.com/2026/08/04/strait-of-hormuz-us-iran-talks/",
+        "published_at": "2026-08-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-05T09:55:33.586888+00:00",
+      "verification": {
+        "article_title": "Iran and Oman are working on a plan to reopen the Strait of Hormuz, and other Mideast developments",
+        "article_url": "https://www.nydailynews.com/2026/08/04/strait-of-hormuz-us-iran-talks/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides context from multiple officials and regional officials, making it less likely to be false.",
+        "verified_at": "2026-08-05T09:55:30.046016+00:00"
+      }
+    },
+    {
+      "headline": "Union Landlord Evicting Six Small Businesses from Third Avenue Block",
+      "bullets": [
+        "Union Landlord Evicting Six Small Businesses from Third Avenue Block The Metallic Lathers Union has given mixed signals about the end date to tenants who have been paying month-to-month for decades.",
+        "A labor union local in the landlord business is trying to evict a handful of mom and pop stores from a stretch of Third Avenue between East 75th and 76th Streets."
+      ],
+      "summary": "Union Landlord Evicting Six Small Businesses from Third Avenue Block",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Union Landlord Evicting Six Small Businesses from Third Avenue Block",
+        "article_url": "https://www.ourtownny.com/news/union-landlord-evicting-six-small-businesses-from-third-avenue-block-GB6074679",
+        "published_at": "2026-08-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-05T09:55:33.646648+00:00",
+      "verification": {
+        "article_title": "Union Landlord Evicting Six Small Businesses from Third Avenue Block",
+        "article_url": "https://www.ourtownny.com/news/union-landlord-evicting-six-small-businesses-from-third-avenue-block-GB6074679",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and recent, and does not contain specific, verifiable claims that need external confirmation.",
+        "verified_at": "2026-08-05T09:55:30.880027+00:00"
+      }
+    },
+    {
+      "headline": "N.Y. cops shouldn\u2019t be helping ICE lawlessness",
+      "bullets": [
+        "Showing that states retain certain powers even under the misrule of Donald Trump, Albany Federal Judge Mae D\u2019Agostino has upheld for now New York\u2019s ban on local law enforcement agencies having so-called 287(g) agreements with ICE (which enlist local police into performing civil immigration enforcement functions.) Late last month, the state sent out letters to 12 local law enforcement agencies with 287(g) agreements informing them that these deals now violate state law and must be terminated.",
+        "D\u2019Agostino ruled Monday that these bans can move forward, even as she struck down a state-level mask ban."
+      ],
+      "summary": "N.Y. cops shouldn\u2019t be helping ICE lawlessness",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "N.Y. cops shouldn\u2019t be helping ICE lawlessness",
+        "article_url": "https://www.nydailynews.com/2026/08/05/n-y-cops-shouldnt-be-helping-ice-lawlessness/",
+        "published_at": "2026-08-05"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-05T09:55:33.696724+00:00",
+      "verification": {
+        "article_title": "N.Y. cops shouldn\u2019t be helping ICE lawlessness",
+        "article_url": "https://www.nydailynews.com/2026/08/05/n-y-cops-shouldnt-be-helping-ice-lawlessness/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The article is an opinion piece and does not contain specific, verifiable claims that require external verification.",
+        "verified_at": "2026-08-05T09:55:31.519476+00:00"
+      }
+    },
+    {
+      "headline": "Man charged with setting Spokane's largest wildfire went to prison",
+      "bullets": [
+        "The Old Trails Fire is one of three burning in Spokane, Washington.",
+        "A man who went to prison for manslaughter in his father's 2010 killing in Arizona has been charged with setting the largest of the wildfires that have destroyed hundreds of buildings in and around Washington state's second-largest city and forced tens of thousands of people from their homes."
+      ],
+      "summary": "Man charged with setting Spokane's largest wildfire went to prison",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Man charged with setting Spokane's largest wildfire went to prison for manslaughter in dad's death",
+        "article_url": "https://abc7ny.com/post/man-arrested-suspicion-arson-allegedly-starting-spokane-fire/19623388/",
+        "published_at": "2026-08-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-05T09:55:33.825934+00:00",
+      "verification": {
+        "article_title": "Man charged with setting Spokane's largest wildfire went to prison for manslaughter in dad's death",
+        "article_url": "https://abc7ny.com/post/man-arrested-suspicion-arson-allegedly-starting-spokane-fire/19623388/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides specific details that do not require external verification.",
+        "verified_at": "2026-08-05T09:55:32.043241+00:00"
+      }
+    },
+    {
+      "headline": "Mount Vernon police official texted son instructions for Bronx courthouse",
+      "bullets": [
+        "A high-ranking official with the Mount Vernon Police Department accused of participating in an attempted gang hit outside a Bronx courthouse gave her gun-toting son explicit instructions on how to carry out the would-be hit and even told him via text on where to stand and other logistics, a bombshell indictment released Tuesday shows.",
+        "As they waited outside the Bronx Hall of Justice near E."
+      ],
+      "summary": "Mount Vernon police official texted son instructions for Bronx courthouse",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Mount Vernon police official texted son instructions for Bronx courthouse shooting: indictment",
+        "article_url": "https://www.nydailynews.com/2026/08/04/high-ranking-mount-vernon-cop-texted-son-instructions-for-bronx-courthouse-shooting-indictment/",
+        "published_at": "2026-08-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-05T09:55:33.908349+00:00",
+      "verification": {
+        "article_title": "Mount Vernon police official texted son instructions for Bronx courthouse shooting: indictment",
+        "article_url": "https://www.nydailynews.com/2026/08/04/high-ranking-mount-vernon-cop-texted-son-instructions-for-bronx-courthouse-shooting-indictment/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-05T09:55:32.572195+00:00"
+      }
+    },
+    {
+      "headline": "NYPD touts record-low shootings, murders for year\u2019s first 7 months",
+      "bullets": [
+        "Despite the soaring temperatures and the dog days of summer, major crime is following the lead of many New Yorkers, and taking a much-needed vacation.",
+        "The NYPD is taking a bow for the fewest shooting incidents, the fewest shooting victims, and the fewest murders in recorded history across the city for both the first seven months of the year and the month of July."
+      ],
+      "summary": "NYPD touts record-low shootings, murders for year\u2019s first 7 months",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYPD touts record-low shootings, murders for year\u2019s first 7 months and July",
+        "article_url": "https://www.nydailynews.com/2026/08/04/nypd-record-low-shootings-murders-first-seven-months-2026/",
+        "published_at": "2026-08-04T17:06:54+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-05T09:55:33.958388+00:00",
+      "verification": {
+        "article_title": "NYPD touts record-low shootings, murders for year\u2019s first 7 months and July",
+        "article_url": "https://www.nydailynews.com/2026/08/04/nypd-record-low-shootings-murders-first-seven-months-2026/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-05T09:55:32.622519+00:00"
+      }
+    },
+    {
+      "headline": "Lindsay Clancy's diary chronicled desperation and 'brain fog' before she",
+      "bullets": [
+        "PLYMOUTH, Mass.",
+        "-- After an opening week of wrenching testimony and a jury trip to the home where Lindsay Clancy strangled her three children, her murder trial resumed Monday with diary entries from the months leading up to the killings in a coastal Massachusetts town in 2023."
+      ],
+      "summary": "Lindsay Clancy's diary chronicled desperation and 'brain fog' before she",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Lindsay Clancy's diary chronicled desperation and 'brain fog' before she killed her 3 kids",
+        "article_url": "https://abc7ny.com/post/lindsay-clancy-trial-today-mothers-diary-chronicled-desperation-brain-fog-before-she-killed-3-kids/19623900/",
+        "published_at": "2026-08-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-05T09:55:34.021649+00:00",
+      "verification": {
+        "article_title": "Lindsay Clancy's diary chronicled desperation and 'brain fog' before she killed her 3 kids",
+        "article_url": "https://abc7ny.com/post/lindsay-clancy-trial-today-mothers-diary-chronicled-desperation-brain-fog-before-she-killed-3-kids/19623900/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-05T09:55:32.686945+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on renaming Penn Station, Legionnaires\u2019 disease and",
+      "bullets": [
+        "Don\u2019t let that name tarnish our station Valley Stream, L.I.: I strongly oppose any proposal to rename New York\u2019s Penn Station after President Trump.",
+        "It\u2019s one of the busiest hubs in the United States, serving millions of travelers from every background and political belief."
+      ],
+      "summary": "Readers sound off on renaming Penn Station, Legionnaires\u2019 disease and",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on renaming Penn Station, Legionnaires\u2019 disease and bashing cats",
+        "article_url": "https://www.nydailynews.com/2026/08/05/readers-sound-off-on-renaming-penn-station-legionnaires-disease-and-bashing-cats/",
+        "published_at": "2026-08-05"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-05T09:55:34.144970+00:00",
+      "verification": {
+        "article_title": "Readers sound off on renaming Penn Station, Legionnaires\u2019 disease and bashing cats",
+        "article_url": "https://www.nydailynews.com/2026/08/05/readers-sound-off-on-renaming-penn-station-legionnaires-disease-and-bashing-cats/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-05T09:55:32.781142+00:00"
+      }
+    },
+    {
+      "headline": "Is it time to reconsider NYC's age-cutoff for kindergarten?",
+      "bullets": [
+        "New York City's longstanding age cut-off for kindergarten has long been a source of heartache and headaches for some parents with kids born late in the year.",
+        "Now a group of parents say Mayor Zohran Mamdani\u2019s new free childcare program for 2-year-olds is a perfect time to reconsider the deadline."
+      ],
+      "summary": "Is it time to reconsider NYC's age-cutoff for kindergarten?",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Is it time to reconsider NYC's age-cutoff for kindergarten?",
+        "article_url": "https://gothamist.com/news/is-it-time-to-reconsider-nycs-age-cutoff-for-kindergarten",
+        "published_at": "2026-08-04T10:30:46+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-05T09:55:34.195756+00:00",
+      "verification": {
+        "article_title": "Is it time to reconsider NYC's age-cutoff for kindergarten?",
+        "article_url": "https://gothamist.com/news/is-it-time-to-reconsider-nycs-age-cutoff-for-kindergarten",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-05T09:55:32.829782+00:00"
+      }
+    },
+    {
+      "headline": "NYC free preschool: 2,000 toddlers get 2-K seats, Mamdani says",
+      "bullets": [
+        "NEW YORK (WABC) -- More than 2,000 children received offers to join New York City's inaugural 2-K class, city and state officials announced Tuesday.",
+        "More than 5,700 families applied for just over 2,000 available seats."
+      ],
+      "summary": "NYC free preschool: 2,000 toddlers get 2-K seats, Mamdani says",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "NYC free preschool: 2,000 toddlers get 2-K seats, Mamdani says",
+        "article_url": "https://abc7ny.com/post/mayor-mamdani-gov-hochul-announce-more-2000-children-receive-2-offers-new-york-city/19623807/",
+        "published_at": "2026-08-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-05T09:55:34.257649+00:00",
+      "verification": {
+        "article_title": "NYC free preschool: 2,000 toddlers get 2-K seats, Mamdani says",
+        "article_url": "https://abc7ny.com/post/mayor-mamdani-gov-hochul-announce-more-2000-children-receive-2-offers-new-york-city/19623807/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-05T09:55:32.906751+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on renaming Penn Station, Legionnaires\u2019 disease and",
+      "bullets": [
+        "Don\u2019t let that name tarnish our station Valley Stream, L.I.: I strongly oppose any proposal to rename New York\u2019s Penn Station after President Trump.",
+        "It\u2019s one of the busiest hubs in the United States, serving millions of travelers from every background and political belief."
+      ],
+      "summary": "Readers sound off on renaming Penn Station, Legionnaires\u2019 disease and",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on renaming Penn Station, Legionnaires\u2019 disease and bashing cats",
+        "article_url": "https://www.nydailynews.com/2026/08/05/readers-sound-off-on-renaming-penn-station-legionnaires-disease-and-bashing-cats/",
+        "published_at": "2026-08-05"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-05T09:55:34.338531+00:00",
+      "verification": {
+        "article_title": "Readers sound off on renaming Penn Station, Legionnaires\u2019 disease and bashing cats",
+        "article_url": "https://www.nydailynews.com/2026/08/05/readers-sound-off-on-renaming-penn-station-legionnaires-disease-and-bashing-cats/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-05T09:55:32.958204+00:00"
+      }
+    },
+    {
+      "headline": "Man charged with setting Spokane's largest wildfire went to prison",
+      "bullets": [
+        "The Old Trails Fire is one of three burning in Spokane, Washington.",
+        "A man who went to prison for manslaughter in his father's 2010 killing in Arizona has been charged with setting the largest of the wildfires that have destroyed hundreds of buildings in and around Washington state's second-largest city and forced tens of thousands of people from their homes."
+      ],
+      "summary": "Man charged with setting Spokane's largest wildfire went to prison",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Man charged with setting Spokane's largest wildfire went to prison for manslaughter in dad's death",
+        "article_url": "https://abc7ny.com/post/man-arrested-suspicion-arson-allegedly-starting-spokane-fire/19623388/",
+        "published_at": "2026-08-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-05T09:55:34.402406+00:00",
+      "verification": {
+        "article_title": "Man charged with setting Spokane's largest wildfire went to prison for manslaughter in dad's death",
+        "article_url": "https://abc7ny.com/post/man-arrested-suspicion-arson-allegedly-starting-spokane-fire/19623388/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-05T09:55:33.009962+00:00"
+      }
+    },
+    {
+      "headline": "The best battle drones for epic fun in the sky",
+      "bullets": [
+        "What is the best battle drone?",
+        "Battle drones bring the fantasy and excitement of spaceship combat to life."
+      ],
+      "summary": "The best battle drones for epic fun in the sky",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "The best battle drones for epic fun in the sky",
+        "article_url": "https://www.nydailynews.com/2026/08/04/the-best-battle-drones-for-epic-fun-in-the-sky/",
+        "published_at": "2026-08-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-05T09:55:34.453089+00:00",
+      "verification": {
+        "article_title": "The best battle drones for epic fun in the sky",
+        "article_url": "https://www.nydailynews.com/2026/08/04/the-best-battle-drones-for-epic-fun-in-the-sky/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-05T09:55:33.058621+00:00"
+      }
+    },
+    {
+      "headline": "Short-term pain for a long-term train: MTA subway construction upends",
+      "bullets": [
+        "Most days in East Harlem, a massive pile driver on Second Avenue slams into the ground, sending out thunderous bangs as workers build the city\u2019s newest subway.",
+        "Businesses along the street are covered in scaffolding and fences, making it more difficult to attract customers."
+      ],
+      "summary": "Short-term pain for a long-term train: MTA subway construction upends",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Short-term pain for a long-term train: MTA subway construction upends life in East Harlem",
+        "article_url": "https://gothamist.com/news/short-term-pain-for-a-long-term-train-mta-subway-construction-upends-life-in-east-harlem",
+        "published_at": "2026-08-04T10:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-05T09:55:34.504904+00:00",
+      "verification": {
+        "article_title": "Short-term pain for a long-term train: MTA subway construction upends life in East Harlem",
+        "article_url": "https://gothamist.com/news/short-term-pain-for-a-long-term-train-mta-subway-construction-upends-life-in-east-harlem",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-05T09:55:33.108970+00:00"
+      }
+    }
+  ]
+}
