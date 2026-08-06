@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-08-06T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-08-06.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Readers sound off on MTA elevators, union power and Reflecting",
+      "bullets": [
+        "MTA accessibility work speaks for itself Manhattan: Re \u201cWill the MTA ever be able to master elevators?\u201d (editorial, Aug.",
+        "3): The Editorial Board frequently has good insights on transit, but this time you got it wrong."
+      ],
+      "summary": "Readers sound off on MTA elevators, union power and Reflecting",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on MTA elevators, union power and Reflecting Pool charges",
+        "article_url": "https://www.nydailynews.com/2026/08/06/readers-sound-off-on-mta-elevators-union-power-and-reflecting-pool-charges/",
+        "published_at": "2026-08-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-06T11:16:40.296857+00:00",
+      "verification": {
+        "article_title": "Readers sound off on MTA elevators, union power and Reflecting Pool charges",
+        "article_url": "https://www.nydailynews.com/2026/08/06/readers-sound-off-on-mta-elevators-union-power-and-reflecting-pool-charges/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The article is an opinion piece with no specific factual claims that need verification.",
+        "verified_at": "2026-08-06T11:16:33.887668+00:00"
+      }
+    },
+    {
+      "headline": "Migrant kids, facing deportation, take on the US government alone",
+      "bullets": [
+        "Dozens of young children, including one who wore a pink shirt and spoke in a sing-song voice, appeared virtually in a Downtown Manhattan immigration court on Wednesday morning.",
+        "Most lacked attorneys and were facing government lawyers alone as their ability to remain in the United States hung in the balance."
+      ],
+      "summary": "Migrant kids, facing deportation, take on the US government alone",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Migrant kids, facing deportation, take on the US government alone in immigration court",
+        "article_url": "https://gothamist.com/news/migrant-kids-facing-deportation-take-on-the-us-government-alone-in-immigration-court",
+        "published_at": "2026-08-05T21:23:18+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-06T11:16:40.378793+00:00",
+      "verification": {
+        "article_title": "Migrant kids, facing deportation, take on the US government alone in immigration court",
+        "article_url": "https://gothamist.com/news/migrant-kids-facing-deportation-take-on-the-us-government-alone-in-immigration-court",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and recent, and does not contain specific, load-bearing factual claims that require verification.",
+        "verified_at": "2026-08-06T11:16:34.466488+00:00"
+      }
+    },
+    {
+      "headline": "Trump\u2019s immigration crackdown has detained more than 50 military spouses",
+      "bullets": [
+        "By JACK BROOK, SAFIYAH RIDDLE and AARON KESSLER President Donald Trump\u2019s administration has detained dozens of parents and spouses of active-duty U.S.",
+        "troops as it rolls back immigration protections for military families to pursue its mass deportation agenda, an Associated Press investigation found."
+      ],
+      "summary": "Trump\u2019s immigration crackdown has detained more than 50 military spouses",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Trump\u2019s immigration crackdown has detained more than 50 military spouses and parents",
+        "article_url": "https://www.nydailynews.com/2026/08/05/trump-immigration-crackdown-military-families/",
+        "published_at": "2026-08-05"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-06T11:16:40.470533+00:00",
+      "verification": {
+        "article_title": "Trump\u2019s immigration crackdown has detained more than 50 military spouses and parents",
+        "article_url": "https://www.nydailynews.com/2026/08/05/trump-immigration-crackdown-military-families/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is supported by an Associated Press investigation and includes details from multiple sources, such as family members and legal experts.",
+        "verified_at": "2026-08-06T11:16:35.134609+00:00"
+      }
+    },
+    {
+      "headline": "Park Avenue Armory Tries To Evict Knickerbocker Greys Cadets\u00e2Again!",
+      "bullets": [
+        "Park Avenue Armory Tries To Evict Knickerbocker Greys Cadets\u00e2Again!",
+        "Local pols slammed the well-heeled nonprofit\u00e2whose President Rebbeca Robertson is paid more than $600,000 a year\u00e2for defying state law and trying to have the beloved youth cadet evicted, via a federal lawsuit filed by the Park Avenue Armory Conservancy."
+      ],
+      "summary": "Park Avenue Armory Tries To Evict Knickerbocker Greys Cadets\u00e2Again!",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Park Avenue Armory Tries To Evict Knickerbocker Greys Cadets\u00e2Again!",
+        "article_url": "https://www.ourtownny.com/news/park-avenue-armory-tries-to-evict-knickerbocker-greys-cadets-again-LH6081962",
+        "published_at": "2026-08-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-06T11:16:40.541631+00:00",
+      "verification": {
+        "article_title": "Park Avenue Armory Tries To Evict Knickerbocker Greys Cadets\u00e2Again!",
+        "article_url": "https://www.ourtownny.com/news/park-avenue-armory-tries-to-evict-knickerbocker-greys-cadets-again-LH6081962",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and recent, with quotes from local politicians and details about the legal and financial aspects of the situation.",
+        "verified_at": "2026-08-06T11:16:35.988534+00:00"
+      }
+    },
+    {
+      "headline": "No evidence? No problem. Trump pushes ahead on false claims",
+      "bullets": [
+        "By JOSH BOAK WASHINGTON (AP) \u2014 Jeanine Pirro this week found out there is a trade-off between loyalty to President Donald Trump and being loyal to reality.",
+        "The U.S."
+      ],
+      "summary": "No evidence? No problem. Trump pushes ahead on false claims",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "No evidence? No problem. Trump pushes ahead on false claims that Reflecting Pool was vandalized",
+        "article_url": "https://www.nydailynews.com/2026/08/05/trump-pirro-reflecting-pool-false-claims/",
+        "published_at": "2026-08-05"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-06T11:16:40.609165+00:00",
+      "verification": {
+        "article_title": "No evidence? No problem. Trump pushes ahead on false claims that Reflecting Pool was vandalized",
+        "article_url": "https://www.nydailynews.com/2026/08/05/trump-pirro-reflecting-pool-false-claims/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story makes specific factual claims about the case against David Hearn and the actions of Jeanine Pirro that need verification.",
+        "verified_at": "2026-08-06T11:16:36.578501+00:00"
+      }
+    },
+    {
+      "headline": "Mamdani\u2019s childcare plan faces a hurdle: Home providers can\u2019t earn",
+      "bullets": [
+        "Andrea Pe\u00f1a tries not to think about how little she earns at the childcare business she runs out of her Bronx home.",
+        "\u201cIf I go through my math, I will get depressed,\u201d said Pe\u00f1a, 50."
+      ],
+      "summary": "Mamdani\u2019s childcare plan faces a hurdle: Home providers can\u2019t earn",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Mamdani\u2019s childcare plan faces a hurdle: Home providers can\u2019t earn a living",
+        "article_url": "https://gothamist.com/news/mamdanis-childcare-plan-faces-a-hurdle-home-providers-cant-earn-a-living",
+        "published_at": "2026-08-06T10:00:48+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-06T11:16:40.749605+00:00",
+      "verification": {
+        "article_title": "Mamdani\u2019s childcare plan faces a hurdle: Home providers can\u2019t earn a living",
+        "article_url": "https://gothamist.com/news/mamdanis-childcare-plan-faces-a-hurdle-home-providers-cant-earn-a-living",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story contains a specific factual claim about home-based childcare providers earning a median wage of $6 an hour, which needs verification.",
+        "verified_at": "2026-08-06T11:16:37.307602+00:00"
+      }
+    },
+    {
+      "headline": "Crowds flock to 'New York City's smallest pizzeria' in trunk",
+      "bullets": [
+        "HELL'S KITCHEN (WABC) -- A small Smart car parked at 54th Street and 10th Avenue is turning heads - and stopping pedestrians in their tracks - thanks to the unmistakable aroma of fresh, stone-fired pizza coming from its open trunk.",
+        "Pizza Pod NYC, a mobile micropizzeria operated entirely out of a two-seater vehicle, is the creation of owner Bradley Alvelo, who says the unconventional setup began with a simple idea."
+      ],
+      "summary": "Crowds flock to 'New York City's smallest pizzeria' in trunk",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Crowds flock to 'New York City's smallest pizzeria' in trunk of smart car",
+        "article_url": "https://abc7ny.com/post/tiny-car-trunk-pizzeria-draws-crowds-new-york-city/19632800/",
+        "published_at": "2026-08-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-06T11:16:40.838429+00:00",
+      "verification": {
+        "article_title": "Crowds flock to 'New York City's smallest pizzeria' in trunk of smart car",
+        "article_url": "https://abc7ny.com/post/tiny-car-trunk-pizzeria-draws-crowds-new-york-city/19632800/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides context and details about the pizzeria, making it likely to be accurate.",
+        "verified_at": "2026-08-06T11:16:37.877270+00:00"
+      }
+    },
+    {
+      "headline": "Dozens displaced after deadly explosion and 5-alarm fire rips through",
+      "bullets": [
+        "NORWOOD, Bronx (WABC) -- Over 40 people remain unable to return home Thursday morning after a deadly explosion and five-alarm fire tore through an apartment building in the Norwood section of the Bronx.",
+        "The Red Cross said the fire displaced 45 people, including seven children, from 18 households and 27 apartments in the building."
+      ],
+      "summary": "Dozens displaced after deadly explosion and 5-alarm fire rips through",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Dozens displaced after deadly explosion and 5-alarm fire rips through Bronx apartment building",
+        "article_url": "https://abc7ny.com/post/dozens-displaced-deadly-explosion-5-alarm-fire-rips-norwood-bronx-apartment-building/19634548/",
+        "published_at": "2026-08-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-06T11:16:40.933712+00:00",
+      "verification": {
+        "article_title": "Dozens displaced after deadly explosion and 5-alarm fire rips through Bronx apartment building",
+        "article_url": "https://abc7ny.com/post/dozens-displaced-deadly-explosion-5-alarm-fire-rips-norwood-bronx-apartment-building/19634548/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides specific details that align with the published article from a local news outlet.",
+        "verified_at": "2026-08-06T11:16:38.471789+00:00"
+      }
+    },
+    {
+      "headline": "Suspect arrested for 2025 shooting that killed 17-year-old boy in",
+      "bullets": [
+        "A 37-year-old man was arrested for fatally shooting a teenage boy in the Bronx more than a year ago, cops said Wednesday.",
+        "Charlie Torres was charged Tuesday with murder, manslaughter and gun possession for the deadly shooting that killed 17-year-old Andrew Mora on Jan."
+      ],
+      "summary": "Suspect arrested for 2025 shooting that killed 17-year-old boy in",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Suspect arrested for 2025 shooting that killed 17-year-old boy in the Bronx",
+        "article_url": "https://www.nydailynews.com/2026/08/05/suspect-arrested-for-2025-shooting-that-killed-17-year-old-boy-in-the-bronx/",
+        "published_at": "2026-08-05"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-06T11:16:41.158689+00:00",
+      "verification": {
+        "article_title": "Suspect arrested for 2025 shooting that killed 17-year-old boy in the Bronx",
+        "article_url": "https://www.nydailynews.com/2026/08/05/suspect-arrested-for-2025-shooting-that-killed-17-year-old-boy-in-the-bronx/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-06T11:16:39.056718+00:00"
+      }
+    },
+    {
+      "headline": "From antisemitic crimes to manslaughter",
+      "bullets": [
+        "On May 23, two days before my mother was struck in a crash caused by a speeding car in Eastern Queens, I talked to her about rising antisemitism in the world and in her own area.",
+        "The night before, a man had shown up at Bagels & Co, a kosher, Jewish-owned bagel store just a mile from my parents\u2019 home, throwing and destroying its property, the latest antisemitic incident hitting close to home."
+      ],
+      "summary": "From antisemitic crimes to manslaughter",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "From antisemitic crimes to manslaughter",
+        "article_url": "https://www.nydailynews.com/2026/08/06/from-antisemitic-crimes-to-manslaughter/",
+        "published_at": "2026-08-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-06T11:16:41.307621+00:00",
+      "verification": {
+        "article_title": "From antisemitic crimes to manslaughter",
+        "article_url": "https://www.nydailynews.com/2026/08/06/from-antisemitic-crimes-to-manslaughter/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-06T11:16:39.155716+00:00"
+      }
+    },
+    {
+      "headline": "Perez Hilton hospitalized after apparent self-harm on TikTok: report",
+      "bullets": [
+        "Police in Florida responded on Tuesday to the home of celebrity gossip blogger Perez Hilton, who appeared naked and covered in blood as he apparently cut himself with a knife during a disturbing TikTok live stream earlier the same night, according to reports The Miami-Dade County Sheriff\u2019s Office confirmed to TMZ it received multiple calls \u201cregarding an individual who was live-streaming acts of self harm on social media,\u201d triggering their response to Hilton\u2019s Miami-area residence.",
+        "In 911 dispatch audio obtained by the outlet, first responders described the situation as a possible \u201csuicide attempt.\u201d When deputies arrived on the scene shortly after 7 p.m., they spoke with Hilton\u2019s family, who told them he was alone inside the home."
+      ],
+      "summary": "Perez Hilton hospitalized after apparent self-harm on TikTok: report",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Perez Hilton hospitalized after apparent self-harm on TikTok: report",
+        "article_url": "https://www.nydailynews.com/2026/08/05/perez-hilton-self-harm-tiktok-hospitalization/",
+        "published_at": "2026-08-05T14:55:44+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-06T11:16:41.433212+00:00",
+      "verification": {
+        "article_title": "Perez Hilton hospitalized after apparent self-harm on TikTok: report",
+        "article_url": "https://www.nydailynews.com/2026/08/05/perez-hilton-self-harm-tiktok-hospitalization/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-06T11:16:39.280606+00:00"
+      }
+    },
+    {
+      "headline": "Do NYC restaurant workers have their knives out for the",
+      "bullets": [
+        "Oysters are a hard-earned delicacy; shucking them requires precision and a great deal of patience.",
+        "In the new film \u201cTony,\u201d much of which takes place in the kitchen of a seafood restaurant in 1970s Provincetown, Massachusetts, a young and unseasoned Anthony Bourdain (Dominic Sessa) holds an oyster in his bare hand while struggling to pry it open with a small knife."
+      ],
+      "summary": "Do NYC restaurant workers have their knives out for the",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Do NYC restaurant workers have their knives out for the Anthony Bourdain movie?",
+        "article_url": "https://gothamist.com/arts-entertainment/do-nyc-restaurant-workers-have-their-knives-out-for-the-anthony-bourdain-movie",
+        "published_at": "2026-08-05T15:52:44+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-06T11:16:41.600029+00:00",
+      "verification": {
+        "article_title": "Do NYC restaurant workers have their knives out for the Anthony Bourdain movie?",
+        "article_url": "https://gothamist.com/arts-entertainment/do-nyc-restaurant-workers-have-their-knives-out-for-the-anthony-bourdain-movie",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-06T11:16:39.375280+00:00"
+      }
+    },
+    {
+      "headline": "Woman Riding Stand-Up E-Scooter Killed in UWS Car Collision",
+      "bullets": [
+        "Woman Riding Stand-Up E-Scooter Killed in UWS Car Collision Police said 49-year-old Doreen Meyers was pronounced deceased following the July 30 crash near Amsterdam Avenue and West 60th Street; the driver who hit her stayed on the scene.",
+        "No arrests have been made."
+      ],
+      "summary": "Woman Riding Stand-Up E-Scooter Killed in UWS Car Collision",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Woman Riding Stand-Up E-Scooter Killed in UWS Car Collision",
+        "article_url": "https://www.ourtownny.com/news/woman-riding-stand-up-e-scooter-killed-in-uws-car-collision-KN6078084",
+        "published_at": "2026-08-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-06T11:16:41.669261+00:00",
+      "verification": {
+        "article_title": "Woman Riding Stand-Up E-Scooter Killed in UWS Car Collision",
+        "article_url": "https://www.ourtownny.com/news/woman-riding-stand-up-e-scooter-killed-in-uws-car-collision-KN6078084",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-06T11:16:39.495850+00:00"
+      }
+    },
+    {
+      "headline": "Powerball jackpot soars to $856M, eighth largest in game history",
+      "bullets": [
+        "Watch Powerball drawings streamed on ABC 7 New York on Monday, Wednesday, and Saturday at 10:59 p.m.",
+        "NEW YORK (WABC) -- The Powerball jackpot has continued its summer surge, reaching an estimated $856 million ahead of Saturday night's drawing."
+      ],
+      "summary": "Powerball jackpot soars to $856M, eighth largest in game history",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Powerball jackpot soars to $856M, eighth largest in game history",
+        "article_url": "https://abc7ny.com/post/powerball-drawing-jackpot-soars-856-million-eighth-largest-game-history/19634655/",
+        "published_at": "2026-08-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-06T11:16:41.832073+00:00",
+      "verification": {
+        "article_title": "Powerball jackpot soars to $856M, eighth largest in game history",
+        "article_url": "https://abc7ny.com/post/powerball-drawing-jackpot-soars-856-million-eighth-largest-game-history/19634655/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-06T11:16:39.719913+00:00"
+      }
+    },
+    {
+      "headline": "Rising temperatures could keep more flights from taking off on",
+      "bullets": [
+        "Air travelers anticipate potential flight delays when weather forecasts thunderstorms and inclement weather, but the predictions are not as obvious on a hot day.",
+        "On extremely hot days, thinner air can make it tougher for aircraft to get off the ground safely."
+      ],
+      "summary": "Rising temperatures could keep more flights from taking off on",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Rising temperatures could keep more flights from taking off on time",
+        "article_url": "https://www.fox5ny.com/news/rising-temperatures-flight-disruptions",
+        "published_at": "2026-08-05"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-06T11:16:41.882187+00:00",
+      "verification": {
+        "article_title": "Rising temperatures could keep more flights from taking off on time",
+        "article_url": "https://www.fox5ny.com/news/rising-temperatures-flight-disruptions",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-06T11:16:39.770405+00:00"
+      }
+    },
+    {
+      "headline": "Dozens of NJ towns are banning data centers. Can they",
+      "bullets": [
+        "Last month, a data center developer sued Andover Township, New Jersey, over local officials' move to ban the energy-hungry tech facilities just months after they planned to embrace one.",
+        "Mayor Tom Walsh doesn\u2019t seem that worried about the legal fight."
+      ],
+      "summary": "Dozens of NJ towns are banning data centers. Can they",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Dozens of NJ towns are banning data centers. Can they survive legal challenge?",
+        "article_url": "https://gothamist.com/news/dozens-of-nj-towns-are-banning-data-centers-can-they-survive-legal-challenge",
+        "published_at": "2026-08-05T18:00:52+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-06T11:16:42.008358+00:00",
+      "verification": {
+        "article_title": "Dozens of NJ towns are banning data centers. Can they survive legal challenge?",
+        "article_url": "https://gothamist.com/news/dozens-of-nj-towns-are-banning-data-centers-can-they-survive-legal-challenge",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-06T11:16:39.835835+00:00"
+      }
+    },
+    {
+      "headline": "Best Vegan Dietary Supplements",
+      "bullets": [
+        "Which vegan dietary supplement is best?",
+        "Whether you choose a vegan diet out of necessity or preference, certain nutritional guidelines change when you remove animal products from your daily rotation."
+      ],
+      "summary": "Best Vegan Dietary Supplements",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Best Vegan Dietary Supplements",
+        "article_url": "https://www.nydailynews.com/2026/08/05/best-vegan-dietary-supplements/",
+        "published_at": "2026-08-05"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-06T11:16:42.132461+00:00",
+      "verification": {
+        "article_title": "Best Vegan Dietary Supplements",
+        "article_url": "https://www.nydailynews.com/2026/08/05/best-vegan-dietary-supplements/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-06T11:16:39.893805+00:00"
+      }
+    },
+    {
+      "headline": "Nightly's, Uva Restaurateur Plans New Japanese Spot On The UES",
+      "bullets": [
+        "Nightly's, Uva Restaurateur Plans New Japanese Spot On The UES Koakuma, a 19-seat counter-service restaurant serving \"New York Japanese,\" is set to replace a former Italian coffee bar.",
+        "UPPER EAST SIDE, NY \u2014 A new Japanese counter service spot from the owner of several Upper East Side favorites is planning to open on Second Avenue, a representative for the restaurateur told Community Board 8 on Tuesday."
+      ],
+      "summary": "Nightly's, Uva Restaurateur Plans New Japanese Spot On The UES",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Nightly's, Uva Restaurateur Plans New Japanese Spot On The UES",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/restaurateur-behind-uva-nightlys-plans-new-japanese-spot",
+        "published_at": "2026-08-05T20:01:45+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-06T11:16:42.222499+00:00",
+      "verification": {
+        "article_title": "Nightly's, Uva Restaurateur Plans New Japanese Spot On The UES",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/restaurateur-behind-uva-nightlys-plans-new-japanese-spot",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-06T11:16:39.958488+00:00"
+      }
+    }
+  ]
+}
