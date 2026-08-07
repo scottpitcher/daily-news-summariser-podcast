@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-08-07T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-08-07.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Jetstar to charge for overhead carry-on bags \u2014 See what",
+      "bullets": [
+        "Australian budget carrier Jetstar will start charging passengers to place larger carry-on bags in overhead bins under a major update to its cabin baggage policy.",
+        "Dig deeper: Beginning in February 2027, travelers will pay between A$25 and A$52 (about $18 to $37 USD) per one-way flight, depending on the route, if they want to store larger bags in the overhead compartments."
+      ],
+      "summary": "Jetstar to charge for overhead carry-on bags \u2014 See what",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Jetstar to charge for overhead carry-on bags \u2014 See what other airlines are doing",
+        "article_url": "https://www.fox5ny.com/news/jetstar-overhead-carry-on-bag-fee-2027",
+        "published_at": "2026-08-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-07T09:56:41.819058+00:00",
+      "verification": {
+        "article_title": "Jetstar to charge for overhead carry-on bags \u2014 See what other airlines are doing",
+        "article_url": "https://www.fox5ny.com/news/jetstar-overhead-carry-on-bag-fee-2027",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced with direct quotes and information from Jetstar and other airlines.",
+        "verified_at": "2026-08-07T09:56:33.209976+00:00"
+      }
+    },
+    {
+      "headline": "Six Supremes put elections up for bid",
+      "bullets": [
+        "Statistics suggest that our current Supreme Court justices have some of the highest IQs in America.",
+        "It seems fair to conclude, then, that six of them knew exactly what they were doing when they effectively put for-sale signs on the executive and legislative branches of the U.S."
+      ],
+      "summary": "Six Supremes put elections up for bid",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Six Supremes put elections up for bid",
+        "article_url": "https://www.nydailynews.com/2026/08/07/six-supremes-put-elections-up-for-bid/",
+        "published_at": "2026-08-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-07T09:56:41.944769+00:00",
+      "verification": {
+        "article_title": "Six Supremes put elections up for bid",
+        "article_url": "https://www.nydailynews.com/2026/08/07/six-supremes-put-elections-up-for-bid/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The search results confirm the Supreme Court's decision and its impact on campaign financing.",
+        "verified_at": "2026-08-07T09:56:34.710773+00:00"
+      }
+    },
+    {
+      "headline": "New York targeting tax cheats after clunky rollout of pied-\u00e0-terre",
+      "bullets": [
+        "New York City\u2019s new pied-\u00e0-terre tax is meant to collect hundreds of millions of dollars from luxury vacation homes and other valuable properties whose owners live outside the five boroughs.",
+        "But a spokesperson for Gov."
+      ],
+      "summary": "New York targeting tax cheats after clunky rollout of pied-\u00e0-terre",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "New York targeting tax cheats after clunky rollout of pied-\u00e0-terre levy",
+        "article_url": "https://gothamist.com/news/new-york-targeting-tax-cheats-after-clunky-rollout-of-pied-%C3%A0-terre-levy",
+        "published_at": "2026-08-06T16:08:39+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-07T09:56:42.087658+00:00",
+      "verification": {
+        "article_title": "New York targeting tax cheats after clunky rollout of pied-\u00e0-terre levy",
+        "article_url": "https://gothamist.com/news/new-york-targeting-tax-cheats-after-clunky-rollout-of-pied-%C3%A0-terre-levy",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides context from a local news outlet.",
+        "verified_at": "2026-08-07T09:56:35.427124+00:00"
+      }
+    },
+    {
+      "headline": "Hot, humid, potentially stormy NYC weekend forecast could be hazardous",
+      "bullets": [
+        "New York City is in for an oppressive weekend, packed with heavy humidity and a lot of heat.",
+        "While Thursday kicked off cool and cloudy, temperatures were forecast to rise steadily throughout the day, with a heat advisory going into effect starting at 11 a.m."
+      ],
+      "summary": "Hot, humid, potentially stormy NYC weekend forecast could be hazardous",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Hot, humid, potentially stormy NYC weekend forecast could be hazardous",
+        "article_url": "https://www.nydailynews.com/2026/08/06/nyc-weekend-forecast-heat-advisory-humidity-storms/",
+        "published_at": "2026-08-06T15:50:48+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-07T09:56:42.229624+00:00",
+      "verification": {
+        "article_title": "Hot, humid, potentially stormy NYC weekend forecast could be hazardous",
+        "article_url": "https://www.nydailynews.com/2026/08/06/nyc-weekend-forecast-heat-advisory-humidity-storms/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "This story is from a local source and provides a general forecast, no specific, load-bearing factual claims need verification.",
+        "verified_at": "2026-08-07T09:56:36.672182+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on small biz insurance, hand-written letters and",
+      "bullets": [
+        "It\u2019s a hot dog cart, not a multinational Olivebridge, N.Y.: I\u2019m a retired corporate professional from Ulster County and a small business owner who recently experienced what I believe is an overlooked regulatory issue affecting entrepreneurs in New York City\u2019s watershed.",
+        "I applied for an NYC Department of Environmental Protection (DEP) land use permit to operate a small, one-person hot dog cart on DEP-owned property."
+      ],
+      "summary": "Readers sound off on small biz insurance, hand-written letters and",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on small biz insurance, hand-written letters and vandalism hypocrisy",
+        "article_url": "https://www.nydailynews.com/2026/08/07/readers-sound-off-on-small-biz-insurance-hand-written-letters-and-vandalism-hypocrisy/",
+        "published_at": "2026-08-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-07T09:56:42.359504+00:00",
+      "verification": {
+        "article_title": "Readers sound off on small biz insurance, hand-written letters and vandalism hypocrisy",
+        "article_url": "https://www.nydailynews.com/2026/08/07/readers-sound-off-on-small-biz-insurance-hand-written-letters-and-vandalism-hypocrisy/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is an opinion piece with various reader comments, no specific factual claims that require verification.",
+        "verified_at": "2026-08-07T09:56:37.684926+00:00"
+      }
+    },
+    {
+      "headline": "Mamdani\u2019s childcare plan faces a hurdle: Home providers can\u2019t earn",
+      "bullets": [
+        "Andrea Pe\u00f1a tries not to think about how little she earns at the childcare business she runs out of her Bronx home.",
+        "\u201cIf I go through my math, I will get depressed,\u201d said Pe\u00f1a, 50."
+      ],
+      "summary": "Mamdani\u2019s childcare plan faces a hurdle: Home providers can\u2019t earn",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Mamdani\u2019s childcare plan faces a hurdle: Home providers can\u2019t earn a living",
+        "article_url": "https://gothamist.com/news/mamdanis-childcare-plan-faces-a-hurdle-home-providers-cant-earn-a-living",
+        "published_at": "2026-08-06T10:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-07T09:56:42.484351+00:00",
+      "verification": {
+        "article_title": "Mamdani\u2019s childcare plan faces a hurdle: Home providers can\u2019t earn a living",
+        "article_url": "https://gothamist.com/news/mamdanis-childcare-plan-faces-a-hurdle-home-providers-cant-earn-a-living",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides specific examples and quotes from a childcare provider, making it less likely to be false.",
+        "verified_at": "2026-08-07T09:56:38.559746+00:00"
+      }
+    },
+    {
+      "headline": "NY farmers market shopping list: Fancy apples, tomatoes, legal weed?",
+      "bullets": [
+        "On sale at your local New York farmers market: heirloom tomatoes, less-traveled lettuce, the fanciest apples \u2014 and now, legally, cannabis products.",
+        "Gov."
+      ],
+      "summary": "NY farmers market shopping list: Fancy apples, tomatoes, legal weed?",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NY farmers market shopping list: Fancy apples, tomatoes, legal weed?",
+        "article_url": "https://gothamist.com/news/ny-farmers-market-shopping-list-fancy-apples-tomatoes-legal-weed",
+        "published_at": "2026-08-06T17:34:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-07T09:56:42.607998+00:00",
+      "verification": {
+        "article_title": "NY farmers market shopping list: Fancy apples, tomatoes, legal weed?",
+        "article_url": "https://gothamist.com/news/ny-farmers-market-shopping-list-fancy-apples-tomatoes-legal-weed",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is based on a recent legislative action and includes quotes from the governor and an executive director, which are verifiable.",
+        "verified_at": "2026-08-07T09:56:39.238257+00:00"
+      }
+    },
+    {
+      "headline": "Challenge accepted: We went hunting for the secret bolt in",
+      "bullets": [
+        "This column originally appeared in the Looped In NYC newsletter.",
+        "Sign up here."
+      ],
+      "summary": "Challenge accepted: We went hunting for the secret bolt in",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Challenge accepted: We went hunting for the secret bolt in Central Park",
+        "article_url": "https://gothamist.com/arts-entertainment/challenge-accepted-we-went-hunting-for-the-secret-bolt-in-central-park",
+        "published_at": "2026-08-06T17:00:59+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-07T09:56:42.736462+00:00",
+      "verification": {
+        "article_title": "Challenge accepted: We went hunting for the secret bolt in Central Park",
+        "article_url": "https://gothamist.com/arts-entertainment/challenge-accepted-we-went-hunting-for-the-secret-bolt-in-central-park",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-07T09:56:40.249437+00:00"
+      }
+    },
+    {
+      "headline": "Grandmother in Bronx fiery explosion still missing, feared dead, as",
+      "bullets": [
+        "The family of a 65-year-old Bronx grandmother who remains unaccounted for more than 24 hours after a fiery explosion destroyed her apartment building fears she died in the blaze and her body is still buried in the smoldering rubble.",
+        "Tashaila Parks, who said her uncle Lester Martin, 70, died in Wednesday\u2019s massive fire on E."
+      ],
+      "summary": "Grandmother in Bronx fiery explosion still missing, feared dead, as",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Grandmother in Bronx fiery explosion still missing, feared dead, as relatives say husband killed in blaze",
+        "article_url": "https://www.nydailynews.com/2026/08/06/fdny-bronx-woman-in-fiery-explosion-still-missing-as-family-id-deceased-husband-nypd-nyc/",
+        "published_at": "2026-08-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-07T09:56:42.863260+00:00",
+      "verification": {
+        "article_title": "Grandmother in Bronx fiery explosion still missing, feared dead, as relatives say husband killed in blaze",
+        "article_url": "https://www.nydailynews.com/2026/08/06/fdny-bronx-woman-in-fiery-explosion-still-missing-as-family-id-deceased-husband-nypd-nyc/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-07T09:56:40.383169+00:00"
+      }
+    },
+    {
+      "headline": "Dozens displaced after deadly explosion and 5-alarm fire rips through",
+      "bullets": [
+        "NORWOOD, Bronx (WABC) -- Over 40 people remain unable to return home on Thursday after a deadly explosion and five-alarm fire tore through an apartment building in the Norwood section of the Bronx.",
+        "One person was killed and 14 others were injured in the blaze, according to officials."
+      ],
+      "summary": "Dozens displaced after deadly explosion and 5-alarm fire rips through",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Dozens displaced after deadly explosion and 5-alarm fire rips through Bronx apartment building",
+        "article_url": "https://abc7ny.com/post/dozens-displaced-deadly-explosion-5-alarm-fire-rips-norwood-bronx-apartment-building/19634548/",
+        "published_at": "2026-08-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-07T09:56:42.987961+00:00",
+      "verification": {
+        "article_title": "Dozens displaced after deadly explosion and 5-alarm fire rips through Bronx apartment building",
+        "article_url": "https://abc7ny.com/post/dozens-displaced-deadly-explosion-5-alarm-fire-rips-norwood-bronx-apartment-building/19634548/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-07T09:56:40.517643+00:00"
+      }
+    },
+    {
+      "headline": "Legionnaires' outbreak victims in Harlem sue NYC in wake of",
+      "bullets": [
+        "More than 50 Harlem residents are suing New York City, its health department and several city contractors, claiming their negligence led to severe illness and death during last summer\u2019s outbreak of Legionnaires\u2019 disease in the neighborhood.",
+        "The public health crisis began in late July last year."
+      ],
+      "summary": "Legionnaires' outbreak victims in Harlem sue NYC in wake of",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Legionnaires' outbreak victims in Harlem sue NYC in wake of UES cluster",
+        "article_url": "https://gothamist.com/news/legionnaires-outbreak-victims-in-harlem-sue-nyc-in-wake-of-ues-cluster",
+        "published_at": "2026-08-06T19:39:47+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-07T09:56:43.114516+00:00",
+      "verification": {
+        "article_title": "Legionnaires' outbreak victims in Harlem sue NYC in wake of UES cluster",
+        "article_url": "https://gothamist.com/news/legionnaires-outbreak-victims-in-harlem-sue-nyc-in-wake-of-ues-cluster",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-07T09:56:40.644741+00:00"
+      }
+    },
+    {
+      "headline": "Senate committee votes to hold Fauci in contempt for refusing",
+      "bullets": [
+        "By ERIC TUCKER WASHINGTON (AP) \u2014 A Senate committee voted along party lines Thursday to hold Dr.",
+        "Anthony Fauci in contempt of Congress over his refusal to answer questions at a hearing on his handling of the COVID-19 pandemic, setting up a referral to the Justice Department for potential investigation over whether the country\u2019s longtime top infectious disease official properly exercised his constitutional rights."
+      ],
+      "summary": "Senate committee votes to hold Fauci in contempt for refusing",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Senate committee votes to hold Fauci in contempt for refusing to answer COVID questions",
+        "article_url": "https://www.nydailynews.com/2026/08/06/senate-committee-fauci-contempt-vote/",
+        "published_at": "2026-08-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-07T09:56:43.241992+00:00",
+      "verification": {
+        "article_title": "Senate committee votes to hold Fauci in contempt for refusing to answer COVID questions",
+        "article_url": "https://www.nydailynews.com/2026/08/06/senate-committee-fauci-contempt-vote/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-07T09:56:40.772567+00:00"
+      }
+    },
+    {
+      "headline": "New federal Head Start rules could hobble program for 50K",
+      "bullets": [
+        "President Trump\u2019s administration Thursday put forward new rules for Head Start that critics and advocates say could hobble the landmark early childhood education program serving 50,000 of New York\u2019s most vulnerable low-income children.",
+        "An agency overseen by Health Secretary Robert F."
+      ],
+      "summary": "New federal Head Start rules could hobble program for 50K",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "New federal Head Start rules could hobble program for 50K vulnerable NY kids",
+        "article_url": "https://www.nydailynews.com/2026/08/06/trump-new-head-start-rules-nyc-kids/",
+        "published_at": "2026-08-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-07T09:56:43.366272+00:00",
+      "verification": {
+        "article_title": "New federal Head Start rules could hobble program for 50K vulnerable NY kids",
+        "article_url": "https://www.nydailynews.com/2026/08/06/trump-new-head-start-rules-nyc-kids/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-07T09:56:40.912841+00:00"
+      }
+    },
+    {
+      "headline": "Will the Mamdani-Menin rivalry boost regulations of e-bikes in NYC?",
+      "bullets": [
+        "This column originally appeared in The Politics Brief, our weekly newsletter on the people, power and policies that shape New Yorkers' lives.",
+        "Sign up to get the full version where you can ask questions, share news tips and weigh in on the conversation."
+      ],
+      "summary": "Will the Mamdani-Menin rivalry boost regulations of e-bikes in NYC?",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Will the Mamdani-Menin rivalry boost regulations of e-bikes in NYC?",
+        "article_url": "https://gothamist.com/news/will-the-mamdani-menin-rivalry-boost-regulations-of-e-bikes-in-nyc",
+        "published_at": "2026-08-06T15:00:57+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-07T09:56:43.490788+00:00",
+      "verification": {
+        "article_title": "Will the Mamdani-Menin rivalry boost regulations of e-bikes in NYC?",
+        "article_url": "https://gothamist.com/news/will-the-mamdani-menin-rivalry-boost-regulations-of-e-bikes-in-nyc",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-07T09:56:41.039199+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on small biz insurance, hand-written letters and",
+      "bullets": [
+        "It\u2019s a hot dog cart, not a multinational Olivebridge, N.Y.: I\u2019m a retired corporate professional from Ulster County and a small business owner who recently experienced what I believe is an overlooked regulatory issue affecting entrepreneurs in New York City\u2019s watershed.",
+        "I applied for an NYC Department of Environmental Protection (DEP) land use permit to operate a small, one-person hot dog cart on DEP-owned property."
+      ],
+      "summary": "Readers sound off on small biz insurance, hand-written letters and",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on small biz insurance, hand-written letters and vandalism hypocrisy",
+        "article_url": "https://www.nydailynews.com/2026/08/07/readers-sound-off-on-small-biz-insurance-hand-written-letters-and-vandalism-hypocrisy/",
+        "published_at": "2026-08-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-07T09:56:43.622969+00:00",
+      "verification": {
+        "article_title": "Readers sound off on small biz insurance, hand-written letters and vandalism hypocrisy",
+        "article_url": "https://www.nydailynews.com/2026/08/07/readers-sound-off-on-small-biz-insurance-hand-written-letters-and-vandalism-hypocrisy/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-07T09:56:41.166618+00:00"
+      }
+    },
+    {
+      "headline": "What is a heat advisory? Excessive heat warning? Heat wave?",
+      "bullets": [
+        "Much of the Tri-State Area is as the combined heat and humidity also brings with it the risk of flash flooding.",
+        "Summers can sizzle around the New York City area, where the hottest normal high is 85 degrees in July."
+      ],
+      "summary": "What is a heat advisory? Excessive heat warning? Heat wave?",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "What is a heat advisory? Excessive heat warning? Heat wave? Why they feel even hotter in NYC.",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-heat-wave-excessive-heat-warning/",
+        "published_at": "2024-06-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-07T09:56:43.747998+00:00",
+      "verification": {
+        "article_title": "What is a heat advisory? Excessive heat warning? Heat wave? Why they feel even hotter in NYC.",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-heat-wave-excessive-heat-warning/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-07T09:56:41.298621+00:00"
+      }
+    },
+    {
+      "headline": "Nightly's, Uva Restaurateur Plans 2 New Japanese Spots On The",
+      "bullets": [
+        "Nightly's, Uva Restaurateur Plans 2 New Japanese Spots On The UES A 19-seat counter-service sushi restaurant is set to replace a former Italian coffee bar.",
+        "UPPER EAST SIDE, NY \u2014 A new Japanese counter service spot from the owner of several Upper East Side favorites is planning to open on Second Avenue, a representative for the restaurateur told Community Board 8 on Tuesday."
+      ],
+      "summary": "Nightly's, Uva Restaurateur Plans 2 New Japanese Spots On The",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Nightly's, Uva Restaurateur Plans 2 New Japanese Spots On The UES",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/restaurateur-behind-uva-nightlys-plans-new-japanese-spot",
+        "published_at": "2026-08-06T13:29:05+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-07T09:56:43.875421+00:00",
+      "verification": {
+        "article_title": "Nightly's, Uva Restaurateur Plans 2 New Japanese Spots On The UES",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/restaurateur-behind-uva-nightlys-plans-new-japanese-spot",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-07T09:56:41.434953+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: 5pm Stand Up Comedy show in NYC -",
+      "bullets": [
+        "\ud83d\udd25 SATURDAY\u2019S HOTTEST EARLY EVENING COMEDY EVENT IN NEW YORK CITY!",
+        "\ud83d\udd25 Looking for the best Saturday comedy show in NYC?"
+      ],
+      "summary": "Local Event: 5pm Stand Up Comedy show in NYC -",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: 5pm Stand Up Comedy show in NYC - august 8th 2026",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260808/9c93454f-6988-458f-995e-37a4fcb93ac2/5pm-stand-up-comedy-show-in-nyc-august-8th-2026",
+        "published_at": "2026-08-08T21:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-07T09:56:43.994572+00:00",
+      "verification": {
+        "article_title": "Local Event: 5pm Stand Up Comedy show in NYC - august 8th 2026",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260808/9c93454f-6988-458f-995e-37a4fcb93ac2/5pm-stand-up-comedy-show-in-nyc-august-8th-2026",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-07T09:56:41.561032+00:00"
+      }
+    }
+  ]
+}
