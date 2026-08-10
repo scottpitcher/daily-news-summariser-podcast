@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-08-10T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-08-10.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Democrats promise stricter oversight of immigration detention company if they",
+      "bullets": [
+        "The recent death of a Salvadoran father detained at a migrant facility in Newark, New Jersey, has sparked fresh calls to shut down the facility \u2014 and to terminate the federal contracts of a multibillion-dollar private jailer facing accusations of medical neglect at lockups across the country.",
+        "The company GEO Group has a 15-year, $1 billion contract to operate Delaney Hall, where Edwin Jovanny Lopez Cornejo was held before he was pronounced dead at a nearby hospital on Aug."
+      ],
+      "summary": "Democrats promise stricter oversight of immigration detention company if they",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Democrats promise stricter oversight of immigration detention company if they win majority",
+        "article_url": "https://gothamist.com/news/democrats-promise-stricter-oversight-of-immigration-detention-company-if-they-win-majority",
+        "published_at": "2026-08-10T10:00:55+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-10T10:13:05.766980+00:00",
+      "verification": {
+        "article_title": "Democrats promise stricter oversight of immigration detention company if they win majority",
+        "article_url": "https://gothamist.com/news/democrats-promise-stricter-oversight-of-immigration-detention-company-if-they-win-majority",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and recent, with specific quotes and details that do not require further verification.",
+        "verified_at": "2026-08-10T10:12:58.315460+00:00"
+      }
+    },
+    {
+      "headline": "NYC eyes first U.S. transit thermal energy network to fight",
+      "bullets": [
+        "NEW YORK CITY (WABC) -- With platform temperatures reaching 96 degrees, one of the hottest subway stations in New York City could soon become the testing ground for a first-of-its-kind effort to cool riders underground while recycling heat above ground.",
+        "Mayor Zohran Mamdani, Gov."
+      ],
+      "summary": "NYC eyes first U.S. transit thermal energy network to fight",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "NYC eyes first U.S. transit thermal energy network to fight subway heat",
+        "article_url": "https://abc7ny.com/post/nyc-eyes-first-us-transit-thermal-energy-network-fight-subway-heat/19655621/",
+        "published_at": "2026-08-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-10T10:13:05.980813+00:00",
+      "verification": {
+        "article_title": "NYC eyes first U.S. transit thermal energy network to fight subway heat",
+        "article_url": "https://abc7ny.com/post/nyc-eyes-first-us-transit-thermal-energy-network-fight-subway-heat/19655621/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is from a local source and describes a planned project with details that are recent and specific enough to be considered current without further verification.",
+        "verified_at": "2026-08-10T10:12:59.150923+00:00"
+      }
+    },
+    {
+      "headline": "Former NY Gov. George Pataki\u2019s modest monument to bipartisanship",
+      "bullets": [
+        "Nelson Rockefeller has a marble-clad modernist plaza, Hugh Carey has a tunnel, and Mario Cuomo has a bridge.",
+        "Now, former Gov."
+      ],
+      "summary": "Former NY Gov. George Pataki\u2019s modest monument to bipartisanship",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Former NY Gov. George Pataki\u2019s modest monument to bipartisanship",
+        "article_url": "https://gothamist.com/news/former-ny-gov-george-patakis-modest-monument-to-bipartisanship",
+        "published_at": "2026-08-09T12:01:03+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-10T10:13:06.124640+00:00",
+      "verification": {
+        "article_title": "Former NY Gov. George Pataki\u2019s modest monument to bipartisanship",
+        "article_url": "https://gothamist.com/news/former-ny-gov-george-patakis-modest-monument-to-bipartisanship",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and recent, and does not contain specific, load-bearing factual claims that need verification.",
+        "verified_at": "2026-08-10T10:12:59.807659+00:00"
+      }
+    },
+    {
+      "headline": "Staten Island flag could become official under NYC Council bill",
+      "bullets": [
+        "Staten Island\u2019s flag could soon become official under New York City law.",
+        "On Thursday, the City Council\u2019s Committee on Governmental Operations, State and Federal Legislation is scheduled to vote on a bill that would codify the borough\u2019s current flag into law."
+      ],
+      "summary": "Staten Island flag could become official under NYC Council bill",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Staten Island flag could become official under NYC Council bill",
+        "article_url": "https://gothamist.com/news/staten-island-flag-could-become-official-under-nyc-council-bill",
+        "published_at": "2026-08-09T21:36:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-10T10:13:06.267900+00:00",
+      "verification": {
+        "article_title": "Staten Island flag could become official under NYC Council bill",
+        "article_url": "https://gothamist.com/news/staten-island-flag-could-become-official-under-nyc-council-bill",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides context and details about the bill without making specific, verifiable claims.",
+        "verified_at": "2026-08-10T10:13:00.707374+00:00"
+      }
+    },
+    {
+      "headline": "Trump\u2019s antipathy to wind energy is lose-lose-lose",
+      "bullets": [
+        "Donald Trump\u2019s weird hatred of offshore wind energy is costing a lot as Uncle Sam has to pay off the companies which had invested in the canceled projects.",
+        "For the fifth time now, the Trump administration has agreed to pay an energy firm a huge sum of money, not for building something, but in fact for not building it."
+      ],
+      "summary": "Trump\u2019s antipathy to wind energy is lose-lose-lose",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Trump\u2019s antipathy to wind energy is lose-lose-lose",
+        "article_url": "https://www.nydailynews.com/2026/08/10/trumps-antipathy-to-wind-energy-is-lose-lose-lose/",
+        "published_at": "2026-08-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-10T10:13:06.400938+00:00",
+      "verification": {
+        "article_title": "Trump\u2019s antipathy to wind energy is lose-lose-lose",
+        "article_url": "https://www.nydailynews.com/2026/08/10/trumps-antipathy-to-wind-energy-is-lose-lose-lose/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The article is an opinion piece and does not contain specific, verifiable claims that require external verification.",
+        "verified_at": "2026-08-10T10:13:01.484598+00:00"
+      }
+    },
+    {
+      "headline": "Taylor Farms pulls jalape\u00f1o products sold at grocery stores",
+      "bullets": [
+        "The recall list includes dips, salsas and guacamole.",
+        "Taylor Farms, the massive food producer linked to the record cyclosporiasis outbreak, is now pulling more than a dozen jalape\u00f1o products from grocery stores across the United States."
+      ],
+      "summary": "Taylor Farms pulls jalape\u00f1o products sold at grocery stores",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Taylor Farms pulls jalape\u00f1o products sold at grocery stores",
+        "article_url": "https://abc7ny.com/story/taylor-farms-pulls-jalapeo-products-sold-grocery-stores/19654428/",
+        "published_at": "2026-08-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-10T10:13:06.542712+00:00",
+      "verification": {
+        "article_title": "Taylor Farms pulls jalape\u00f1o products sold at grocery stores",
+        "article_url": "https://abc7ny.com/story/taylor-farms-pulls-jalapeo-products-sold-grocery-stores/19654428/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The article details a specific recall action by Taylor Farms and provides a list of products, which can be verified through the provided information.",
+        "verified_at": "2026-08-10T10:13:02.305780+00:00"
+      }
+    },
+    {
+      "headline": "Former NY Gov. George Pataki\u2019s modest monument to bipartisanship",
+      "bullets": [
+        "Nelson Rockefeller has a marble-clad modernist plaza, Hugh Carey has a tunnel, and Mario Cuomo has a bridge.",
+        "Now, former Gov."
+      ],
+      "summary": "Former NY Gov. George Pataki\u2019s modest monument to bipartisanship",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Former NY Gov. George Pataki\u2019s modest monument to bipartisanship",
+        "article_url": "https://gothamist.com/news/former-ny-gov-george-patakis-modest-monument-to-bipartisanship",
+        "published_at": "2026-08-09T12:01:03+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-10T10:13:06.680370+00:00",
+      "verification": {
+        "article_title": "Former NY Gov. George Pataki\u2019s modest monument to bipartisanship",
+        "article_url": "https://gothamist.com/news/former-ny-gov-george-patakis-modest-monument-to-bipartisanship",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and recent, and does not contain specific, load-bearing factual claims that need verification.",
+        "verified_at": "2026-08-10T10:13:03.083152+00:00"
+      }
+    },
+    {
+      "headline": "Police capture Thomas Ryan, suspect in fatal Greenville house fire",
+      "bullets": [
+        "GREENVILLE, Orange County (WABC) -- Police have captured Thomas David Ryan, suspected of killing his father and setting fire to his Greenville home last week, authorities announced early Sunday.",
+        "Police say they received a tip that said there was an unoccupied Toyota Prius in a parking lot at 199 State Route 990V in Gilboa."
+      ],
+      "summary": "Police capture Thomas Ryan, suspect in fatal Greenville house fire",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Police capture Thomas Ryan, suspect in fatal Greenville house fire",
+        "article_url": "https://abc7ny.com/post/nys-police-capture-thomas-david-ryan-wanted-killing-father-setting-home-fire-greenville-orange/19651057/",
+        "published_at": "2026-08-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-10T10:13:06.810451+00:00",
+      "verification": {
+        "article_title": "Police capture Thomas Ryan, suspect in fatal Greenville house fire",
+        "article_url": "https://abc7ny.com/post/nys-police-capture-thomas-david-ryan-wanted-killing-father-setting-home-fire-greenville-orange/19651057/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-10T10:13:03.894407+00:00"
+      }
+    },
+    {
+      "headline": "Retired NYPD Chief Anthony \u2018Tough Tony\u2019 Izzo, 75, drowns in",
+      "bullets": [
+        "Retired NYPD Chief Anthony \u201cTough Tony\u201d Izzo drowned in his pool on Long Island, Suffolk County police said Saturday.",
+        "Police arrived at Izzo\u2019s home at Malverne Ave."
+      ],
+      "summary": "Retired NYPD Chief Anthony \u2018Tough Tony\u2019 Izzo, 75, drowns in",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Retired NYPD Chief Anthony \u2018Tough Tony\u2019 Izzo, 75, drowns in his Long Island pool",
+        "article_url": "https://www.nydailynews.com/2026/08/08/retired-nypd-chief-anthony-izzo-drowns-pool-long-island/",
+        "published_at": "2026-08-09T17:31:30+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-10T10:13:06.946107+00:00",
+      "verification": {
+        "article_title": "Retired NYPD Chief Anthony \u2018Tough Tony\u2019 Izzo, 75, drowns in his Long Island pool",
+        "article_url": "https://www.nydailynews.com/2026/08/08/retired-nypd-chief-anthony-izzo-drowns-pool-long-island/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-10T10:13:04.034953+00:00"
+      }
+    },
+    {
+      "headline": "Inwood man killed in stabbing after Dominican Day Parade; 2",
+      "bullets": [
+        "INWOOD, Queens (WABC) -- A fatal stabbing and two separate shootings erupted in Inwood in the hours following Dominican Day Parade celebrations, leaving one man dead and two others hospitalized, according to police.",
+        "Two 23-year-old men were stabbed during a street dispute on Nagle Avenue just after 12:40 a.m."
+      ],
+      "summary": "Inwood man killed in stabbing after Dominican Day Parade; 2",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Inwood man killed in stabbing after Dominican Day Parade; 2 shootings investigated",
+        "article_url": "https://abc7ny.com/post/1-dead-2-wounded-string-violent-incidents-dominican-day-parade-inwood/19655681/",
+        "published_at": "2026-08-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-10T10:13:07.084750+00:00",
+      "verification": {
+        "article_title": "Inwood man killed in stabbing after Dominican Day Parade; 2 shootings investigated",
+        "article_url": "https://abc7ny.com/post/1-dead-2-wounded-string-violent-incidents-dominican-day-parade-inwood/19655681/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-10T10:13:04.168465+00:00"
+      }
+    },
+    {
+      "headline": "Democrats promise stricter oversight of immigration detention company if they",
+      "bullets": [
+        "The recent death of a Salvadoran father detained at a migrant facility in Newark, New Jersey, has sparked fresh calls to shut down the facility \u2014 and to terminate the federal contracts of a multibillion-dollar private jailer facing accusations of medical neglect at lockups across the country.",
+        "The company GEO Group has a 15-year, $1 billion contract to operate Delaney Hall, where Edwin Jovanny Lopez Cornejo was held before he was pronounced dead at a nearby hospital on Aug."
+      ],
+      "summary": "Democrats promise stricter oversight of immigration detention company if they",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Democrats promise stricter oversight of immigration detention company if they win majority",
+        "article_url": "https://gothamist.com/news/democrats-promise-stricter-oversight-of-immigration-detention-company-if-they-win-majority",
+        "published_at": "2026-08-10T10:00:55+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-10T10:13:07.239094+00:00",
+      "verification": {
+        "article_title": "Democrats promise stricter oversight of immigration detention company if they win majority",
+        "article_url": "https://gothamist.com/news/democrats-promise-stricter-oversight-of-immigration-detention-company-if-they-win-majority",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-10T10:13:04.308604+00:00"
+      }
+    },
+    {
+      "headline": "Third body recovered from Bronx apartment building destroyed by fire",
+      "bullets": [
+        "FDNY firefighters have recovered a third body from a demolished Bronx apartment building that caught fire following a massive explosion, officials said Saturday.",
+        "The body was found inside the rubble of the fire-ravaged E."
+      ],
+      "summary": "Third body recovered from Bronx apartment building destroyed by fire",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Third body recovered from Bronx apartment building destroyed by fire",
+        "article_url": "https://www.nydailynews.com/2026/08/08/third-body-recovered-from-bronx-apartment-building-destroyed-by-fire/",
+        "published_at": "2026-08-08"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-10T10:13:07.368681+00:00",
+      "verification": {
+        "article_title": "Third body recovered from Bronx apartment building destroyed by fire",
+        "article_url": "https://www.nydailynews.com/2026/08/08/third-body-recovered-from-bronx-apartment-building-destroyed-by-fire/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-10T10:13:04.449508+00:00"
+      }
+    },
+    {
+      "headline": "Tupac murder trial set to start Monday; brother of rap",
+      "bullets": [
+        "Duane Davis, who goes by the nickname \"Keffe D,\" wrote a tell-all book in 2019 laying out his role in the fatal shooting of hip-hop legend Tupac Shakur.",
+        "The book, \"Compton Street Legend,\" opens in Las Vegas on the night of September 7, 1996, with a play-by-play account of his plan to confront Tupac and Death Row Records CEO Marion \"Suge\" Knight in retaliation for an earlier fight."
+      ],
+      "summary": "Tupac murder trial set to start Monday; brother of rap",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Tupac murder trial set to start Monday; brother of rap icon speaks out",
+        "article_url": "https://abc7ny.com/post/duane-keffe-davis-accused-organizing-murder-tupac-shakur-set-go-trial-monday/19652316/",
+        "published_at": "2026-08-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-10T10:13:07.570487+00:00",
+      "verification": {
+        "article_title": "Tupac murder trial set to start Monday; brother of rap icon speaks out",
+        "article_url": "https://abc7ny.com/post/duane-keffe-davis-accused-organizing-murder-tupac-shakur-set-go-trial-monday/19652316/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-10T10:13:04.580066+00:00"
+      }
+    },
+    {
+      "headline": "What makes Trump's ballroom a matter of national security?",
+      "bullets": [
+        "Judges said Trump's reasoning isn't an \"automatic get-out-of-the-law-free card.\" WASHINGTON -- Despite a Friday ruling by a federal appeals court blocking construction of his proposed $400 million ballroom, President Donald Trump remains adamant that the project must be built for the nation's security.",
+        "Friday's decision marks yet another roadblock in the administration's efforts to construct the ballroom, which has faced legal challenges since it was proposed in July 2025."
+      ],
+      "summary": "What makes Trump's ballroom a matter of national security?",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "What makes Trump's ballroom a matter of national security?",
+        "article_url": "https://abc7ny.com/post/white-house-ballroom-news-what-makes-donald-trumps-matter-national-security/19652126/",
+        "published_at": "2026-08-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-10T10:13:07.719814+00:00",
+      "verification": {
+        "article_title": "What makes Trump's ballroom a matter of national security?",
+        "article_url": "https://abc7ny.com/post/white-house-ballroom-news-what-makes-donald-trumps-matter-national-security/19652126/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-10T10:13:04.714754+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on trusting Todd Blanche, gas stoves and",
+      "bullets": [
+        "Do the senators forget the insurrection?",
+        "Monroe, N.J.: The battle over the elevation of Todd Blanche to be attorney general and his relationship to the $1.8 billion \u201canti-weaponization fund\u201d was bizarre."
+      ],
+      "summary": "Readers sound off on trusting Todd Blanche, gas stoves and",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on trusting Todd Blanche, gas stoves and student reading scores",
+        "article_url": "https://www.nydailynews.com/2026/08/10/readers-sound-off-on-trusting-todd-blanche-gas-stoves-and-student-reading-scores/",
+        "published_at": "2026-08-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-10T10:13:07.922041+00:00",
+      "verification": {
+        "article_title": "Readers sound off on trusting Todd Blanche, gas stoves and student reading scores",
+        "article_url": "https://www.nydailynews.com/2026/08/10/readers-sound-off-on-trusting-todd-blanche-gas-stoves-and-student-reading-scores/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-10T10:13:04.850402+00:00"
+      }
+    },
+    {
+      "headline": "Lake Mead hits record-low water level as Colorado River crisis",
+      "bullets": [
+        "BOULDER CITY, Nev.",
+        "- Lake Mead, the largest reservoir in the United States, has fallen to its lowest level since it was first filled nearly 90 years ago, highlighting the worsening crisis facing the Colorado River system."
+      ],
+      "summary": "Lake Mead hits record-low water level as Colorado River crisis",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Lake Mead hits record-low water level as Colorado River crisis deepens: Why it matters",
+        "article_url": "https://www.fox5ny.com/news/lake-mead-hits-record-low-water-level-colorado-river-crisis-deepens-why-matters",
+        "published_at": "2026-08-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-10T10:13:08.126882+00:00",
+      "verification": {
+        "article_title": "Lake Mead hits record-low water level as Colorado River crisis deepens: Why it matters",
+        "article_url": "https://www.fox5ny.com/news/lake-mead-hits-record-low-water-level-colorado-river-crisis-deepens-why-matters",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-10T10:13:05.021701+00:00"
+      }
+    },
+    {
+      "headline": "Boost your health with the best saffron supplements",
+      "bullets": [
+        "Which saffron supplements are best?",
+        "Saffron is most commonly used in cooking, but these days more and more people are taking it as a supplement for its purported health benefits."
+      ],
+      "summary": "Boost your health with the best saffron supplements",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Boost your health with the best saffron supplements",
+        "article_url": "https://www.nydailynews.com/2026/08/07/boost-your-health-with-the-best-saffron-supplements/",
+        "published_at": "2026-08-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-10T10:13:08.311863+00:00",
+      "verification": {
+        "article_title": "Boost your health with the best saffron supplements",
+        "article_url": "https://www.nydailynews.com/2026/08/07/boost-your-health-with-the-best-saffron-supplements/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-10T10:13:05.209977+00:00"
+      }
+    },
+    {
+      "headline": "Traffic Chaos Continues Days After Water Main Bursts in East",
+      "bullets": [
+        "Traffic Chaos Continues Days After Water Main Bursts in East Village A water main rupture on E.",
+        "14 Street and First Avenue on August 3 continues to cause traffic disruptions, water interruptions, and some flooding for neighboring businesses."
+      ],
+      "summary": "Traffic Chaos Continues Days After Water Main Bursts in East",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Traffic Chaos Continues Days After Water Main Bursts in East Village",
+        "article_url": "https://www.ourtownny.com/news/traffic-chaos-continues-days-after-water-main-bursts-in-east-village-MJ6092187",
+        "published_at": "2026-08-08"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-10T10:13:08.537266+00:00",
+      "verification": {
+        "article_title": "Traffic Chaos Continues Days After Water Main Bursts in East Village",
+        "article_url": "https://www.ourtownny.com/news/traffic-chaos-continues-days-after-water-main-bursts-in-east-village-MJ6092187",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-10T10:13:05.343351+00:00"
+      }
+    }
+  ]
+}
