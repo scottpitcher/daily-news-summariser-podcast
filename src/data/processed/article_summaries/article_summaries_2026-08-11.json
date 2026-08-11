@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-08-11T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-08-11.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "At least 111 dead, buildings collapsed after 7.4-magnitude earthquake shakes",
+      "bullets": [
+        "BOGOTA, Colombia -- A powerful 7.4 magnitude earthquake struck western Colombia on Monday, killing at least 111 people, damaging hundreds of buildings and leaving many trapped under debris while their loved ones and rescue workers searched through rubble.",
+        "Colombia's President Abelardo de la Espriella said at least 87 people were injured and declared an emergency to expedite funding for the quake recovery while saying he would visit the disaster zone."
+      ],
+      "summary": "At least 111 dead, buildings collapsed after 7.4-magnitude earthquake shakes",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "At least 111 dead, buildings collapsed after 7.4-magnitude earthquake shakes western Colombia",
+        "article_url": "https://abc7ny.com/post/powerful-earthquake-shakes-colombia-ecuador-prompting-people-evacuate-homes-buildings/19656454/",
+        "published_at": "2026-08-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-11T09:56:20.492316+00:00",
+      "verification": {
+        "article_title": "At least 111 dead, buildings collapsed after 7.4-magnitude earthquake shakes western Colombia",
+        "article_url": "https://abc7ny.com/post/powerful-earthquake-shakes-colombia-ecuador-prompting-people-evacuate-homes-buildings/19656454/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides details from multiple officials and local media, with no specific claims needing verification.",
+        "verified_at": "2026-08-11T09:56:15.114268+00:00"
+      }
+    },
+    {
+      "headline": "NYC co-op and condo owners claim they're overpaying property taxes:",
+      "bullets": [
+        "NEW YORK (WABC) -- While Mayor Zohran Mamdani is taking new action to \"tax the rich\" on their second homes in New York City, some everyday New Yorkers say they've been overpaying their property taxes and having trouble getting refunds.",
+        "Those affected, people who live in condos and co-ops throughout the city, say it's adding up to millions of dollars citywide, and one thing is clear: they want their money back."
+      ],
+      "summary": "NYC co-op and condo owners claim they're overpaying property taxes:",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "NYC co-op and condo owners claim they're overpaying property taxes: 'We want a refund'",
+        "article_url": "https://abc7ny.com/post/nyc-homeowners-claimtheyreoverpaying-taxes-want-refund/19657677/",
+        "published_at": "2026-08-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-11T09:56:20.542807+00:00",
+      "verification": {
+        "article_title": "NYC co-op and condo owners claim they're overpaying property taxes: 'We want a refund'",
+        "article_url": "https://abc7ny.com/post/nyc-homeowners-claimtheyreoverpaying-taxes-want-refund/19657677/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story makes a specific claim about widespread overpayment of property taxes by NYC co-op and condo owners, which needs verification.",
+        "verified_at": "2026-08-11T09:56:15.838192+00:00"
+      }
+    },
+    {
+      "headline": "Democrats promise stricter oversight of immigration detention company if they",
+      "bullets": [
+        "The recent death of a Salvadoran father detained at a migrant facility in Newark, New Jersey, has sparked fresh calls to shut down the facility \u2014 and to terminate the federal contracts of a multibillion-dollar private jailer facing accusations of medical neglect at lockups across the country.",
+        "The company GEO Group has a 15-year, $1 billion contract to operate Delaney Hall, where Edwin Jovanny Lopez Cornejo was held before he was pronounced dead at a nearby hospital on Aug."
+      ],
+      "summary": "Democrats promise stricter oversight of immigration detention company if they",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Democrats promise stricter oversight of immigration detention company if they win majority",
+        "article_url": "https://gothamist.com/news/democrats-promise-stricter-oversight-of-immigration-detention-company-if-they-win-majority",
+        "published_at": "2026-08-10T10:00:55+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-11T09:56:20.677819+00:00",
+      "verification": {
+        "article_title": "Democrats promise stricter oversight of immigration detention company if they win majority",
+        "article_url": "https://gothamist.com/news/democrats-promise-stricter-oversight-of-immigration-detention-company-if-they-win-majority",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and recent, and does not contain specific, load-bearing factual claims that require verification.",
+        "verified_at": "2026-08-11T09:56:16.506249+00:00"
+      }
+    },
+    {
+      "headline": "NJ Democrats were handing out political pamphlets. A Republican leader",
+      "bullets": [
+        "A Democratic official in Millburn, New Jersey is accusing a local Republican leader of filing a false police report against him in an episode that shows just how divisive the township's politics have become.",
+        "A police report obtained by Gothamist shows the call to police came at 7:54 a.m."
+      ],
+      "summary": "NJ Democrats were handing out political pamphlets. A Republican leader",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NJ Democrats were handing out political pamphlets. A Republican leader called the cops.",
+        "article_url": "https://gothamist.com/news/nj-democrats-were-handing-out-political-pamphlets-a-republican-leader-called-the-cops",
+        "published_at": "2026-08-10T16:59:48+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-11T09:56:20.758522+00:00",
+      "verification": {
+        "article_title": "NJ Democrats were handing out political pamphlets. A Republican leader called the cops.",
+        "article_url": "https://gothamist.com/news/nj-democrats-were-handing-out-political-pamphlets-a-republican-leader-called-the-cops",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides context and details without making specific, verifiable claims that need external verification.",
+        "verified_at": "2026-08-11T09:56:17.297278+00:00"
+      }
+    },
+    {
+      "headline": "John Gotti grandson Carmine Agnello denied more time to give",
+      "bullets": [
+        "Monday was deadline day for John Gotti\u2019s grandson Carmine Agnello to donate a kidney to his mom, Victoria Gotti, or go to prison \u2014 and a federal judge rejected the \u201cGrowing Up Gotti\u201d star\u2019s last-minute request to push back his date to surrender on fraud charges.",
+        "Agnello, 40, was given an ultimatum last week after his lawyer announced that oft-delayed kidney transplant to his mother, Victoria Gotti, on Aug 3, would need to be postponed yet again."
+      ],
+      "summary": "John Gotti grandson Carmine Agnello denied more time to give",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "John Gotti grandson Carmine Agnello denied more time to give mom kidney, ordered to prison Monday",
+        "article_url": "https://www.nydailynews.com/2026/08/10/john-gotti-grandson-carmine-agnello-asks-for-more-time-to-give-his-mom-kidney-or-go-to-prison-victoria-gotti/",
+        "published_at": "2026-08-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-11T09:56:20.808667+00:00",
+      "verification": {
+        "article_title": "John Gotti grandson Carmine Agnello denied more time to give mom kidney, ordered to prison Monday",
+        "article_url": "https://www.nydailynews.com/2026/08/10/john-gotti-grandson-carmine-agnello-asks-for-more-time-to-give-his-mom-kidney-or-go-to-prison-victoria-gotti/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides details that support the headline and the context.",
+        "verified_at": "2026-08-11T09:56:18.113375+00:00"
+      }
+    },
+    {
+      "headline": "Chet Mazur, legend in NYC music scene, fatally struck after",
+      "bullets": [
+        "A man authorities say was fatally struck by a hit-and-run mail carrier\u2019s U.S.",
+        "Postal Service box truck was a legend in the lower Manhattan music scene making his way home from a big gig when he was killed, the Daily News has learned."
+      ],
+      "summary": "Chet Mazur, legend in NYC music scene, fatally struck after",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Chet Mazur, legend in NYC music scene, fatally struck after gig by hit-run U.S. postal driver",
+        "article_url": "https://www.nydailynews.com/2026/08/10/chet-mazur-legend-in-nyc-music-scene-fatally-struck-after-gig-by-hit-run-u-s-postal-driver/",
+        "published_at": "2026-08-10T17:09:20+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-11T09:56:20.856752+00:00",
+      "verification": {
+        "article_title": "Chet Mazur, legend in NYC music scene, fatally struck after gig by hit-run U.S. postal driver",
+        "article_url": "https://www.nydailynews.com/2026/08/10/chet-mazur-legend-in-nyc-music-scene-fatally-struck-after-gig-by-hit-run-u-s-postal-driver/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides specific details that align with the article text.",
+        "verified_at": "2026-08-11T09:56:18.611511+00:00"
+      }
+    },
+    {
+      "headline": "USDA: SNAP enrollment drops by 5.3 million following new work",
+      "bullets": [
+        "New data from the U.S.",
+        "Department of Agriculture (USDA) shows that as of April 2026, there are 5.3 million fewer people receiving Supplemental Nutrition Assistance Program (SNAP) benefits compared to September 2025, the end of the federal government\u2019s fiscal year 25."
+      ],
+      "summary": "USDA: SNAP enrollment drops by 5.3 million following new work",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "USDA: SNAP enrollment drops by 5.3 million following new work rules - State-by-state breakdown",
+        "article_url": "https://www.fox5ny.com/news/snap-fewer-recipients-after-new-rules-implemented",
+        "published_at": "2026-08-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-11T09:56:20.920424+00:00",
+      "verification": {
+        "article_title": "USDA: SNAP enrollment drops by 5.3 million following new work rules - State-by-state breakdown",
+        "article_url": "https://www.fox5ny.com/news/snap-fewer-recipients-after-new-rules-implemented",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-11T09:56:19.003669+00:00"
+      }
+    },
+    {
+      "headline": "Beloved Big Bear eagle Jackie dies after prolonged illness, wildlife",
+      "bullets": [
+        "OJAI, Calif.",
+        "-- Big Bear's beloved bald eagle Jackie, who had been receiving more than three weeks of intensive medical care for a prolonged illness, has died."
+      ],
+      "summary": "Beloved Big Bear eagle Jackie dies after prolonged illness, wildlife",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Beloved Big Bear eagle Jackie dies after prolonged illness, wildlife officials say",
+        "article_url": "https://abc7ny.com/post/beloved-big-bear-eagle-jackie-dies-prolonged-illness-wildlife-officials-say/19657465/",
+        "published_at": "2026-08-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-11T09:56:20.971744+00:00",
+      "verification": {
+        "article_title": "Beloved Big Bear eagle Jackie dies after prolonged illness, wildlife officials say",
+        "article_url": "https://abc7ny.com/post/beloved-big-bear-eagle-jackie-dies-prolonged-illness-wildlife-officials-say/19657465/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-11T09:56:19.557388+00:00"
+      }
+    },
+    {
+      "headline": "Feds charge boat captain in deadly Statue of Liberty capsizing",
+      "bullets": [
+        "NEW YORK CITY (WABC) -- The operator of a speedboat that capsized in New York Harbor over the weekend, killing a 27-year-old woman and her infant daughter, was charged Monday with causing their deaths through misconduct or neglect.",
+        "Manuel Hernandez, 46, wiped his eyes with his hand as he arrived for his initial appearance in Manhattan federal court."
+      ],
+      "summary": "Feds charge boat captain in deadly Statue of Liberty capsizing",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Feds charge boat captain in deadly Statue of Liberty capsizing",
+        "article_url": "https://abc7ny.com/post/federal-prosecutors-take-liberty-island-boat-capsize-case-killed-mother-infant/19655468/",
+        "published_at": "2026-08-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-11T09:56:21.020120+00:00",
+      "verification": {
+        "article_title": "Feds charge boat captain in deadly Statue of Liberty capsizing",
+        "article_url": "https://abc7ny.com/post/federal-prosecutors-take-liberty-island-boat-capsize-case-killed-mother-infant/19655468/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-11T09:56:19.611626+00:00"
+      }
+    },
+    {
+      "headline": "Colombians in Queens unite in grief over earthquake that devastated",
+      "bullets": [
+        "The on Monday has left people concerned all over the world, especially in Queens, which has one of the largest Colombian American populations in the New York City area.",
+        "In northwest parts of the borough, with Colombian restaurants and flags on street corners and storefronts, the South American pride is hard to miss."
+      ],
+      "summary": "Colombians in Queens unite in grief over earthquake that devastated",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Colombians in Queens unite in grief over earthquake that devastated their homeland",
+        "article_url": "https://www.cbsnews.com/newyork/news/colombia-earthquake-queens-new-york-city/",
+        "published_at": "2026-08-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-11T09:56:21.063417+00:00",
+      "verification": {
+        "article_title": "Colombians in Queens unite in grief over earthquake that devastated their homeland",
+        "article_url": "https://www.cbsnews.com/newyork/news/colombia-earthquake-queens-new-york-city/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-11T09:56:19.675266+00:00"
+      }
+    },
+    {
+      "headline": "Trump signs order calling for spacing out childhood vaccines, against",
+      "bullets": [
+        "By ALI SWENSON and COLLIN BINKLEY, Associated Press WASHINGTON (AP) \u2014 President Donald Trump on Monday signed an executive order calling for revamped childhood vaccine recommendations that promote his long-held but discredited theory that childhood shots should be spaced out into separate medical visits.",
+        "The order advocates separating the measles, mumps and rubella (MMR) vaccine into three different single-disease shots and administering all childhood immunizations at separate appointments whenever possible."
+      ],
+      "summary": "Trump signs order calling for spacing out childhood vaccines, against",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Trump signs order calling for spacing out childhood vaccines, against medical groups\u2019 guidance",
+        "article_url": "https://www.nydailynews.com/2026/08/10/trump-vaccine-executive-order/",
+        "published_at": "2026-08-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-11T09:56:21.120236+00:00",
+      "verification": {
+        "article_title": "Trump signs order calling for spacing out childhood vaccines, against medical groups\u2019 guidance",
+        "article_url": "https://www.nydailynews.com/2026/08/10/trump-vaccine-executive-order/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-11T09:56:19.722470+00:00"
+      }
+    },
+    {
+      "headline": "Here's What's Next In The Legionnaires' Probe On The Upper",
+      "bullets": [
+        "Here's What's Next In The Legionnaires' Probe On The Upper East Side DNA sequencing and lawsuits are both in the works.",
+        "UPPER EAST SIDE, NY \u2014 The deadly Legionnaires' disease outbreak that killed seven people and sickened 92 others on the Upper East Side has ended, but city health officials are still trying to identify the building that sparked it \u2014 and six potential lawsuits are already taking shape."
+      ],
+      "summary": "Here's What's Next In The Legionnaires' Probe On The Upper",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Here's What's Next In The Legionnaires' Probe On The Upper East Side",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/heres-whats-next-legionnaires-probe-upper-east-side",
+        "published_at": "2026-08-10T18:33:58+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-11T09:56:21.169432+00:00",
+      "verification": {
+        "article_title": "Here's What's Next In The Legionnaires' Probe On The Upper East Side",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/heres-whats-next-legionnaires-probe-upper-east-side",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-11T09:56:19.772933+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on Jeanine Pirro, Iran war mistakes and",
+      "bullets": [
+        "Playing politics won\u2019t play well in court Stamford, Conn.: U.S.",
+        "Attorney Jeanine Pirro\u2019s prosecution of Olympian David Hearn for allegedly damaging the Lincoln Memorial Reflecting Pool illustrates what happens when politics eclipses prosecutorial judgment."
+      ],
+      "summary": "Readers sound off on Jeanine Pirro, Iran war mistakes and",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on Jeanine Pirro, Iran war mistakes and Tommy John\u2019s health",
+        "article_url": "https://www.nydailynews.com/2026/08/11/readers-sound-off-on-jeanine-pirro-iran-war-mistakes-and-tommy-johns-health/",
+        "published_at": "2026-08-11"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-11T09:56:21.219138+00:00",
+      "verification": {
+        "article_title": "Readers sound off on Jeanine Pirro, Iran war mistakes and Tommy John\u2019s health",
+        "article_url": "https://www.nydailynews.com/2026/08/11/readers-sound-off-on-jeanine-pirro-iran-war-mistakes-and-tommy-johns-health/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-11T09:56:19.849216+00:00"
+      }
+    },
+    {
+      "headline": "Doctors push back on Trump executive order to change childhood",
+      "bullets": [
+        "Trump and Kennedy asserted without evidence a link between vaccines and autism.",
+        "President Donald Trump on Monday signed an executive order that makes recommendations about the childhood vaccine schedule and says that the measles, mumps and rubella (MMR) vaccine should be split into three separate shots."
+      ],
+      "summary": "Doctors push back on Trump executive order to change childhood",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Doctors push back on Trump executive order to change childhood vaccine schedule",
+        "article_url": "https://abc7ny.com/story/trump-signs-executive-order-change-childhood-vaccine-schedule/19657912/",
+        "published_at": "2026-08-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-11T09:56:21.275695+00:00",
+      "verification": {
+        "article_title": "Doctors push back on Trump executive order to change childhood vaccine schedule",
+        "article_url": "https://abc7ny.com/story/trump-signs-executive-order-change-childhood-vaccine-schedule/19657912/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-11T09:56:19.923337+00:00"
+      }
+    },
+    {
+      "headline": "NYC, MTA eye first-of-its-kind plan that might keep subway platforms",
+      "bullets": [
+        "Could the summer swelter on New York City subway platforms be put to good use?",
+        "The city and MTA are studying a first-of-its-kind idea to cool some of the hottest subway platforms."
+      ],
+      "summary": "NYC, MTA eye first-of-its-kind plan that might keep subway platforms",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "NYC, MTA eye first-of-its-kind plan that might keep subway platforms cooler",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-mta-subway-platforms-hot-weather-study/",
+        "published_at": "2026-08-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-11T09:56:21.323263+00:00",
+      "verification": {
+        "article_title": "NYC, MTA eye first-of-its-kind plan that might keep subway platforms cooler",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-mta-subway-platforms-hot-weather-study/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-11T09:56:20.049217+00:00"
+      }
+    },
+    {
+      "headline": "NOAA says July was warmest month in US history, surpassing",
+      "bullets": [
+        "The United States saw its hottest month ever in July, according to the National Oceanic and Atmospheric Administration.",
+        "Excluding Alaska and Hawaii, the U.S."
+      ],
+      "summary": "NOAA says July was warmest month in US history, surpassing",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "NOAA says July was warmest month in US history, surpassing 1936 Dust Bowl heat",
+        "article_url": "https://www.fox5ny.com/news/noaa-says-july-was-warmest-month-u-s-history-surpassing-1936-dust-bowl-heat",
+        "published_at": "2026-08-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-11T09:56:21.373983+00:00",
+      "verification": {
+        "article_title": "NOAA says July was warmest month in US history, surpassing 1936 Dust Bowl heat",
+        "article_url": "https://www.fox5ny.com/news/noaa-says-july-was-warmest-month-u-s-history-surpassing-1936-dust-bowl-heat",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-11T09:56:20.099255+00:00"
+      }
+    },
+    {
+      "headline": "Everything You Need To Know Before Buying A Dog Whistle",
+      "bullets": [
+        "Training dogs is an important part of responsible pet parenting and a dog whistle can help you communicate with your dog.",
+        "With its high-pitched sound, it can grab a dog\u2019s attention from a distance and be used to issue commands."
+      ],
+      "summary": "Everything You Need To Know Before Buying A Dog Whistle",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Everything You Need To Know Before Buying A Dog Whistle",
+        "article_url": "https://www.nydailynews.com/2026/08/10/everything-you-need-to-know-before-buying-a-dog-whistle/",
+        "published_at": "2026-08-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-11T09:56:21.421062+00:00",
+      "verification": {
+        "article_title": "Everything You Need To Know Before Buying A Dog Whistle",
+        "article_url": "https://www.nydailynews.com/2026/08/10/everything-you-need-to-know-before-buying-a-dog-whistle/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-11T09:56:20.176708+00:00"
+      }
+    },
+    {
+      "headline": "Fake AI ads in the West 4th Street subway station",
+      "bullets": [
+        "In June, an Instagram reel of fake tech advertisements being put up on Subway station walls went viral, gathering 5 million views and more than 250,000 likes.",
+        "The faux ads were made by Harris Alterman and Dave Ross, two comedians whose usual content caters to the meta-ironic and absurdist appetites of the internet."
+      ],
+      "summary": "Fake AI ads in the West 4th Street subway station",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Fake AI ads in the West 4th Street subway station unite commuters in hatred of AI ads",
+        "article_url": "https://gothamist.com/arts-entertainment/fake-ai-ads-in-the-west-4th-street-subway-station-unite-commuters-in-hatred-of-ai-ads",
+        "published_at": "2026-08-10T19:00:57+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-11T09:56:21.470436+00:00",
+      "verification": {
+        "article_title": "Fake AI ads in the West 4th Street subway station unite commuters in hatred of AI ads",
+        "article_url": "https://gothamist.com/arts-entertainment/fake-ai-ads-in-the-west-4th-street-subway-station-unite-commuters-in-hatred-of-ai-ads",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-11T09:56:20.255106+00:00"
+      }
+    }
+  ]
+}
