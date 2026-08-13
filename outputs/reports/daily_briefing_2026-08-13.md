@@ -1,0 +1,143 @@
+## Economy and Business
+
+**Health insurers seeking to raise premiums on New Yorkers again**
+- Some New Yorkers are shocked as they receive notice that their health insurers want to raise premiums again.
+- Twelve companies have filed requests with the State Department of Financial Services (DFS) to charge customers who buy their own health insurance more.
+
+**So what?** Relevant to NYC economy business — check the full article for specific local implications.
+
+Source: [Health insurers seeking to raise premiums on New Yorkers again](https://www.cbsnews.com/newyork/news/health-insurance-premiums-increase-2027-new-york/) — CBS New York
+
+**Mamdani promised cheaper groceries in NYC. Here’s how the city**
+- Wanted: Experienced grocer who can help run Mayor Zohran Mamdani’s grocery stores.
+- Who exactly takes this job will help determine a bunch of key details about the city’s bold plan to alleviate consumer costs, such as what will be stocked on the shelves and who will be there to help customers.
+
+**So what?** Relevant to NYC economy business — check the full article for specific local implications.
+
+Source: [Mamdani promised cheaper groceries in NYC. Here’s how the city plans to do it.](https://gothamist.com/news/mamdani-promised-cheaper-groceries-in-nyc-heres-how-the-city-plans-to-do-it) — Gothamist
+
+**Inflation slows but prices remain elevated as Iran war and**
+- By CHRISTOPHER RUGABER, AP Economics Writer WASHINGTON (AP) — U.S.
+- inflation declined slightly last month as the cost of gas and groceries slipped, though prices are still rising more quickly than before the Iran war, posing challenges for the White House as the midterm elections near.
+
+**So what?** Relevant to NYC economy business — check the full article for specific local implications.
+
+Source: [Inflation slows but prices remain elevated as Iran war and spending on AI push up prices](https://www.nydailynews.com/2026/08/12/july-inflation-report/) — New York Daily News
+
+## Politics and Government
+
+**3 adults, 1 child dead in triple murder-suicide in Hopkins,**
+- HOPKINS, Minn.
+- (FOX 9) - Two people and one child were found dead in an incident at an in-home daycare in Hopkins, Minnesota Wednesday morning.
+
+**So what?** Relevant to NYC politics government — check the full article for specific local implications.
+
+Source: [3 adults, 1 child dead in triple murder-suicide in Hopkins, Burnsville](https://www.fox5ny.com/news/active-scene-daycare-hopkins-minnesota) — FOX 5 New York
+
+**Blakeman turns to Trump playbook for his pitch to New**
+- Bruce Blakeman is leaning on Donald Trump and his signature issues as he tries to energize upstate Republicans about his run against Gov.
+- Kathy Hochul.
+
+**So what?** Relevant to NYC politics government — check the full article for specific local implications.
+
+Source: [Blakeman turns to Trump playbook for his pitch to New York Republicans](https://gothamist.com/news/blakeman-turns-to-trump-playbook-for-his-pitch-to-new-york-republicans) — Gothamist
+
+**Is 'woke' a joke? AOC sparks debate among NYC progressives**
+- Prominent progressives have a new humorous shorthand as they distance themselves from unpopular left-wing policies: "Woke 1 was crazy." Rep.
+- Alexandria Ocasio-Cortez’s comment sparked a debate as progressives face key elections across the country.
+
+**So what?** Relevant to NYC politics government — check the full article for specific local implications.
+
+Source: [Is 'woke' a joke? AOC sparks debate among NYC progressives about liberal excess.](https://gothamist.com/news/is-woke-a-joke-aoc-sparks-debate-among-nyc-progressives-about-liberal-excess) — Gothamist
+
+**Summer Streets + Harlem Week = Manhattan Outdoor Utopia!**
+- Summer Streets + Harlem Week = Manhattan Outdoor Utopia!
+- From Foley Square to Inwood, many thousands ran, rode, and walked, while even more runners came to St.
+
+**So what?** Relevant to NYC politics government — check the full article for specific local implications.
+
+Source: [Summer Streets + Harlem Week = Manhattan Outdoor Utopia!](https://www.ourtownny.com/news/summer-streets-harlem-week-manhattan-outdoor-utopia-GY6098888) — Our Town
+
+## Public Safety
+
+**ICE plans to give officers gloves that can deliver painful**
+- Immigration and Customs Enforcement officers may soon be outfitted with gloves that can deliver painful electric shocks intended to gain compliance from combative individuals.
+- ICE plans to spend up to $20 million to purchase thousands of "conductive distraction and de-escalation devices" for officers and agents by March, according to a notice published Monday by the Department of Homeland Security.
+
+**So what?** Relevant to NYC public safety — check the full article for specific local implications.
+
+Source: [ICE plans to give officers gloves that can deliver painful electric shocks](https://abc7ny.com/post/ice-plans-give-officers-gloves-can-deliver-painful-electric-shocks/19668605/) — ABC7 New York
+
+**Vigil in Jackson Heights, Queens honors earthquake victims in Colombia**
+- JACKSON HEIGHTS, Queens (WABC) -- Rescuers pulled a woman alive from the ruins of an apartment building in Cali, Colombia, 29 hours after an earthquake struck, offering a sign of hope as search efforts continued and thousands of people remained missing in cities including Cali and Pereira.
+- The search for additional survivors remained underway, though officials and rescue workers faced a narrowing window to find people alive beneath collapsed structures.
+
+**So what?** Relevant to NYC public safety — check the full article for specific local implications.
+
+Source: [Vigil in Jackson Heights, Queens honors earthquake victims in Colombia](https://abc7ny.com/post/colombia-earthquake-vigil-jackson-heights-queens-honors-victims-shares-info-disaster-relief-efforts/19670887/) — ABC7 New York
+
+**Two puppies abandoned in Queens dumpster with muzzles wired shut**
+- Two puppies rescued from a Queens dumpster, where they were left for dead with their muzzles wired shut, are now in search of loving homes, a rep for the American Society for the Prevention of Cruelty to Animals said Wednesday.
+- The two pups, Poppy and Petunia, were rushed to an emergency veterinary clinic by the NYPD after being discovered inside a dumpster on Farrington St.
+
+**So what?** Relevant to NYC public safety — check the full article for specific local implications.
+
+Source: [Two puppies abandoned in Queens dumpster with muzzles wired shut now available for adoption](https://www.nydailynews.com/2026/08/12/two-puppies-abandoned-in-queens-dumpster-with-muzzles-wired-shut-now-available-for-adoption/) — New York Daily News
+
+## Climate and Energy
+
+**Perfect storm: More frequent severe weather leads to uptick in**
+- An increase in the number — and strength — of storms this year has led to a sharp spike in the number of damaged or fallen trees that need to be removed, according to the city Parks Department.
+- In the first seven months of the year, Parks Department crews completed 11,020 work orders for damaged or fallen trees.
+
+**So what?** Relevant to NYC climate energy — check the full article for specific local implications.
+
+Source: [Perfect storm: More frequent severe weather leads to uptick in fallen NYC trees](https://gothamist.com/news/perfect-storm-more-frequent-severe-weather-leads-to-uptick-in-fallen-nyc-trees) — Gothamist
+
+**Readers sound off on a late New Yorker, lifeguard shifts**
+- Remembering our Peepa, an everyday hero Bronx: On what would have been his 78th birthday, we wanted to tell you about our dad, Harold Arthur Roff, known to everyone who loved him as Peepa.
+- Born in Queens, our dad was a proud New Yorker through and through.
+
+**So what?** Relevant to NYC climate energy — check the full article for specific local implications.
+
+Source: [Readers sound off on a late New Yorker, lifeguard shifts and Trump’s Iran quagmire](https://www.nydailynews.com/2026/08/13/readers-sound-off-on-a-late-new-yorker-lifeguard-shifts-and-trumps-iran-quagmire/) — New York Daily News
+
+## Education
+
+**Marc Anthony, Luis Fonsi, Chayanne and more to perform at**
+- Latin music stars Marc Anthony, Luis Fonsi, Chayanne, Feid, Jay Wheeler, and many more will perform at an international benefit concert livestreamed from Miami on Aug.
+- 16 to raise money for those impacted by devastating earthquakes in Venezuela and Colombia.
+
+**So what?** Relevant to NYC education — check the full article for specific local implications.
+
+Source: [Marc Anthony, Luis Fonsi, Chayanne and more to perform at Miami benefit concert for Venezuela and Colombia earthquake victims](https://www.cbsnews.com/newyork/news/marc-anthony-chayanne-and-more-to-play-benefit-concert-for-venezuela-and-colombia-earthquake-relief/) — CBS New York
+
+**Readers sound off on a late New Yorker, lifeguard shifts**
+- Remembering our Peepa, an everyday hero Bronx: On what would have been his 78th birthday, we wanted to tell you about our dad, Harold Arthur Roff, known to everyone who loved him as Peepa.
+- Born in Queens, our dad was a proud New Yorker through and through.
+
+**So what?** Relevant to NYC education — check the full article for specific local implications.
+
+Source: [Readers sound off on a late New Yorker, lifeguard shifts and Trump’s Iran quagmire](https://www.nydailynews.com/2026/08/13/readers-sound-off-on-a-late-new-yorker-lifeguard-shifts-and-trumps-iran-quagmire/) — New York Daily News
+
+## Health
+
+**Marc Anthony, Luis Fonsi, Chayanne and more to perform at**
+- Latin music stars Marc Anthony, Luis Fonsi, Chayanne, Feid, Jay Wheeler, and many more will perform at an international benefit concert livestreamed from Miami on Aug.
+- 16 to raise money for those impacted by devastating earthquakes in Venezuela and Colombia.
+
+**So what?** Relevant to NYC health — check the full article for specific local implications.
+
+Source: [Marc Anthony, Luis Fonsi, Chayanne and more to perform at Miami benefit concert for Venezuela and Colombia earthquake victims](https://www.cbsnews.com/newyork/news/marc-anthony-chayanne-and-more-to-play-benefit-concert-for-venezuela-and-colombia-earthquake-relief/) — CBS New York
+
+## Transportation and Housing
+
+**Archdiocese Plans to Sell Church, 2 More Catholic Schools on**
+- Archdiocese Plans to Sell Church, 2 More Catholic Schools on West Side City Council Member Carl Wilson and other preservationists staged a rally outside Our Lady of Guadalupe Church, Aug.
+- 12 They called on the Landmarks Preservation Commission to intervene.
+
+**So what?** Relevant to NYC transportation housing — check the full article for specific local implications.
+
+Source: [Archdiocese Plans to Sell Church, 2 More Catholic Schools on West Side](https://www.ourtownny.com/news/archdiocese-plans-to-sell-church-2-more-catholic-schools-on-west-side-BG6109245) — Our Town
+
+That concludes today's briefing.

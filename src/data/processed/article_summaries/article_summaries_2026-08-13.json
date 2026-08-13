@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-08-13T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-08-13.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "3 adults, 1 child dead in triple murder-suicide in Hopkins,",
+      "bullets": [
+        "HOPKINS, Minn.",
+        "(FOX 9) - Two people and one child were found dead in an incident at an in-home daycare in Hopkins, Minnesota Wednesday morning."
+      ],
+      "summary": "3 adults, 1 child dead in triple murder-suicide in Hopkins,",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "3 adults, 1 child dead in triple murder-suicide in Hopkins, Burnsville",
+        "article_url": "https://www.fox5ny.com/news/active-scene-daycare-hopkins-minnesota",
+        "published_at": "2026-08-12"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-13T09:58:48.357723+00:00",
+      "verification": {
+        "article_title": "3 adults, 1 child dead in triple murder-suicide in Hopkins, Burnsville",
+        "article_url": "https://www.fox5ny.com/news/active-scene-daycare-hopkins-minnesota",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is supported by multiple sources including police statements and witness reports.",
+        "verified_at": "2026-08-13T09:58:38.474052+00:00"
+      }
+    },
+    {
+      "headline": "Blakeman turns to Trump playbook for his pitch to New",
+      "bullets": [
+        "Bruce Blakeman is leaning on Donald Trump and his signature issues as he tries to energize upstate Republicans about his run against Gov.",
+        "Kathy Hochul."
+      ],
+      "summary": "Blakeman turns to Trump playbook for his pitch to New",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Blakeman turns to Trump playbook for his pitch to New York Republicans",
+        "article_url": "https://gothamist.com/news/blakeman-turns-to-trump-playbook-for-his-pitch-to-new-york-republicans",
+        "published_at": "2026-08-12T10:30:59+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-13T09:58:48.419483+00:00",
+      "verification": {
+        "article_title": "Blakeman turns to Trump playbook for his pitch to New York Republicans",
+        "article_url": "https://gothamist.com/news/blakeman-turns-to-trump-playbook-for-his-pitch-to-new-york-republicans",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides context and quotes from various individuals involved in the political race.",
+        "verified_at": "2026-08-13T09:58:39.070093+00:00"
+      }
+    },
+    {
+      "headline": "Is 'woke' a joke? AOC sparks debate among NYC progressives",
+      "bullets": [
+        "Prominent progressives have a new humorous shorthand as they distance themselves from unpopular left-wing policies: \"Woke 1 was crazy.\" Rep.",
+        "Alexandria Ocasio-Cortez\u2019s comment sparked a debate as progressives face key elections across the country."
+      ],
+      "summary": "Is 'woke' a joke? AOC sparks debate among NYC progressives",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Is 'woke' a joke? AOC sparks debate among NYC progressives about liberal excess.",
+        "article_url": "https://gothamist.com/news/is-woke-a-joke-aoc-sparks-debate-among-nyc-progressives-about-liberal-excess",
+        "published_at": "2026-08-12T18:57:30+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-13T09:58:48.481622+00:00",
+      "verification": {
+        "article_title": "Is 'woke' a joke? AOC sparks debate among NYC progressives about liberal excess.",
+        "article_url": "https://gothamist.com/news/is-woke-a-joke-aoc-sparks-debate-among-nyc-progressives-about-liberal-excess",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The article is well-sourced and discusses a debate among local politicians, without making specific, verifiable claims.",
+        "verified_at": "2026-08-13T09:58:39.690345+00:00"
+      }
+    },
+    {
+      "headline": "Summer Streets + Harlem Week = Manhattan Outdoor Utopia!",
+      "bullets": [
+        "Summer Streets + Harlem Week = Manhattan Outdoor Utopia!",
+        "From Foley Square to Inwood, many thousands ran, rode, and walked, while even more runners came to St."
+      ],
+      "summary": "Summer Streets + Harlem Week = Manhattan Outdoor Utopia!",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Summer Streets + Harlem Week = Manhattan Outdoor Utopia!",
+        "article_url": "https://www.ourtownny.com/news/summer-streets-harlem-week-manhattan-outdoor-utopia-GY6098888",
+        "published_at": "2026-08-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-13T09:58:48.584955+00:00",
+      "verification": {
+        "article_title": "Summer Streets + Harlem Week = Manhattan Outdoor Utopia!",
+        "article_url": "https://www.ourtownny.com/news/summer-streets-harlem-week-manhattan-outdoor-utopia-GY6098888",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is a local event report and does not contain specific, verifiable claims that require external verification.",
+        "verified_at": "2026-08-13T09:58:45.179650+00:00"
+      }
+    },
+    {
+      "headline": "Mamdani promised cheaper groceries in NYC. Here\u2019s how the city",
+      "bullets": [
+        "Wanted: Experienced grocer who can help run Mayor Zohran Mamdani\u2019s grocery stores.",
+        "Who exactly takes this job will help determine a bunch of key details about the city\u2019s bold plan to alleviate consumer costs, such as what will be stocked on the shelves and who will be there to help customers."
+      ],
+      "summary": "Mamdani promised cheaper groceries in NYC. Here\u2019s how the city",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Mamdani promised cheaper groceries in NYC. Here\u2019s how the city plans to do it.",
+        "article_url": "https://gothamist.com/news/mamdani-promised-cheaper-groceries-in-nyc-heres-how-the-city-plans-to-do-it",
+        "published_at": "2026-08-12T14:00:57+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-13T09:58:48.747987+00:00",
+      "verification": {
+        "article_title": "Mamdani promised cheaper groceries in NYC. Here\u2019s how the city plans to do it.",
+        "article_url": "https://gothamist.com/news/mamdani-promised-cheaper-groceries-in-nyc-heres-how-the-city-plans-to-do-it",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides details about the city's plan without making specific, verifiable claims.",
+        "verified_at": "2026-08-13T09:58:45.855267+00:00"
+      }
+    },
+    {
+      "headline": "Health insurers seeking to raise premiums on New Yorkers again",
+      "bullets": [
+        "Some New Yorkers are shocked as they receive notice that their health insurers want to raise premiums again.",
+        "Twelve companies have filed requests with the State Department of Financial Services (DFS) to charge customers who buy their own health insurance more."
+      ],
+      "summary": "Health insurers seeking to raise premiums on New Yorkers again",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Health insurers seeking to raise premiums on New Yorkers again",
+        "article_url": "https://www.cbsnews.com/newyork/news/health-insurance-premiums-increase-2027-new-york/",
+        "published_at": "2026-08-11"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-13T09:58:48.912676+00:00",
+      "verification": {
+        "article_title": "Health insurers seeking to raise premiums on New Yorkers again",
+        "article_url": "https://www.cbsnews.com/newyork/news/health-insurance-premiums-increase-2027-new-york/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides context from multiple insurance companies and a consumer advocate.",
+        "verified_at": "2026-08-13T09:58:46.586118+00:00"
+      }
+    },
+    {
+      "headline": "Inflation slows but prices remain elevated as Iran war and",
+      "bullets": [
+        "By CHRISTOPHER RUGABER, AP Economics Writer WASHINGTON (AP) \u2014 U.S.",
+        "inflation declined slightly last month as the cost of gas and groceries slipped, though prices are still rising more quickly than before the Iran war, posing challenges for the White House as the midterm elections near."
+      ],
+      "summary": "Inflation slows but prices remain elevated as Iran war and",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Inflation slows but prices remain elevated as Iran war and spending on AI push up prices",
+        "article_url": "https://www.nydailynews.com/2026/08/12/july-inflation-report/",
+        "published_at": "2026-08-12"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-13T09:58:49.014813+00:00",
+      "verification": {
+        "article_title": "Inflation slows but prices remain elevated as Iran war and spending on AI push up prices",
+        "article_url": "https://www.nydailynews.com/2026/08/12/july-inflation-report/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-13T09:58:47.221285+00:00"
+      }
+    },
+    {
+      "headline": "ICE plans to give officers gloves that can deliver painful",
+      "bullets": [
+        "Immigration and Customs Enforcement officers may soon be outfitted with gloves that can deliver painful electric shocks intended to gain compliance from combative individuals.",
+        "ICE plans to spend up to $20 million to purchase thousands of \"conductive distraction and de-escalation devices\" for officers and agents by March, according to a notice published Monday by the Department of Homeland Security."
+      ],
+      "summary": "ICE plans to give officers gloves that can deliver painful",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "ICE plans to give officers gloves that can deliver painful electric shocks",
+        "article_url": "https://abc7ny.com/post/ice-plans-give-officers-gloves-can-deliver-painful-electric-shocks/19668605/",
+        "published_at": "2026-08-12"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-13T09:58:49.076418+00:00",
+      "verification": {
+        "article_title": "ICE plans to give officers gloves that can deliver painful electric shocks",
+        "article_url": "https://abc7ny.com/post/ice-plans-give-officers-gloves-can-deliver-painful-electric-shocks/19668605/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-13T09:58:47.284447+00:00"
+      }
+    },
+    {
+      "headline": "Two puppies abandoned in Queens dumpster with muzzles wired shut",
+      "bullets": [
+        "Two puppies rescued from a Queens dumpster, where they were left for dead with their muzzles wired shut, are now in search of loving homes, a rep for the American Society for the Prevention of Cruelty to Animals said Wednesday.",
+        "The two pups, Poppy and Petunia, were rushed to an emergency veterinary clinic by the NYPD after being discovered inside a dumpster on Farrington St."
+      ],
+      "summary": "Two puppies abandoned in Queens dumpster with muzzles wired shut",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Two puppies abandoned in Queens dumpster with muzzles wired shut now available for adoption",
+        "article_url": "https://www.nydailynews.com/2026/08/12/two-puppies-abandoned-in-queens-dumpster-with-muzzles-wired-shut-now-available-for-adoption/",
+        "published_at": "2026-08-12T22:46:55+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-13T09:58:49.196053+00:00",
+      "verification": {
+        "article_title": "Two puppies abandoned in Queens dumpster with muzzles wired shut now available for adoption",
+        "article_url": "https://www.nydailynews.com/2026/08/12/two-puppies-abandoned-in-queens-dumpster-with-muzzles-wired-shut-now-available-for-adoption/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-13T09:58:47.383457+00:00"
+      }
+    },
+    {
+      "headline": "Vigil in Jackson Heights, Queens honors earthquake victims in Colombia",
+      "bullets": [
+        "JACKSON HEIGHTS, Queens (WABC) -- Rescuers pulled a woman alive from the ruins of an apartment building in Cali, Colombia, 29 hours after an earthquake struck, offering a sign of hope as search efforts continued and thousands of people remained missing in cities including Cali and Pereira.",
+        "The search for additional survivors remained underway, though officials and rescue workers faced a narrowing window to find people alive beneath collapsed structures."
+      ],
+      "summary": "Vigil in Jackson Heights, Queens honors earthquake victims in Colombia",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Vigil in Jackson Heights, Queens honors earthquake victims in Colombia",
+        "article_url": "https://abc7ny.com/post/colombia-earthquake-vigil-jackson-heights-queens-honors-victims-shares-info-disaster-relief-efforts/19670887/",
+        "published_at": "2026-08-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-13T09:58:49.257422+00:00",
+      "verification": {
+        "article_title": "Vigil in Jackson Heights, Queens honors earthquake victims in Colombia",
+        "article_url": "https://abc7ny.com/post/colombia-earthquake-vigil-jackson-heights-queens-honors-victims-shares-info-disaster-relief-efforts/19670887/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-13T09:58:47.463142+00:00"
+      }
+    },
+    {
+      "headline": "FACT FOCUS: Trump makes false claims as he signs order",
+      "bullets": [
+        "By MELISSA GOLDIN and LAURA UNGAR While issuing an executive order on Monday aimed at getting states to revise childhood vaccine recommendations, President Donald Trump and others in his administration repeated several false claims about those vaccines, as well as their relationship to autism.",
+        "The order recommends separating the measles, mumps and rubella (MMR) vaccine into three separate single-disease shots and administering childhood vaccines at separate appointments whenever possible."
+      ],
+      "summary": "FACT FOCUS: Trump makes false claims as he signs order",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "FACT FOCUS: Trump makes false claims as he signs order urging revisions around childhood vaccines",
+        "article_url": "https://www.nydailynews.com/2026/08/11/trump-fact-check-childhood-vaccines/",
+        "published_at": "2026-08-11"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-13T09:58:49.362701+00:00",
+      "verification": {
+        "article_title": "FACT FOCUS: Trump makes false claims as he signs order urging revisions around childhood vaccines",
+        "article_url": "https://www.nydailynews.com/2026/08/11/trump-fact-check-childhood-vaccines/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-13T09:58:47.525038+00:00"
+      }
+    },
+    {
+      "headline": "Marc Anthony, Luis Fonsi, Chayanne and more to perform at",
+      "bullets": [
+        "Latin music stars Marc Anthony, Luis Fonsi, Chayanne, Feid, Jay Wheeler, and many more will perform at an international benefit concert livestreamed from Miami on Aug.",
+        "16 to raise money for those impacted by devastating earthquakes in Venezuela and Colombia."
+      ],
+      "summary": "Marc Anthony, Luis Fonsi, Chayanne and more to perform at",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Marc Anthony, Luis Fonsi, Chayanne and more to perform at Miami benefit concert for Venezuela and Colombia earthquake victims",
+        "article_url": "https://www.cbsnews.com/newyork/news/marc-anthony-chayanne-and-more-to-play-benefit-concert-for-venezuela-and-colombia-earthquake-relief/",
+        "published_at": "2026-08-12"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-13T09:58:49.425846+00:00",
+      "verification": {
+        "article_title": "Marc Anthony, Luis Fonsi, Chayanne and more to perform at Miami benefit concert for Venezuela and Colombia earthquake victims",
+        "article_url": "https://www.cbsnews.com/newyork/news/marc-anthony-chayanne-and-more-to-play-benefit-concert-for-venezuela-and-colombia-earthquake-relief/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-13T09:58:47.594925+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on a late New Yorker, lifeguard shifts",
+      "bullets": [
+        "Remembering our Peepa, an everyday hero Bronx: On what would have been his 78th birthday, we wanted to tell you about our dad, Harold Arthur Roff, known to everyone who loved him as Peepa.",
+        "Born in Queens, our dad was a proud New Yorker through and through."
+      ],
+      "summary": "Readers sound off on a late New Yorker, lifeguard shifts",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on a late New Yorker, lifeguard shifts and Trump\u2019s Iran quagmire",
+        "article_url": "https://www.nydailynews.com/2026/08/13/readers-sound-off-on-a-late-new-yorker-lifeguard-shifts-and-trumps-iran-quagmire/",
+        "published_at": "2026-08-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-13T09:58:49.488292+00:00",
+      "verification": {
+        "article_title": "Readers sound off on a late New Yorker, lifeguard shifts and Trump\u2019s Iran quagmire",
+        "article_url": "https://www.nydailynews.com/2026/08/13/readers-sound-off-on-a-late-new-yorker-lifeguard-shifts-and-trumps-iran-quagmire/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-13T09:58:47.679115+00:00"
+      }
+    },
+    {
+      "headline": "Marc Anthony, Luis Fonsi, Chayanne and more to perform at",
+      "bullets": [
+        "Latin music stars Marc Anthony, Luis Fonsi, Chayanne, Feid, Jay Wheeler, and many more will perform at an international benefit concert livestreamed from Miami on Aug.",
+        "16 to raise money for those impacted by devastating earthquakes in Venezuela and Colombia."
+      ],
+      "summary": "Marc Anthony, Luis Fonsi, Chayanne and more to perform at",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Marc Anthony, Luis Fonsi, Chayanne and more to perform at Miami benefit concert for Venezuela and Colombia earthquake victims",
+        "article_url": "https://www.cbsnews.com/newyork/news/marc-anthony-chayanne-and-more-to-play-benefit-concert-for-venezuela-and-colombia-earthquake-relief/",
+        "published_at": "2026-08-12"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-13T09:58:49.549572+00:00",
+      "verification": {
+        "article_title": "Marc Anthony, Luis Fonsi, Chayanne and more to perform at Miami benefit concert for Venezuela and Colombia earthquake victims",
+        "article_url": "https://www.cbsnews.com/newyork/news/marc-anthony-chayanne-and-more-to-play-benefit-concert-for-venezuela-and-colombia-earthquake-relief/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-13T09:58:47.765200+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on a late New Yorker, lifeguard shifts",
+      "bullets": [
+        "Remembering our Peepa, an everyday hero Bronx: On what would have been his 78th birthday, we wanted to tell you about our dad, Harold Arthur Roff, known to everyone who loved him as Peepa.",
+        "Born in Queens, our dad was a proud New Yorker through and through."
+      ],
+      "summary": "Readers sound off on a late New Yorker, lifeguard shifts",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on a late New Yorker, lifeguard shifts and Trump\u2019s Iran quagmire",
+        "article_url": "https://www.nydailynews.com/2026/08/13/readers-sound-off-on-a-late-new-yorker-lifeguard-shifts-and-trumps-iran-quagmire/",
+        "published_at": "2026-08-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-13T09:58:49.613032+00:00",
+      "verification": {
+        "article_title": "Readers sound off on a late New Yorker, lifeguard shifts and Trump\u2019s Iran quagmire",
+        "article_url": "https://www.nydailynews.com/2026/08/13/readers-sound-off-on-a-late-new-yorker-lifeguard-shifts-and-trumps-iran-quagmire/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-13T09:58:47.934242+00:00"
+      }
+    },
+    {
+      "headline": "Perfect storm: More frequent severe weather leads to uptick in",
+      "bullets": [
+        "An increase in the number \u2014 and strength \u2014 of storms this year has led to a sharp spike in the number of damaged or fallen trees that need to be removed, according to the city Parks Department.",
+        "In the first seven months of the year, Parks Department crews completed 11,020 work orders for damaged or fallen trees."
+      ],
+      "summary": "Perfect storm: More frequent severe weather leads to uptick in",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Perfect storm: More frequent severe weather leads to uptick in fallen NYC trees",
+        "article_url": "https://gothamist.com/news/perfect-storm-more-frequent-severe-weather-leads-to-uptick-in-fallen-nyc-trees",
+        "published_at": "2026-08-12T10:00:50+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-13T09:58:49.672033+00:00",
+      "verification": {
+        "article_title": "Perfect storm: More frequent severe weather leads to uptick in fallen NYC trees",
+        "article_url": "https://gothamist.com/news/perfect-storm-more-frequent-severe-weather-leads-to-uptick-in-fallen-nyc-trees",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-13T09:58:48.013980+00:00"
+      }
+    },
+    {
+      "headline": "Archdiocese Plans to Sell Church, 2 More Catholic Schools on",
+      "bullets": [
+        "Archdiocese Plans to Sell Church, 2 More Catholic Schools on West Side City Council Member Carl Wilson and other preservationists staged a rally outside Our Lady of Guadalupe Church, Aug.",
+        "12 They called on the Landmarks Preservation Commission to intervene."
+      ],
+      "summary": "Archdiocese Plans to Sell Church, 2 More Catholic Schools on",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Archdiocese Plans to Sell Church, 2 More Catholic Schools on West Side",
+        "article_url": "https://www.ourtownny.com/news/archdiocese-plans-to-sell-church-2-more-catholic-schools-on-west-side-BG6109245",
+        "published_at": "2026-08-12"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-13T09:58:49.756272+00:00",
+      "verification": {
+        "article_title": "Archdiocese Plans to Sell Church, 2 More Catholic Schools on West Side",
+        "article_url": "https://www.ourtownny.com/news/archdiocese-plans-to-sell-church-2-more-catholic-schools-on-west-side-BG6109245",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-13T09:58:48.103355+00:00"
+      }
+    },
+    {
+      "headline": "Brooklyn man gets 26 years to life for killing and",
+      "bullets": [
+        "A monstrous domestic abuser who hacked up his girlfriend, then slept with prostitutes in her Brooklyn apartment while her dismembered remains rotted for a month in her bathroom, got 26 years to life for the horrific crime.",
+        "Justin Williams, 27, of Manhattan, stashed 22-year-old D\u2019Asia Johnson\u2019s body parts in garbage bags stuffed in two suitcases that he hid in the bathroom of her Cypress Hills apartment after killing her on Aug."
+      ],
+      "summary": "Brooklyn man gets 26 years to life for killing and",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Brooklyn man gets 26 years to life for killing and dismembering girlfriend",
+        "article_url": "https://www.nydailynews.com/2026/08/12/brooklyn-man-sentenced-killing-girlfriend-living-dismembered-body-month/",
+        "published_at": "2026-08-12"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-13T09:58:49.821033+00:00",
+      "verification": {
+        "article_title": "Brooklyn man gets 26 years to life for killing and dismembering girlfriend",
+        "article_url": "https://www.nydailynews.com/2026/08/12/brooklyn-man-sentenced-killing-girlfriend-living-dismembered-body-month/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-13T09:58:48.163791+00:00"
+      }
+    }
+  ]
+}
