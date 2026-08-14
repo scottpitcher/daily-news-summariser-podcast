@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-08-14T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-08-14.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "AOC freezes her eggs, mixing her personal life with politics",
+      "bullets": [
+        "This column originally appeared in The Politics Brief, our weekly newsletter on the people, power and policies that shape New Yorkers' lives.",
+        "Sign up to get the full version where you can ask questions, share news tips and weigh in on the conversation."
+      ],
+      "summary": "AOC freezes her eggs, mixing her personal life with politics",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "AOC freezes her eggs, mixing her personal life with politics",
+        "article_url": "https://gothamist.com/news/aoc-freezes-her-eggs-mixing-her-personal-life-with-politics",
+        "published_at": "2026-08-13T15:14:25+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-14T09:56:06.402316+00:00",
+      "verification": {
+        "article_title": "AOC freezes her eggs, mixing her personal life with politics",
+        "article_url": "https://gothamist.com/news/aoc-freezes-her-eggs-mixing-her-personal-life-with-politics",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and recent, and does not contain specific, load-bearing factual claims that require verification.",
+        "verified_at": "2026-08-14T09:56:00.341578+00:00"
+      }
+    },
+    {
+      "headline": "Are there hidden wonders on the other side of the",
+      "bullets": [
+        "This column originally appeared in the Looped In NYC newsletter.",
+        "Sign up here."
+      ],
+      "summary": "Are there hidden wonders on the other side of the",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Are there hidden wonders on the other side of the Hudson from NYC?",
+        "article_url": "https://gothamist.com/arts-entertainment/are-there-hidden-wonders-on-the-other-side-of-the-hudson-from-nyc",
+        "published_at": "2026-08-13T14:59:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-14T09:56:06.529915+00:00",
+      "verification": {
+        "article_title": "Are there hidden wonders on the other side of the Hudson from NYC?",
+        "article_url": "https://gothamist.com/arts-entertainment/are-there-hidden-wonders-on-the-other-side-of-the-hudson-from-nyc",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is a personal account and does not contain specific, verifiable facts that require external verification.",
+        "verified_at": "2026-08-14T09:56:01.089824+00:00"
+      }
+    },
+    {
+      "headline": "The long battle over Elizabeth Street Garden is over. Mamdani",
+      "bullets": [
+        "The Elizabeth Street Garden is no longer a battlefield.",
+        "A team of developers picked to build low-income senior housing atop the lushly green, statue-strewn lot in Lower Manhattan has officially dropped a lawsuit it filed against the city for abruptly canceling the decade-old plan."
+      ],
+      "summary": "The long battle over Elizabeth Street Garden is over. Mamdani",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "The long battle over Elizabeth Street Garden is over. Mamdani touts new housing plan.",
+        "article_url": "https://gothamist.com/news/the-long-battle-over-elizabeth-street-garden-is-over-mamdani-touts-new-housing-plan",
+        "published_at": "2026-08-13T22:53:58+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-14T09:56:06.656364+00:00",
+      "verification": {
+        "article_title": "The long battle over Elizabeth Street Garden is over. Mamdani touts new housing plan.",
+        "article_url": "https://gothamist.com/news/the-long-battle-over-elizabeth-street-garden-is-over-mamdani-touts-new-housing-plan",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and recent, and does not contain specific, load-bearing factual claims that require verification.",
+        "verified_at": "2026-08-14T09:56:01.858950+00:00"
+      }
+    },
+    {
+      "headline": "Manhattan residents who tasted NYC's trash revolution want their street",
+      "bullets": [
+        "Three years ago, the city installed large trash containers in parking spaces across West 149th Street in Upper Manhattan for residents to dump their trash.",
+        "It was an early step in a sanitation department pilot program that would lay the groundwork for New York City\u2019s ongoing \u201ctrash revolution,\u201d which aims to ban mountains of garbage bags from sidewalks across the five boroughs."
+      ],
+      "summary": "Manhattan residents who tasted NYC's trash revolution want their street",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Manhattan residents who tasted NYC's trash revolution want their street bins back",
+        "article_url": "https://gothamist.com/news/manhattan-residents-who-tasted-nycs-trash-revolution-want-their-street-bins-back",
+        "published_at": "2026-08-13T13:00:59+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-14T09:56:06.782478+00:00",
+      "verification": {
+        "article_title": "Manhattan residents who tasted NYC's trash revolution want their street bins back",
+        "article_url": "https://gothamist.com/news/manhattan-residents-who-tasted-nycs-trash-revolution-want-their-street-bins-back",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides context and quotes from local residents and a Councilmember, making it likely to be accurate.",
+        "verified_at": "2026-08-14T09:56:02.562487+00:00"
+      }
+    },
+    {
+      "headline": "New York City Council votes to expand year-round outdoor dining",
+      "bullets": [
+        "The New York City Council voted Thursday to expand year-round outdoor dining.",
+        "Previously, only sidewalk cafes could operate in all seasons, while cafes on the street were only allowed to be open from April through November, and then had to be taken down."
+      ],
+      "summary": "New York City Council votes to expand year-round outdoor dining",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "New York City Council votes to expand year-round outdoor dining",
+        "article_url": "https://www.cbsnews.com/newyork/news/new-york-city-council-votes-to-expand-year-round-outdoor-dining/",
+        "published_at": "2026-08-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-14T09:56:06.918263+00:00",
+      "verification": {
+        "article_title": "New York City Council votes to expand year-round outdoor dining",
+        "article_url": "https://www.cbsnews.com/newyork/news/new-york-city-council-votes-to-expand-year-round-outdoor-dining/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides context and quotes from various stakeholders, making it likely accurate.",
+        "verified_at": "2026-08-14T09:56:03.288811+00:00"
+      }
+    },
+    {
+      "headline": "'Camp Rock 3': Liamani Segura, Malachi Barton on stepping into",
+      "bullets": [
+        "Disney-Channel,Synergy---DisneyPlus,Disney-Channel,Entertainment,Demi-Lovato,Joe-Jonas'] --- \"Camp Rock 3\" stars Liamani Segura and Malachi Barton trade the fantasy roles for more \"grounded\" characters in this franchise.",
+        "LOS ANGELES -- After 16 years, the Disney Channel franchise \"Camp Rock\" is returning with its third installment, \"Camp Rock 3,\" with star Demi Lovato as an executive producer and the Jonas Brothers as executive producers and guest stars."
+      ],
+      "summary": "'Camp Rock 3': Liamani Segura, Malachi Barton on stepping into",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "'Camp Rock 3': Liamani Segura, Malachi Barton on stepping into more 'grounded' roles",
+        "article_url": "https://abc7ny.com/post/camp-rock-3-liamani-segura-malachi-barton-stepping-more-grounded-lead-roles-heartfelt-advice-demi-lovato/19669212/",
+        "published_at": "2026-08-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-14T09:56:07.061113+00:00",
+      "verification": {
+        "article_title": "'Camp Rock 3': Liamani Segura, Malachi Barton on stepping into more 'grounded' roles",
+        "article_url": "https://abc7ny.com/post/camp-rock-3-liamani-segura-malachi-barton-stepping-more-grounded-lead-roles-heartfelt-advice-demi-lovato/19669212/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is from a reputable local source and provides context about the new characters and the franchise.",
+        "verified_at": "2026-08-14T09:56:04.062471+00:00"
+      }
+    },
+    {
+      "headline": "Health insurers seeking to raise premiums on New Yorkers again",
+      "bullets": [
+        "Some New Yorkers are shocked as they receive notice that their health insurers want to raise premiums again.",
+        "Twelve companies have filed requests with the State Department of Financial Services (DFS) to charge customers who buy their own health insurance more."
+      ],
+      "summary": "Health insurers seeking to raise premiums on New Yorkers again",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Health insurers seeking to raise premiums on New Yorkers again",
+        "article_url": "https://www.cbsnews.com/newyork/news/health-insurance-premiums-increase-2027-new-york/",
+        "published_at": "2026-08-11"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-14T09:56:07.203108+00:00",
+      "verification": {
+        "article_title": "Health insurers seeking to raise premiums on New Yorkers again",
+        "article_url": "https://www.cbsnews.com/newyork/news/health-insurance-premiums-increase-2027-new-york/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-14T09:56:04.703789+00:00"
+      }
+    },
+    {
+      "headline": "Boy, 15, killed visiting Bronx apartment, victim\u2019s grandma calls for",
+      "bullets": [
+        "A 15-year-old boy was fatally shot in the head and a 13-year-old boy grazed by the same bullet fired by a teen who ran off and is being sought, police sources said Thursday.",
+        "Riley Billingslea was shot in the neck near his ear in the Castle Arms apartment building on Claflin Ave."
+      ],
+      "summary": "Boy, 15, killed visiting Bronx apartment, victim\u2019s grandma calls for",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Boy, 15, killed visiting Bronx apartment, victim\u2019s grandma calls for teen gunman to surrender",
+        "article_url": "https://www.nydailynews.com/2026/08/13/boy-15-riley-billingslea-shot-dead-in-bronx-apartment-building-13-year-old-boy-grazed/",
+        "published_at": "2026-08-13T14:36:12+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-14T09:56:07.328713+00:00",
+      "verification": {
+        "article_title": "Boy, 15, killed visiting Bronx apartment, victim\u2019s grandma calls for teen gunman to surrender",
+        "article_url": "https://www.nydailynews.com/2026/08/13/boy-15-riley-billingslea-shot-dead-in-bronx-apartment-building-13-year-old-boy-grazed/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-14T09:56:04.834000+00:00"
+      }
+    },
+    {
+      "headline": "NYPD Lt. pleads guilty to shoplifting from Midtown yoga shop",
+      "bullets": [
+        "An NYPD lieutenant pleaded guilty to swiping a crystal from the Midtown yoga boutique where he worked as a security guard in his NYPD uniform, officials said Thursday.",
+        "John Ruis, 61, pleaded guilty to petit larceny for palming the crystal from Alo Yoga on Jan."
+      ],
+      "summary": "NYPD Lt. pleads guilty to shoplifting from Midtown yoga shop",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYPD Lt. pleads guilty to shoplifting from Midtown yoga shop where he worked security",
+        "article_url": "https://www.nydailynews.com/2026/08/13/nypd-lt-pleads-guilty-to-shoplifting-from-midtown-yoga-shop-where-he-worked-security/",
+        "published_at": "2026-08-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-14T09:56:07.452102+00:00",
+      "verification": {
+        "article_title": "NYPD Lt. pleads guilty to shoplifting from Midtown yoga shop where he worked security",
+        "article_url": "https://www.nydailynews.com/2026/08/13/nypd-lt-pleads-guilty-to-shoplifting-from-midtown-yoga-shop-where-he-worked-security/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-14T09:56:04.967672+00:00"
+      }
+    },
+    {
+      "headline": "Some displaced tenants of Bronx apartment building say valuables are",
+      "bullets": [
+        "One week after , some residents were allowed back inside for the first time Thursday to retrieve whatever they could salvage.",
+        "More than 40 people have been displaced, and some of them reported belongings missing from their damaged apartments."
+      ],
+      "summary": "Some displaced tenants of Bronx apartment building say valuables are",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Some displaced tenants of Bronx apartment building say valuables are missing 1 week after deadly fire",
+        "article_url": "https://www.cbsnews.com/newyork/news/bronx-deadly-fire-norwood-tenants-allowed-inside/",
+        "published_at": "2026-08-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-14T09:56:07.575744+00:00",
+      "verification": {
+        "article_title": "Some displaced tenants of Bronx apartment building say valuables are missing 1 week after deadly fire",
+        "article_url": "https://www.cbsnews.com/newyork/news/bronx-deadly-fire-norwood-tenants-allowed-inside/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-14T09:56:05.101720+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on NYC\u2019s legal advisors, student performance and",
+      "bullets": [
+        "A panel with a conspicuously absent group Brooklyn: To Mayor Mamdani: Recently, you made the shocking decision to appoint an 18-member judicial screening panel without a single Jewish lawyer.",
+        "This is especially shocking in a city where many estimate that more than 40% of lawyers are Jewish."
+      ],
+      "summary": "Readers sound off on NYC\u2019s legal advisors, student performance and",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on NYC\u2019s legal advisors, student performance and abused puppies",
+        "article_url": "https://www.nydailynews.com/2026/08/14/readers-sound-off-on-nycs-legal-advisors-student-performance-and-abused-puppies/",
+        "published_at": "2026-08-14"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-14T09:56:07.702586+00:00",
+      "verification": {
+        "article_title": "Readers sound off on NYC\u2019s legal advisors, student performance and abused puppies",
+        "article_url": "https://www.nydailynews.com/2026/08/14/readers-sound-off-on-nycs-legal-advisors-student-performance-and-abused-puppies/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-14T09:56:05.232786+00:00"
+      }
+    },
+    {
+      "headline": "Luigi Mangione expected to plead guilty on federal charges: What",
+      "bullets": [
+        "NEW YORK - Luigi Mangione could be moving toward a guilty plea in the federal case over the 2024 killing of UnitedHealthcare CEO Brian Thompson \u2014 and a deal could have a major impact on what happens next.",
+        "Mangione\u2019s lawyers and federal prosecutors are reportedly discussing a possible plea deal."
+      ],
+      "summary": "Luigi Mangione expected to plead guilty on federal charges: What",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Luigi Mangione expected to plead guilty on federal charges: What it could mean for his state case",
+        "article_url": "https://www.fox5ny.com/news/luigi-mangione-plead-guilty-impact-new-york",
+        "published_at": "2026-08-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-14T09:56:07.837552+00:00",
+      "verification": {
+        "article_title": "Luigi Mangione expected to plead guilty on federal charges: What it could mean for his state case",
+        "article_url": "https://www.fox5ny.com/news/luigi-mangione-plead-guilty-impact-new-york",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-14T09:56:05.370677+00:00"
+      }
+    },
+    {
+      "headline": "Mother sues NYC, saying ACS harassed her family with false",
+      "bullets": [
+        "Katie Valdez made a heart-wrenching decision in 2022.",
+        "She told the father of her two youngest children to leave their Washington Heights home and secured an order of protection against him, she said."
+      ],
+      "summary": "Mother sues NYC, saying ACS harassed her family with false",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Mother sues NYC, saying ACS harassed her family with false abuse reports",
+        "article_url": "https://gothamist.com/news/mother-sues-nyc-saying-acs-harassed-her-family-with-false-abuse-reports",
+        "published_at": "2026-08-13T17:00:51+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-14T09:56:07.967099+00:00",
+      "verification": {
+        "article_title": "Mother sues NYC, saying ACS harassed her family with false abuse reports",
+        "article_url": "https://gothamist.com/news/mother-sues-nyc-saying-acs-harassed-her-family-with-false-abuse-reports",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-14T09:56:05.515720+00:00"
+      }
+    },
+    {
+      "headline": "If Luigi Mangione pleads guilty in federal court, here\u2019s what",
+      "bullets": [
+        "The New York Times and other outlets are reporting that Luigi Mangione is expected to take a plea deal during a last-minute appearance in federal court Friday, just weeks before he is scheduled to stand trial on separate state charges.",
+        "The U.S."
+      ],
+      "summary": "If Luigi Mangione pleads guilty in federal court, here\u2019s what",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "If Luigi Mangione pleads guilty in federal court, here\u2019s what lawyers say may happen next",
+        "article_url": "https://gothamist.com/news/if-luigi-mangione-pleads-guilty-in-federal-court-heres-what-lawyers-say-may-happen-next",
+        "published_at": "2026-08-13T20:28:15+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-14T09:56:08.106527+00:00",
+      "verification": {
+        "article_title": "If Luigi Mangione pleads guilty in federal court, here\u2019s what lawyers say may happen next",
+        "article_url": "https://gothamist.com/news/if-luigi-mangione-pleads-guilty-in-federal-court-heres-what-lawyers-say-may-happen-next",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-14T09:56:05.640705+00:00"
+      }
+    },
+    {
+      "headline": "What is a heat advisory? Excessive heat warning? Heat wave?",
+      "bullets": [
+        "Much of the Tri-State Area is as the combined heat and humidity also brings with it the risk of flash flooding.",
+        "Summers can sizzle around the New York City area, where the hottest normal high is 85 degrees in July."
+      ],
+      "summary": "What is a heat advisory? Excessive heat warning? Heat wave?",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "What is a heat advisory? Excessive heat warning? Heat wave? Why they feel even hotter in NYC.",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-heat-wave-excessive-heat-warning/",
+        "published_at": "2024-06-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-14T09:56:08.230477+00:00",
+      "verification": {
+        "article_title": "What is a heat advisory? Excessive heat warning? Heat wave? Why they feel even hotter in NYC.",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-heat-wave-excessive-heat-warning/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-14T09:56:05.766284+00:00"
+      }
+    },
+    {
+      "headline": "Heat waves take a mental health toll. Here's why our",
+      "bullets": [
+        "Physical effects of heat waves, , are widely known.",
+        "But scientists are now sounding the alarm on the psychological consequences of ."
+      ],
+      "summary": "Heat waves take a mental health toll. Here's why our",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Heat waves take a mental health toll. Here's why our brains get stressed when it's too hot outside.",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-heat-wave-mental-health-stress-cooling-centers/",
+        "published_at": "2024-07-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-14T09:56:08.352542+00:00",
+      "verification": {
+        "article_title": "Heat waves take a mental health toll. Here's why our brains get stressed when it's too hot outside.",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-heat-wave-mental-health-stress-cooling-centers/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-14T09:56:05.894605+00:00"
+      }
+    },
+    {
+      "headline": "Upper West Side community raises concerns over homeless shelter next",
+      "bullets": [
+        "UPPER WEST SIDE, Manhattan (WABC) -- Hundreds of people on the Upper West Side are now part of a group documenting and sharing what they say are crimes and safety concerns, after a homeless shelter for women opened right next to a playground.",
+        "The shelter opened in May of this year near West 59th and Amsterdam Avenue, as a 200- bed, dorm-style refuge for single women, but neighbors tell Eyewitness News that since it opened, they've seen an influx of issues while taking their kids to play at the Gertrude Ederle Playground."
+      ],
+      "summary": "Upper West Side community raises concerns over homeless shelter next",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Upper West Side community raises concerns over homeless shelter next to playground",
+        "article_url": "https://abc7ny.com/post/upper-west-side-parents-neighbors-raise-concerns-homeless-shelter-gertrude-ederle-playground/19675056/",
+        "published_at": "2026-08-14"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-14T09:56:08.476917+00:00",
+      "verification": {
+        "article_title": "Upper West Side community raises concerns over homeless shelter next to playground",
+        "article_url": "https://abc7ny.com/post/upper-west-side-parents-neighbors-raise-concerns-homeless-shelter-gertrude-ederle-playground/19675056/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-14T09:56:06.019310+00:00"
+      }
+    },
+    {
+      "headline": "Kennedy Center votes to restore Trump's name and close for",
+      "bullets": [
+        "Rep.",
+        "Joyce Beatty, an ex-officio board member, detailed the vote in a statement."
+      ],
+      "summary": "Kennedy Center votes to restore Trump's name and close for",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Kennedy Center votes to restore Trump's name and close for 2 years, challenging a judge's order",
+        "article_url": "https://abc7ny.com/post/kennedy-center-board-votes-close-renovations-add-president-donald-trumps-name-rep-joyce-beatty/19673779/",
+        "published_at": "2026-08-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-14T09:56:08.603661+00:00",
+      "verification": {
+        "article_title": "Kennedy Center votes to restore Trump's name and close for 2 years, challenging a judge's order",
+        "article_url": "https://abc7ny.com/post/kennedy-center-board-votes-close-renovations-add-president-donald-trumps-name-rep-joyce-beatty/19673779/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-14T09:56:06.144299+00:00"
+      }
+    }
+  ]
+}
