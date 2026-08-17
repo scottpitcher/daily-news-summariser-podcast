@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-08-17T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-08-17.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Gay bathhouses could return to NYC. But opening one won\u2019t",
+      "bullets": [
+        "State lawmakers hoping to lift an effective ban on New York City\u2019s gay bathhouses may have a long road of regulatory hurdles ahead \u2014 even if the legislation passes.",
+        "Nevertheless, one cosponsor of the bill said he remains optimistic."
+      ],
+      "summary": "Gay bathhouses could return to NYC. But opening one won\u2019t",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Gay bathhouses could return to NYC. But opening one won\u2019t be easy.",
+        "article_url": "https://gothamist.com/news/gay-bathhouses-could-return-to-nyc-but-opening-one-wont-be-easy",
+        "published_at": "2026-08-16T12:00:45+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-17T09:35:20.601236+00:00",
+      "verification": {
+        "article_title": "Gay bathhouses could return to NYC. But opening one won\u2019t be easy.",
+        "article_url": "https://gothamist.com/news/gay-bathhouses-could-return-to-nyc-but-opening-one-wont-be-easy",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides context and quotes from lawmakers and activists without making specific, verifiable claims.",
+        "verified_at": "2026-08-17T09:35:15.674021+00:00"
+      }
+    },
+    {
+      "headline": "Israel's Ben Gvir advocates killing '30 to 40' people in",
+      "bullets": [
+        "JERUSALEM -- An extremist Israeli lawmaker in Prime Minister Benjamin Netanyahu's coalition publicly advocated for killing \"30 to 40\" people in Gaza each night, comments that surfaced Sunday and were quickly shared by Palestinian media.",
+        "Minister of National Security Itamar Ben-Gvir made the statement while speaking to a former Gaza-held hostage, Rom Braslavski, on Braslavski's podcast."
+      ],
+      "summary": "Israel's Ben Gvir advocates killing '30 to 40' people in",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Israel's Ben Gvir advocates killing '30 to 40' people in Gaza nightly while speaking to ex-hostage",
+        "article_url": "https://abc7ny.com/post/israel-gaza-news-national-security-head-itamar-ben-gvir-advocates-killing-30-40-nightly-speaking-ex-hostage/19688373/",
+        "published_at": "2026-08-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-17T09:35:20.668113+00:00",
+      "verification": {
+        "article_title": "Israel's Ben Gvir advocates killing '30 to 40' people in Gaza nightly while speaking to ex-hostage",
+        "article_url": "https://abc7ny.com/post/israel-gaza-news-national-security-head-itamar-ben-gvir-advocates-killing-30-40-nightly-speaking-ex-hostage/19688373/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The web search confirmed the claim about Itamar Ben-Gvir advocating for killing 30 to 40 people in Gaza nightly.",
+        "verified_at": "2026-08-17T09:35:16.667368+00:00"
+      }
+    },
+    {
+      "headline": "Judge Blocks \u00e2Pied-\u00c3 -Terre\u00e2 Tax but Appeals Court Judge Allows",
+      "bullets": [
+        "Judge Blocks \u00e2Pied-\u00c3 -Terre\u00e2 Tax but Appeals Court Judge Allows Rollout to Continue A Staten Island Supreme Court judge issued a temporary restraining order against the rollout of Mayor Zohran Mamdani\u00e2s \u00e2pied-\u00c3 -terre\u00e2 tax, but an appeals court said the rollout can continue while the legal battle plays out.",
+        "The next hearing is set for August 31."
+      ],
+      "summary": "Judge Blocks \u00e2Pied-\u00c3 -Terre\u00e2 Tax but Appeals Court Judge Allows",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Judge Blocks \u00e2Pied-\u00c3 -Terre\u00e2 Tax but Appeals Court Judge Allows Rollout to Continue",
+        "article_url": "https://www.ourtownny.com/news/judge-blocks-pied-a-terre-tax-but-appeals-court-judge-allows-rollout-to-continue-YC6105067",
+        "published_at": "2026-08-14"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-17T09:35:20.733918+00:00",
+      "verification": {
+        "article_title": "Judge Blocks \u00e2Pied-\u00c3 -Terre\u00e2 Tax but Appeals Court Judge Allows Rollout to Continue",
+        "article_url": "https://www.ourtownny.com/news/judge-blocks-pied-a-terre-tax-but-appeals-court-judge-allows-rollout-to-continue-YC6105067",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides context and details without making specific, verifiable claims that need external confirmation.",
+        "verified_at": "2026-08-17T09:35:17.310871+00:00"
+      }
+    },
+    {
+      "headline": "Attorney Randy Mastro explains why he thinks NYC needs open",
+      "bullets": [
+        "Randy Mastro is a longtime public servant who has become a thorn in the side of New York City Mayor Zohran Mamdani.",
+        "Mastro, a former federal prosecutor who has held high City Hall posts in two administrations, appeared on \"The Point with Marcia Kramer\" on Sunday to discuss several topics, including his lawsuits against the city, one of which raises the issue of open primaries, where all registered voters can participate regardless of party affiliation."
+      ],
+      "summary": "Attorney Randy Mastro explains why he thinks NYC needs open",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Attorney Randy Mastro explains why he thinks NYC needs open primaries | The Point with Marcia Kramer",
+        "article_url": "https://www.cbsnews.com/newyork/news/the-point-with-marcia-kramer-randy-mastro-tony-simone/",
+        "published_at": "2026-08-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-17T09:35:20.838173+00:00",
+      "verification": {
+        "article_title": "Attorney Randy Mastro explains why he thinks NYC needs open primaries | The Point with Marcia Kramer",
+        "article_url": "https://www.cbsnews.com/newyork/news/the-point-with-marcia-kramer-randy-mastro-tony-simone/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is a news interview and does not contain specific, verifiable claims that require external verification.",
+        "verified_at": "2026-08-17T09:35:17.906110+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on Tommy John, an ailing church and",
+      "bullets": [
+        "Tommy John was always a baseball winner Terre Haute, Ind.: The death of Tommy John Saturday at age 83 came right after he missed being at Yankee Stadium for Old-Timers\u2019 Day on Aug.",
+        "8."
+      ],
+      "summary": "Readers sound off on Tommy John, an ailing church and",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on Tommy John, an ailing church and U.S.-Israel defense",
+        "article_url": "https://www.nydailynews.com/2026/08/17/readers-sound-off-on-tommy-john-an-ailing-church-and-u-s-israel-defense/",
+        "published_at": "2026-08-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-17T09:35:20.917505+00:00",
+      "verification": {
+        "article_title": "Readers sound off on Tommy John, an ailing church and U.S.-Israel defense",
+        "article_url": "https://www.nydailynews.com/2026/08/17/readers-sound-off-on-tommy-john-an-ailing-church-and-u-s-israel-defense/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The article is an opinion piece and does not contain specific, verifiable claims that require fact-checking.",
+        "verified_at": "2026-08-17T09:35:18.519096+00:00"
+      }
+    },
+    {
+      "headline": "Long Island's Haitian restaurants feeling a strain from TPS ending",
+      "bullets": [
+        "This story was reported by Melissa Azofeifa, Andi Berlin and Bart Jones.",
+        "It was written by Jones."
+      ],
+      "summary": "Long Island's Haitian restaurants feeling a strain from TPS ending",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Newsday",
+        "source_level": "local",
+        "article_title": "Long Island's Haitian restaurants feeling a strain from TPS ending",
+        "article_url": "https://www.newsday.com/long-island/politics/immigration/tps-long-island-haitians-gemxmvcx",
+        "published_at": "2026-08-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-17T09:35:21.025559+00:00",
+      "verification": {
+        "article_title": "Long Island's Haitian restaurants feeling a strain from TPS ending",
+        "article_url": "https://www.newsday.com/long-island/politics/immigration/tps-long-island-haitians-gemxmvcx",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-17T09:35:19.276005+00:00"
+      }
+    },
+    {
+      "headline": "It's the last season for legal dog meat in South",
+      "bullets": [
+        "South Korea\u2019s dog meat restaurants are in the peak of their final busy season as the country\u2019s ban on the slaughter and sale of dog meat takes effect next year.",
+        "The ban caps a long decline in dog meat consumption amid rising pet ownership, but for many elderly Koreans, it\u2019s a meal they travel long distances for because they believe it restores strength, according to Reuters."
+      ],
+      "summary": "It's the last season for legal dog meat in South",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "It's the last season for legal dog meat in South Korea",
+        "article_url": "https://www.fox5ny.com/news/its-last-season-legal-dog-meat-south-korea",
+        "published_at": "2026-08-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-17T09:35:21.088801+00:00",
+      "verification": {
+        "article_title": "It's the last season for legal dog meat in South Korea",
+        "article_url": "https://www.fox5ny.com/news/its-last-season-legal-dog-meat-south-korea",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-17T09:35:19.351373+00:00"
+      }
+    },
+    {
+      "headline": "Lala is again a tropical storm, raking Hawaii with high",
+      "bullets": [
+        "Hurricane Lala weakened Sunday to a tropical storm after raking Hawaii without making landfall, its heavy rains and winds strong enough to sweep around 100 homes off their foundations on the Big Island, officials said.",
+        "Gov."
+      ],
+      "summary": "Lala is again a tropical storm, raking Hawaii with high",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Lala is again a tropical storm, raking Hawaii with high winds and rain without making landfall",
+        "article_url": "https://abc7ny.com/post/lala-is-tropical-storm-sending-drenching-rain-winds-hawaiian-islands/19688319/",
+        "published_at": "2026-08-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-17T09:35:21.155774+00:00",
+      "verification": {
+        "article_title": "Lala is again a tropical storm, raking Hawaii with high winds and rain without making landfall",
+        "article_url": "https://abc7ny.com/post/lala-is-tropical-storm-sending-drenching-rain-winds-hawaiian-islands/19688319/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-17T09:35:19.457413+00:00"
+      }
+    },
+    {
+      "headline": "Indiana storms, flooding leave at least 7 dead as waters",
+      "bullets": [
+        "INDIANAPOLIS, Ind.",
+        "- Days of storms and flooding in Indiana left at least six people dead as floodwaters peaked along Indianapolis\u2019 White River."
+      ],
+      "summary": "Indiana storms, flooding leave at least 7 dead as waters",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Indiana storms, flooding leave at least 7 dead as waters peak in Indianapolis",
+        "article_url": "https://www.fox5ny.com/weather/indiana-storms-flooding-6-dead",
+        "published_at": "2026-08-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-17T09:35:21.226373+00:00",
+      "verification": {
+        "article_title": "Indiana storms, flooding leave at least 7 dead as waters peak in Indianapolis",
+        "article_url": "https://www.fox5ny.com/weather/indiana-storms-flooding-6-dead",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-17T09:35:19.563820+00:00"
+      }
+    },
+    {
+      "headline": "States grab restitution paid for victims",
+      "bullets": [
+        "A criminal hurts you.",
+        "A judge orders him to pay you restitution."
+      ],
+      "summary": "States grab restitution paid for victims",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "States grab restitution paid for victims",
+        "article_url": "https://www.nydailynews.com/2026/08/17/states-grab-restitution-paid-for-victims/",
+        "published_at": "2026-08-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-17T09:35:21.310109+00:00",
+      "verification": {
+        "article_title": "States grab restitution paid for victims",
+        "article_url": "https://www.nydailynews.com/2026/08/17/states-grab-restitution-paid-for-victims/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-17T09:35:19.629905+00:00"
+      }
+    },
+    {
+      "headline": "Gay bathhouses could return to NYC. But opening one won\u2019t",
+      "bullets": [
+        "State lawmakers hoping to lift an effective ban on New York City\u2019s gay bathhouses may have a long road of regulatory hurdles ahead \u2014 even if the legislation passes.",
+        "Nevertheless, one cosponsor of the bill said he remains optimistic."
+      ],
+      "summary": "Gay bathhouses could return to NYC. But opening one won\u2019t",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Gay bathhouses could return to NYC. But opening one won\u2019t be easy.",
+        "article_url": "https://gothamist.com/news/gay-bathhouses-could-return-to-nyc-but-opening-one-wont-be-easy",
+        "published_at": "2026-08-16T12:00:45+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-17T09:35:21.374207+00:00",
+      "verification": {
+        "article_title": "Gay bathhouses could return to NYC. But opening one won\u2019t be easy.",
+        "article_url": "https://gothamist.com/news/gay-bathhouses-could-return-to-nyc-but-opening-one-wont-be-easy",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-17T09:35:19.760831+00:00"
+      }
+    },
+    {
+      "headline": "Police say they fatally shot man who charged them while",
+      "bullets": [
+        "An investigation is underway following a deadly police shooting in Lower Manhattan on Sunday afternoon.",
+        "The NYPD said officers were responding to multiple 911 calls about a slashing when the shooting happened just after 4 p.m."
+      ],
+      "summary": "Police say they fatally shot man who charged them while",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Police say they fatally shot man who charged them while wielding a butcher's knife in Lower Manhattan",
+        "article_url": "https://www.cbsnews.com/newyork/news/lower-east-side-manhattan-nypd-police-shooting/",
+        "published_at": "2026-08-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-17T09:35:21.437854+00:00",
+      "verification": {
+        "article_title": "Police say they fatally shot man who charged them while wielding a butcher's knife in Lower Manhattan",
+        "article_url": "https://www.cbsnews.com/newyork/news/lower-east-side-manhattan-nypd-police-shooting/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-17T09:35:19.843650+00:00"
+      }
+    },
+    {
+      "headline": "CBS News poll on whether Democrats split over socialism, and",
+      "bullets": [
+        "Most Americans believe a free market system is a good thing.",
+        "Americans are net-negative on ."
+      ],
+      "summary": "CBS News poll on whether Democrats split over socialism, and",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "CBS News poll on whether Democrats split over socialism, and how Americans see parties in today's economy",
+        "article_url": "https://www.cbsnews.com/newyork/news/democrats-socialism-economy-political-parties-opinion-poll/",
+        "published_at": "2026-08-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-17T09:35:21.581254+00:00",
+      "verification": {
+        "article_title": "CBS News poll on whether Democrats split over socialism, and how Americans see parties in today's economy",
+        "article_url": "https://www.cbsnews.com/newyork/news/democrats-socialism-economy-political-parties-opinion-poll/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-17T09:35:19.949356+00:00"
+      }
+    },
+    {
+      "headline": "D23 recap: From movies to theme park rides, here's everything",
+      "bullets": [
+        "These 11 people are now Disney Legends A diverse group of creatives has been inducted into the 2026 class of Disney Legends.",
+        "Click on the links below for a look at how the 11 were honored on Sunday night: ANAHEIM, Calif."
+      ],
+      "summary": "D23 recap: From movies to theme park rides, here's everything",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "D23 recap: From movies to theme park rides, here's everything announced at Disney fan event",
+        "article_url": "https://abc7ny.com/live-updates/d23-live-updates-disney-ultimate-fan-event-feature-movie-theme-park-announcements/19591658/",
+        "published_at": "2026-08-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-17T09:35:21.649087+00:00",
+      "verification": {
+        "article_title": "D23 recap: From movies to theme park rides, here's everything announced at Disney fan event",
+        "article_url": "https://abc7ny.com/live-updates/d23-live-updates-disney-ultimate-fan-event-feature-movie-theme-park-announcements/19591658/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-17T09:35:20.011230+00:00"
+      }
+    },
+    {
+      "headline": "A historic shortage is squeezing an American dinner staple and",
+      "bullets": [
+        "Relief from high beef prices may depend on something that can\u2019t be fixed overnight: rebuilding America\u2019s shrinking cattle herd.",
+        "America\u2019s ranchers are facing their smallest cattle herd in 75 years, a shortage now rippling from pastures to some of the nation\u2019s largest meatpackers."
+      ],
+      "summary": "A historic shortage is squeezing an American dinner staple and",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "A historic shortage is squeezing an American dinner staple and relief could be years away",
+        "article_url": "https://www.fox5ny.com/news/historic-shortage-is-squeezing-american-dinner-staple-relief-could-be-years-away",
+        "published_at": "2026-08-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-17T09:35:21.713577+00:00",
+      "verification": {
+        "article_title": "A historic shortage is squeezing an American dinner staple and relief could be years away",
+        "article_url": "https://www.fox5ny.com/news/historic-shortage-is-squeezing-american-dinner-staple-relief-could-be-years-away",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-17T09:35:20.120225+00:00"
+      }
+    },
+    {
+      "headline": "Congestion pricing hasn\u2019t changed much about NYC\u2019s air quality, city",
+      "bullets": [
+        "Congestion pricing has had only minor effects on air quality, with pollution levels either remaining stable or improving slightly around the city, according to a new report by the New York City Health Department.",
+        "\u201cNew Yorkers deserve to know how major policies affect the air they breathe,\u201d NYC Health Commissioner Dr."
+      ],
+      "summary": "Congestion pricing hasn\u2019t changed much about NYC\u2019s air quality, city",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Congestion pricing hasn\u2019t changed much about NYC\u2019s air quality, city report finds",
+        "article_url": "https://gothamist.com/news/congestion-pricing-hasnt-changed-much-about-nycs-air-quality-city-report-finds",
+        "published_at": "2026-08-16T18:20:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-17T09:35:21.799809+00:00",
+      "verification": {
+        "article_title": "Congestion pricing hasn\u2019t changed much about NYC\u2019s air quality, city report finds",
+        "article_url": "https://gothamist.com/news/congestion-pricing-hasnt-changed-much-about-nycs-air-quality-city-report-finds",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-17T09:35:20.204277+00:00"
+      }
+    },
+    {
+      "headline": "D23 recap: From movies to theme park rides, here's everything",
+      "bullets": [
+        "These 11 people are now Disney Legends A diverse group of creatives has been inducted into the 2026 class of Disney Legends.",
+        "Click on the links below for a look at how the 11 were honored on Sunday night: ANAHEIM, Calif."
+      ],
+      "summary": "D23 recap: From movies to theme park rides, here's everything",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "D23 recap: From movies to theme park rides, here's everything announced at Disney fan event",
+        "article_url": "https://abc7ny.com/live-updates/d23-live-updates-disney-ultimate-fan-event-feature-movie-theme-park-announcements/19591658/",
+        "published_at": "2026-08-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-17T09:35:21.905296+00:00",
+      "verification": {
+        "article_title": "D23 recap: From movies to theme park rides, here's everything announced at Disney fan event",
+        "article_url": "https://abc7ny.com/live-updates/d23-live-updates-disney-ultimate-fan-event-feature-movie-theme-park-announcements/19591658/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-17T09:35:20.282326+00:00"
+      }
+    },
+    {
+      "headline": "Elizabeth Street Garden \u2018win\u2019 is a loss for housing",
+      "bullets": [
+        "There was a celebration Saturday at a vacant lot Downtown that long ago should have been used for desperately needed housing.",
+        "But rather than toasting the continuation of the Elizabeth Street Garden, the revelers were actually cheering the triumph of local parochial politics over the greater public good."
+      ],
+      "summary": "Elizabeth Street Garden \u2018win\u2019 is a loss for housing",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Elizabeth Street Garden \u2018win\u2019 is a loss for housing",
+        "article_url": "https://www.nydailynews.com/2026/08/17/elizabeth-street-garden-win-is-a-loss-for-housing/",
+        "published_at": "2026-08-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-17T09:35:21.966837+00:00",
+      "verification": {
+        "article_title": "Elizabeth Street Garden \u2018win\u2019 is a loss for housing",
+        "article_url": "https://www.nydailynews.com/2026/08/17/elizabeth-street-garden-win-is-a-loss-for-housing/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-17T09:35:20.443128+00:00"
+      }
+    }
+  ]
+}

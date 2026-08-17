@@ -1,0 +1,177 @@
+{
+  "pipeline_status": "completed",
+  "started_at": "2026-08-17T09:32:57.211438+00:00",
+  "ended_at": "2026-08-17T09:36:49.546753+00:00",
+  "stages": [
+    {
+      "stage": "fetch_sources",
+      "status": "completed",
+      "started_at": "2026-08-17T09:32:57.212516+00:00",
+      "ended_at": "2026-08-17T09:32:58.876045+00:00",
+      "artifacts": {
+        "article_count": 240,
+        "output_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/raw/candidates/article_candidates_2026-08-17.json",
+        "run_date": "2026-08-17"
+      }
+    },
+    {
+      "stage": "extract_articles",
+      "status": "completed",
+      "started_at": "2026-08-17T09:32:58.876151+00:00",
+      "ended_at": "2026-08-17T09:33:37.470544+00:00",
+      "artifacts": {
+        "input_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/raw/candidates/article_candidates_2026-08-17.json",
+        "candidate_count": 240,
+        "article_count": 154,
+        "output_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/raw/articles/articles_2026-08-17.json"
+      }
+    },
+    {
+      "stage": "clean_and_dedupe",
+      "status": "completed",
+      "started_at": "2026-08-17T09:33:37.470656+00:00",
+      "ended_at": "2026-08-17T09:35:12.390210+00:00",
+      "artifacts": {
+        "input_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/raw/articles/articles_2026-08-17.json",
+        "output_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/deduped/deduped_articles_2026-08-17.json",
+        "dedupe_stats": {
+          "input_articles": 154,
+          "removed_exact_url_duplicates": 0,
+          "removed_title_near_duplicates": 2,
+          "removed_text_near_duplicates": 0,
+          "output_articles": 152
+        }
+      }
+    },
+    {
+      "stage": "tag_articles",
+      "status": "completed",
+      "started_at": "2026-08-17T09:35:12.390313+00:00",
+      "ended_at": "2026-08-17T09:35:12.490716+00:00",
+      "artifacts": {
+        "input_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/deduped/deduped_articles_2026-08-17.json",
+        "output_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/tagged/tagged_articles_2026-08-17.json",
+        "tagging_stats": {
+          "input_articles": 152,
+          "relevant_articles": 120,
+          "excluded_articles": 32,
+          "invalid_articles": 0
+        }
+      }
+    },
+    {
+      "stage": "rank_articles",
+      "status": "completed",
+      "started_at": "2026-08-17T09:35:12.490838+00:00",
+      "ended_at": "2026-08-17T09:35:15.669261+00:00",
+      "artifacts": {
+        "input_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/tagged/tagged_articles_2026-08-17.json",
+        "output_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/ranked/ranked_articles_2026-08-17.json",
+        "ranking_stats": {
+          "input_articles": 152,
+          "relevant_articles": 120,
+          "ranked_articles": 205,
+          "selected_articles": 18
+        }
+      }
+    },
+    {
+      "stage": "verify_articles",
+      "status": "completed",
+      "started_at": "2026-08-17T09:35:15.669396+00:00",
+      "ended_at": "2026-08-17T09:35:20.512257+00:00",
+      "artifacts": {
+        "input_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/ranked/ranked_articles_2026-08-17.json",
+        "output_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-08-17.json",
+        "verification_stats": {
+          "input_articles": 18,
+          "verification_triggered": 0,
+          "no_verification_needed": 18,
+          "verified": 0,
+          "caveat_added": 0,
+          "dropped": 0
+        }
+      }
+    },
+    {
+      "stage": "summarize_articles",
+      "status": "completed",
+      "started_at": "2026-08-17T09:35:20.512348+00:00",
+      "ended_at": "2026-08-17T09:35:21.967765+00:00",
+      "artifacts": {
+        "input_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-08-17.json",
+        "output_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/article_summaries/article_summaries_2026-08-17.json",
+        "summary_stats": {
+          "input_articles": 18,
+          "generated_summaries": 0,
+          "fallback_summaries": 18
+        }
+      }
+    },
+    {
+      "stage": "build_briefing",
+      "status": "completed",
+      "started_at": "2026-08-17T09:35:21.967849+00:00",
+      "ended_at": "2026-08-17T09:35:21.970336+00:00",
+      "artifacts": {
+        "input_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/article_summaries/article_summaries_2026-08-17.json",
+        "txt_report": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/outputs/reports/daily_briefing_2026-08-17.txt",
+        "markdown_report": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/outputs/reports/daily_briefing_2026-08-17.md",
+        "briefing_stats": {
+          "input_summaries": 18,
+          "included_summaries": 17,
+          "issue_areas_included": 7,
+          "transcript_word_count": 1409,
+          "transcript_word_budget": 1400,
+          "target_audio_duration_minutes": 25.0
+        }
+      }
+    },
+    {
+      "stage": "generate_tts",
+      "status": "completed",
+      "started_at": "2026-08-17T09:35:21.970408+00:00",
+      "ended_at": "2026-08-17T09:36:42.447271+00:00",
+      "artifacts": {
+        "status": "completed",
+        "result": {
+          "briefing_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/outputs/reports/daily_briefing_2026-08-17.txt",
+          "audio_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/outputs/audio/daily_briefing_2026-08-17.mp3",
+          "audio_format": "mp3",
+          "audio_size_bytes": 8364288,
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy"
+        },
+        "run_date": "2026-08-17"
+      }
+    },
+    {
+      "stage": "deliver_report",
+      "status": "completed",
+      "started_at": "2026-08-17T09:36:42.447357+00:00",
+      "ended_at": "2026-08-17T09:36:49.546689+00:00",
+      "artifacts": {
+        "status": "completed",
+        "result": {
+          "status": "completed",
+          "briefing_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/outputs/reports/daily_briefing_2026-08-17.md",
+          "audio_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/outputs/audio/daily_briefing_2026-08-17.mp3",
+          "recipients": [
+            "sp2668@cornell.edu",
+            "aap253@cornell.edu",
+            "sgarner@council.nyc.gov",
+            "abarot@council.nyc.gov",
+            "ssecor@council.nyc.gov",
+            "isoldano@council.nyc.gov",
+            "anortiz@council.nyc.gov",
+            "bpeyre@council.nyc.gov",
+            "mzack@council.nyc.gov",
+            "vmaloney@council.nyc.gov"
+          ],
+          "subject": "NYC Daily Brief -- 2026-08-17"
+        },
+        "run_date": "2026-08-17"
+      }
+    }
+  ]
+}
