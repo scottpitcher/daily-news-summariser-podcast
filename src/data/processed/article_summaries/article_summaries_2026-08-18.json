@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-08-18T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-08-18.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Appeals Judge Allows \u00e2Pied-\u00c3 -Terre\u00e2 Tax Rollout While Legal Battle",
+      "bullets": [
+        "Appeals Judge Allows \u00e2Pied-\u00c3 -Terre\u00e2 Tax Rollout While Legal Battle Continues A Staten Island Supreme Court judge issued a temporary restraining order against the rollout of Mayor Zohran Mamdani\u00e2s \u00e2pied-\u00c3 -terre\u00e2 tax, but an appeals court said the rollout can continue while the legal battle plays out.",
+        "The next hearing is set for August 31."
+      ],
+      "summary": "Appeals Judge Allows \u00e2Pied-\u00c3 -Terre\u00e2 Tax Rollout While Legal Battle",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Appeals Judge Allows \u00e2Pied-\u00c3 -Terre\u00e2 Tax Rollout While Legal Battle Continues",
+        "article_url": "https://www.ourtownny.com/news/appeals-judge-allows-pied-a-terre-tax-rollout-while-legal-battle-continues-YC6105067",
+        "published_at": "2026-08-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-18T09:26:48.541373+00:00",
+      "verification": {
+        "article_title": "Appeals Judge Allows \u00e2Pied-\u00c3 -Terre\u00e2 Tax Rollout While Legal Battle Continues",
+        "article_url": "https://www.ourtownny.com/news/appeals-judge-allows-pied-a-terre-tax-rollout-while-legal-battle-continues-YC6105067",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides context from multiple parties, including the mayor and legal representatives.",
+        "verified_at": "2026-08-18T09:26:43.188109+00:00"
+      }
+    },
+    {
+      "headline": "NYC Council To Hear From Pied-\u00e0-Terre Owners After Tax Rollout",
+      "bullets": [
+        "NYC Council To Hear From Pied-\u00e0-Terre Owners After Tax Rollout Backlash The hearing comes after thousands of property owners received notices about the new surcharge, prompting criticism and a legal challenge.",
+        "UPPER EAST SIDE, NY \u2014 New York City Council members will hear from pied-\u00e0-terre owners Tuesday as they scrutinize the embattled rollout of a new annual surcharge on second homes."
+      ],
+      "summary": "NYC Council To Hear From Pied-\u00e0-Terre Owners After Tax Rollout",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "NYC Council To Hear From Pied-\u00e0-Terre Owners After Tax Rollout Backlash",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/nyc-council-hear-pied-terre-owners-after-tax-rollout-backlash",
+        "published_at": "2026-08-17T20:55:06+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-18T09:26:48.715066+00:00",
+      "verification": {
+        "article_title": "NYC Council To Hear From Pied-\u00e0-Terre Owners After Tax Rollout Backlash",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/nyc-council-hear-pied-terre-owners-after-tax-rollout-backlash",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides context without specific unverifiable claims.",
+        "verified_at": "2026-08-18T09:26:43.959574+00:00"
+      }
+    },
+    {
+      "headline": "City Council hearing focuses on controversy surrounding NYC's new pied-\u00e0-terre",
+      "bullets": [
+        "MANHATTAN (WABC) -- A New York City Council oversight hearing is set for Tuesday as lawmakers examine the rollout of the city's controversial pied-\u00e0-terre tax, which has sparked confusion, homeowner backlash and an ongoing legal challenge.",
+        "The hearing comes as critics question how the tax is being implemented and why some homeowners were mistakenly identified as subject to the levy."
+      ],
+      "summary": "City Council hearing focuses on controversy surrounding NYC's new pied-\u00e0-terre",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "City Council hearing focuses on controversy surrounding NYC's new pied-\u00e0-terre tax",
+        "article_url": "https://abc7ny.com/post/nyc-council-holds-hearing-controversial-pied-terre-tax-rollout-amid-homeowner-lawsuit/19696389/",
+        "published_at": "2026-08-18"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-18T09:26:48.843502+00:00",
+      "verification": {
+        "article_title": "City Council hearing focuses on controversy surrounding NYC's new pied-\u00e0-terre tax",
+        "article_url": "https://abc7ny.com/post/nyc-council-holds-hearing-controversial-pied-terre-tax-rollout-amid-homeowner-lawsuit/19696389/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is from a local source and provides context about a council hearing, which is likely to be accurate.",
+        "verified_at": "2026-08-18T09:26:44.538228+00:00"
+      }
+    },
+    {
+      "headline": "Trump dwarfs his predecessors in the number of ultra-rich in",
+      "bullets": [
+        "By THOMAS BEAUMONT Wealth, perhaps second only to loyalty, has been a prized attribute for Donald Trump during his second presidency.",
+        "The number of people worth at least $100 million whom the Republican president has appointed to his administration is more than four times the combined total under the three previous presidents, according to a report from the consumer advocacy group Public Citizen."
+      ],
+      "summary": "Trump dwarfs his predecessors in the number of ultra-rich in",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Trump dwarfs his predecessors in the number of ultra-rich in his second White House, report shows",
+        "article_url": "https://www.nydailynews.com/2026/08/17/trump-administration-ultra-rich/",
+        "published_at": "2026-08-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-18T09:26:48.974032+00:00",
+      "verification": {
+        "article_title": "Trump dwarfs his predecessors in the number of ultra-rich in his second White House, report shows",
+        "article_url": "https://www.nydailynews.com/2026/08/17/trump-administration-ultra-rich/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "no_tool_call_returned",
+        "verified_at": "2026-08-18T09:26:45.224193+00:00"
+      }
+    },
+    {
+      "headline": "Goodbye, food pantry line: Newark's fight against hunger looks more",
+      "bullets": [
+        "The vibes have changed at a long-standing food pantry in Newark's West Ward.",
+        "Gone are the long lines that stretched down the block from a small single-story building on South 18th Street on the third Wednesday of each month, when hundreds of residents would wait patiently in all kinds of weather for prepacked bags of groceries."
+      ],
+      "summary": "Goodbye, food pantry line: Newark's fight against hunger looks more",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Goodbye, food pantry line: Newark's fight against hunger looks more like a grocery store",
+        "article_url": "https://gothamist.com/news/goodbye-food-pantry-line-newarks-fight-against-hunger-looks-more-like-a-grocery-store",
+        "published_at": "2026-08-17T10:30:49+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-18T09:26:49.103170+00:00",
+      "verification": {
+        "article_title": "Goodbye, food pantry line: Newark's fight against hunger looks more like a grocery store",
+        "article_url": "https://gothamist.com/news/goodbye-food-pantry-line-newarks-fight-against-hunger-looks-more-like-a-grocery-store",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and describes a transformation of a food pantry into a grocery store, which is a straightforward change without specific, load-bearing factual claims that need verification.",
+        "verified_at": "2026-08-18T09:26:45.847094+00:00"
+      }
+    },
+    {
+      "headline": "Retiree dies in Bronx home 3 days after being struck",
+      "bullets": [
+        "A beloved Bronx retired construction union official died the day he returned home from the hospital \u2014 after being struck by a hit-and-run pickup truck driver three days earlier, cops and his longtime girlfriend said Monday.",
+        "Kitt \u201cAbdul\u201d Hamilton was struck during his morning walk on May 31, police said."
+      ],
+      "summary": "Retiree dies in Bronx home 3 days after being struck",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Retiree dies in Bronx home 3 days after being struck on morning walk by hit-run pickup truck driver",
+        "article_url": "https://www.nydailynews.com/2026/08/17/man-dies-in-bronx-home-3-days-after-being-struck-by-hit-run-pickup-truck-driver/",
+        "published_at": "2026-08-17T17:51:02+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-18T09:26:49.229397+00:00",
+      "verification": {
+        "article_title": "Retiree dies in Bronx home 3 days after being struck on morning walk by hit-run pickup truck driver",
+        "article_url": "https://www.nydailynews.com/2026/08/17/man-dies-in-bronx-home-3-days-after-being-struck-by-hit-run-pickup-truck-driver/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-18T09:26:46.609616+00:00"
+      }
+    },
+    {
+      "headline": "Americans face an invisible \u2018software tax\u2019",
+      "bullets": [
+        "As the midterm elections approach, the top issue for voters is affordability and cost of living.",
+        "Voters want candidates to talk about how they will address costs, and Democrats and Republicans are focusing their messaging on kitchen table issues, from energy prices and healthcare bills to grocery expenses and housing costs."
+      ],
+      "summary": "Americans face an invisible \u2018software tax\u2019",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Americans face an invisible \u2018software tax\u2019",
+        "article_url": "https://www.nydailynews.com/2026/08/18/americans-face-an-invisible-software-tax/",
+        "published_at": "2026-08-18"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-18T09:26:49.359733+00:00",
+      "verification": {
+        "article_title": "Americans face an invisible \u2018software tax\u2019",
+        "article_url": "https://www.nydailynews.com/2026/08/18/americans-face-an-invisible-software-tax/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-18T09:26:46.732589+00:00"
+      }
+    },
+    {
+      "headline": "Family mourns NYC man stabbed dead by friend\u2019s jealous ex",
+      "bullets": [
+        "A Staten Island woman\u2019s toxic ex-boyfriend stabbed her friend to death during a sleepover at her home after a night of drinking \u2014 leaving the slain man\u2019s son fatherless.",
+        "Jonathan Griffin murdered 25-year-old Kycell Terry during the early hours of July 2, even though Terry was no more than platonic friends with Griffin\u2019s ex, according to prosecutors and the dead man\u2019s relatives."
+      ],
+      "summary": "Family mourns NYC man stabbed dead by friend\u2019s jealous ex",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Family mourns NYC man stabbed dead by friend\u2019s jealous ex after night of drinking together",
+        "article_url": "https://www.nydailynews.com/2026/08/17/family-mourns-nyc-man-stabbed-dead-by-friends-jealous-ex-after-night-of-drinking-together/",
+        "published_at": "2026-08-17T14:02:25+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-18T09:26:49.491804+00:00",
+      "verification": {
+        "article_title": "Family mourns NYC man stabbed dead by friend\u2019s jealous ex after night of drinking together",
+        "article_url": "https://www.nydailynews.com/2026/08/17/family-mourns-nyc-man-stabbed-dead-by-friends-jealous-ex-after-night-of-drinking-together/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-18T09:26:46.857800+00:00"
+      }
+    },
+    {
+      "headline": "A judge said Queens prosecutors hid evidence. A secret committee",
+      "bullets": [
+        "Five years ago, one of the state\u2019s top judges found Queens prosecutors had deliberately hidden evidence that could have spared three men decades in prison.",
+        "Not long afterward, an attorney asked a disciplinary committee to investigate the incident."
+      ],
+      "summary": "A judge said Queens prosecutors hid evidence. A secret committee",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "A judge said Queens prosecutors hid evidence. A secret committee cleared them anyway.",
+        "article_url": "https://gothamist.com/news/a-judge-said-queens-prosecutors-hid-evidence-a-secret-committee-cleared-them-anyway",
+        "published_at": "2026-08-17T10:00:57+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-18T09:26:49.640631+00:00",
+      "verification": {
+        "article_title": "A judge said Queens prosecutors hid evidence. A secret committee cleared them anyway.",
+        "article_url": "https://gothamist.com/news/a-judge-said-queens-prosecutors-hid-evidence-a-secret-committee-cleared-them-anyway",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-18T09:26:47.033393+00:00"
+      }
+    },
+    {
+      "headline": "Luigi Mangione's New York trial delayed while prosecutors, defense debate",
+      "bullets": [
+        "Luigi Mangione's New York state trial is being delayed.",
+        "The move comes after in the 2024 killing of ."
+      ],
+      "summary": "Luigi Mangione's New York trial delayed while prosecutors, defense debate",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Luigi Mangione's New York trial delayed while prosecutors, defense debate double jeopardy",
+        "article_url": "https://www.cbsnews.com/newyork/news/luigi-mangiones-new-york-trial-postponed/",
+        "published_at": "2026-08-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-18T09:26:49.766324+00:00",
+      "verification": {
+        "article_title": "Luigi Mangione's New York trial delayed while prosecutors, defense debate double jeopardy",
+        "article_url": "https://www.cbsnews.com/newyork/news/luigi-mangiones-new-york-trial-postponed/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-18T09:26:47.163216+00:00"
+      }
+    },
+    {
+      "headline": "Making healthcare efficient in N.Y.",
+      "bullets": [
+        "It\u2019s rare to find a state-federal partnership that actually works.",
+        "But New York has one, and it\u2019s quietly becoming the most important health care innovation in America: the Social Care Networks."
+      ],
+      "summary": "Making healthcare efficient in N.Y.",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Making healthcare efficient in N.Y.",
+        "article_url": "https://www.nydailynews.com/2026/08/18/making-healthcare-efficient-in-n-y/",
+        "published_at": "2026-08-18"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-18T09:26:49.893425+00:00",
+      "verification": {
+        "article_title": "Making healthcare efficient in N.Y.",
+        "article_url": "https://www.nydailynews.com/2026/08/18/making-healthcare-efficient-in-n-y/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-18T09:26:47.309268+00:00"
+      }
+    },
+    {
+      "headline": "Mom and sister testify about Lindsay Clancy's declining mental state",
+      "bullets": [
+        "PLYMOUTH, Mass.",
+        "-- Lindsay Clancy's mother and sister took the stand Monday to recount how they saw her become increasingly anxious, paranoid and suicidal in the months before she killed her three children."
+      ],
+      "summary": "Mom and sister testify about Lindsay Clancy's declining mental state",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Mom and sister testify about Lindsay Clancy's declining mental state before she killed her children",
+        "article_url": "https://abc7ny.com/post/lindsay-clancy-trial-day-14-before-killing-kids-mother-searched-hallucinations-psychosis-ways-die/19691680/",
+        "published_at": "2026-08-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-18T09:26:50.023644+00:00",
+      "verification": {
+        "article_title": "Mom and sister testify about Lindsay Clancy's declining mental state before she killed her children",
+        "article_url": "https://abc7ny.com/post/lindsay-clancy-trial-day-14-before-killing-kids-mother-searched-hallucinations-psychosis-ways-die/19691680/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-18T09:26:47.483166+00:00"
+      }
+    },
+    {
+      "headline": "Long-awaited trial begins in rapper Tupac Shakur's 1996 killing in",
+      "bullets": [
+        "Who killed Tupac Shakur?",
+        "The long-awaited trial of the man accused of orchestrating the 1996 killing of the rapper officially began Monday in a Las Vegas courtroom."
+      ],
+      "summary": "Long-awaited trial begins in rapper Tupac Shakur's 1996 killing in",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Long-awaited trial begins in rapper Tupac Shakur's 1996 killing in Las Vegas",
+        "article_url": "https://abc7ny.com/story/tupac-shakur-murder-trial-opening-statements-begin-las-vegas-rappers-1996-killing/19675200/",
+        "published_at": "2026-08-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-18T09:26:50.156888+00:00",
+      "verification": {
+        "article_title": "Long-awaited trial begins in rapper Tupac Shakur's 1996 killing in Las Vegas",
+        "article_url": "https://abc7ny.com/story/tupac-shakur-murder-trial-opening-statements-begin-las-vegas-rappers-1996-killing/19675200/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-18T09:26:47.629903+00:00"
+      }
+    },
+    {
+      "headline": "Tupac Shakur's 1996 murder was an \"act of revenge,\" prosecutor",
+      "bullets": [
+        "Opening statements began Monday in the trial of a , the start of weeks of testimony revisiting what happened on a Las Vegas night nearly 30 years ago.",
+        "Duane \"Keffe D\" Davis, 63, is charged with murder with a deadly weapon with the intent to promote, further or assist a criminal gang in Shakur's death."
+      ],
+      "summary": "Tupac Shakur's 1996 murder was an \"act of revenge,\" prosecutor",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Tupac Shakur's 1996 murder was an \"act of revenge,\" prosecutor tells jury in trial of accused mastermind",
+        "article_url": "https://www.cbsnews.com/newyork/news/tupac-shakur-murder-trial-opening-statements-keffe-d-davis/",
+        "published_at": "2026-08-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-18T09:26:50.307116+00:00",
+      "verification": {
+        "article_title": "Tupac Shakur's 1996 murder was an \"act of revenge,\" prosecutor tells jury in trial of accused mastermind",
+        "article_url": "https://www.cbsnews.com/newyork/news/tupac-shakur-murder-trial-opening-statements-keffe-d-davis/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-18T09:26:47.758904+00:00"
+      }
+    },
+    {
+      "headline": "A historic shortage is squeezing an American dinner staple and",
+      "bullets": [
+        "Relief from high beef prices may depend on something that can\u2019t be fixed overnight: rebuilding America\u2019s shrinking cattle herd.",
+        "America\u2019s ranchers are facing their smallest cattle herd in 75 years, a shortage now rippling from pastures to some of the nation\u2019s largest meatpackers."
+      ],
+      "summary": "A historic shortage is squeezing an American dinner staple and",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "A historic shortage is squeezing an American dinner staple and relief could be years away",
+        "article_url": "https://www.fox5ny.com/news/historic-shortage-is-squeezing-american-dinner-staple-relief-could-be-years-away",
+        "published_at": "2026-08-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-18T09:26:50.441928+00:00",
+      "verification": {
+        "article_title": "A historic shortage is squeezing an American dinner staple and relief could be years away",
+        "article_url": "https://www.fox5ny.com/news/historic-shortage-is-squeezing-american-dinner-staple-relief-could-be-years-away",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-18T09:26:47.885677+00:00"
+      }
+    },
+    {
+      "headline": "Landlords can buy their way out of NYC's climate law",
+      "bullets": [
+        "As a candidate, Mayor Zohran Mamdani pledged to close loopholes that allowed landlords to limit compliance with the city\u2019s landmark law capping building emissions.",
+        "But later this week, landlords will have the opportunity to buy their way out of the climate law through an energy credits program initiated by his predecessor, Mayor Eric Adams."
+      ],
+      "summary": "Landlords can buy their way out of NYC's climate law",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Landlords can buy their way out of NYC's climate law starting this week",
+        "article_url": "https://gothamist.com/news/landlords-can-buy-their-way-out-of-nycs-climate-law-starting-this-week",
+        "published_at": "2026-08-17T15:00:55+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-18T09:26:50.570347+00:00",
+      "verification": {
+        "article_title": "Landlords can buy their way out of NYC's climate law starting this week",
+        "article_url": "https://gothamist.com/news/landlords-can-buy-their-way-out-of-nycs-climate-law-starting-this-week",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-18T09:26:48.010664+00:00"
+      }
+    },
+    {
+      "headline": "East Harlem Giglio Feast Thrills 1000s as Italians Hoist Giant",
+      "bullets": [
+        "East Harlem Giglio Feast Thrills 1000s as Italians Hoist Giant Tower Literally carrying tradition on their shoulders, the Italian-American diaspora returned to Pleasant Avenue to celebrate their heritage, honor their patron saint, Saint Anthony of Padua, and watch the Giglio Boys\u00e2 and some Giglio Girls too\u00e2lift!",
+        "Thousands of Italian-Americans and curiosity seekers of many ethnicities from near and far converged on a couple blocks of Pleasant Avenue from Thursday Aug."
+      ],
+      "summary": "East Harlem Giglio Feast Thrills 1000s as Italians Hoist Giant",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "East Harlem Giglio Feast Thrills 1000s as Italians Hoist Giant Tower",
+        "article_url": "https://www.ourtownny.com/news/east-harlem-giglio-feast-thrills-1000s-as-italians-hoist-giant-tower-EE6116006",
+        "published_at": "2026-08-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-18T09:26:50.701672+00:00",
+      "verification": {
+        "article_title": "East Harlem Giglio Feast Thrills 1000s as Italians Hoist Giant Tower",
+        "article_url": "https://www.ourtownny.com/news/east-harlem-giglio-feast-thrills-1000s-as-italians-hoist-giant-tower-EE6116006",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-18T09:26:48.138060+00:00"
+      }
+    },
+    {
+      "headline": "NYC homeless shelters are falling apart. Providers say the city\u2019s",
+      "bullets": [
+        "A leak that drips on a mattress when it rains.",
+        "A sewage smell in the front desk lobby."
+      ],
+      "summary": "NYC homeless shelters are falling apart. Providers say the city\u2019s",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC homeless shelters are falling apart. Providers say the city\u2019s fix-it process is broken.",
+        "article_url": "https://gothamist.com/news/nyc-homeless-shelters-are-falling-apart-providers-say-the-citys-fix-it-process-is-broken",
+        "published_at": "2026-08-17T16:00:48+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-18T09:26:50.827464+00:00",
+      "verification": {
+        "article_title": "NYC homeless shelters are falling apart. Providers say the city\u2019s fix-it process is broken.",
+        "article_url": "https://gothamist.com/news/nyc-homeless-shelters-are-falling-apart-providers-say-the-citys-fix-it-process-is-broken",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-18T09:26:48.265134+00:00"
+      }
+    }
+  ]
+}
