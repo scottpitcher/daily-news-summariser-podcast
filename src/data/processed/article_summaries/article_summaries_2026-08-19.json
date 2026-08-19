@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-08-19T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-08-19.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "US and Canada hold last-minute talks to stop Trump\u2019s 50%",
+      "bullets": [
+        "By PAUL WISEMAN and ROB GILLIES WASHINGTON (AP) \u2014 The U.S.",
+        "and Canada are negotiating in an effort to reach a truce on tariffs before a 12:01 a.m."
+      ],
+      "summary": "US and Canada hold last-minute talks to stop Trump\u2019s 50%",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "US and Canada hold last-minute talks to stop Trump\u2019s 50% tariffs",
+        "article_url": "https://www.nydailynews.com/2026/08/18/us-canada-last-minute-talks-trump-tariffs/",
+        "published_at": "2026-08-18"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-19T09:28:24.393550+00:00",
+      "verification": {
+        "article_title": "US and Canada hold last-minute talks to stop Trump\u2019s 50% tariffs",
+        "article_url": "https://www.nydailynews.com/2026/08/18/us-canada-last-minute-talks-trump-tariffs/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides context without specific unverifiable claims.",
+        "verified_at": "2026-08-19T09:28:19.920259+00:00"
+      }
+    },
+    {
+      "headline": "Plan to add marina in Greenpoint flames tensions in rapidly",
+      "bullets": [
+        "A plan to build a marina and cafe in a waterfront park in Greenpoint is at the center of the latest clash over the neighborhood's future.",
+        "The proposal from two local business owners, first reported by Greenpointers, would transform the six-acre WNYC Transmitter Park, which features a sweeping view of the Manhattan skyline and a defunct radio facility."
+      ],
+      "summary": "Plan to add marina in Greenpoint flames tensions in rapidly",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Plan to add marina in Greenpoint flames tensions in rapidly changing neighborhood",
+        "article_url": "https://gothamist.com/news/plan-to-add-marina-in-greenpoint-flames-tensions-in-rapidly-changing-neighborhood",
+        "published_at": "2026-08-18T10:30:49+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-19T09:28:24.553759+00:00",
+      "verification": {
+        "article_title": "Plan to add marina in Greenpoint flames tensions in rapidly changing neighborhood",
+        "article_url": "https://gothamist.com/news/plan-to-add-marina-in-greenpoint-flames-tensions-in-rapidly-changing-neighborhood",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and recent, and does not contain specific, load-bearing factual claims that need verification.",
+        "verified_at": "2026-08-19T09:28:20.591304+00:00"
+      }
+    },
+    {
+      "headline": "Death Toll Climbs to Nine from UES Legionnaire\u00e2s Outbreak",
+      "bullets": [
+        "Death Toll Climbs to Nine from UES Legionnaire\u00e2s Outbreak The deceased had been hospitalized with cases contracted during last month\u00e2s outbreak, which technically stopped on July 17.",
+        "Nine people in total have been killed."
+      ],
+      "summary": "Death Toll Climbs to Nine from UES Legionnaire\u00e2s Outbreak",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Death Toll Climbs to Nine from UES Legionnaire\u00e2s Outbreak",
+        "article_url": "https://www.ourtownny.com/news/death-toll-climbs-to-nine-from-ues-legionnaire-s-outbreak-DF6124173",
+        "published_at": "2026-08-18"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-19T09:28:24.614316+00:00",
+      "verification": {
+        "article_title": "Death Toll Climbs to Nine from UES Legionnaire\u00e2s Outbreak",
+        "article_url": "https://www.ourtownny.com/news/death-toll-climbs-to-nine-from-ues-legionnaire-s-outbreak-DF6124173",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is supported by the details provided in the article text and does not contain any specific claims that require external verification.",
+        "verified_at": "2026-08-19T09:28:21.506002+00:00"
+      }
+    },
+    {
+      "headline": "Dominican Day Parade Dazzles in Midtown before Trouble in Inwood",
+      "bullets": [
+        "Dominican Day Parade Dazzles in Midtown before Trouble in Inwood Red, white and blue was everywhere as marchers expressed their Dominican pride and affection to huge and appreciative crowds.",
+        "Unfortunately, there were also some violent incidents at a brawl in Inwood after the parade that left one person dead and another stabbed."
+      ],
+      "summary": "Dominican Day Parade Dazzles in Midtown before Trouble in Inwood",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Dominican Day Parade Dazzles in Midtown before Trouble in Inwood",
+        "article_url": "https://www.ourtownny.com/news/dominican-day-parade-dazzles-in-midtown-before-trouble-in-inwood-XE6116167",
+        "published_at": "2026-08-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-19T09:28:24.680084+00:00",
+      "verification": {
+        "article_title": "Dominican Day Parade Dazzles in Midtown before Trouble in Inwood",
+        "article_url": "https://www.ourtownny.com/news/dominican-day-parade-dazzles-in-midtown-before-trouble-in-inwood-XE6116167",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is from a local source and describes events that are not specific claims needing verification.",
+        "verified_at": "2026-08-19T09:28:22.299586+00:00"
+      }
+    },
+    {
+      "headline": "US and Canada hold last-minute talks to stop Trump\u2019s 50%",
+      "bullets": [
+        "By PAUL WISEMAN and ROB GILLIES WASHINGTON (AP) \u2014 The U.S.",
+        "and Canada are negotiating in an effort to reach a truce on tariffs before a 12:01 a.m."
+      ],
+      "summary": "US and Canada hold last-minute talks to stop Trump\u2019s 50%",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "US and Canada hold last-minute talks to stop Trump\u2019s 50% tariffs",
+        "article_url": "https://www.nydailynews.com/2026/08/18/us-canada-last-minute-talks-trump-tariffs/",
+        "published_at": "2026-08-18"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-19T09:28:24.737417+00:00",
+      "verification": {
+        "article_title": "US and Canada hold last-minute talks to stop Trump\u2019s 50% tariffs",
+        "article_url": "https://www.nydailynews.com/2026/08/18/us-canada-last-minute-talks-trump-tariffs/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "The story is well-sourced and provides context without specific claims needing verification.",
+        "verified_at": "2026-08-19T09:28:22.788366+00:00"
+      }
+    },
+    {
+      "headline": "New 9/11 Memorial Unveiled at Church of St. Francis of",
+      "bullets": [
+        "New 9/11 Memorial Unveiled at Church of St.",
+        "Francis of Assisi Twenty-five years on, the life of Assisi pastor and FDNY Chaplain Father Mychal Judge\u00e2 as well as that of all other 9/11 victims\u00e2 has been honored with a newly redesigned memorial alcove at the Roman Catholic church on West 31st Street."
+      ],
+      "summary": "New 9/11 Memorial Unveiled at Church of St. Francis of",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "New 9/11 Memorial Unveiled at Church of St. Francis of Assisi",
+        "article_url": "https://www.ourtownny.com/news/new-9-11-memorial-unveiled-at-church-of-st-francis-of-assisi-BA6112113",
+        "published_at": "2026-08-14"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-19T09:28:24.794852+00:00",
+      "verification": {
+        "article_title": "New 9/11 Memorial Unveiled at Church of St. Francis of Assisi",
+        "article_url": "https://www.ourtownny.com/news/new-9-11-memorial-unveiled-at-church-of-st-francis-of-assisi-BA6112113",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-19T09:28:23.347427+00:00"
+      }
+    },
+    {
+      "headline": "Mamdani\u2019s NYC Groceries plan expands affordability",
+      "bullets": [
+        "For those with the means, there are many ways to grab a bite in New York City, from bodegas and halal carts to Michelin-starred restaurants to farmers\u2019 markets.",
+        "As soaring food prices make it harder to put food on the table, we need just as many ways to help New Yorkers afford a nutritious meal."
+      ],
+      "summary": "Mamdani\u2019s NYC Groceries plan expands affordability",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Mamdani\u2019s NYC Groceries plan expands affordability",
+        "article_url": "https://www.nydailynews.com/2026/08/19/mamdanis-nyc-groceries-plan-expands-affordability/",
+        "published_at": "2026-08-19"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-19T09:28:24.862523+00:00",
+      "verification": {
+        "article_title": "Mamdani\u2019s NYC Groceries plan expands affordability",
+        "article_url": "https://www.nydailynews.com/2026/08/19/mamdanis-nyc-groceries-plan-expands-affordability/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-19T09:28:23.414499+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on policing disparities, Tommy John\u2019s stutter and",
+      "bullets": [
+        "Shouldn\u2019t policing correlate with crime?",
+        "Brooklyn: Re \u201cMamdani\u2019s failed promise on police reform\u201d (op-ed, Aug."
+      ],
+      "summary": "Readers sound off on policing disparities, Tommy John\u2019s stutter and",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on policing disparities, Tommy John\u2019s stutter and Columbia lawsuit",
+        "article_url": "https://www.nydailynews.com/2026/08/19/readers-sound-off-on-policing-disparities-tommy-johns-stutter-and-columbia-lawsuit/",
+        "published_at": "2026-08-19"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-19T09:28:24.915834+00:00",
+      "verification": {
+        "article_title": "Readers sound off on policing disparities, Tommy John\u2019s stutter and Columbia lawsuit",
+        "article_url": "https://www.nydailynews.com/2026/08/19/readers-sound-off-on-policing-disparities-tommy-johns-stutter-and-columbia-lawsuit/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-19T09:28:23.477608+00:00"
+      }
+    },
+    {
+      "headline": "Accused ringleader of Penn State frat cocaine ring surrenders, denied",
+      "bullets": [
+        "PHILADELPHIA - Agostino Abbatiello, the accused ringleader of a cocaine-trafficking ring involving Penn State University students and two fraternities, surrendered Tuesday morning and was arraigned on multiple felony charges, according to Attorney General Dave Sunday.",
+        "The Office of Attorney General announced that Abbatiello failed to appear for his scheduled arraignment Monday morning, but he later turned himself in and had bail denied."
+      ],
+      "summary": "Accused ringleader of Penn State frat cocaine ring surrenders, denied",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Accused ringleader of Penn State frat cocaine ring surrenders, denied bail",
+        "article_url": "https://www.fox5ny.com/news/accused-ringleader-penn-state-frat-cocaine-ring-surrenders-denied-bail",
+        "published_at": "2026-08-18"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-19T09:28:24.965961+00:00",
+      "verification": {
+        "article_title": "Accused ringleader of Penn State frat cocaine ring surrenders, denied bail",
+        "article_url": "https://www.fox5ny.com/news/accused-ringleader-penn-state-frat-cocaine-ring-surrenders-denied-bail",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-19T09:28:23.529763+00:00"
+      }
+    },
+    {
+      "headline": "Man faces federal hate crime charges in Manhattan synagogue attack",
+      "bullets": [
+        "NEW YORK - Federal prosecutors announced hate crime charges Tuesday against a man accused of carrying out a violent disruption at a Manhattan synagogue during a religious service last week.",
+        "The Department of Justice (DOJ) unveiled charges against 46-year-old Larry Montes, including two counts of committing hate crimes and one count of destruction of religious property resulting in bodily injury, according to a press release."
+      ],
+      "summary": "Man faces federal hate crime charges in Manhattan synagogue attack",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Man faces federal hate crime charges in Manhattan synagogue attack",
+        "article_url": "https://www.fox5ny.com/news/man-faces-federal-hate-crime-charges-manhattan-synagogue-attack",
+        "published_at": "2026-08-18"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-19T09:28:25.087217+00:00",
+      "verification": {
+        "article_title": "Man faces federal hate crime charges in Manhattan synagogue attack",
+        "article_url": "https://www.fox5ny.com/news/man-faces-federal-hate-crime-charges-manhattan-synagogue-attack",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-19T09:28:23.576372+00:00"
+      }
+    },
+    {
+      "headline": "Kendra\u2019s Law is broken says N.Y. review",
+      "bullets": [
+        "New York now has even clearer evidence that investments in voluntary mental health services \u2014 not Kendra\u2019s Law court orders \u2014 must be the first response to serious mental illness.",
+        "When lawmakers reauthorized Kendra\u2019s Law in 2022, they required an independent evaluation."
+      ],
+      "summary": "Kendra\u2019s Law is broken says N.Y. review",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Kendra\u2019s Law is broken says N.Y. review",
+        "article_url": "https://www.nydailynews.com/2026/08/19/kendras-law-is-broken-says-n-y-review/",
+        "published_at": "2026-08-19"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-19T09:28:25.134523+00:00",
+      "verification": {
+        "article_title": "Kendra\u2019s Law is broken says N.Y. review",
+        "article_url": "https://www.nydailynews.com/2026/08/19/kendras-law-is-broken-says-n-y-review/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-19T09:28:23.626497+00:00"
+      }
+    },
+    {
+      "headline": "NYU Langone researchers build AI-powered tools to improve accessibility for",
+      "bullets": [
+        "Vision-impaired New Yorkers are getting some high-tech help navigating the city.",
+        "Tucked away inside NYU Langone on Manhattan's East Side is a workspace that looks more like a technology lab than a medical office."
+      ],
+      "summary": "NYU Langone researchers build AI-powered tools to improve accessibility for",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "NYU Langone researchers build AI-powered tools to improve accessibility for blind people",
+        "article_url": "https://www.cbsnews.com/newyork/news/new-ai-tools-to-help-visually-impaired-people/",
+        "published_at": "2026-08-18"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-19T09:28:25.184582+00:00",
+      "verification": {
+        "article_title": "NYU Langone researchers build AI-powered tools to improve accessibility for blind people",
+        "article_url": "https://www.cbsnews.com/newyork/news/new-ai-tools-to-help-visually-impaired-people/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-19T09:28:23.738832+00:00"
+      }
+    },
+    {
+      "headline": "Whistleblower alleges political pressure, lack of evidence in antisemitism probes",
+      "bullets": [
+        "By ERIC TUCKER and ALANNA DURKIN RICHER WASHINGTON (AP) \u2014 A Trump administration task force created to combat antisemitism pushed for settlements with Ivy League universities despite government investigations that were rushed and incomplete or that failed to establish legal violations by the schools, a former Justice Department lawyer alleged in a whistleblower disclosure obtained by The Associated Press.",
+        "The complaint alleges that the investigations into some of the nation\u2019s most prestigious academic institutions were designed to strong-arm the schools into cutting deals for political purposes."
+      ],
+      "summary": "Whistleblower alleges political pressure, lack of evidence in antisemitism probes",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Whistleblower alleges political pressure, lack of evidence in antisemitism probes targeting schools",
+        "article_url": "https://www.nydailynews.com/2026/08/18/whistleblower-lack-evidence-antisemitism-investigations-ivy-league-universities/",
+        "published_at": "2026-08-18"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-19T09:28:25.270220+00:00",
+      "verification": {
+        "article_title": "Whistleblower alleges political pressure, lack of evidence in antisemitism probes targeting schools",
+        "article_url": "https://www.nydailynews.com/2026/08/18/whistleblower-lack-evidence-antisemitism-investigations-ivy-league-universities/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-19T09:28:23.797823+00:00"
+      }
+    },
+    {
+      "headline": "Some Tupac Shakur family members step out of courtroom while",
+      "bullets": [
+        "By JESSICA HILL LAS VEGAS (AP) \u2014 Some members of Tupac Shakur\u2019s family stepped out of the courtroom Tuesday before prosecutors showed photos from his autopsy at the Las Vegas trial of the man charged in the killing of the rap giant.",
+        "Others remained in the courtroom to face the grim facts of what happened to his body."
+      ],
+      "summary": "Some Tupac Shakur family members step out of courtroom while",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Some Tupac Shakur family members step out of courtroom while others stay to face autopsy photos",
+        "article_url": "https://www.nydailynews.com/2026/08/18/duane-keffe-d-davis-trial-tupac/",
+        "published_at": "2026-08-18"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-19T09:28:25.320281+00:00",
+      "verification": {
+        "article_title": "Some Tupac Shakur family members step out of courtroom while others stay to face autopsy photos",
+        "article_url": "https://www.nydailynews.com/2026/08/18/duane-keffe-d-davis-trial-tupac/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-19T09:28:23.897210+00:00"
+      }
+    },
+    {
+      "headline": "How Suffolk County is fighting the rising tick population and",
+      "bullets": [
+        "BAY SHORE, Long Island (WABC) -- Suffolk County officials are warning residents about the dangers of ticks and tick-borne illnesses as the county takes additional steps to address what leaders describe as a growing public health concern.",
+        "Officials say Suffolk County is the epicenter of tick-borne illnesses in all of New York state."
+      ],
+      "summary": "How Suffolk County is fighting the rising tick population and",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "How Suffolk County is fighting the rising tick population and ways to protect yourself",
+        "article_url": "https://abc7ny.com/post/suffolk-county-fighting-rising-tick-population-best-ways-protect-pets-li/19697979/",
+        "published_at": "2026-08-18"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-19T09:28:25.452148+00:00",
+      "verification": {
+        "article_title": "How Suffolk County is fighting the rising tick population and ways to protect yourself",
+        "article_url": "https://abc7ny.com/post/suffolk-county-fighting-rising-tick-population-best-ways-protect-pets-li/19697979/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-19T09:28:23.957261+00:00"
+      }
+    },
+    {
+      "headline": "What is a heat advisory? Excessive heat warning? Heat wave?",
+      "bullets": [
+        "Much of the Tri-State Area is as the combined heat and humidity also brings with it the risk of flash flooding.",
+        "Summers can sizzle around the New York City area, where the hottest normal high is 85 degrees in July."
+      ],
+      "summary": "What is a heat advisory? Excessive heat warning? Heat wave?",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "What is a heat advisory? Excessive heat warning? Heat wave? Why they feel even hotter in NYC.",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-heat-wave-excessive-heat-warning/",
+        "published_at": "2024-06-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-19T09:28:25.592963+00:00",
+      "verification": {
+        "article_title": "What is a heat advisory? Excessive heat warning? Heat wave? Why they feel even hotter in NYC.",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-heat-wave-excessive-heat-warning/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-19T09:28:24.023534+00:00"
+      }
+    },
+    {
+      "headline": "South Korea president stresses US alliance as many baffled by",
+      "bullets": [
+        "By HYUNG-JIN KIM SEOUL, South Korea (AP) \u2014 South Korea\u2019s president said Tuesday a solid alliance with the United States underpins national security, after U.S.",
+        "President Donald Trump\u2019s abrupt order to \u201csubstantially reduce\u201d joint military exercises left many many South Koreans baffled and concerned."
+      ],
+      "summary": "South Korea president stresses US alliance as many baffled by",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "South Korea president stresses US alliance as many baffled by Trump order to cut exercises",
+        "article_url": "https://www.nydailynews.com/2026/08/18/south-korea-president-trump-us-military-exercises/",
+        "published_at": "2026-08-18"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-19T09:28:25.662548+00:00",
+      "verification": {
+        "article_title": "South Korea president stresses US alliance as many baffled by Trump order to cut exercises",
+        "article_url": "https://www.nydailynews.com/2026/08/18/south-korea-president-trump-us-military-exercises/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-19T09:28:24.113902+00:00"
+      }
+    },
+    {
+      "headline": "East Harlem Giglio Feast Thrills 1000s as Italians Hoist Giant",
+      "bullets": [
+        "East Harlem Giglio Feast Thrills 1000s as Italians Hoist Giant Tower Literally carrying tradition on their shoulders, the Italian-American diaspora returned to Pleasant Avenue to celebrate their heritage, honor their patron saint, Saint Anthony of Padua, and watch the Giglio Boys\u00e2 and some Giglio Girls too\u00e2lift!",
+        "Thousands of Italian-Americans and curiosity seekers of many ethnicities from near and far converged on a couple blocks of Pleasant Avenue from Thursday Aug."
+      ],
+      "summary": "East Harlem Giglio Feast Thrills 1000s as Italians Hoist Giant",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "East Harlem Giglio Feast Thrills 1000s as Italians Hoist Giant Tower",
+        "article_url": "https://www.ourtownny.com/news/east-harlem-giglio-feast-thrills-1000s-as-italians-hoist-giant-tower-EE6116006",
+        "published_at": "2026-08-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-19T09:28:25.713778+00:00",
+      "verification": {
+        "article_title": "East Harlem Giglio Feast Thrills 1000s as Italians Hoist Giant Tower",
+        "article_url": "https://www.ourtownny.com/news/east-harlem-giglio-feast-thrills-1000s-as-italians-hoist-giant-tower-EE6116006",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-19T09:28:24.175246+00:00"
+      }
+    }
+  ]
+}
