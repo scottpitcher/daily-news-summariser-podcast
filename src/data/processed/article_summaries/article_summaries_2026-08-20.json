@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-08-20T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-08-20.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Readers sound off on Trump\u2019s military mishandling, shock gloves and",
+      "bullets": [
+        "A draft-dodger is degrading our military Bronx: President Trump announced that he wants to end joint military exercises with our ally South Korea, exercises that that democracy and ours have conducted for many years as a deterrent against North Korean aggression.",
+        "He did so despite the growing nuclear arsenal of North Korea\u2019s authoritarian leader Kim Jong Un."
+      ],
+      "summary": "Readers sound off on Trump\u2019s military mishandling, shock gloves and",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on Trump\u2019s military mishandling, shock gloves and socialist students",
+        "article_url": "https://www.nydailynews.com/2026/08/20/readers-sound-off-on-trumps-military-mishandling-shock-gloves-and-socialist-students/",
+        "published_at": "2026-08-20"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-20T09:29:03.789778+00:00",
+      "verification": {
+        "article_title": "Readers sound off on Trump\u2019s military mishandling, shock gloves and socialist students",
+        "article_url": "https://www.nydailynews.com/2026/08/20/readers-sound-off-on-trumps-military-mishandling-shock-gloves-and-socialist-students/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-20T09:29:01.170124+00:00"
+      }
+    },
+    {
+      "headline": "Karen\u00e2s Quirky New York Finds a LifeThyme of Organics",
+      "bullets": [
+        "Karen\u00e2s Quirky New York Finds a LifeThyme of Organics LifeThyme Natural Market has been serving Greenwich Village a cornucopia of exceptional natural and organic foods for over 30 years.",
+        "LifeThyme Natural Market is a cornerstone of the groovy Greenwich Village vibe that draws visitors to New York and makes its lucky residents want to live here."
+      ],
+      "summary": "Karen\u00e2s Quirky New York Finds a LifeThyme of Organics",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Karen\u00e2s Quirky New York Finds a LifeThyme of Organics",
+        "article_url": "https://www.ourtownny.com/news/karen-s-quirky-new-york-finds-a-lifethyme-of-organics-GD6126899",
+        "published_at": "2026-08-19"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-20T09:29:03.980797+00:00",
+      "verification": {
+        "article_title": "Karen\u00e2s Quirky New York Finds a LifeThyme of Organics",
+        "article_url": "https://www.ourtownny.com/news/karen-s-quirky-new-york-finds-a-lifethyme-of-organics-GD6126899",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-20T09:29:01.338412+00:00"
+      }
+    },
+    {
+      "headline": "Mayor Mamdani suing to block law giving NYC paraprofessionals $10,000",
+      "bullets": [
+        "Mayor Mamdani is mounting a legal challenge to a law passed by the City Council that forces New York City\u2019s public school system to give a $10,000 boost to low-paid teacher aides.",
+        "The Council passed the legislation last month with enough votes to override a mayoral veto \u2014 leaving Mamdani with few practical options to stop the measure, which he opposed."
+      ],
+      "summary": "Mayor Mamdani suing to block law giving NYC paraprofessionals $10,000",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Mayor Mamdani suing to block law giving NYC paraprofessionals $10,000 boost",
+        "article_url": "https://www.nydailynews.com/2026/08/19/mayor-mamdani-lets-bill-giving-nyc-paraprofessionals-10000-boost-lapse-into-law/",
+        "published_at": "2026-08-19"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-20T09:29:04.102418+00:00",
+      "verification": {
+        "article_title": "Mayor Mamdani suing to block law giving NYC paraprofessionals $10,000 boost",
+        "article_url": "https://www.nydailynews.com/2026/08/19/mayor-mamdani-lets-bill-giving-nyc-paraprofessionals-10000-boost-lapse-into-law/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-20T09:29:01.508124+00:00"
+      }
+    },
+    {
+      "headline": "How many new homes does NYC need? 700K, housing agency",
+      "bullets": [
+        "Could Staten Island add close to 17,700 homes over the next five years?",
+        "What about 13,000 for the Upper East Side, and another 5,500 in Bensonhurst?"
+      ],
+      "summary": "How many new homes does NYC need? 700K, housing agency",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "How many new homes does NYC need? 700K, housing agency says.",
+        "article_url": "https://gothamist.com/news/how-many-new-homes-does-nyc-need-700k-housing-agency-says",
+        "published_at": "2026-08-19T15:55:52+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-20T09:29:04.244596+00:00",
+      "verification": {
+        "article_title": "How many new homes does NYC need? 700K, housing agency says.",
+        "article_url": "https://gothamist.com/news/how-many-new-homes-does-nyc-need-700k-housing-agency-says",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-20T09:29:01.628259+00:00"
+      }
+    },
+    {
+      "headline": "NYC schools prepare to support Haitian students as TPS protections",
+      "bullets": [
+        "The playground and splash pad outside two elementary schools in Brooklyn\u2019s Little Haiti neighborhood are usually teeming with children during the sweltering last weeks before a new school year starts.",
+        "But neighbors say the park outside the two Nostrand Avenue elementary schools has been quiet since the Trump administration ended Temporary Protected Status for people from Haiti."
+      ],
+      "summary": "NYC schools prepare to support Haitian students as TPS protections",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC schools prepare to support Haitian students as TPS protections end",
+        "article_url": "https://gothamist.com/news/nyc-schools-prepare-to-support-haitian-students-as-tps-protections-end",
+        "published_at": "2026-08-19T16:51:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-20T09:29:04.366900+00:00",
+      "verification": {
+        "article_title": "NYC schools prepare to support Haitian students as TPS protections end",
+        "article_url": "https://gothamist.com/news/nyc-schools-prepare-to-support-haitian-students-as-tps-protections-end",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-20T09:29:01.814725+00:00"
+      }
+    },
+    {
+      "headline": "Court filing: Former owner of Butera's restaurant sues new operator",
+      "bullets": [
+        "The former owner of Butera\u2019s, an Italian restaurant with three Long Island locations, is suing the new owner, alleging he stopped monthly payments in February on the nearly $2 million purchase, a new lawsuit shows.",
+        "The suit was filed Aug."
+      ],
+      "summary": "Court filing: Former owner of Butera's restaurant sues new operator",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Newsday",
+        "source_level": "local",
+        "article_title": "Court filing: Former owner of Butera's restaurant sues new operator over payments",
+        "article_url": "https://www.newsday.com/business/buteras-restaurant-lawsuit-michael-daubney-yayqfh6e",
+        "published_at": "2026-08-18"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-20T09:29:04.491243+00:00",
+      "verification": {
+        "article_title": "Court filing: Former owner of Butera's restaurant sues new operator over payments",
+        "article_url": "https://www.newsday.com/business/buteras-restaurant-lawsuit-michael-daubney-yayqfh6e",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-20T09:29:01.982985+00:00"
+      }
+    },
+    {
+      "headline": "How many new homes does NYC need? 700K, housing agency",
+      "bullets": [
+        "Could Staten Island add close to 17,700 homes over the next five years?",
+        "What about 13,000 for the Upper East Side, and another 5,500 in Bensonhurst?"
+      ],
+      "summary": "How many new homes does NYC need? 700K, housing agency",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "How many new homes does NYC need? 700K, housing agency says.",
+        "article_url": "https://gothamist.com/news/how-many-new-homes-does-nyc-need-700k-housing-agency-says",
+        "published_at": "2026-08-19T15:55:52+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-20T09:29:04.617457+00:00",
+      "verification": {
+        "article_title": "How many new homes does NYC need? 700K, housing agency says.",
+        "article_url": "https://gothamist.com/news/how-many-new-homes-does-nyc-need-700k-housing-agency-says",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-20T09:29:02.105049+00:00"
+      }
+    },
+    {
+      "headline": "Overturned fuel truck causes spill, shuts down road near JFK",
+      "bullets": [
+        "An overturned fuel tanker prompted a large emergency response Wednesday near John F.",
+        "Kennedy Airport in Queens."
+      ],
+      "summary": "Overturned fuel truck causes spill, shuts down road near JFK",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Overturned fuel truck causes spill, shuts down road near JFK Airport",
+        "article_url": "https://www.cbsnews.com/newyork/news/overturned-fuel-truck-spill-jfk-airport-queens/",
+        "published_at": "2026-08-19"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-20T09:29:04.819514+00:00",
+      "verification": {
+        "article_title": "Overturned fuel truck causes spill, shuts down road near JFK Airport",
+        "article_url": "https://www.cbsnews.com/newyork/news/overturned-fuel-truck-spill-jfk-airport-queens/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-20T09:29:02.269978+00:00"
+      }
+    },
+    {
+      "headline": "Manhattan funeral home sued after mistakenly cremating man",
+      "bullets": [
+        "NEW YORK - A Manhattan funeral home is facing a lawsuit after allegedly cremating an 88-year-old man by mistake and attempting to convince his grieving family that a stranger laying in the casket was their relative.",
+        "When the family of Jose Daniel Diaz-Felipe arrived for his viewing on May 28 at the RG Ortiz Funeral Home in Upper Manhattan, they say they immediately recognized that the body dressed in their father's clothes was not him."
+      ],
+      "summary": "Manhattan funeral home sued after mistakenly cremating man",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Manhattan funeral home sued after mistakenly cremating man",
+        "article_url": "https://www.fox5ny.com/news/manhattan-funeral-home-sued-after-mistakenly-cremating-man",
+        "published_at": "2026-08-19"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-20T09:29:04.941294+00:00",
+      "verification": {
+        "article_title": "Manhattan funeral home sued after mistakenly cremating man",
+        "article_url": "https://www.fox5ny.com/news/manhattan-funeral-home-sued-after-mistakenly-cremating-man",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-20T09:29:02.391644+00:00"
+      }
+    },
+    {
+      "headline": "Man dies at new DOC detention facility in Manhattan\u2019s Bellevue",
+      "bullets": [
+        "A man being held at a newly opened detention facility in Manhattan\u2019s Bellevue Hospital died Tuesday morning, officials said.",
+        "Christopher Rodriguez, 36, went into medical distress at the Outposted Therapeutic Housing Unit at Bellevue, where he died at 8:39 a.m., a Department of Correction spokesman said."
+      ],
+      "summary": "Man dies at new DOC detention facility in Manhattan\u2019s Bellevue",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Man dies at new DOC detention facility in Manhattan\u2019s Bellevue Hospital",
+        "article_url": "https://www.nydailynews.com/2026/08/19/man-dies-new-detention-facility-manhattans-bellevue-hospital/",
+        "published_at": "2026-08-19T18:50:09+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-20T09:29:05.065255+00:00",
+      "verification": {
+        "article_title": "Man dies at new DOC detention facility in Manhattan\u2019s Bellevue Hospital",
+        "article_url": "https://www.nydailynews.com/2026/08/19/man-dies-new-detention-facility-manhattans-bellevue-hospital/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-20T09:29:02.514376+00:00"
+      }
+    },
+    {
+      "headline": "Lindsay Clancy jury sent home for the day due to",
+      "bullets": [
+        "Jurors in the murder trial of Lindsay Clancy were sent home for the day on Wednesday afternoon due to what Judge William Sullivan described as an \"unforeseen circumstance.\" Testimony is scheduled to resume at 9 a.m.",
+        "on Thursday."
+      ],
+      "summary": "Lindsay Clancy jury sent home for the day due to",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Lindsay Clancy jury sent home for the day due to 'unforeseen circumstance'",
+        "article_url": "https://abc7ny.com/post/lindsay-clancy-trial-day-16-defense-expert-suggests-clancys-health-care-providers-missed-warning-signs/19702385/",
+        "published_at": "2026-08-19"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-20T09:29:05.216390+00:00",
+      "verification": {
+        "article_title": "Lindsay Clancy jury sent home for the day due to 'unforeseen circumstance'",
+        "article_url": "https://abc7ny.com/post/lindsay-clancy-trial-day-16-defense-expert-suggests-clancys-health-care-providers-missed-warning-signs/19702385/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-20T09:29:02.637409+00:00"
+      }
+    },
+    {
+      "headline": "Hayden Panettiere death: New details released in police report",
+      "bullets": [
+        "A police report released Tuesday reveals new details in the death of actor Hayden Panettiere.",
+        "The onetime child star, who soared to fame in the TV shows \"Heroes\" and \"Nashville\" while struggling with alcohol addiction and depression, would have turned 37 on Friday."
+      ],
+      "summary": "Hayden Panettiere death: New details released in police report",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Hayden Panettiere death: New details released in police report",
+        "article_url": "https://www.fox5ny.com/news/hayden-panettiere-death-new-details-released-police-report",
+        "published_at": "2026-08-19"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-20T09:29:05.339990+00:00",
+      "verification": {
+        "article_title": "Hayden Panettiere death: New details released in police report",
+        "article_url": "https://www.fox5ny.com/news/hayden-panettiere-death-new-details-released-police-report",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-20T09:29:02.801334+00:00"
+      }
+    },
+    {
+      "headline": "NYC\u2019s iconic Carnegie Deli teases return to Midtown after 10-year",
+      "bullets": [
+        "The legendary Carnegie Deli, one of the city\u2019s most iconic delicatessen restaurants, is apparently returning to Midtown after a 10-year absence, with pastrami and corned beef fans cheering in anticipation.",
+        "The deli this week dropped a video on social media teasing a reopening with a brick-and-mortar location."
+      ],
+      "summary": "NYC\u2019s iconic Carnegie Deli teases return to Midtown after 10-year",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYC\u2019s iconic Carnegie Deli teases return to Midtown after 10-year absence",
+        "article_url": "https://www.nydailynews.com/2026/08/19/carnegie-deli-teases-apparent-return-midtown-manhattan/",
+        "published_at": "2026-08-19T17:26:19+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-20T09:29:05.482152+00:00",
+      "verification": {
+        "article_title": "NYC\u2019s iconic Carnegie Deli teases return to Midtown after 10-year absence",
+        "article_url": "https://www.nydailynews.com/2026/08/19/carnegie-deli-teases-apparent-return-midtown-manhattan/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-20T09:29:02.923062+00:00"
+      }
+    },
+    {
+      "headline": "Luigi Mangione admitted to killing Brian Thompson. Why does NY",
+      "bullets": [
+        "When Luigi Mangione admitted last week to killing UnitedHealthcare CEO Brian Thompson on a Midtown sidewalk in 2024, what was likely to be one of the most high-profile federal trials in recent history was called off.",
+        "Still, Manhattan District Attorney Alvin Bragg said that admission of guilt in federal court will not stop him from pursuing separate state charges, including second-degree murder and criminal possession of a weapon."
+      ],
+      "summary": "Luigi Mangione admitted to killing Brian Thompson. Why does NY",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Luigi Mangione admitted to killing Brian Thompson. Why does NY still want a trial?",
+        "article_url": "https://gothamist.com/news/luigi-mangione-admitted-to-killing-brian-thompson-why-does-ny-still-want-a-trial",
+        "published_at": "2026-08-19T16:20:56+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-20T09:29:05.606467+00:00",
+      "verification": {
+        "article_title": "Luigi Mangione admitted to killing Brian Thompson. Why does NY still want a trial?",
+        "article_url": "https://gothamist.com/news/luigi-mangione-admitted-to-killing-brian-thompson-why-does-ny-still-want-a-trial",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-20T09:29:03.044205+00:00"
+      }
+    },
+    {
+      "headline": "The ripple effects of the Iran war could threaten education",
+      "bullets": [
+        "By ANIRUDDHA GHOSAL, SOPHENG CHEANG and ANTON L.",
+        "DELGADO KAMPONG PRAHOK, Cambodia (AP) \u2014 Sou Sreynich dreams of becoming a teacher."
+      ],
+      "summary": "The ripple effects of the Iran war could threaten education",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "The ripple effects of the Iran war could threaten education for millions of kids around the world",
+        "article_url": "https://www.nydailynews.com/2026/08/17/iran-asia-education/",
+        "published_at": "2026-08-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-20T09:29:05.727911+00:00",
+      "verification": {
+        "article_title": "The ripple effects of the Iran war could threaten education for millions of kids around the world",
+        "article_url": "https://www.nydailynews.com/2026/08/17/iran-asia-education/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-20T09:29:03.167474+00:00"
+      }
+    },
+    {
+      "headline": "Audit shows MTA way behind on electric bus plan in",
+      "bullets": [
+        "The MTA\u2019s plan to convert its fleet of 5,700 buses to electric vehicles by 2040 has already fizzled, an audit published Wednesday by state Comptroller Thomas DiNapoli found.",
+        "The report highlighted a litany of obstacles the transit agency has faced in meeting its goal, including a shortage of manufacturers capable of building zero-emission buses and problems with electrical infrastructure at the MTA\u2019s aging bus depots."
+      ],
+      "summary": "Audit shows MTA way behind on electric bus plan in",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Audit shows MTA way behind on electric bus plan in latest blow to NY's clean energy switch",
+        "article_url": "https://gothamist.com/news/audit-shows-mta-way-behind-on-electric-bus-plan-in-latest-blow-to-nys-clean-energy-switch",
+        "published_at": "2026-08-19T20:17:33+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-20T09:29:05.906817+00:00",
+      "verification": {
+        "article_title": "Audit shows MTA way behind on electric bus plan in latest blow to NY's clean energy switch",
+        "article_url": "https://gothamist.com/news/audit-shows-mta-way-behind-on-electric-bus-plan-in-latest-blow-to-nys-clean-energy-switch",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-20T09:29:03.290095+00:00"
+      }
+    },
+    {
+      "headline": "Former Meta engineer says Instagram took a 'don't ask, don't",
+      "bullets": [
+        "OAKLAND, Calif.",
+        "-- A former engineering director at Meta who has testified before Congress about child safety on Instagram told jurors Wednesday at a landmark trial that the company took a \"don't ask, don't tell\" approach on kids under 13 on its platforms."
+      ],
+      "summary": "Former Meta engineer says Instagram took a 'don't ask, don't",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Former Meta engineer says Instagram took a 'don't ask, don't tell' approach on kids under 13",
+        "article_url": "https://abc7ny.com/post/former-meta-engineer-says-instagram-took-dont-ask-tell-approach-kids-13-lawsuit-testimony/19705836/",
+        "published_at": "2026-08-20"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-20T09:29:06.080631+00:00",
+      "verification": {
+        "article_title": "Former Meta engineer says Instagram took a 'don't ask, don't tell' approach on kids under 13",
+        "article_url": "https://abc7ny.com/post/former-meta-engineer-says-instagram-took-dont-ask-tell-approach-kids-13-lawsuit-testimony/19705836/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-20T09:29:03.414233+00:00"
+      }
+    },
+    {
+      "headline": "Long Island's standout hidden restaurants",
+      "bullets": [
+        "We've all been there.",
+        "Driving for however long, up and down the same street countless times, hungry and frustrated or \"hangry\" because the GPS is stating you've arrived at your destination but the restaurant you're searching for is nowhere to be seen."
+      ],
+      "summary": "Long Island's standout hidden restaurants",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Newsday",
+        "source_level": "local",
+        "article_title": "Long Island's standout hidden restaurants",
+        "article_url": "https://www.newsday.com/lifestyle/restaurants/hidden-long-island-restaurants-n7ea7f72",
+        "published_at": "2026-08-19"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-20T09:29:06.247478+00:00",
+      "verification": {
+        "article_title": "Long Island's standout hidden restaurants",
+        "article_url": "https://www.newsday.com/lifestyle/restaurants/hidden-long-island-restaurants-n7ea7f72",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-20T09:29:03.539651+00:00"
+      }
+    }
+  ]
+}
