@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-08-21T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-08-21.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "S.E. Cupp: Has Donald Trump lost his golden touch?",
+      "bullets": [
+        "On Tuesday night, Darline Graham, sister of the late Sen.",
+        "Lindsey Graham, revealed somewhat awkwardly that she is entirely unprepared to be a U.S."
+      ],
+      "summary": "S.E. Cupp: Has Donald Trump lost his golden touch?",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "S.E. Cupp: Has Donald Trump lost his golden touch?",
+        "article_url": "https://www.nydailynews.com/2026/08/20/s-e-cupp-has-donald-trump-lost-his-golden-touch/",
+        "published_at": "2026-08-20T13:00:24+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-21T09:31:33.297939+00:00",
+      "verification": {
+        "article_title": "S.E. Cupp: Has Donald Trump lost his golden touch?",
+        "article_url": "https://www.nydailynews.com/2026/08/20/s-e-cupp-has-donald-trump-lost-his-golden-touch/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-21T09:31:31.187653+00:00"
+      }
+    },
+    {
+      "headline": "Woman accused of plotting \"major attack\" on New York State",
+      "bullets": [
+        "The FBI said Thursday it thwarted a potential terrorist attack in Albany.",
+        "A New York woman is , authorities said."
+      ],
+      "summary": "Woman accused of plotting \"major attack\" on New York State",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Woman accused of plotting \"major attack\" on New York State Capitol building in Albany",
+        "article_url": "https://www.cbsnews.com/newyork/news/albany-ny-alleged-attack-plot/",
+        "published_at": "2026-08-20"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-21T09:31:33.392635+00:00",
+      "verification": {
+        "article_title": "Woman accused of plotting \"major attack\" on New York State Capitol building in Albany",
+        "article_url": "https://www.cbsnews.com/newyork/news/albany-ny-alleged-attack-plot/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-21T09:31:31.320679+00:00"
+      }
+    },
+    {
+      "headline": "UES Legionnaire\u00e2s Outbreak Death Toll Climbs to Nine",
+      "bullets": [
+        "UES Legionnaire\u00e2s Outbreak Death Toll Climbs to Nine The deceased had been hospitalized with cases contracted during last month\u00e2s outbreak, which technically stopped on July 17.",
+        "Nine people in total have been killed."
+      ],
+      "summary": "UES Legionnaire\u00e2s Outbreak Death Toll Climbs to Nine",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "UES Legionnaire\u00e2s Outbreak Death Toll Climbs to Nine",
+        "article_url": "https://www.ourtownny.com/news/ues-legionnaire-s-outbreak-death-toll-climbs-to-nine-DF6124173",
+        "published_at": "2026-08-20"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-21T09:31:33.492467+00:00",
+      "verification": {
+        "article_title": "UES Legionnaire\u00e2s Outbreak Death Toll Climbs to Nine",
+        "article_url": "https://www.ourtownny.com/news/ues-legionnaire-s-outbreak-death-toll-climbs-to-nine-DF6124173",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-21T09:31:31.452954+00:00"
+      }
+    },
+    {
+      "headline": "Israeli billboard of Mamdani and ayatollah comes as NYC rabbis",
+      "bullets": [
+        "This column originally appeared in The Politics Brief, our weekly newsletter on the people, power and policies that shape New Yorkers' lives.",
+        "Sign up to get the full version where you can ask questions, share news tips and weigh in on the conversation."
+      ],
+      "summary": "Israeli billboard of Mamdani and ayatollah comes as NYC rabbis",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Israeli billboard of Mamdani and ayatollah comes as NYC rabbis plead for cooler heads",
+        "article_url": "https://gothamist.com/news/israeli-billboard-of-mamdani-and-ayatollah-comes-as-nyc-rabbis-plead-for-cooler-heads",
+        "published_at": "2026-08-20T15:00:56+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-21T09:31:33.591222+00:00",
+      "verification": {
+        "article_title": "Israeli billboard of Mamdani and ayatollah comes as NYC rabbis plead for cooler heads",
+        "article_url": "https://gothamist.com/news/israeli-billboard-of-mamdani-and-ayatollah-comes-as-nyc-rabbis-plead-for-cooler-heads",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-21T09:31:31.579224+00:00"
+      }
+    },
+    {
+      "headline": "The US and others turn to Brazil for rare earths,",
+      "bullets": [
+        "By GABRIELA S\u00c1 PESSOA, Associated Press / DIEGO JUNQUEIRA and ISABEL HARARI, Reporter Brasil SAO PAULO (AP) \u2014 In the global race to secure rare earths that are key for everything from mobile phones to green technologies, Brazil is emerging as an alternative to China\u2019s dominance, particularly for the United States and Australia, according to an analysis of mining permits by The Associated Press and Reporter Brasil.",
+        "That could boost the economy of Latin America\u2019s largest and most populous nation, which is second only to China in rare earth reserves."
+      ],
+      "summary": "The US and others turn to Brazil for rare earths,",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "The US and others turn to Brazil for rare earths, raising environmental concerns",
+        "article_url": "https://www.nydailynews.com/2026/08/20/us-brazil-rare-earth-minerals/",
+        "published_at": "2026-08-20"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-21T09:31:33.687375+00:00",
+      "verification": {
+        "article_title": "The US and others turn to Brazil for rare earths, raising environmental concerns",
+        "article_url": "https://www.nydailynews.com/2026/08/20/us-brazil-rare-earth-minerals/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-21T09:31:31.683334+00:00"
+      }
+    },
+    {
+      "headline": "Across America Patch - Breaking News, Local News, Schools, Weather,",
+      "bullets": [
+        "Across America|News| Grass and weed pollen typically cause the most trouble late in the summer and early in the fall.",
+        "But this year could be different."
+      ],
+      "summary": "Across America Patch - Breaking News, Local News, Schools, Weather,",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Across America Patch - Breaking News, Local News, Schools, Weather, Sports and Shopping",
+        "article_url": "https://patch.com/us/across-america",
+        "published_at": "2026-08-20T14:19:36+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-21T09:31:33.781420+00:00",
+      "verification": {
+        "article_title": "Across America Patch - Breaking News, Local News, Schools, Weather, Sports and Shopping",
+        "article_url": "https://patch.com/us/across-america",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-21T09:31:31.794288+00:00"
+      }
+    },
+    {
+      "headline": "NYC Fire Museum reopens to the public in Manhattan after",
+      "bullets": [
+        "SOHO, Manhattan (WABC) -- The New York City Fire Museum reopened to the public Thursday after two years of repairs.",
+        "The museum, located in a renovated 1904 firehouse at 278 Spring St., has been closed since May 2024 because of concerns about the building's structural integrity."
+      ],
+      "summary": "NYC Fire Museum reopens to the public in Manhattan after",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "NYC Fire Museum reopens to the public in Manhattan after 2 years of repairs",
+        "article_url": "https://abc7ny.com/post/nyc-fire-museum-reopens-public-2-years-repairs-time-25th-anniversary-911-attacks/19707638/",
+        "published_at": "2026-08-20"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-21T09:31:33.876655+00:00",
+      "verification": {
+        "article_title": "NYC Fire Museum reopens to the public in Manhattan after 2 years of repairs",
+        "article_url": "https://abc7ny.com/post/nyc-fire-museum-reopens-public-2-years-repairs-time-25th-anniversary-911-attacks/19707638/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-21T09:31:31.889965+00:00"
+      }
+    },
+    {
+      "headline": "Woman stabbed in Brooklyn park in front of young son",
+      "bullets": [
+        "A woman stabbed in a Brooklyn park in front of her 7-year-old son was killed by a spurned suitor who became obsessed after just one date, according to the victim\u2019s heartbroken mother.",
+        "Shakeema Davis was stabbed multiple times inside Lincoln Terrace Park in Crown Heights during an argument with her killer about 12:40 a.m."
+      ],
+      "summary": "Woman stabbed in Brooklyn park in front of young son",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Woman stabbed in Brooklyn park in front of young son was killed by spurned suitor: family",
+        "article_url": "https://www.nydailynews.com/2026/08/20/shakeema-davis-stabbed-brooklyn-park-in-front-of-son-spurned-suitor-mom/",
+        "published_at": "2026-08-20T21:31:45+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-21T09:31:33.982287+00:00",
+      "verification": {
+        "article_title": "Woman stabbed in Brooklyn park in front of young son was killed by spurned suitor: family",
+        "article_url": "https://www.nydailynews.com/2026/08/20/shakeema-davis-stabbed-brooklyn-park-in-front-of-son-spurned-suitor-mom/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-21T09:31:31.987484+00:00"
+      }
+    },
+    {
+      "headline": "Ex-fixer Michael Cohen makes up with Trump in new interview",
+      "bullets": [
+        "Ex-fixer Michael Cohen has made nice with President Trump and plans to air an interview this weekend with his former boss turned bitter frenemy on his new radio show.",
+        "Cohen, who infamously fell out with Trump in part over the disbarred lawyer\u2019s conviction and imprisonment in the Stormy Daniels hush money case, teased excerpts of the make-up session with the president that were set to be released later Thursday and branded as \u201cThe Impossible Reunion.\u201d MSNOW was first to report on the interview."
+      ],
+      "summary": "Ex-fixer Michael Cohen makes up with Trump in new interview",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Ex-fixer Michael Cohen makes up with Trump in new interview",
+        "article_url": "https://www.nydailynews.com/2026/08/20/michael-cohen-trump-interview/",
+        "published_at": "2026-08-20"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-21T09:31:34.075361+00:00",
+      "verification": {
+        "article_title": "Ex-fixer Michael Cohen makes up with Trump in new interview",
+        "article_url": "https://www.nydailynews.com/2026/08/20/michael-cohen-trump-interview/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-21T09:31:32.086873+00:00"
+      }
+    },
+    {
+      "headline": "Teen violence escalated to a deadly stabbing in Phoenix. How",
+      "bullets": [
+        "AHWATUKEE, Ariz.",
+        "- A late-night fight near an Ahwatukee park ended in the fatal stabbing of 15-year-old Jaylen Reeves, leaving his family demanding justice after prosecutors declined to file charges against the 14-year-old suspect, citing self-defense."
+      ],
+      "summary": "Teen violence escalated to a deadly stabbing in Phoenix. How",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Teen violence escalated to a deadly stabbing in Phoenix. How a self-defense claim changed two families forever",
+        "article_url": "https://www.fox5ny.com/news/teen-violence-escalated-deadly-stabbing-phoenix-self-defense-claim-changed-families-jaylen-reeves",
+        "published_at": "2026-08-20"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-21T09:31:34.177242+00:00",
+      "verification": {
+        "article_title": "Teen violence escalated to a deadly stabbing in Phoenix. How a self-defense claim changed two families forever",
+        "article_url": "https://www.fox5ny.com/news/teen-violence-escalated-deadly-stabbing-phoenix-self-defense-claim-changed-families-jaylen-reeves",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-21T09:31:32.186935+00:00"
+      }
+    },
+    {
+      "headline": "Trump team\u2019s use of arcane budget rule threatens Medicaid coverage",
+      "bullets": [
+        "By Phil Galewitz, KFF Health News About 200,000 low-income Arkansans could see major changes to their health coverage next year after the Trump administration recently informed state officials it will not renew a key Medicaid agreement with the federal government.",
+        "The decision by federal officials, citing authority granted under President Donald Trump\u2019s signature tax-and-spending law, suggests the GOP-led state\u2019s predicament could foretell other repercussions in how states are allowed to run the program under federal waivers."
+      ],
+      "summary": "Trump team\u2019s use of arcane budget rule threatens Medicaid coverage",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Trump team\u2019s use of arcane budget rule threatens Medicaid coverage",
+        "article_url": "https://www.nydailynews.com/2026/08/20/medicaid-budget-rule/",
+        "published_at": "2026-08-20"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-21T09:31:34.270699+00:00",
+      "verification": {
+        "article_title": "Trump team\u2019s use of arcane budget rule threatens Medicaid coverage",
+        "article_url": "https://www.nydailynews.com/2026/08/20/medicaid-budget-rule/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-21T09:31:32.283380+00:00"
+      }
+    },
+    {
+      "headline": "Women in pink rally in support of Lindsay Clancy who",
+      "bullets": [
+        "Hundreds of Lindsay Clancy supporters, many wearing pink with the words \"Believe,\" \"She Needed Help\" and \"Peace For Lindsay,\" gathered Thursday outside the courthouse where she is on trial in the killings of her three children.",
+        "Several of the 300 women, and a few men, said Clancy's story resonated with them and that they wanted to raise awareness about how the mental health system treats women."
+      ],
+      "summary": "Women in pink rally in support of Lindsay Clancy who",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Women in pink rally in support of Lindsay Clancy who is on trial for killing 3 children",
+        "article_url": "https://abc7ny.com/post/women-pink-rally-support-lindsay-clancy-is-trial-killing-3-children/19708678/",
+        "published_at": "2026-08-20"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-21T09:31:34.365867+00:00",
+      "verification": {
+        "article_title": "Women in pink rally in support of Lindsay Clancy who is on trial for killing 3 children",
+        "article_url": "https://abc7ny.com/post/women-pink-rally-support-lindsay-clancy-is-trial-killing-3-children/19708678/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-21T09:31:32.419394+00:00"
+      }
+    },
+    {
+      "headline": "Mamdani administration sues City Council; Says $10K teacher assistant bonus",
+      "bullets": [
+        "LOWER MANHATTAN, New York (WABC) -- The Mamdani administration is going to court to block a $10,000 bonus for teaching assistants in New York City schools, arguing the boost is an illegal end run around the collective bargaining process.",
+        "Many of these teacher assistants called paraprofessionals help care for public school students in special education or with disabilities."
+      ],
+      "summary": "Mamdani administration sues City Council; Says $10K teacher assistant bonus",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Mamdani administration sues City Council; Says $10K teacher assistant bonus is illegal",
+        "article_url": "https://abc7ny.com/post/mamdani-administration-sues-city-council-10000-teacher-assistant-bonus-argues-bill-skirts-collective-bargaining/19710514/",
+        "published_at": "2026-08-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-21T09:31:34.459560+00:00",
+      "verification": {
+        "article_title": "Mamdani administration sues City Council; Says $10K teacher assistant bonus is illegal",
+        "article_url": "https://abc7ny.com/post/mamdani-administration-sues-city-council-10000-teacher-assistant-bonus-argues-bill-skirts-collective-bargaining/19710514/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-21T09:31:32.535863+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on South Carolina voters, Europe\u2019s wildfires and",
+      "bullets": [
+        "Don\u2019t assume South Carolina\u2019s Dem support Aiken, S.C.: As an old white guy, I\u2019ve spent eight decades on the planet and lived in South Carolina for 30 years, so I know a blatant insult when I hear one from unscrupulous Democrats.",
+        "In the last few days, I\u2019ve heard them say they\u2019re going to change their game plan to take back the House, Senate and presidency."
+      ],
+      "summary": "Readers sound off on South Carolina voters, Europe\u2019s wildfires and",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on South Carolina voters, Europe\u2019s wildfires and Pat Benatar",
+        "article_url": "https://www.nydailynews.com/2026/08/21/readers-sound-off-on-south-carolina-voters-europes-wildfires-and-pat-benatar/",
+        "published_at": "2026-08-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-21T09:31:34.556187+00:00",
+      "verification": {
+        "article_title": "Readers sound off on South Carolina voters, Europe\u2019s wildfires and Pat Benatar",
+        "article_url": "https://www.nydailynews.com/2026/08/21/readers-sound-off-on-south-carolina-voters-europes-wildfires-and-pat-benatar/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-21T09:31:32.633773+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on South Carolina voters, Europe\u2019s wildfires and",
+      "bullets": [
+        "Don\u2019t assume South Carolina\u2019s Dem support Aiken, S.C.: As an old white guy, I\u2019ve spent eight decades on the planet and lived in South Carolina for 30 years, so I know a blatant insult when I hear one from unscrupulous Democrats.",
+        "In the last few days, I\u2019ve heard them say they\u2019re going to change their game plan to take back the House, Senate and presidency."
+      ],
+      "summary": "Readers sound off on South Carolina voters, Europe\u2019s wildfires and",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on South Carolina voters, Europe\u2019s wildfires and Pat Benatar",
+        "article_url": "https://www.nydailynews.com/2026/08/21/readers-sound-off-on-south-carolina-voters-europes-wildfires-and-pat-benatar/",
+        "published_at": "2026-08-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-21T09:31:34.668987+00:00",
+      "verification": {
+        "article_title": "Readers sound off on South Carolina voters, Europe\u2019s wildfires and Pat Benatar",
+        "article_url": "https://www.nydailynews.com/2026/08/21/readers-sound-off-on-south-carolina-voters-europes-wildfires-and-pat-benatar/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-21T09:31:32.727143+00:00"
+      }
+    },
+    {
+      "headline": "Artist Nicole Cooper\u00e2s Work Offers New Ways to Think About",
+      "bullets": [
+        "Artist Nicole Cooper\u00e2s Work Offers New Ways to Think About Climate Climate artist Nicole Cooper, one of this year\u00e2s Lower Manhattan Cultural Center\u00e2s Art Center Residents, is using the program to explore new mediums and approaches.",
+        "On the northern tip of Governors Island, just half a mile from lower Manhattan, a former 1870s munitions warehouse has been transformed."
+      ],
+      "summary": "Artist Nicole Cooper\u00e2s Work Offers New Ways to Think About",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Artist Nicole Cooper\u00e2s Work Offers New Ways to Think About Climate",
+        "article_url": "https://www.ourtownny.com/city-arts/artist-nicole-cooper-s-work-offers-new-ways-to-think-about-climate-AE6116266",
+        "published_at": "2026-08-18"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-21T09:31:34.761507+00:00",
+      "verification": {
+        "article_title": "Artist Nicole Cooper\u00e2s Work Offers New Ways to Think About Climate",
+        "article_url": "https://www.ourtownny.com/city-arts/artist-nicole-cooper-s-work-offers-new-ways-to-think-about-climate-AE6116266",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-21T09:31:32.864102+00:00"
+      }
+    },
+    {
+      "headline": "Upper East Side Thrift Shop Expands With New Location On",
+      "bullets": [
+        "Upper East Side Thrift Shop Expands With New Location On First Avenue The family-run thrift business, which donates proceeds to families and an orphanage in Ukraine, has grown to four locations.",
+        "UPPER EAST SIDE, NY \u2014 A family-run thrift shop business with roots on the Upper East Side has expanded again, opening its fourth location at 1199 First Ave., between East 64th and East 65th streets."
+      ],
+      "summary": "Upper East Side Thrift Shop Expands With New Location On",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Upper East Side Thrift Shop Expands With New Location On First Avenue",
+        "article_url": "https://patch.com/new-york/upper-west-side-nyc/upper-east-side-thrift-shop-expands-new-location-first-avenue",
+        "published_at": "2026-08-20T20:46:08+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-21T09:31:34.865385+00:00",
+      "verification": {
+        "article_title": "Upper East Side Thrift Shop Expands With New Location On First Avenue",
+        "article_url": "https://patch.com/new-york/upper-west-side-nyc/upper-east-side-thrift-shop-expands-new-location-first-avenue",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-21T09:31:32.963719+00:00"
+      }
+    },
+    {
+      "headline": "New York City is full of transplant pizza. We tried",
+      "bullets": [
+        "This column originally appeared in the Looped In NYC newsletter.",
+        "Sign up here."
+      ],
+      "summary": "New York City is full of transplant pizza. We tried",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "New York City is full of transplant pizza. We tried some.",
+        "article_url": "https://gothamist.com/arts-entertainment/new-york-city-is-full-of-transplant-pizza-we-tried-some",
+        "published_at": "2026-08-20T14:46:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-21T09:31:34.962707+00:00",
+      "verification": {
+        "article_title": "New York City is full of transplant pizza. We tried some.",
+        "article_url": "https://gothamist.com/arts-entertainment/new-york-city-is-full-of-transplant-pizza-we-tried-some",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-21T09:31:33.087469+00:00"
+      }
+    }
+  ]
+}
