@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-08-24T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-08-24.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Readers sound off on city retirees\u2019 fight, L.I. tornado and",
+      "bullets": [
+        "The city still needs to keep its promise Manhattan: Last week, Councilman Christopher Marte introduced Intro 1008, proposed legislation that protects the healthcare coverage for Medicare-eligible retirees and their Medicare-eligible dependents.",
+        "I hope the Council gives as much consideration to these great contributors to the quality of life of our city as it has given to teachers\u2019 aides and other active employees."
+      ],
+      "summary": "Readers sound off on city retirees\u2019 fight, L.I. tornado and",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on city retirees\u2019 fight, L.I. tornado and running against healthcare",
+        "article_url": "https://www.nydailynews.com/2026/08/24/readers-sound-off-on-city-retirees-fight-l-i-tornado-and-running-against-healthcare/",
+        "published_at": "2026-08-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-24T09:40:06.173522+00:00",
+      "verification": {
+        "article_title": "Readers sound off on city retirees\u2019 fight, L.I. tornado and running against healthcare",
+        "article_url": "https://www.nydailynews.com/2026/08/24/readers-sound-off-on-city-retirees-fight-l-i-tornado-and-running-against-healthcare/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-24T09:40:04.060483+00:00"
+      }
+    },
+    {
+      "headline": "Human-caused Hawk Fire rapidly grows in Nevada, injuring 6 as",
+      "bullets": [
+        "The rapidly growing Hawk Fire has burned more than 10,500 acres near Reno, prompting widespread evacuations and a state of emergency, with nearly 42,000 residents reportedly ordered to evacuate.",
+        "Officials announced on Sunday that the fire is human-caused, and half a dozen injuries have been reported, including three civilians and three firefighters."
+      ],
+      "summary": "Human-caused Hawk Fire rapidly grows in Nevada, injuring 6 as",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Human-caused Hawk Fire rapidly grows in Nevada, injuring 6 as tens of thousands are forced to evacuate",
+        "article_url": "https://www.fox5ny.com/news/human-caused-hawk-fire-rapidly-grows-nevada-injuring-6-tens-thousands-forced-evacuate",
+        "published_at": "2026-08-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-24T09:40:06.281745+00:00",
+      "verification": {
+        "article_title": "Human-caused Hawk Fire rapidly grows in Nevada, injuring 6 as tens of thousands are forced to evacuate",
+        "article_url": "https://www.fox5ny.com/news/human-caused-hawk-fire-rapidly-grows-nevada-injuring-6-tens-thousands-forced-evacuate",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-24T09:40:04.195930+00:00"
+      }
+    },
+    {
+      "headline": "Jared Kushner and Democratic House leader Hakeem Jeffries met as",
+      "bullets": [
+        "House Minority Leader Hakeem Jeffries and President Trump's adviser and son-in-law met recently, a source familiar with the details confirmed to CBS News.",
+        "The private discussion comes less than three months before the ."
+      ],
+      "summary": "Jared Kushner and Democratic House leader Hakeem Jeffries met as",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Jared Kushner and Democratic House leader Hakeem Jeffries met as midterm elections loom",
+        "article_url": "https://www.cbsnews.com/newyork/news/jared-kushner-hakeem-jeffries-meeting-2026-midterm-elections/",
+        "published_at": "2026-08-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-24T09:40:06.379893+00:00",
+      "verification": {
+        "article_title": "Jared Kushner and Democratic House leader Hakeem Jeffries met as midterm elections loom",
+        "article_url": "https://www.cbsnews.com/newyork/news/jared-kushner-hakeem-jeffries-meeting-2026-midterm-elections/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-24T09:40:04.290608+00:00"
+      }
+    },
+    {
+      "headline": "Fast-growing Hawk Fire grows to 13,000 acres near Reno; 42,000",
+      "bullets": [
+        "Authorities said the fire, which injured six, is human-caused.",
+        "A fast-moving, out-of-control brush fire that kicked up on a hillside in Northern Nevada just outside Reno on Saturday has exploded to more than 13,000 acres and is threatening hundreds of homes, authorities said on Sunday."
+      ],
+      "summary": "Fast-growing Hawk Fire grows to 13,000 acres near Reno; 42,000",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Fast-growing Hawk Fire grows to 13,000 acres near Reno; 42,000 people forced to evacuate",
+        "article_url": "https://abc7ny.com/post/fast-growing-hawk-fire-explodes-10000-acres-spurs-evacuations-outside-reno-nevada/19723255/",
+        "published_at": "2026-08-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-24T09:40:06.472409+00:00",
+      "verification": {
+        "article_title": "Fast-growing Hawk Fire grows to 13,000 acres near Reno; 42,000 people forced to evacuate",
+        "article_url": "https://abc7ny.com/post/fast-growing-hawk-fire-explodes-10000-acres-spurs-evacuations-outside-reno-nevada/19723255/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-24T09:40:04.401294+00:00"
+      }
+    },
+    {
+      "headline": "Buc-ee\u2019s chain draws outcry in Ohio for launching fight over",
+      "bullets": [
+        "BEAVERCREEK, Ohio -- A lip-licking alligator, a smiling moose and a hat-wearing bear are among the many cartoon animals to have found themselves in the crosshairs of Buc-ee\u2019s, the popular Texas convenience store chain that has a penchant for protecting its buck-toothed beaver.",
+        "But now Buc-ee\u2019s has set off a Buckeye backlash across Ohio and beyond after taking on a beaver in the city of Beavercreek."
+      ],
+      "summary": "Buc-ee\u2019s chain draws outcry in Ohio for launching fight over",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Buc-ee\u2019s chain draws outcry in Ohio for launching fight over a mini mart's beaver logo",
+        "article_url": "https://abc7ny.com/story/buc-ees-chain-draws-outcry-ohio-launching-fight-mini-marts-beaver-logo/19724301/",
+        "published_at": "2026-08-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-24T09:40:06.595822+00:00",
+      "verification": {
+        "article_title": "Buc-ee\u2019s chain draws outcry in Ohio for launching fight over a mini mart's beaver logo",
+        "article_url": "https://abc7ny.com/story/buc-ees-chain-draws-outcry-ohio-launching-fight-mini-marts-beaver-logo/19724301/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-24T09:40:04.529978+00:00"
+      }
+    },
+    {
+      "headline": "Canada will impose retaliatory tariffs on US goods beginning Sept.",
+      "bullets": [
+        "WASHINGTON (AP) \u2014 The United States imposed 50% tariffs on $20 billion worth of Canadian products early Saturday, and Canada said it would retaliate beginning Sept.",
+        "8 after last-ditch negotiations failed to resolve the latest strain in relations between the historic allies."
+      ],
+      "summary": "Canada will impose retaliatory tariffs on US goods beginning Sept.",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Canada will impose retaliatory tariffs on US goods beginning Sept. 8 as trade negotiations collapse",
+        "article_url": "https://www.nydailynews.com/2026/08/22/canada-will-impose-retaliatory-tariffs-on-us-goods-beginning-sept-8-as-trade-negotiations-collapse/",
+        "published_at": "2026-08-22"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-24T09:40:06.692640+00:00",
+      "verification": {
+        "article_title": "Canada will impose retaliatory tariffs on US goods beginning Sept. 8 as trade negotiations collapse",
+        "article_url": "https://www.nydailynews.com/2026/08/22/canada-will-impose-retaliatory-tariffs-on-us-goods-beginning-sept-8-as-trade-negotiations-collapse/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-24T09:40:04.638678+00:00"
+      }
+    },
+    {
+      "headline": "NYC Fire Museum Reopens Ahead of 25-year 9/11 Anniversary",
+      "bullets": [
+        "NYC Fire Museum Reopens Ahead of 25-year 9/11 Anniversary The official museum for the FDNY was closed for over two years to complete necessary renovations, but is finally open again under Executive Director Dominick DeRubbio.",
+        "As New York City approaches 25 years since the Sept."
+      ],
+      "summary": "NYC Fire Museum Reopens Ahead of 25-year 9/11 Anniversary",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "NYC Fire Museum Reopens Ahead of 25-year 9/11 Anniversary",
+        "article_url": "https://www.ourtownny.com/news/nyc-fire-museum-reopens-ahead-of-25-year-9-11-anniversary-LA6130814",
+        "published_at": "2026-08-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-24T09:40:06.789397+00:00",
+      "verification": {
+        "article_title": "NYC Fire Museum Reopens Ahead of 25-year 9/11 Anniversary",
+        "article_url": "https://www.ourtownny.com/news/nyc-fire-museum-reopens-ahead-of-25-year-9-11-anniversary-LA6130814",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-24T09:40:04.755848+00:00"
+      }
+    },
+    {
+      "headline": "Fast-growing Hawk Fire grows to 13,000 acres near Reno; 42,000",
+      "bullets": [
+        "Authorities said the fire, which injured six, is human-caused.",
+        "A fast-moving, out-of-control brush fire that kicked up on a hillside in Northern Nevada just outside Reno on Saturday has exploded to more than 13,000 acres and is threatening hundreds of homes, authorities said on Sunday."
+      ],
+      "summary": "Fast-growing Hawk Fire grows to 13,000 acres near Reno; 42,000",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Fast-growing Hawk Fire grows to 13,000 acres near Reno; 42,000 people forced to evacuate",
+        "article_url": "https://abc7ny.com/post/fast-growing-hawk-fire-explodes-10000-acres-spurs-evacuations-outside-reno-nevada/19723255/",
+        "published_at": "2026-08-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-24T09:40:06.931844+00:00",
+      "verification": {
+        "article_title": "Fast-growing Hawk Fire grows to 13,000 acres near Reno; 42,000 people forced to evacuate",
+        "article_url": "https://abc7ny.com/post/fast-growing-hawk-fire-explodes-10000-acres-spurs-evacuations-outside-reno-nevada/19723255/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-24T09:40:04.850772+00:00"
+      }
+    },
+    {
+      "headline": "Suspect sought in overnight Central Park groping attack",
+      "bullets": [
+        "CENTRAL PARK, Manhattan (WABC) -- Police are searching for a suspect accused of groping a 41-year-old woman in Central Park early Sunday morning.",
+        "The attack happened just after 3 a.m."
+      ],
+      "summary": "Suspect sought in overnight Central Park groping attack",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Suspect sought in overnight Central Park groping attack",
+        "article_url": "https://abc7ny.com/post/nypd-looking-suspect-central-park-assault-involving-41-year-old-woman/19726441/",
+        "published_at": "2026-08-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-24T09:40:07.026747+00:00",
+      "verification": {
+        "article_title": "Suspect sought in overnight Central Park groping attack",
+        "article_url": "https://abc7ny.com/post/nypd-looking-suspect-central-park-assault-involving-41-year-old-woman/19726441/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-24T09:40:04.982798+00:00"
+      }
+    },
+    {
+      "headline": "Early morning storms lead to flooding in parts of NYC,",
+      "bullets": [
+        "NEW YORK -- A line of fast-moving storms led to flooding in parts of New York City and New Jersey on Sunday morning.",
+        "Flooding near Exit 5 of the Clearview Expressway in Queens trapped two cars."
+      ],
+      "summary": "Early morning storms lead to flooding in parts of NYC,",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Early morning storms lead to flooding in parts of NYC, NJ",
+        "article_url": "https://abc7ny.com/post/early-morning-storms-lead-flooding-parts-nyc-nj/19722686/",
+        "published_at": "2026-08-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-24T09:40:07.132713+00:00",
+      "verification": {
+        "article_title": "Early morning storms lead to flooding in parts of NYC, NJ",
+        "article_url": "https://abc7ny.com/post/early-morning-storms-lead-flooding-parts-nyc-nj/19722686/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-24T09:40:05.078048+00:00"
+      }
+    },
+    {
+      "headline": "NYC Mayor Mamdani, NYPD discuss security plan for Dominican Day",
+      "bullets": [
+        "New York City officials discussed security efforts ahead of the 44th annual Dominican Day Parade in Manhattan.",
+        "The parade kicks off at 11 a.m."
+      ],
+      "summary": "NYC Mayor Mamdani, NYPD discuss security plan for Dominican Day",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "NYC Mayor Mamdani, NYPD discuss security plan for Dominican Day Parade in Manhattan",
+        "article_url": "https://www.cbsnews.com/newyork/news/zohran-mamdani-nypd-dominican-day-parade-nyc-security/",
+        "published_at": "2026-08-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-24T09:40:07.260040+00:00",
+      "verification": {
+        "article_title": "NYC Mayor Mamdani, NYPD discuss security plan for Dominican Day Parade in Manhattan",
+        "article_url": "https://www.cbsnews.com/newyork/news/zohran-mamdani-nypd-dominican-day-parade-nyc-security/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-24T09:40:05.171053+00:00"
+      }
+    },
+    {
+      "headline": "NYC Mayor Zohran Mamdani reacts to Speaker Johnson's \"mini Mamdanis\"",
+      "bullets": [
+        "New York City Mayor Zohran Mamdani is reacting after in the Democratic Senate primary race there.",
+        "Democratic progressive Dr."
+      ],
+      "summary": "NYC Mayor Zohran Mamdani reacts to Speaker Johnson's \"mini Mamdanis\"",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "NYC Mayor Zohran Mamdani reacts to Speaker Johnson's \"mini Mamdanis\" remark",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-mayor-zohran-mamdani-abdul-el-sayed-michigan-mike-johnson/",
+        "published_at": "2026-08-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-24T09:40:07.356913+00:00",
+      "verification": {
+        "article_title": "NYC Mayor Zohran Mamdani reacts to Speaker Johnson's \"mini Mamdanis\" remark",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-mayor-zohran-mamdani-abdul-el-sayed-michigan-mike-johnson/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-24T09:40:05.264915+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: Getting Started with NYC Preschool Admissions",
+      "bullets": [
+        "Choosing a preschool in New York City can feel overwhelming.",
+        "With so many options, timelines, and opinions, it can be difficult to know where to begin."
+      ],
+      "summary": "Local Event: Getting Started with NYC Preschool Admissions",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Getting Started with NYC Preschool Admissions",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260825/c6a24564-1505-40a5-a1ee-e9576b671113/getting-started-with-nyc-preschool-admissions",
+        "published_at": "2026-08-25T17:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-24T09:40:07.452313+00:00",
+      "verification": {
+        "article_title": "Local Event: Getting Started with NYC Preschool Admissions",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260825/c6a24564-1505-40a5-a1ee-e9576b671113/getting-started-with-nyc-preschool-admissions",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-24T09:40:05.390755+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: Get Ready for Fall: Preparing for the Middle",
+      "bullets": [
+        "New York City, NY|Featured Event Get Ready for Fall: Preparing for the Middle and High School Application Process We invite you to join our virtual workshop designed for families applying to Middle and High School for fall 2026 admissions (for entrance in the fall of 2027)!",
+        "This interactive virtual workshop, led by Parents League School Advisor Evie Gurney, will provide valuable advice on the Middle and High School admissions process: tips and guidance on the active phase of the admissions process for private and independent schools, including recommendations, essays, tours, and most importantly, interviews."
+      ],
+      "summary": "Local Event: Get Ready for Fall: Preparing for the Middle",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Get Ready for Fall: Preparing for the Middle and High School Application Process",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260826/d1c95961-90e4-43c8-a87f-b67ed6c27d68/get-ready-for-fall-preparing-for-the-middle-and-high-school-application-process",
+        "published_at": "2026-08-26T17:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-24T09:40:07.548891+00:00",
+      "verification": {
+        "article_title": "Local Event: Get Ready for Fall: Preparing for the Middle and High School Application Process",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260826/d1c95961-90e4-43c8-a87f-b67ed6c27d68/get-ready-for-fall-preparing-for-the-middle-and-high-school-application-process",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-24T09:40:05.518698+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on city retirees\u2019 fight, L.I. tornado and",
+      "bullets": [
+        "The city still needs to keep its promise Manhattan: Last week, Councilman Christopher Marte introduced Intro 1008, proposed legislation that protects the healthcare coverage for Medicare-eligible retirees and their Medicare-eligible dependents.",
+        "I hope the Council gives as much consideration to these great contributors to the quality of life of our city as it has given to teachers\u2019 aides and other active employees."
+      ],
+      "summary": "Readers sound off on city retirees\u2019 fight, L.I. tornado and",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on city retirees\u2019 fight, L.I. tornado and running against healthcare",
+        "article_url": "https://www.nydailynews.com/2026/08/24/readers-sound-off-on-city-retirees-fight-l-i-tornado-and-running-against-healthcare/",
+        "published_at": "2026-08-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-24T09:40:07.641783+00:00",
+      "verification": {
+        "article_title": "Readers sound off on city retirees\u2019 fight, L.I. tornado and running against healthcare",
+        "article_url": "https://www.nydailynews.com/2026/08/24/readers-sound-off-on-city-retirees-fight-l-i-tornado-and-running-against-healthcare/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-24T09:40:05.612563+00:00"
+      }
+    },
+    {
+      "headline": "Artist Nicole Cooper\u00e2s Work Offers New Ways to Think About",
+      "bullets": [
+        "Artist Nicole Cooper\u00e2s Work Offers New Ways to Think About Climate Climate artist Nicole Cooper, one of this year\u00e2s Lower Manhattan Cultural Center\u00e2s Art Center Residents, is using the program to explore new mediums and approaches.",
+        "On the northern tip of Governors Island, just half a mile from lower Manhattan, a former 1870s munitions warehouse has been transformed."
+      ],
+      "summary": "Artist Nicole Cooper\u00e2s Work Offers New Ways to Think About",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Artist Nicole Cooper\u00e2s Work Offers New Ways to Think About Climate",
+        "article_url": "https://www.ourtownny.com/city-arts/artist-nicole-cooper-s-work-offers-new-ways-to-think-about-climate-AE6116266",
+        "published_at": "2026-08-18"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-24T09:40:07.767563+00:00",
+      "verification": {
+        "article_title": "Artist Nicole Cooper\u00e2s Work Offers New Ways to Think About Climate",
+        "article_url": "https://www.ourtownny.com/city-arts/artist-nicole-cooper-s-work-offers-new-ways-to-think-about-climate-AE6116266",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-24T09:40:05.728187+00:00"
+      }
+    },
+    {
+      "headline": "Safety work to begin on one of Jersey City's most",
+      "bullets": [
+        "Construction work on a major redesign of one of Hudson County\u2019s most dangerous roads is set to begin this week.",
+        "Hudson County officials say work to remake a stretch of John F."
+      ],
+      "summary": "Safety work to begin on one of Jersey City's most",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Safety work to begin on one of Jersey City's most dangerous roads",
+        "article_url": "https://gothamist.com/news/safety-work-to-begin-on-one-of-jersey-citys-most-dangerous-roads",
+        "published_at": "2026-08-23T12:00:55+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-24T09:40:07.860638+00:00",
+      "verification": {
+        "article_title": "Safety work to begin on one of Jersey City's most dangerous roads",
+        "article_url": "https://gothamist.com/news/safety-work-to-begin-on-one-of-jersey-citys-most-dangerous-roads",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-24T09:40:05.845963+00:00"
+      }
+    },
+    {
+      "headline": "BQE rehabilitation plan aims to extend expressway's life by 40",
+      "bullets": [
+        "BROOKLYN HEIGHTS (WABC) -- New York City has unveiled a long-awaited plan to rehabilitate the aging Brooklyn-Queens Expressway, proposing a pair of temporary bypasses that officials say would allow critical repairs while preserving views from the Brooklyn Heights Promenade.",
+        "Mayor Zohran Mamdani announced the proposal Monday, calling it a solution to one of the city's most pressing infrastructure challenges."
+      ],
+      "summary": "BQE rehabilitation plan aims to extend expressway's life by 40",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "BQE rehabilitation plan aims to extend expressway's life by 40 years",
+        "article_url": "https://abc7ny.com/post/nyc-unveils-4-billion-plan-overhaul-aging-bqe-closing-brooklyn-promenade/19726568/",
+        "published_at": "2026-08-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-24T09:40:08.009382+00:00",
+      "verification": {
+        "article_title": "BQE rehabilitation plan aims to extend expressway's life by 40 years",
+        "article_url": "https://abc7ny.com/post/nyc-unveils-4-billion-plan-overhaul-aging-bqe-closing-brooklyn-promenade/19726568/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-24T09:40:05.945034+00:00"
+      }
+    }
+  ]
+}

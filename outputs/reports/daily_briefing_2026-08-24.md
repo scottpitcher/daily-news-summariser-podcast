@@ -1,0 +1,141 @@
+## Economy and Business
+
+**Buc-ee’s chain draws outcry in Ohio for launching fight over**
+- BEAVERCREEK, Ohio -- A lip-licking alligator, a smiling moose and a hat-wearing bear are among the many cartoon animals to have found themselves in the crosshairs of Buc-ee’s, the popular Texas convenience store chain that has a penchant for protecting its buck-toothed beaver.
+- But now Buc-ee’s has set off a Buckeye backlash across Ohio and beyond after taking on a beaver in the city of Beavercreek.
+
+**So what?** Relevant to NYC economy business — check the full article for specific local implications.
+
+Source: [Buc-ee’s chain draws outcry in Ohio for launching fight over a mini mart's beaver logo](https://abc7ny.com/story/buc-ees-chain-draws-outcry-ohio-launching-fight-mini-marts-beaver-logo/19724301/) — ABC7 New York
+
+**Canada will impose retaliatory tariffs on US goods beginning Sept.**
+- WASHINGTON (AP) — The United States imposed 50% tariffs on $20 billion worth of Canadian products early Saturday, and Canada said it would retaliate beginning Sept.
+- 8 after last-ditch negotiations failed to resolve the latest strain in relations between the historic allies.
+
+**So what?** Relevant to NYC economy business — check the full article for specific local implications.
+
+Source: [Canada will impose retaliatory tariffs on US goods beginning Sept. 8 as trade negotiations collapse](https://www.nydailynews.com/2026/08/22/canada-will-impose-retaliatory-tariffs-on-us-goods-beginning-sept-8-as-trade-negotiations-collapse/) — New York Daily News
+
+**NYC Fire Museum Reopens Ahead of 25-year 9/11 Anniversary**
+- NYC Fire Museum Reopens Ahead of 25-year 9/11 Anniversary The official museum for the FDNY was closed for over two years to complete necessary renovations, but is finally open again under Executive Director Dominick DeRubbio.
+- As New York City approaches 25 years since the Sept.
+
+**So what?** Relevant to NYC economy business — check the full article for specific local implications.
+
+Source: [NYC Fire Museum Reopens Ahead of 25-year 9/11 Anniversary](https://www.ourtownny.com/news/nyc-fire-museum-reopens-ahead-of-25-year-9-11-anniversary-LA6130814) — Our Town
+
+## Politics and Government
+
+**Fast-growing Hawk Fire grows to 13,000 acres near Reno; 42,000**
+- Authorities said the fire, which injured six, is human-caused.
+- A fast-moving, out-of-control brush fire that kicked up on a hillside in Northern Nevada just outside Reno on Saturday has exploded to more than 13,000 acres and is threatening hundreds of homes, authorities said on Sunday.
+
+**So what?** Relevant to NYC politics government — check the full article for specific local implications.
+
+Source: [Fast-growing Hawk Fire grows to 13,000 acres near Reno; 42,000 people forced to evacuate](https://abc7ny.com/post/fast-growing-hawk-fire-explodes-10000-acres-spurs-evacuations-outside-reno-nevada/19723255/) — ABC7 New York
+
+**Jared Kushner and Democratic House leader Hakeem Jeffries met as**
+- House Minority Leader Hakeem Jeffries and President Trump's adviser and son-in-law met recently, a source familiar with the details confirmed to CBS News.
+- The private discussion comes less than three months before the .
+
+**So what?** Relevant to NYC politics government — check the full article for specific local implications.
+
+Source: [Jared Kushner and Democratic House leader Hakeem Jeffries met as midterm elections loom](https://www.cbsnews.com/newyork/news/jared-kushner-hakeem-jeffries-meeting-2026-midterm-elections/) — CBS New York
+
+**Human-caused Hawk Fire rapidly grows in Nevada, injuring 6 as**
+- The rapidly growing Hawk Fire has burned more than 10,500 acres near Reno, prompting widespread evacuations and a state of emergency, with nearly 42,000 residents reportedly ordered to evacuate.
+- Officials announced on Sunday that the fire is human-caused, and half a dozen injuries have been reported, including three civilians and three firefighters.
+
+**So what?** Relevant to NYC politics government — check the full article for specific local implications.
+
+Source: [Human-caused Hawk Fire rapidly grows in Nevada, injuring 6 as tens of thousands are forced to evacuate](https://www.fox5ny.com/news/human-caused-hawk-fire-rapidly-grows-nevada-injuring-6-tens-thousands-forced-evacuate) — FOX 5 New York
+
+**Readers sound off on city retirees’ fight, L.I. tornado and**
+- The city still needs to keep its promise Manhattan: Last week, Councilman Christopher Marte introduced Intro 1008, proposed legislation that protects the healthcare coverage for Medicare-eligible retirees and their Medicare-eligible dependents.
+- I hope the Council gives as much consideration to these great contributors to the quality of life of our city as it has given to teachers’ aides and other active employees.
+
+**So what?** Relevant to NYC politics government — check the full article for specific local implications.
+
+Source: [Readers sound off on city retirees’ fight, L.I. tornado and running against healthcare](https://www.nydailynews.com/2026/08/24/readers-sound-off-on-city-retirees-fight-l-i-tornado-and-running-against-healthcare/) — New York Daily News
+
+## Public Safety
+
+**Fast-growing Hawk Fire grows to 13,000 acres near Reno; 42,000**
+- Authorities said the fire, which injured six, is human-caused.
+- A fast-moving, out-of-control brush fire that kicked up on a hillside in Northern Nevada just outside Reno on Saturday has exploded to more than 13,000 acres and is threatening hundreds of homes, authorities said on Sunday.
+
+**So what?** Relevant to NYC public safety — check the full article for specific local implications.
+
+Source: [Fast-growing Hawk Fire grows to 13,000 acres near Reno; 42,000 people forced to evacuate](https://abc7ny.com/post/fast-growing-hawk-fire-explodes-10000-acres-spurs-evacuations-outside-reno-nevada/19723255/) — ABC7 New York
+
+**Suspect sought in overnight Central Park groping attack**
+- CENTRAL PARK, Manhattan (WABC) -- Police are searching for a suspect accused of groping a 41-year-old woman in Central Park early Sunday morning.
+- The attack happened just after 3 a.m.
+
+**So what?** Relevant to NYC public safety — check the full article for specific local implications.
+
+Source: [Suspect sought in overnight Central Park groping attack](https://abc7ny.com/post/nypd-looking-suspect-central-park-assault-involving-41-year-old-woman/19726441/) — ABC7 New York
+
+**Early morning storms lead to flooding in parts of NYC,**
+- NEW YORK -- A line of fast-moving storms led to flooding in parts of New York City and New Jersey on Sunday morning.
+- Flooding near Exit 5 of the Clearview Expressway in Queens trapped two cars.
+
+**So what?** Relevant to NYC public safety — check the full article for specific local implications.
+
+Source: [Early morning storms lead to flooding in parts of NYC, NJ](https://abc7ny.com/post/early-morning-storms-lead-flooding-parts-nyc-nj/19722686/) — ABC7 New York
+
+## Climate and Energy
+
+**Readers sound off on city retirees’ fight, L.I. tornado and**
+- The city still needs to keep its promise Manhattan: Last week, Councilman Christopher Marte introduced Intro 1008, proposed legislation that protects the healthcare coverage for Medicare-eligible retirees and their Medicare-eligible dependents.
+- I hope the Council gives as much consideration to these great contributors to the quality of life of our city as it has given to teachers’ aides and other active employees.
+
+**So what?** Relevant to NYC climate energy — check the full article for specific local implications.
+
+Source: [Readers sound off on city retirees’ fight, L.I. tornado and running against healthcare](https://www.nydailynews.com/2026/08/24/readers-sound-off-on-city-retirees-fight-l-i-tornado-and-running-against-healthcare/) — New York Daily News
+
+**Artist Nicole Cooperâs Work Offers New Ways to Think About**
+- Artist Nicole Cooperâs Work Offers New Ways to Think About Climate Climate artist Nicole Cooper, one of this yearâs Lower Manhattan Cultural Centerâs Art Center Residents, is using the program to explore new mediums and approaches.
+- On the northern tip of Governors Island, just half a mile from lower Manhattan, a former 1870s munitions warehouse has been transformed.
+
+**So what?** Relevant to NYC climate energy — check the full article for specific local implications.
+
+Source: [Artist Nicole Cooperâs Work Offers New Ways to Think About Climate](https://www.ourtownny.com/city-arts/artist-nicole-cooper-s-work-offers-new-ways-to-think-about-climate-AE6116266) — Our Town
+
+## Education
+
+**Local Event: Getting Started with NYC Preschool Admissions**
+- Choosing a preschool in New York City can feel overwhelming.
+- With so many options, timelines, and opinions, it can be difficult to know where to begin.
+
+**So what?** Relevant to NYC education — check the full article for specific local implications.
+
+Source: [Local Event: Getting Started with NYC Preschool Admissions](https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260825/c6a24564-1505-40a5-a1ee-e9576b671113/getting-started-with-nyc-preschool-admissions) — Patch Upper East Side
+
+**Local Event: Get Ready for Fall: Preparing for the Middle**
+- New York City, NY|Featured Event Get Ready for Fall: Preparing for the Middle and High School Application Process We invite you to join our virtual workshop designed for families applying to Middle and High School for fall 2026 admissions (for entrance in the fall of 2027)!
+- This interactive virtual workshop, led by Parents League School Advisor Evie Gurney, will provide valuable advice on the Middle and High School admissions process: tips and guidance on the active phase of the admissions process for private and independent schools, including recommendations, essays, tours, and most importantly, interviews.
+
+**So what?** Relevant to NYC education — check the full article for specific local implications.
+
+Source: [Local Event: Get Ready for Fall: Preparing for the Middle and High School Application Process](https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260826/d1c95961-90e4-43c8-a87f-b67ed6c27d68/get-ready-for-fall-preparing-for-the-middle-and-high-school-application-process) — Patch Upper East Side
+
+## Health
+
+**NYC Mayor Mamdani, NYPD discuss security plan for Dominican Day**
+- New York City officials discussed security efforts ahead of the 44th annual Dominican Day Parade in Manhattan.
+- The parade kicks off at 11 a.m.
+
+**So what?** Relevant to NYC health — check the full article for specific local implications.
+
+Source: [NYC Mayor Mamdani, NYPD discuss security plan for Dominican Day Parade in Manhattan](https://www.cbsnews.com/newyork/news/zohran-mamdani-nypd-dominican-day-parade-nyc-security/) — CBS New York
+
+**NYC Mayor Zohran Mamdani reacts to Speaker Johnson's "mini Mamdanis"**
+- New York City Mayor Zohran Mamdani is reacting after in the Democratic Senate primary race there.
+- Democratic progressive Dr.
+
+**So what?** Relevant to NYC health — check the full article for specific local implications.
+
+Source: [NYC Mayor Zohran Mamdani reacts to Speaker Johnson's "mini Mamdanis" remark](https://www.cbsnews.com/newyork/news/nyc-mayor-zohran-mamdani-abdul-el-sayed-michigan-mike-johnson/) — CBS New York
+
+That concludes today's briefing.
