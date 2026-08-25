@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-08-25T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-08-25.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "New Times Square Exhibition Celebrates New Year\u00e2s Eve Every Day",
+      "bullets": [
+        "New Times Square Exhibition Celebrates New Year\u00e2s Eve Every Day Times Travel brings visitors through the history of One Times Square, the building that was originally home to The New York Times before it became the center of the Times Square New Year\u00e2s Eve celebration.",
+        "Since its installation in 1928, the news ticker that wraps around One Times Square has announced the Stock Market crash of 1929, the end of World War II, the moon landing and numerous presidential election results."
+      ],
+      "summary": "New Times Square Exhibition Celebrates New Year\u00e2s Eve Every Day",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "New Times Square Exhibition Celebrates New Year\u00e2s Eve Every Day",
+        "article_url": "https://www.ourtownny.com/city-arts/new-times-square-exhibition-celebrates-new-year-s-eve-every-day-EA6130402",
+        "published_at": "2026-08-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-25T09:30:08.021063+00:00",
+      "verification": {
+        "article_title": "New Times Square Exhibition Celebrates New Year\u00e2s Eve Every Day",
+        "article_url": "https://www.ourtownny.com/city-arts/new-times-square-exhibition-celebrates-new-year-s-eve-every-day-EA6130402",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-25T09:30:05.893580+00:00"
+      }
+    },
+    {
+      "headline": "India Day Parade Thrills Many Thousands Along Madison Avenue",
+      "bullets": [
+        "India Day Parade Thrills Many Thousands Along Madison Avenue The 44th annual event turned the streets white, saffron, and innumerable other colors of India\u00e2s resplendent diasporic rainbow with Governor Kathy Hochul cheering them all.",
+        "Mayor Zohran Mamdani skipped the parade\u00e2which the Indian media noticed."
+      ],
+      "summary": "India Day Parade Thrills Many Thousands Along Madison Avenue",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "India Day Parade Thrills Many Thousands Along Madison Avenue",
+        "article_url": "https://www.ourtownny.com/news/india-day-parade-thrills-many-thousands-along-madison-avenue-LA6130973",
+        "published_at": "2026-08-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-25T09:30:08.134615+00:00",
+      "verification": {
+        "article_title": "India Day Parade Thrills Many Thousands Along Madison Avenue",
+        "article_url": "https://www.ourtownny.com/news/india-day-parade-thrills-many-thousands-along-madison-avenue-LA6130973",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-25T09:30:06.016254+00:00"
+      }
+    },
+    {
+      "headline": "Supreme Court allows Trump to implement key parts of order",
+      "bullets": [
+        "Washington \u2014 The Supreme Court on Monday allowed President Trump's administration to move ahead with implementing key portions of an executive order that seeks to tighten the rules for mail voting ahead of the November midterm elections.",
+        "In a 6-3 ruling, the high court granted a request for emergency relief sought by the Trump administration late last month in a case involving 23 Democratic-led states."
+      ],
+      "summary": "Supreme Court allows Trump to implement key parts of order",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Supreme Court allows Trump to implement key parts of order restricting mail voting ahead of midterms",
+        "article_url": "https://www.cbsnews.com/newyork/news/supreme-court-trump-mail-voting-order-usps-dhs/",
+        "published_at": "2026-08-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-25T09:30:08.246769+00:00",
+      "verification": {
+        "article_title": "Supreme Court allows Trump to implement key parts of order restricting mail voting ahead of midterms",
+        "article_url": "https://www.cbsnews.com/newyork/news/supreme-court-trump-mail-voting-order-usps-dhs/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-25T09:30:06.127639+00:00"
+      }
+    },
+    {
+      "headline": "Jared Kushner meets with Democratic leader Jeffries with House control",
+      "bullets": [
+        "By LISA MASCARO WASHINGTON (AP) \u2014 House Democratic leader Hakeem Jeffries and President Donald Trump\u2019s son-in-law and outside adviser Jared Kushner met privately recently in New York, a signal that the White House is seeking ways to work with Democrats if they wrest majority control from Republicans in the midterm elections.",
+        "The meeting, first reported Sunday by The New York Times, touched on issues ranging from housing, immigration to the high costs of living."
+      ],
+      "summary": "Jared Kushner meets with Democratic leader Jeffries with House control",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Jared Kushner meets with Democratic leader Jeffries with House control at stake in November",
+        "article_url": "https://www.nydailynews.com/2026/08/24/jared-kushner-hakeem-jeffries-meeting/",
+        "published_at": "2026-08-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-25T09:30:08.357437+00:00",
+      "verification": {
+        "article_title": "Jared Kushner meets with Democratic leader Jeffries with House control at stake in November",
+        "article_url": "https://www.nydailynews.com/2026/08/24/jared-kushner-hakeem-jeffries-meeting/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-25T09:30:06.252523+00:00"
+      }
+    },
+    {
+      "headline": "Best spatulas",
+      "bullets": [
+        "Which spatula is best?",
+        "One of the most useful utensils in the kitchen is also one of the simplest and most often overlooked is the spatula."
+      ],
+      "summary": "Best spatulas",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Best spatulas",
+        "article_url": "https://www.nydailynews.com/2026/08/24/best-spatulas/",
+        "published_at": "2026-08-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-25T09:30:08.476120+00:00",
+      "verification": {
+        "article_title": "Best spatulas",
+        "article_url": "https://www.nydailynews.com/2026/08/24/best-spatulas/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-25T09:30:06.358486+00:00"
+      }
+    },
+    {
+      "headline": "Tennis-Loving Local Teens Land Coveted Ball Crew Jobs at U.S.",
+      "bullets": [
+        "Tennis-Loving Local Teens Land Coveted Ball Crew Jobs at U.S.",
+        "Open Daria Isajeva and Jeremy Orlicki-So\u00e2who attend NYC Lab and the Trinity School, respectively\u00e2talked to Straus News about the collaborative spirit that goes into helping tennis stars navigate their matches."
+      ],
+      "summary": "Tennis-Loving Local Teens Land Coveted Ball Crew Jobs at U.S.",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Tennis-Loving Local Teens Land Coveted Ball Crew Jobs at U.S. Open",
+        "article_url": "https://www.ourtownny.com/features/tennis-loving-local-teens-land-coveted-ball-crew-jobs-at-u-s-open-DI6138713",
+        "published_at": "2026-08-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-25T09:30:08.579518+00:00",
+      "verification": {
+        "article_title": "Tennis-Loving Local Teens Land Coveted Ball Crew Jobs at U.S. Open",
+        "article_url": "https://www.ourtownny.com/features/tennis-loving-local-teens-land-coveted-ball-crew-jobs-at-u-s-open-DI6138713",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-25T09:30:06.495910+00:00"
+      }
+    },
+    {
+      "headline": "Group of supermarkets, bodegas, suing NYC over mayor's city-run grocery",
+      "bullets": [
+        "EAST HARLEM, Manhattan (WABC) -- A group of supermarkets, grocery stores and bodegas are suing New York City over Mayor Zohran Mamdani's plans to open several city-run grocery stores.",
+        "They say the city-run stores will create unfair competition for an already struggling industry."
+      ],
+      "summary": "Group of supermarkets, bodegas, suing NYC over mayor's city-run grocery",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Group of supermarkets, bodegas, suing NYC over mayor's city-run grocery store plan",
+        "article_url": "https://abc7ny.com/post/group-supermarkets-bodegas-suing-nyc-mayors-city-run-grocery-store-plan/19730598/",
+        "published_at": "2026-08-25"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-25T09:30:08.679942+00:00",
+      "verification": {
+        "article_title": "Group of supermarkets, bodegas, suing NYC over mayor's city-run grocery store plan",
+        "article_url": "https://abc7ny.com/post/group-supermarkets-bodegas-suing-nyc-mayors-city-run-grocery-store-plan/19730598/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-25T09:30:06.609153+00:00"
+      }
+    },
+    {
+      "headline": "Democratic socialists' plan to curb Jersey City police funding falls",
+      "bullets": [
+        "Jersey City\u2019s public safety operations are slated to get a $7 million increase even as municipal leaders grapple with a historic financial crisis and plan to spike property taxes by at least 15%.",
+        "The planned increase comes as Jersey City\u2019s making sweeping cuts across local government \u2014 and despite local progressives seizing the political moment by calling for a \u201cPeople\u2019s Budget\u201d that would instead trim $3 million from police overtime and salaries."
+      ],
+      "summary": "Democratic socialists' plan to curb Jersey City police funding falls",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Democratic socialists' plan to curb Jersey City police funding falls flat in budget crisis",
+        "article_url": "https://gothamist.com/news/democratic-socialists-plan-to-curb-jersey-city-police-funding-falls-flat-in-budget-crisis",
+        "published_at": "2026-08-24T12:00:58+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-25T09:30:08.785638+00:00",
+      "verification": {
+        "article_title": "Democratic socialists' plan to curb Jersey City police funding falls flat in budget crisis",
+        "article_url": "https://gothamist.com/news/democratic-socialists-plan-to-curb-jersey-city-police-funding-falls-flat-in-budget-crisis",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-25T09:30:06.750494+00:00"
+      }
+    },
+    {
+      "headline": "NYPD reveals new details after people seen leaving sewer system",
+      "bullets": [
+        "MANHATTAN (WABC) -- The NYPD is investigating after three people were caught on camera climbing out of a manhole near Penn Station wearing overalls and headlamps last week.",
+        "Detectives believe many of the underground scavengers caught on camera are migrants searching for anything of value in the sewer system."
+      ],
+      "summary": "NYPD reveals new details after people seen leaving sewer system",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "NYPD reveals new details after people seen leaving sewer system near Penn Station",
+        "article_url": "https://abc7ny.com/post/detectives-say-scavengers-caught-emerging-sewers-are-migrants/19729199/",
+        "published_at": "2026-08-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-25T09:30:08.888249+00:00",
+      "verification": {
+        "article_title": "NYPD reveals new details after people seen leaving sewer system near Penn Station",
+        "article_url": "https://abc7ny.com/post/detectives-say-scavengers-caught-emerging-sewers-are-migrants/19729199/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-25T09:30:06.875117+00:00"
+      }
+    },
+    {
+      "headline": "Worker Plunges Down Elevator Shaft At Ultra-Luxury UES Condo: FDNY",
+      "bullets": [
+        "Worker Plunges Down Elevator Shaft At Ultra-Luxury UES Condo: FDNY The worker was extricated from the elevator shaft and rushed to the hospital Monday morning.",
+        "UPPER EAST SIDE, NY \u2014 A worker plunged down an elevator shaft inside an ultra-luxury condo building on the Upper East Side Monday morning, FDNY officials said."
+      ],
+      "summary": "Worker Plunges Down Elevator Shaft At Ultra-Luxury UES Condo: FDNY",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Worker Plunges Down Elevator Shaft At Ultra-Luxury UES Condo: FDNY",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/worker-plunges-40-feet-down-elevator-shaft-ultra-luxury-ues-condo-fdny",
+        "published_at": "2026-08-24T16:04:46+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-25T09:30:08.996851+00:00",
+      "verification": {
+        "article_title": "Worker Plunges Down Elevator Shaft At Ultra-Luxury UES Condo: FDNY",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/worker-plunges-40-feet-down-elevator-shaft-ultra-luxury-ues-condo-fdny",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-25T09:30:06.988256+00:00"
+      }
+    },
+    {
+      "headline": "Legionnaires' survivors point blame at NYC officials for another summer",
+      "bullets": [
+        "Ken Pearl\u2019s Apple Watch logs about 15,000 steps a day, mostly on the blocks around his Upper East Side apartment.",
+        "The 63-year-old history professor estimates he regularly strolls on every street in the neighborhood."
+      ],
+      "summary": "Legionnaires' survivors point blame at NYC officials for another summer",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Legionnaires' survivors point blame at NYC officials for another summer outbreak",
+        "article_url": "https://gothamist.com/news/legionnaires-survivors-point-blame-at-nyc-officials-for-another-summer-outbreak",
+        "published_at": "2026-08-24T10:00:56+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-25T09:30:09.105070+00:00",
+      "verification": {
+        "article_title": "Legionnaires' survivors point blame at NYC officials for another summer outbreak",
+        "article_url": "https://gothamist.com/news/legionnaires-survivors-point-blame-at-nyc-officials-for-another-summer-outbreak",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-25T09:30:07.089395+00:00"
+      }
+    },
+    {
+      "headline": "Teen dies after being shot in head at wild Bronx",
+      "bullets": [
+        "Three young people were shot \u2014 including a teen who died a day later \u2014 during a wild Bronx car meetup that ended in dozens of bullets fired after two women were robbed, police said Monday.",
+        "The shooting \u2014 during a rowdy meetup that is part of an alarming trend which has taken hold on social media \u2014 sparked off about 5:40 a.m."
+      ],
+      "summary": "Teen dies after being shot in head at wild Bronx",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Teen dies after being shot in head at wild Bronx car meetup, 4 others wounded",
+        "article_url": "https://www.nydailynews.com/2026/08/24/four-young-people-shot-wild-bronx-car-meetup-baychesterife/",
+        "published_at": "2026-08-24T18:15:49+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-25T09:30:09.211784+00:00",
+      "verification": {
+        "article_title": "Teen dies after being shot in head at wild Bronx car meetup, 4 others wounded",
+        "article_url": "https://www.nydailynews.com/2026/08/24/four-young-people-shot-wild-bronx-car-meetup-baychesterife/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-25T09:30:07.195501+00:00"
+      }
+    },
+    {
+      "headline": "City reading scores aren\u2019t the only data",
+      "bullets": [
+        "New York City\u2019s latest reading scores deserve attention.",
+        "The share of students in grades 3 through 8 who scored proficient on the state English Language Arts exam fell from 56.3% in 2025 to 50.3% this year."
+      ],
+      "summary": "City reading scores aren\u2019t the only data",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "City reading scores aren\u2019t the only data",
+        "article_url": "https://www.nydailynews.com/2026/08/25/city-reading-scores-arent-the-only-data/",
+        "published_at": "2026-08-25"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-25T09:30:09.312191+00:00",
+      "verification": {
+        "article_title": "City reading scores aren\u2019t the only data",
+        "article_url": "https://www.nydailynews.com/2026/08/25/city-reading-scores-arent-the-only-data/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-25T09:30:07.297331+00:00"
+      }
+    },
+    {
+      "headline": "Washington Post ordered to reinstate Black opinion writer fired after",
+      "bullets": [
+        "By COREY WILLIAMS An arbitrator has ordered The Washington Post to reinstate a Black opinion writer fired over social media posts about violent white men following last year\u2019s killing of Charlie Kirk.",
+        "The ruling Thursday said the newspaper did not have sufficient cause to terminate Karen Attiah, who at the time was the last Black full-time member of the Post\u2019s opinion desk."
+      ],
+      "summary": "Washington Post ordered to reinstate Black opinion writer fired after",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Washington Post ordered to reinstate Black opinion writer fired after Charlie Kirk posts",
+        "article_url": "https://www.nydailynews.com/2026/08/24/washington-post-writer-reinstated-charlie-kirk/",
+        "published_at": "2026-08-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-25T09:30:09.412194+00:00",
+      "verification": {
+        "article_title": "Washington Post ordered to reinstate Black opinion writer fired after Charlie Kirk posts",
+        "article_url": "https://www.nydailynews.com/2026/08/24/washington-post-writer-reinstated-charlie-kirk/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-25T09:30:07.398289+00:00"
+      }
+    },
+    {
+      "headline": "Queens councilmember demands the city invest more on flood prevention",
+      "bullets": [
+        "Queens councilmember Phil Wong called on Mayor Zohran Mamdani to redirect city funding toward strengthening flood-resilient infrastructure after Queens residents struggled with bouts of storms over the last month.",
+        "According to the letter sent Sunday, Wong called on the city to clean catch basins on a regular schedule instead of just after a storm, install more catch basins in flood-prone areas that can handle larger volumes of water, and install more \u201cretention tanks\u201d that store water underground after heavy rain."
+      ],
+      "summary": "Queens councilmember demands the city invest more on flood prevention",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Queens councilmember demands the city invest more on flood prevention",
+        "article_url": "https://gothamist.com/news/queens-council-member-demands-the-city-invest-more-on-flood-prevention",
+        "published_at": "2026-08-24T20:52:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-25T09:30:09.515115+00:00",
+      "verification": {
+        "article_title": "Queens councilmember demands the city invest more on flood prevention",
+        "article_url": "https://gothamist.com/news/queens-council-member-demands-the-city-invest-more-on-flood-prevention",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-25T09:30:07.517397+00:00"
+      }
+    },
+    {
+      "headline": "What is a heat advisory? Excessive heat warning? Heat wave?",
+      "bullets": [
+        "Much of the Tri-State Area is as the combined heat and humidity also brings with it the risk of flash flooding.",
+        "Summers can sizzle around the New York City area, where the hottest normal high is 85 degrees in July."
+      ],
+      "summary": "What is a heat advisory? Excessive heat warning? Heat wave?",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "What is a heat advisory? Excessive heat warning? Heat wave? Why they feel even hotter in NYC.",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-heat-wave-excessive-heat-warning/",
+        "published_at": "2024-06-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-25T09:30:09.615119+00:00",
+      "verification": {
+        "article_title": "What is a heat advisory? Excessive heat warning? Heat wave? Why they feel even hotter in NYC.",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-heat-wave-excessive-heat-warning/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-25T09:30:07.617639+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on rerouted buses, food deserts and anti-war",
+      "bullets": [
+        "Riders left waiting for a bus to nowhere Brooklyn: On Monday, Aug.",
+        "3, at about 9:30 p.m."
+      ],
+      "summary": "Readers sound off on rerouted buses, food deserts and anti-war",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on rerouted buses, food deserts and anti-war protesters",
+        "article_url": "https://www.nydailynews.com/2026/08/25/readers-sound-off-on-rerouted-buses-food-deserts-and-anti-war-protesters/",
+        "published_at": "2026-08-25"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-25T09:30:09.724314+00:00",
+      "verification": {
+        "article_title": "Readers sound off on rerouted buses, food deserts and anti-war protesters",
+        "article_url": "https://www.nydailynews.com/2026/08/25/readers-sound-off-on-rerouted-buses-food-deserts-and-anti-war-protesters/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-25T09:30:07.720814+00:00"
+      }
+    },
+    {
+      "headline": "Healthcare saving hacks to consider before November's open enrollment",
+      "bullets": [
+        "Affording health care can be a constant headache for families.",
+        "As insurance costs continue to rise, coupled with recent changes to the Affordable Care Act, some of the subsidies people count on have been rescinded."
+      ],
+      "summary": "Healthcare saving hacks to consider before November's open enrollment",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Healthcare saving hacks to consider before November's open enrollment",
+        "article_url": "https://abc7ny.com/post/healthcare-saving-hacks-consider-before-novembers-open-enrollment/19729978/",
+        "published_at": "2026-08-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-25T09:30:09.830489+00:00",
+      "verification": {
+        "article_title": "Healthcare saving hacks to consider before November's open enrollment",
+        "article_url": "https://abc7ny.com/post/healthcare-saving-hacks-consider-before-novembers-open-enrollment/19729978/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-25T09:30:07.817977+00:00"
+      }
+    }
+  ]
+}
