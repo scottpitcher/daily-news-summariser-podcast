@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-08-26T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-08-26.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Readers sound off on mail-in ballots ruling, Canada\u2019s clapback and",
+      "bullets": [
+        "The GOP\u2019s dismantling of America\u2019s core Glendale, Calif.: Congressional Republicans have repeatedly failed a simple test: Choose between President Trump and the Constitution.",
+        "It shouldn\u2019t be so hard."
+      ],
+      "summary": "Readers sound off on mail-in ballots ruling, Canada\u2019s clapback and",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on mail-in ballots ruling, Canada\u2019s clapback and youth baseball",
+        "article_url": "https://www.nydailynews.com/2026/08/26/readers-sound-off-on-mail-in-ballots-ruling-canadas-clapback-and-youth-baseball/",
+        "published_at": "2026-08-26"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-26T09:35:50.722898+00:00",
+      "verification": {
+        "article_title": "Readers sound off on mail-in ballots ruling, Canada\u2019s clapback and youth baseball",
+        "article_url": "https://www.nydailynews.com/2026/08/26/readers-sound-off-on-mail-in-ballots-ruling-canadas-clapback-and-youth-baseball/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-26T09:35:48.567038+00:00"
+      }
+    },
+    {
+      "headline": "Dolly Parton remembered by fellow stars and politicians: \"A true",
+      "bullets": [
+        "Following , fellow celebrities and politicians, including Billy Ray Cyrus and President Trump, mourned the country music legend and praised her as an icon .",
+        "Billy Ray Cyrus, whose daughter, Miley Cyrus, is Parton's goddaughter, paid tribute to Parton in an Instagram post and recalled a tabloid rumor that had bonded them."
+      ],
+      "summary": "Dolly Parton remembered by fellow stars and politicians: \"A true",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Dolly Parton remembered by fellow stars and politicians: \"A true loss for millions\"",
+        "article_url": "https://www.cbsnews.com/newyork/news/dolly-parton-death-reactions/",
+        "published_at": "2026-08-25"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-26T09:35:50.832913+00:00",
+      "verification": {
+        "article_title": "Dolly Parton remembered by fellow stars and politicians: \"A true loss for millions\"",
+        "article_url": "https://www.cbsnews.com/newyork/news/dolly-parton-death-reactions/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-26T09:35:48.696977+00:00"
+      }
+    },
+    {
+      "headline": "New Times Square Exhibition Celebrates New Year\u00e2s Eve Every Day",
+      "bullets": [
+        "New Times Square Exhibition Celebrates New Year\u00e2s Eve Every Day Times Travel brings visitors through the history of One Times Square, the building that was originally home to The New York Times before it became the center of the Times Square New Year\u00e2s Eve celebration.",
+        "Since its installation in 1928, the news ticker that wraps around One Times Square has announced the Stock Market crash of 1929, the end of World War II, the moon landing and numerous presidential election results."
+      ],
+      "summary": "New Times Square Exhibition Celebrates New Year\u00e2s Eve Every Day",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "New Times Square Exhibition Celebrates New Year\u00e2s Eve Every Day",
+        "article_url": "https://www.ourtownny.com/city-arts/new-times-square-exhibition-celebrates-new-year-s-eve-every-day-EA6130402",
+        "published_at": "2026-08-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-26T09:35:50.939375+00:00",
+      "verification": {
+        "article_title": "New Times Square Exhibition Celebrates New Year\u00e2s Eve Every Day",
+        "article_url": "https://www.ourtownny.com/city-arts/new-times-square-exhibition-celebrates-new-year-s-eve-every-day-EA6130402",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-26T09:35:48.810813+00:00"
+      }
+    },
+    {
+      "headline": "India Day Parade Thrills Many Thousands Along Madison Avenue",
+      "bullets": [
+        "India Day Parade Thrills Many Thousands Along Madison Avenue The 44th annual event turned the streets white, saffron, and innumerable other colors of India\u00e2s resplendent diasporic rainbow with Governor Kathy Hochul cheering them all.",
+        "Mayor Zohran Mamdani skipped the parade\u00e2which the Indian media noticed."
+      ],
+      "summary": "India Day Parade Thrills Many Thousands Along Madison Avenue",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "India Day Parade Thrills Many Thousands Along Madison Avenue",
+        "article_url": "https://www.ourtownny.com/news/india-day-parade-thrills-many-thousands-along-madison-avenue-LA6130973",
+        "published_at": "2026-08-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-26T09:35:51.070367+00:00",
+      "verification": {
+        "article_title": "India Day Parade Thrills Many Thousands Along Madison Avenue",
+        "article_url": "https://www.ourtownny.com/news/india-day-parade-thrills-many-thousands-along-madison-avenue-LA6130973",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-26T09:35:48.919209+00:00"
+      }
+    },
+    {
+      "headline": "Country music legend Dolly Parton dies at 80 after 'brief",
+      "bullets": [
+        "The singer, songwriter and philanthropist enjoyed a more than six-decade career.",
+        "Dolly Parton, the beloved country music superstar known as much for her philanthropy and theme park business as she was for her chart-topping hit songs, has died at 80."
+      ],
+      "summary": "Country music legend Dolly Parton dies at 80 after 'brief",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Country music legend Dolly Parton dies at 80 after 'brief battle with cancer'",
+        "article_url": "https://abc7ny.com/story/dolly-parton-death-music-icon-dies-80-years-old/19734217/",
+        "published_at": "2026-08-25"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-26T09:35:51.181984+00:00",
+      "verification": {
+        "article_title": "Country music legend Dolly Parton dies at 80 after 'brief battle with cancer'",
+        "article_url": "https://abc7ny.com/story/dolly-parton-death-music-icon-dies-80-years-old/19734217/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-26T09:35:49.044334+00:00"
+      }
+    },
+    {
+      "headline": "NYC\u00e2s E-Bike Battery Fires on Pace to Pass Last Year\u00e2s",
+      "bullets": [
+        "NYC\u00e2s E-Bike Battery Fires on Pace to Pass Last Year\u00e2s Record There have been 282 battery fires as of late August, compared to 292 through all of last year, with one person killed\u00e2down from a peak of 18 fatalities in 2023.",
+        "The number of lithium ion battery fires appears to be on track to outpace last year\u00e2s record total, according to the latest batch of FDNY data."
+      ],
+      "summary": "NYC\u00e2s E-Bike Battery Fires on Pace to Pass Last Year\u00e2s",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "NYC\u00e2s E-Bike Battery Fires on Pace to Pass Last Year\u00e2s Record",
+        "article_url": "https://www.ourtownny.com/news/nyc-s-e-bike-battery-fires-on-pace-to-pass-last-year-s-record-JF6142964",
+        "published_at": "2026-08-25"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-26T09:35:51.300367+00:00",
+      "verification": {
+        "article_title": "NYC\u00e2s E-Bike Battery Fires on Pace to Pass Last Year\u00e2s Record",
+        "article_url": "https://www.ourtownny.com/news/nyc-s-e-bike-battery-fires-on-pace-to-pass-last-year-s-record-JF6142964",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-26T09:35:49.152000+00:00"
+      }
+    },
+    {
+      "headline": "Dolly Parton and Carl Dean's best quotes about their decadeslong",
+      "bullets": [
+        "Parton and her husband Dean died less than two years apart.",
+        "The love story between the late Dolly Parton and her husband, the late Carl Dean, is one for the ages."
+      ],
+      "summary": "Dolly Parton and Carl Dean's best quotes about their decadeslong",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Dolly Parton and Carl Dean's best quotes about their decadeslong love story",
+        "article_url": "https://abc7ny.com/story/dolly-parton-carl-deans-best-quotes-love-story/19734386/",
+        "published_at": "2026-08-25"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-26T09:35:51.409806+00:00",
+      "verification": {
+        "article_title": "Dolly Parton and Carl Dean's best quotes about their decadeslong love story",
+        "article_url": "https://abc7ny.com/story/dolly-parton-carl-deans-best-quotes-love-story/19734386/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-26T09:35:49.274085+00:00"
+      }
+    },
+    {
+      "headline": "ICE arrests jumped to nearly 50,000 in July, the highest",
+      "bullets": [
+        "By REBECCA SANTANA WASHINGTON (AP) \u2014 U.S.",
+        "Immigration and Customs Enforcement arrested nearly 50,000 people in July, the highest single monthly arrest total during the second Trump administration, according to new figures."
+      ],
+      "summary": "ICE arrests jumped to nearly 50,000 in July, the highest",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "ICE arrests jumped to nearly 50,000 in July, the highest monthly total of Trump\u2019s second term",
+        "article_url": "https://www.nydailynews.com/2026/08/25/ice-arrest-numbers-july/",
+        "published_at": "2026-08-25"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-26T09:35:51.515080+00:00",
+      "verification": {
+        "article_title": "ICE arrests jumped to nearly 50,000 in July, the highest monthly total of Trump\u2019s second term",
+        "article_url": "https://www.nydailynews.com/2026/08/25/ice-arrest-numbers-july/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-26T09:35:49.381521+00:00"
+      }
+    },
+    {
+      "headline": "16 year old surrenders in Bronx shooting death of Riley",
+      "bullets": [
+        "A teen sought for shooting 15-year-old Riley Billingslea dead in a Bronx apartment surrendered himself to police Tuesday \u2014 just hours before the victim\u2019s family held a funeral for the slain high schooler, officials and family members said.",
+        "Cops charged the 16-year-old suspect with murder, attempted murder, manslaughter, and criminal possession of a weapon for the fatal shooting of Billingslea on Aug."
+      ],
+      "summary": "16 year old surrenders in Bronx shooting death of Riley",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "16 year old surrenders in Bronx shooting death of Riley Billingslea same day as teen victim's funeral",
+        "article_url": "https://www.nydailynews.com/2026/08/25/16-year-old-boy-turns-self-in-for-bronx-shooting-death-of-riley-billingslea/",
+        "published_at": "2026-08-25"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-26T09:35:51.617054+00:00",
+      "verification": {
+        "article_title": "16 year old surrenders in Bronx shooting death of Riley Billingslea same day as teen victim's funeral",
+        "article_url": "https://www.nydailynews.com/2026/08/25/16-year-old-boy-turns-self-in-for-bronx-shooting-death-of-riley-billingslea/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-26T09:35:49.494331+00:00"
+      }
+    },
+    {
+      "headline": "NYPD hunts armed robber in slays of Bronx bodega customer,",
+      "bullets": [
+        "A manhunt is underway for an armed robber the NYPD believes is behind two fatal shootings in a 48-hour span, including the callous killing of a customer at a Bronx Bodega Tuesday.",
+        "Cops believe Jesus Acosta first shot two workers, one fatally, while attempting to rob a Brooklyn fast food restaurant Sunday and then just two days later shot a Bronx bodega customer to death during a caught-on-camera heist."
+      ],
+      "summary": "NYPD hunts armed robber in slays of Bronx bodega customer,",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYPD hunts armed robber in slays of Bronx bodega customer, Brooklyn restaurant worker",
+        "article_url": "https://www.nydailynews.com/2026/08/25/man-wanted-for-shootings-in-bronx-and-brooklyn-businesses-that-left-1-dead-2-wounded-in-48-hours/",
+        "published_at": "2026-08-25T16:17:01+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-26T09:35:51.723245+00:00",
+      "verification": {
+        "article_title": "NYPD hunts armed robber in slays of Bronx bodega customer, Brooklyn restaurant worker",
+        "article_url": "https://www.nydailynews.com/2026/08/25/man-wanted-for-shootings-in-bronx-and-brooklyn-businesses-that-left-1-dead-2-wounded-in-48-hours/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-26T09:35:49.604095+00:00"
+      }
+    },
+    {
+      "headline": "NYC street vendors set to receive new permits under first",
+      "bullets": [
+        "For the past 17 years, Morad Nawar has operated a Manhattan food cart under a rented permit, cooking up chicken over rice and hot dogs for tourists.",
+        "That\u2019s set to change in October when Nawar expects to receive one of the 21,500 legal permits being distributed under a new City Council law."
+      ],
+      "summary": "NYC street vendors set to receive new permits under first",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC street vendors set to receive new permits under first expansion in decades",
+        "article_url": "https://gothamist.com/news/nyc-street-vendors-set-to-receive-new-permits-under-first-expansion-in-decades",
+        "published_at": "2026-08-25T10:00:56+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-26T09:35:51.830954+00:00",
+      "verification": {
+        "article_title": "NYC street vendors set to receive new permits under first expansion in decades",
+        "article_url": "https://gothamist.com/news/nyc-street-vendors-set-to-receive-new-permits-under-first-expansion-in-decades",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-26T09:35:49.725111+00:00"
+      }
+    },
+    {
+      "headline": "Gunman in deadly Bronx deli shooting may be same man",
+      "bullets": [
+        "MELROSE, Bronx (WABC) -- A customer has died after he was shot at a Bronx deli early Tuesday by a suspect police believe is responsible for another deadly shooting over the weekend.",
+        "The robbery happened just after 12:15 a.m."
+      ],
+      "summary": "Gunman in deadly Bronx deli shooting may be same man",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Gunman in deadly Bronx deli shooting may be same man who killed worker in Brooklyn, NYPD says",
+        "article_url": "https://abc7ny.com/post/caught-camera-gunman-shoots-customer-before-robbing-store-east-149th-street-bronx/19732093/",
+        "published_at": "2026-08-25"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-26T09:35:51.946765+00:00",
+      "verification": {
+        "article_title": "Gunman in deadly Bronx deli shooting may be same man who killed worker in Brooklyn, NYPD says",
+        "article_url": "https://abc7ny.com/post/caught-camera-gunman-shoots-customer-before-robbing-store-east-149th-street-bronx/19732093/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-26T09:35:49.833370+00:00"
+      }
+    },
+    {
+      "headline": "Dolly Parton's philanthropy will leave a long-lasting legacy",
+      "bullets": [
+        "Dolly Parton\u2019s music will be remembered for decades.",
+        "Her movies will be enjoyed for a long time to come."
+      ],
+      "summary": "Dolly Parton's philanthropy will leave a long-lasting legacy",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Dolly Parton's philanthropy will leave a long-lasting legacy",
+        "article_url": "https://www.fox5ny.com/news/dolly-partons-philanthropy-will-leave-long-lasting-legacy",
+        "published_at": "2026-08-25"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-26T09:35:52.057450+00:00",
+      "verification": {
+        "article_title": "Dolly Parton's philanthropy will leave a long-lasting legacy",
+        "article_url": "https://www.fox5ny.com/news/dolly-partons-philanthropy-will-leave-long-lasting-legacy",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-26T09:35:49.933470+00:00"
+      }
+    },
+    {
+      "headline": "NYC's Empire State Building pays tribute to Dolly Parton with",
+      "bullets": [
+        "New York City's Empire State Building paid tribute to music legend Dolly Parton Tuesday night.",
+        "Parton, 80, , her family announced."
+      ],
+      "summary": "NYC's Empire State Building pays tribute to Dolly Parton with",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "NYC's Empire State Building pays tribute to Dolly Parton with pink lights",
+        "article_url": "https://www.cbsnews.com/newyork/news/dolly-parton-empire-state-building-tribute/",
+        "published_at": "2026-08-25"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-26T09:35:52.165813+00:00",
+      "verification": {
+        "article_title": "NYC's Empire State Building pays tribute to Dolly Parton with pink lights",
+        "article_url": "https://www.cbsnews.com/newyork/news/dolly-parton-empire-state-building-tribute/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-26T09:35:50.039894+00:00"
+      }
+    },
+    {
+      "headline": "Tornadoes whip up more frequently in NJ than ever before",
+      "bullets": [
+        "Tornadoes like the one that came ashore in Long Island last week are rare around New York City.",
+        "But they're becoming an increasingly common occurrence in New Jersey, which is in the midst of a busy tornado season and has seen wild spikes over the last several years."
+      ],
+      "summary": "Tornadoes whip up more frequently in NJ than ever before",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Tornadoes whip up more frequently in NJ than ever before",
+        "article_url": "https://gothamist.com/news/tornadoes-whip-up-more-frequently-in-nj-than-ever-before",
+        "published_at": "2026-08-25T15:12:28+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-26T09:35:52.268617+00:00",
+      "verification": {
+        "article_title": "Tornadoes whip up more frequently in NJ than ever before",
+        "article_url": "https://gothamist.com/news/tornadoes-whip-up-more-frequently-in-nj-than-ever-before",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-26T09:35:50.160018+00:00"
+      }
+    },
+    {
+      "headline": "What is a heat advisory? Excessive heat warning? Heat wave?",
+      "bullets": [
+        "Much of the Tri-State Area is as the combined heat and humidity also brings with it the risk of flash flooding.",
+        "Summers can sizzle around the New York City area, where the hottest normal high is 85 degrees in July."
+      ],
+      "summary": "What is a heat advisory? Excessive heat warning? Heat wave?",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "What is a heat advisory? Excessive heat warning? Heat wave? Why they feel even hotter in NYC.",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-heat-wave-excessive-heat-warning/",
+        "published_at": "2024-06-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-26T09:35:52.382113+00:00",
+      "verification": {
+        "article_title": "What is a heat advisory? Excessive heat warning? Heat wave? Why they feel even hotter in NYC.",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-heat-wave-excessive-heat-warning/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-26T09:35:50.288708+00:00"
+      }
+    },
+    {
+      "headline": "Dolly Parton, music icon, dies at 80 following 'brief battle",
+      "bullets": [
+        "NASHVILLE - Beloved country music icon Dolly Parton has died following a career spanning nearly 60 years.",
+        "She was 80 years old."
+      ],
+      "summary": "Dolly Parton, music icon, dies at 80 following 'brief battle",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Dolly Parton, music icon, dies at 80 following 'brief battle with cancer'",
+        "article_url": "https://www.fox5ny.com/news/dolly-parton-music-icon-dies-80",
+        "published_at": "2026-08-25"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-26T09:35:52.483392+00:00",
+      "verification": {
+        "article_title": "Dolly Parton, music icon, dies at 80 following 'brief battle with cancer'",
+        "article_url": "https://www.fox5ny.com/news/dolly-parton-music-icon-dies-80",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-26T09:35:50.396920+00:00"
+      }
+    },
+    {
+      "headline": "Tenants in NYC's worst buildings to be put on housing",
+      "bullets": [
+        "Tenants demanding repairs in the city\u2019s most dangerous apartment buildings will be put on a fast track in housing court, Mayor Zohran Mamdani and court officials said Tuesday.",
+        "The speedier court process will apply to so-called HP, or \u201chousing part,\u201d cases filed against the owners of buildings with vacate orders, elevator outages or other major problems, like heat and hot water failures."
+      ],
+      "summary": "Tenants in NYC's worst buildings to be put on housing",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Tenants in NYC's worst buildings to be put on housing court fast track",
+        "article_url": "https://gothamist.com/news/tenants-in-nycs-worst-buildings-to-be-put-on-housing-court-fast-track",
+        "published_at": "2026-08-25T13:28:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-26T09:35:52.591175+00:00",
+      "verification": {
+        "article_title": "Tenants in NYC's worst buildings to be put on housing court fast track",
+        "article_url": "https://gothamist.com/news/tenants-in-nycs-worst-buildings-to-be-put-on-housing-court-fast-track",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-26T09:35:50.504198+00:00"
+      }
+    }
+  ]
+}
