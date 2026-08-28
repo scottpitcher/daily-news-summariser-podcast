@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-08-28T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-08-28.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Readers sound off on construction liability, deporting Haitians and Dolly",
+      "bullets": [
+        "To build more, remove an obvious obstacle Albany: The Daily News is right that New York City needs to act boldly to resolve the housing crisis (\u201cHousing report is right that NYC must build and build,\u201d editorial, Aug.",
+        "23)."
+      ],
+      "summary": "Readers sound off on construction liability, deporting Haitians and Dolly",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on construction liability, deporting Haitians and Dolly Parton",
+        "article_url": "https://www.nydailynews.com/2026/08/28/readers-sound-off-on-construction-liability-deporting-haitians-and-dolly-parton/",
+        "published_at": "2026-08-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-28T20:36:06.434148+00:00",
+      "verification": {
+        "article_title": "Readers sound off on construction liability, deporting Haitians and Dolly Parton",
+        "article_url": "https://www.nydailynews.com/2026/08/28/readers-sound-off-on-construction-liability-deporting-haitians-and-dolly-parton/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-28T20:36:05.088640+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry",
+      "bullets": [
+        "New York City, NY|Featured Event Fine Arts and Mid-Century Modern Auction | Jewelry | Silver | Art | Furniture & More Fine Arts and Mid-Century Modern - Online Auction Thursday, September 10, 2026 at 10:00 AM Bid online at alderferauction.com.",
+        "Alderfer Auction\u2019s September Fine Art and Mid-Century Modern Auction features a collection of art, luxury Swiss timepieces, jewelry, sterling silver, d\u00e9cor, and mid-century and period furniture."
+      ],
+      "summary": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry | Silver | Art | Furniture & More",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260910/232b741b-d4d8-4e38-8be8-da09dd2f99a0/fine-arts-and-mid-century-modern-auction-jewelry-silver-art-furniture-more",
+        "published_at": "2026-09-10T14:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-28T20:36:06.505983+00:00",
+      "verification": {
+        "article_title": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry | Silver | Art | Furniture & More",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260910/232b741b-d4d8-4e38-8be8-da09dd2f99a0/fine-arts-and-mid-century-modern-auction-jewelry-silver-art-furniture-more",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-28T20:36:05.165952+00:00"
+      }
+    },
+    {
+      "headline": "Barred from speaking, Trump to skip 9/11 25th anniversary ceremony",
+      "bullets": [
+        "President Trump will snub the Sept.",
+        "11 ceremony at Ground Zero marking the 25th anniversary of the terror attacks reportedly because he wasn\u2019t going to be permitted to deliver a speech at the event."
+      ],
+      "summary": "Barred from speaking, Trump to skip 9/11 25th anniversary ceremony",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Barred from speaking, Trump to skip 9/11 25th anniversary ceremony in NYC",
+        "article_url": "https://www.nydailynews.com/2026/08/28/trump-snubs-911-25th-anniversary-ceremony-ground-zero/",
+        "published_at": "2026-08-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-28T20:36:06.562786+00:00",
+      "verification": {
+        "article_title": "Barred from speaking, Trump to skip 9/11 25th anniversary ceremony in NYC",
+        "article_url": "https://www.nydailynews.com/2026/08/28/trump-snubs-911-25th-anniversary-ceremony-ground-zero/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-28T20:36:05.376311+00:00"
+      }
+    },
+    {
+      "headline": "NYC eyes new requirements for treatment of pregnant people in",
+      "bullets": [
+        "New York City could impose new requirements on the NYPD's treatment of pregnant New Yorkers in custody and require police to track children who are present when their parents or caregivers are arrested.",
+        "The push comes after a high-profile incident earlier this year when a woman gave birth in a Brooklyn courtroom."
+      ],
+      "summary": "NYC eyes new requirements for treatment of pregnant people in",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC eyes new requirements for treatment of pregnant people in police custody",
+        "article_url": "https://gothamist.com/news/nyc-eyes-new-requirements-for-treatment-of-pregnant-people-in-police-custody",
+        "published_at": "2026-08-28T10:31:02+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-28T20:36:06.641799+00:00",
+      "verification": {
+        "article_title": "NYC eyes new requirements for treatment of pregnant people in police custody",
+        "article_url": "https://gothamist.com/news/nyc-eyes-new-requirements-for-treatment-of-pregnant-people-in-police-custody",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-28T20:36:05.432821+00:00"
+      }
+    },
+    {
+      "headline": "Fed Chair Warsh signals rate hikes may be needed with",
+      "bullets": [
+        "By CHRISTOPHER RUGABER, AP Economics Writer JACKSON HOLE, Wyoming (AP) \u2014 Federal Reserve Chair Kevin Warsh said Friday that inflation is still too high and suggested the central bank may have to raise interest rates in the coming months to bring it down, a clearer signal than he has previously sent about his economic outlook.",
+        "In his first high-profile speech at the Fed\u2019s annual conference in Jackson Hole, Wyoming, Warsh acknowledged that recent U.S."
+      ],
+      "summary": "Fed Chair Warsh signals rate hikes may be needed with",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Fed Chair Warsh signals rate hikes may be needed with US inflation stubbornly elevated",
+        "article_url": "https://www.nydailynews.com/2026/08/28/fed-chair-warsh-rate-hikes-inflation/",
+        "published_at": "2026-08-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-28T20:36:06.696761+00:00",
+      "verification": {
+        "article_title": "Fed Chair Warsh signals rate hikes may be needed with US inflation stubbornly elevated",
+        "article_url": "https://www.nydailynews.com/2026/08/28/fed-chair-warsh-rate-hikes-inflation/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-28T20:36:05.500661+00:00"
+      }
+    },
+    {
+      "headline": "Trump to mark 25th observance of 9/11 at Pentagon instead",
+      "bullets": [
+        "WASHINGTON, D.C.",
+        "- President Donald Trump plans to mark the 25th observance of the Sept."
+      ],
+      "summary": "Trump to mark 25th observance of 9/11 at Pentagon instead",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Trump to mark 25th observance of 9/11 at Pentagon instead of Ground Zero: Reports",
+        "article_url": "https://www.fox5ny.com/news/trump-skip-ground-zero-25th-anniversary-9-11-speak-pentagon-reports",
+        "published_at": "2026-08-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-28T20:36:06.755786+00:00",
+      "verification": {
+        "article_title": "Trump to mark 25th observance of 9/11 at Pentagon instead of Ground Zero: Reports",
+        "article_url": "https://www.fox5ny.com/news/trump-skip-ground-zero-25th-anniversary-9-11-speak-pentagon-reports",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-28T20:36:05.559969+00:00"
+      }
+    },
+    {
+      "headline": "Jersey City lawmakers approve 15% property tax hike amid budget",
+      "bullets": [
+        "JERSEY CITY, NJ - After months of back-and-forth talks about Jersey City's budget crisis, local lawmakers have voted to stick property owners with the bill.",
+        "Jersey City tax hike What we know: The City Council in Jersey City approved and implemented a 15% municipal property tax rate hike Wednesday night."
+      ],
+      "summary": "Jersey City lawmakers approve 15% property tax hike amid budget",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Jersey City lawmakers approve 15% property tax hike amid budget crisis",
+        "article_url": "https://www.fox5ny.com/news/jersey-city-council-approves-property-tax-hike",
+        "published_at": "2026-08-27"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-28T20:36:06.813426+00:00",
+      "verification": {
+        "article_title": "Jersey City lawmakers approve 15% property tax hike amid budget crisis",
+        "article_url": "https://www.fox5ny.com/news/jersey-city-council-approves-property-tax-hike",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-28T20:36:05.626833+00:00"
+      }
+    },
+    {
+      "headline": "Nepal flood rescue efforts intensify as death toll rises, with",
+      "bullets": [
+        "Kathmandu, Nepal \u2014 Rescuers pulled out survivors caked in dark brown mud and helicopters lifted stranded people to safety Friday as Nepal and China raced to respond after and landslides killed almost 600 people and left roughly 2,500 missing.",
+        "Nepali and Chinese authorities warned of further risk of flooding from a new lake that has formed upstream following Wednesday's disaster, telling people in the potentially affected areas to move to safer ground."
+      ],
+      "summary": "Nepal flood rescue efforts intensify as death toll rises, with",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Nepal flood rescue efforts intensify as death toll rises, with more than 2,000 people still missing",
+        "article_url": "https://www.cbsnews.com/newyork/news/nepal-flood-rescue-efforts-death-toll/",
+        "published_at": "2026-08-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-28T20:36:06.895272+00:00",
+      "verification": {
+        "article_title": "Nepal flood rescue efforts intensify as death toll rises, with more than 2,000 people still missing",
+        "article_url": "https://www.cbsnews.com/newyork/news/nepal-flood-rescue-efforts-death-toll/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-28T20:36:05.683817+00:00"
+      }
+    },
+    {
+      "headline": "President Donald Trump loses again in bid to erase his",
+      "bullets": [
+        "NEW YORK -- A federal judge on Friday once again spurned Donald Trump\u2019s effort to erase his hush money conviction, rejecting the president\u2019s bid to move the state court case to federal court and have it dismissed on presidential immunity grounds.",
+        "Judge Alvin K."
+      ],
+      "summary": "President Donald Trump loses again in bid to erase his",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "President Donald Trump loses again in bid to erase his hush money conviction",
+        "article_url": "https://abc7ny.com/story/president-donald-trump-loses-bid-erase-hush-money-conviction/19752439/",
+        "published_at": "2026-08-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-28T20:36:07.002483+00:00",
+      "verification": {
+        "article_title": "President Donald Trump loses again in bid to erase his hush money conviction",
+        "article_url": "https://abc7ny.com/story/president-donald-trump-loses-bid-erase-hush-money-conviction/19752439/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-28T20:36:05.751034+00:00"
+      }
+    },
+    {
+      "headline": "How to help survivors after catastrophic floods in Nepal and",
+      "bullets": [
+        "Humanitarian organizations are mobilizing to support survivors as rescue teams search for hundreds of people missing after catastrophic floods near the Nepal-China border.",
+        "Hundreds are dead or missing after a deadly torrent of water and mud several stories high swept through communities Wednesday following a glacier collapse."
+      ],
+      "summary": "How to help survivors after catastrophic floods in Nepal and",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "How to help survivors after catastrophic floods in Nepal and Tibet",
+        "article_url": "https://www.fox5ny.com/news/how-help-floods-nepal-tibet",
+        "published_at": "2026-08-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-28T20:36:07.057797+00:00",
+      "verification": {
+        "article_title": "How to help survivors after catastrophic floods in Nepal and Tibet",
+        "article_url": "https://www.fox5ny.com/news/how-help-floods-nepal-tibet",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-28T20:36:05.806527+00:00"
+      }
+    },
+    {
+      "headline": "Lindsay Clancy verdict watch: Jurors excused without reaching verdict for",
+      "bullets": [
+        "PLYMOUTH, Mass.",
+        "-- Jurors resumed deliberations Friday morning in the Lindsay Clancy murder trial in Plymouth, Massachusetts."
+      ],
+      "summary": "Lindsay Clancy verdict watch: Jurors excused without reaching verdict for",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Lindsay Clancy verdict watch: Jurors excused without reaching verdict for 2nd day in murder trial",
+        "article_url": "https://abc7ny.com/post/lindsay-clancy-verdict-watch-jury-deliberations-continue-day-23-murder-trial-lawyers-argue-she-had-postpartum-psychosis/19750992/",
+        "published_at": "2026-08-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-28T20:36:07.123839+00:00",
+      "verification": {
+        "article_title": "Lindsay Clancy verdict watch: Jurors excused without reaching verdict for 2nd day in murder trial",
+        "article_url": "https://abc7ny.com/post/lindsay-clancy-verdict-watch-jury-deliberations-continue-day-23-murder-trial-lawyers-argue-she-had-postpartum-psychosis/19750992/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-28T20:36:05.865998+00:00"
+      }
+    },
+    {
+      "headline": "NYC families get reprieve in fight over trans youths' medical",
+      "bullets": [
+        "Transgender New Yorkers and their families say they have some breathing room in their fight to keep their private medical information out of the Trump administration\u2019s hands, but advocates warn the broader battle over their healthcare is far from over.",
+        "A federal appeals court this week left in place an order blocking the Department of Justice from obtaining identifying and sensitive health information about young people who received gender-affirming care at New York City hospitals while the government appeals the ruling."
+      ],
+      "summary": "NYC families get reprieve in fight over trans youths' medical",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC families get reprieve in fight over trans youths' medical records",
+        "article_url": "https://gothamist.com/news/nyc-families-get-reprieve-in-fight-over-trans-youths-medical-records",
+        "published_at": "2026-08-27T22:16:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-28T20:36:07.181766+00:00",
+      "verification": {
+        "article_title": "NYC families get reprieve in fight over trans youths' medical records",
+        "article_url": "https://gothamist.com/news/nyc-families-get-reprieve-in-fight-over-trans-youths-medical-records",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-28T20:36:05.923144+00:00"
+      }
+    },
+    {
+      "headline": "East Side Activist Will Weder Eulogized as \u00e2Man of Quiet",
+      "bullets": [
+        "East Side Activist Will Weder Eulogized as \u00e2Man of Quiet Strength\u00e2 The SRO ceremony for the longtime community activist drew more than a half dozen judges as well as the newly nominated Democratic Congressional candidate Micah Lasher and City Council member Virginia Maloney.",
+        "It was standing room only in the Sculpture Court Room at the National Arts Club in Gramercy Park earlier is summer for the Memorial to influential community leader Wilbur Allen \u00e2Will\u00e2 Weder."
+      ],
+      "summary": "East Side Activist Will Weder Eulogized as \u00e2Man of Quiet",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "East Side Activist Will Weder Eulogized as \u00e2Man of Quiet Strength\u00e2",
+        "article_url": "https://www.ourtownny.com/voices/east-side-activist-will-weder-eulogized-as-man-of-quiet-strength-DE6152401",
+        "published_at": "2026-08-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-28T20:36:07.247784+00:00",
+      "verification": {
+        "article_title": "East Side Activist Will Weder Eulogized as \u00e2Man of Quiet Strength\u00e2",
+        "article_url": "https://www.ourtownny.com/voices/east-side-activist-will-weder-eulogized-as-man-of-quiet-strength-DE6152401",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-28T20:36:06.005440+00:00"
+      }
+    },
+    {
+      "headline": "Hochul adds $36M for crime victim services after outcry, warnings",
+      "bullets": [
+        "Gov.",
+        "Kathy Hochul plans to allocate another $36 million in state funding for crime victim services weeks after rape crisis centers, domestic violence programs and child advocacy organizations warned they would face layoffs without additional funding."
+      ],
+      "summary": "Hochul adds $36M for crime victim services after outcry, warnings",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Hochul adds $36M for crime victim services after outcry, warnings of layoffs",
+        "article_url": "https://gothamist.com/news/hochul-adds-36m-for-crime-victim-services-after-outcry-warnings-of-layoffs",
+        "published_at": "2026-08-28T20:01:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-28T20:36:07.318818+00:00",
+      "verification": {
+        "article_title": "Hochul adds $36M for crime victim services after outcry, warnings of layoffs",
+        "article_url": "https://gothamist.com/news/hochul-adds-36m-for-crime-victim-services-after-outcry-warnings-of-layoffs",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-28T20:36:06.061184+00:00"
+      }
+    },
+    {
+      "headline": "Nepal flood rescue efforts intensify as death toll rises, with",
+      "bullets": [
+        "Kathmandu, Nepal \u2014 Rescuers pulled out survivors caked in dark brown mud and helicopters lifted stranded people to safety Friday as Nepal and China raced to respond after and landslides killed almost 600 people and left roughly 2,500 missing.",
+        "Nepali and Chinese authorities warned of further risk of flooding from a new lake that has formed upstream following Wednesday's disaster, telling people in the potentially affected areas to move to safer ground."
+      ],
+      "summary": "Nepal flood rescue efforts intensify as death toll rises, with",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Nepal flood rescue efforts intensify as death toll rises, with more than 2,000 people still missing",
+        "article_url": "https://www.cbsnews.com/newyork/news/nepal-flood-rescue-efforts-death-toll/",
+        "published_at": "2026-08-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-28T20:36:07.378692+00:00",
+      "verification": {
+        "article_title": "Nepal flood rescue efforts intensify as death toll rises, with more than 2,000 people still missing",
+        "article_url": "https://www.cbsnews.com/newyork/news/nepal-flood-rescue-efforts-death-toll/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-28T20:36:06.130477+00:00"
+      }
+    },
+    {
+      "headline": "The best plants and succulents for dorm rooms",
+      "bullets": [
+        "Which plant or succulent is best for a dorm room?",
+        "There\u2019s nothing quite like brightening up a dorm room with plants and succulents."
+      ],
+      "summary": "The best plants and succulents for dorm rooms",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "The best plants and succulents for dorm rooms",
+        "article_url": "https://www.nydailynews.com/2026/08/27/the-best-plants-and-succulents-for-dorm-rooms/",
+        "published_at": "2026-08-27"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-28T20:36:07.435175+00:00",
+      "verification": {
+        "article_title": "The best plants and succulents for dorm rooms",
+        "article_url": "https://www.nydailynews.com/2026/08/27/the-best-plants-and-succulents-for-dorm-rooms/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-28T20:36:06.184675+00:00"
+      }
+    },
+    {
+      "headline": "Best nursing pillows",
+      "bullets": [
+        "Which nursing pillow is best?",
+        "Nursing your new baby is an incredibly meaningful bonding experience for you and your child."
+      ],
+      "summary": "Best nursing pillows",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Best nursing pillows",
+        "article_url": "https://www.nydailynews.com/2026/08/28/best-nursing-pillows/",
+        "published_at": "2026-08-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-28T20:36:07.509035+00:00",
+      "verification": {
+        "article_title": "Best nursing pillows",
+        "article_url": "https://www.nydailynews.com/2026/08/28/best-nursing-pillows/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-28T20:36:06.241551+00:00"
+      }
+    },
+    {
+      "headline": "Should drivers cover the $4 billion cost of Mamdani's BQE",
+      "bullets": [
+        "This column originally appeared in On The Way, a weekly newsletter covering everything you need to know about NYC-area transportation.",
+        "Sign up to get the full version, which includes answers to reader questions, trivia, service changes and more, in your inbox every Thursday."
+      ],
+      "summary": "Should drivers cover the $4 billion cost of Mamdani's BQE",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Should drivers cover the $4 billion cost of Mamdani's BQE fix?",
+        "article_url": "https://gothamist.com/news/should-drivers-cover-the-4-billion-cost-of-mamdanis-bqe-fix",
+        "published_at": "2026-08-28T15:00:56+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-28T20:36:07.571383+00:00",
+      "verification": {
+        "article_title": "Should drivers cover the $4 billion cost of Mamdani's BQE fix?",
+        "article_url": "https://gothamist.com/news/should-drivers-cover-the-4-billion-cost-of-mamdanis-bqe-fix",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-28T20:36:06.295335+00:00"
+      }
+    }
+  ]
+}
