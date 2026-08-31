@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-08-31T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-08-31.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Readers sound off on Brooklyn Democrats, Trump\u2019s 9/11 snub and",
+      "bullets": [
+        "Brooklyn Dems can steer their own party Averill Park, N.Y.: First, let\u2019s be clear that when we speak about last week\u2019s Brooklyn Democratic Party maneuverings, we\u2019re speaking about elections within the structure of a political party, not for an elected government office.",
+        "Yet, we saw many seasoned politicians inappropriately conflating the two in their comments."
+      ],
+      "summary": "Readers sound off on Brooklyn Democrats, Trump\u2019s 9/11 snub and",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on Brooklyn Democrats, Trump\u2019s 9/11 snub and terminal illness",
+        "article_url": "https://www.nydailynews.com/2026/08/31/readers-sound-off-on-brooklyn-democrats-trumps-9-11-snub-and-terminal-illness/",
+        "published_at": "2026-08-31"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-31T16:37:42.659483+00:00",
+      "verification": {
+        "article_title": "Readers sound off on Brooklyn Democrats, Trump\u2019s 9/11 snub and terminal illness",
+        "article_url": "https://www.nydailynews.com/2026/08/31/readers-sound-off-on-brooklyn-democrats-trumps-9-11-snub-and-terminal-illness/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-31T16:37:41.136196+00:00"
+      }
+    },
+    {
+      "headline": "New US missile appears to have left wide path of",
+      "bullets": [
+        "By JULIA FRANKEL It has been touted by the manufacturer as the ballistic missile of the future: lethal, long-range, and pinpoint.",
+        "Lockheed Martin\u2019s Precision Strike Missile has the U.S."
+      ],
+      "summary": "New US missile appears to have left wide path of",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "New US missile appears to have left wide path of death and destruction in Iranian city, report says",
+        "article_url": "https://www.nydailynews.com/2026/08/31/iran-war-us-missile-attack/",
+        "published_at": "2026-08-31"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-31T16:37:42.730701+00:00",
+      "verification": {
+        "article_title": "New US missile appears to have left wide path of death and destruction in Iranian city, report says",
+        "article_url": "https://www.nydailynews.com/2026/08/31/iran-war-us-missile-attack/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-31T16:37:41.232079+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry",
+      "bullets": [
+        "New York City, NY|Featured Event Fine Arts and Mid-Century Modern Auction | Jewelry | Silver | Art | Furniture & More Fine Arts and Mid-Century Modern - Online Auction Thursday, September 10, 2026 at 10:00 AM Bid online at alderferauction.com.",
+        "Alderfer Auction\u2019s September Fine Art and Mid-Century Modern Auction features a collection of art, luxury Swiss timepieces, jewelry, sterling silver, d\u00e9cor, and mid-century and period furniture."
+      ],
+      "summary": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry | Silver | Art | Furniture & More",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260910/232b741b-d4d8-4e38-8be8-da09dd2f99a0/fine-arts-and-mid-century-modern-auction-jewelry-silver-art-furniture-more",
+        "published_at": "2026-09-10T14:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-31T16:37:42.792845+00:00",
+      "verification": {
+        "article_title": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry | Silver | Art | Furniture & More",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260910/232b741b-d4d8-4e38-8be8-da09dd2f99a0/fine-arts-and-mid-century-modern-auction-jewelry-silver-art-furniture-more",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-31T16:37:41.333357+00:00"
+      }
+    },
+    {
+      "headline": "TikTok is the new 311: New Yorkers tag Mayor Mamdani",
+      "bullets": [
+        "Maxime Kakhidze is an 8-year-old Brooklynite who\u2019s figured out a way to get Mayor Zohran Mamdani to solve a problem: go viral.",
+        "\u201cMy parents always told me that my voice matters,\u201d said Kakhidze, who joined Mamdani last week at a press conference announcing a plan to fast track repairs at city parks."
+      ],
+      "summary": "TikTok is the new 311: New Yorkers tag Mayor Mamdani",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "TikTok is the new 311: New Yorkers tag Mayor Mamdani on social media for help",
+        "article_url": "https://gothamist.com/news/tiktok-is-the-new-311-new-yorkers-tag-mayor-mamdani-on-social-media-for-help",
+        "published_at": "2026-08-31T15:00:56+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-31T16:37:42.853411+00:00",
+      "verification": {
+        "article_title": "TikTok is the new 311: New Yorkers tag Mayor Mamdani on social media for help",
+        "article_url": "https://gothamist.com/news/tiktok-is-the-new-311-new-yorkers-tag-mayor-mamdani-on-social-media-for-help",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-31T16:37:41.399955+00:00"
+      }
+    },
+    {
+      "headline": "September 11 remembrance ceremony in NYC honors victims killed 25",
+      "bullets": [
+        "Watch live coverage of the ceremony on September 11 beginning at 8:00 a.m.",
+        "on Channel 7 and wherever you stream ABC 7 New York NEW YORK (WABC) -- This year marks 25 years since the 9/11 terror attack, and the National September 11 Memorial & Museum will hold its annual commemoration ceremony to remember the victims."
+      ],
+      "summary": "September 11 remembrance ceremony in NYC honors victims killed 25",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "September 11 remembrance ceremony in NYC honors victims killed 25 years ago",
+        "article_url": "https://abc7ny.com/post/remembering-911-live-stream-sept-11-remembrance-ceremony-honoring-victims-killed-25-years-ago-nyc/19769795/",
+        "published_at": "2026-08-31"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-31T16:37:42.944202+00:00",
+      "verification": {
+        "article_title": "September 11 remembrance ceremony in NYC honors victims killed 25 years ago",
+        "article_url": "https://abc7ny.com/post/remembering-911-live-stream-sept-11-remembrance-ceremony-honoring-victims-killed-25-years-ago-nyc/19769795/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-31T16:37:41.521833+00:00"
+      }
+    },
+    {
+      "headline": "Is it safe to eat lettuce yet? What to know",
+      "bullets": [
+        "As federal health officials continue to investigate this summer's outbreak of cyclosporiasis tied to iceberg lettuce, many people are left wondering: Is it safe to eat lettuce yet?",
+        "For now, the answer seems to be generally yes - with an important caveat."
+      ],
+      "summary": "Is it safe to eat lettuce yet? What to know",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Is it safe to eat lettuce yet? What to know as cyclosporiasis outbreak lingers",
+        "article_url": "https://abc7ny.com/post/is-safe-eat-lettuce-what-know-usda-makes-announcement-cyclosporiasis-outbreak-amid-lawsuits/19769285/",
+        "published_at": "2026-08-31"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-31T16:37:43.010829+00:00",
+      "verification": {
+        "article_title": "Is it safe to eat lettuce yet? What to know as cyclosporiasis outbreak lingers",
+        "article_url": "https://abc7ny.com/post/is-safe-eat-lettuce-what-know-usda-makes-announcement-cyclosporiasis-outbreak-amid-lawsuits/19769285/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-31T16:37:41.622966+00:00"
+      }
+    },
+    {
+      "headline": "Trump trade war with Canada is war on U.S. businesses",
+      "bullets": [
+        "Having dynamited trade talks with Canada \u2014 in part due to the intervention of Commerce Secretary Howard Lutnick \u2014 Donald Trump has now imposed 50% tariffs on certain Canadian goods, with Canada immediately retaliating.",
+        "This will be good for no one, especially the auto industry that straddles both countries."
+      ],
+      "summary": "Trump trade war with Canada is war on U.S. businesses",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Trump trade war with Canada is war on U.S. businesses",
+        "article_url": "https://www.nydailynews.com/2026/08/31/trump-trade-war-with-canada-is-war-on-u-s-businesses/",
+        "published_at": "2026-08-31"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-31T16:37:43.070678+00:00",
+      "verification": {
+        "article_title": "Trump trade war with Canada is war on U.S. businesses",
+        "article_url": "https://www.nydailynews.com/2026/08/31/trump-trade-war-with-canada-is-war-on-u-s-businesses/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-31T16:37:41.711723+00:00"
+      }
+    },
+    {
+      "headline": "Woman shoved onto Bronx subway tracks blasts NYC leaders, Mamdani,",
+      "bullets": [
+        "A 65-year-old woman whose leg was broken in three places after a mentally ill stranger shoved her onto the tracks at a Bronx subway station in an unprovoked attack blasted city leaders for failing to protect riders as the number of assaults in New York City\u2019s subway system has spiked by 10% this year.",
+        "\u201cThe situation has got to stop,\u201d an outraged Lydia Zuniga told the Daily News from her hospital bed."
+      ],
+      "summary": "Woman shoved onto Bronx subway tracks blasts NYC leaders, Mamdani,",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Woman shoved onto Bronx subway tracks blasts NYC leaders, Mamdani, as transit assaults spike",
+        "article_url": "https://www.nydailynews.com/2026/08/29/woman-shoved-onto-bronx-subway-tracks-blasts-nyc-leaders-mamdani-as-transit-assaults-spike/",
+        "published_at": "2026-08-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-31T16:37:43.136055+00:00",
+      "verification": {
+        "article_title": "Woman shoved onto Bronx subway tracks blasts NYC leaders, Mamdani, as transit assaults spike",
+        "article_url": "https://www.nydailynews.com/2026/08/29/woman-shoved-onto-bronx-subway-tracks-blasts-nyc-leaders-mamdani-as-transit-assaults-spike/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-31T16:37:41.793645+00:00"
+      }
+    },
+    {
+      "headline": "John Galliano's Met Gala exhibit canceled amid backlash over antisemitic",
+      "bullets": [
+        "Designer John Galliano and the Metropolitan Museum of Art in New York City say the highlighting his work in conjunction with the 2027 Met Gala will not be going forward, following weeks of backlash.",
+        "The British designer said in a social media post on Monday that after \"much reflection and discussion, with all those involved, I've decided, with great sadness, that it is best for the exhibition not to take place at this time.\" The Met confirmed in a statement that the \"Spring 2027 exhibition devoted to his four-decade oeuvre will not proceed as planned.\" The decision to highlight the work by Galliano, who is known for his theatrical and dramatic designs, sparked widespread controversy earlier this month due to his history of antisemitic and racist comments."
+      ],
+      "summary": "John Galliano's Met Gala exhibit canceled amid backlash over antisemitic",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "John Galliano's Met Gala exhibit canceled amid backlash over antisemitic remarks",
+        "article_url": "https://www.cbsnews.com/newyork/news/john-galliano-met-gala-exhibit-dropped-backlash/",
+        "published_at": "2026-08-31"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-31T16:37:43.195634+00:00",
+      "verification": {
+        "article_title": "John Galliano's Met Gala exhibit canceled amid backlash over antisemitic remarks",
+        "article_url": "https://www.cbsnews.com/newyork/news/john-galliano-met-gala-exhibit-dropped-backlash/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-31T16:37:41.913854+00:00"
+      }
+    },
+    {
+      "headline": "Today in History: August 31, Princess Diana dies in Paris",
+      "bullets": [
+        "Today is Monday, Aug.",
+        "31, the 243rd day of 2026."
+      ],
+      "summary": "Today in History: August 31, Princess Diana dies in Paris",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Today in History: August 31, Princess Diana dies in Paris tunnel crash",
+        "article_url": "https://www.nydailynews.com/2026/08/31/today-in-history-august-31-princess-diana-dies-in-paris-tunnel-crash/",
+        "published_at": "2026-08-31"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-31T16:37:43.256674+00:00",
+      "verification": {
+        "article_title": "Today in History: August 31, Princess Diana dies in Paris tunnel crash",
+        "article_url": "https://www.nydailynews.com/2026/08/31/today-in-history-august-31-princess-diana-dies-in-paris-tunnel-crash/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-31T16:37:41.981734+00:00"
+      }
+    },
+    {
+      "headline": "NYC makes progress stopping overdoses",
+      "bullets": [
+        "In 2021, I was hospitalized with a heart condition caused by more than 15 years of drug use.",
+        "I had been unemployed for five years and had no idea what the future would hold."
+      ],
+      "summary": "NYC makes progress stopping overdoses",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYC makes progress stopping overdoses",
+        "article_url": "https://www.nydailynews.com/2026/08/31/nyc-makes-progress-stopping-overdoses/",
+        "published_at": "2026-08-31"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-31T16:37:43.325679+00:00",
+      "verification": {
+        "article_title": "NYC makes progress stopping overdoses",
+        "article_url": "https://www.nydailynews.com/2026/08/31/nyc-makes-progress-stopping-overdoses/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-31T16:37:42.043124+00:00"
+      }
+    },
+    {
+      "headline": "Jurors in Lindsay Clancy return for third day of deliberations",
+      "bullets": [
+        "PLYMOUTH, Mass.",
+        "-- Jurors in the Lindsay Clancy trial returned for their third day of deliberations Monday to determine whether to hold the former labor and delivery nurse criminally responsible for killing her three children in 2023 - a case that has drawn attention to maternal mental health after childbirth."
+      ],
+      "summary": "Jurors in Lindsay Clancy return for third day of deliberations",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Jurors in Lindsay Clancy return for third day of deliberations",
+        "article_url": "https://abc7ny.com/post/lindsay-clancy-trial-jurors-return-third-day-deliberations-determine-verdict/19769512/",
+        "published_at": "2026-08-31"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-31T16:37:43.384402+00:00",
+      "verification": {
+        "article_title": "Jurors in Lindsay Clancy return for third day of deliberations",
+        "article_url": "https://abc7ny.com/post/lindsay-clancy-trial-jurors-return-third-day-deliberations-determine-verdict/19769512/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-31T16:37:42.109207+00:00"
+      }
+    },
+    {
+      "headline": "Hundreds feared stuck in hydropower tunnels as flood deaths surpass",
+      "bullets": [
+        "By SHRISTI KAFLE and HUIZHONG WU KATHMANDU, Nepal (AP) \u2014 Rescuers raced Monday to free hundreds of workers believed to be trapped in tunnels at hydropower sites that were buried in mud by catastrophic flooding on the Nepal-China border, as the death toll climbed and increasingly desperate families searched for missing loved ones.",
+        "The combined deaths in Nepal and China surpassed 950, with more than 4,400 people missing."
+      ],
+      "summary": "Hundreds feared stuck in hydropower tunnels as flood deaths surpass",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Hundreds feared stuck in hydropower tunnels as flood deaths surpass 950 in Nepal and China",
+        "article_url": "https://www.nydailynews.com/2026/08/31/nepal-flood-deaths-stuck-workers/",
+        "published_at": "2026-08-31T11:31:39+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-31T16:37:43.444167+00:00",
+      "verification": {
+        "article_title": "Hundreds feared stuck in hydropower tunnels as flood deaths surpass 950 in Nepal and China",
+        "article_url": "https://www.nydailynews.com/2026/08/31/nepal-flood-deaths-stuck-workers/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-31T16:37:42.182312+00:00"
+      }
+    },
+    {
+      "headline": "Song Birds Really Can Chase the Blues Away",
+      "bullets": [
+        "Song Birds Really Can Chase the Blues Away There are abundant song birds in the metropolitan area, from northern Cardinals to the song sparrow.",
+        "The NY Bird Alliance says there are over 500 species of birds that can be found in NYC."
+      ],
+      "summary": "Song Birds Really Can Chase the Blues Away",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Song Birds Really Can Chase the Blues Away",
+        "article_url": "https://www.ourtownny.com/features/healthy-manhattan/song-birds-really-can-chase-the-blues-away-EG6118314",
+        "published_at": "2026-08-31"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-31T16:37:43.508021+00:00",
+      "verification": {
+        "article_title": "Song Birds Really Can Chase the Blues Away",
+        "article_url": "https://www.ourtownny.com/features/healthy-manhattan/song-birds-really-can-chase-the-blues-away-EG6118314",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-31T16:37:42.249612+00:00"
+      }
+    },
+    {
+      "headline": "Late start to school year puts NYC parents in a",
+      "bullets": [
+        "Some New York City students may be cheering the extra long summer break caused by this year\u2019s late Labor Day, but the Sept.",
+        "10 start date is causing headaches for parents scrambling for childcare."
+      ],
+      "summary": "Late start to school year puts NYC parents in a",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Late start to school year puts NYC parents in a childcare crunch",
+        "article_url": "https://gothamist.com/news/late-start-to-school-year-puts-nyc-parents-in-a-childcare-crunch",
+        "published_at": "2026-08-31T16:12:25+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-31T16:37:43.569841+00:00",
+      "verification": {
+        "article_title": "Late start to school year puts NYC parents in a childcare crunch",
+        "article_url": "https://gothamist.com/news/late-start-to-school-year-puts-nyc-parents-in-a-childcare-crunch",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-31T16:37:42.344706+00:00"
+      }
+    },
+    {
+      "headline": "What is a heat advisory? Excessive heat warning? Heat wave?",
+      "bullets": [
+        "Much of the Tri-State Area is as the combined heat and humidity also brings with it the risk of flash flooding.",
+        "Summers can sizzle around the New York City area, where the hottest normal high is 85 degrees in July."
+      ],
+      "summary": "What is a heat advisory? Excessive heat warning? Heat wave?",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "What is a heat advisory? Excessive heat warning? Heat wave? Why they feel even hotter in NYC.",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-heat-wave-excessive-heat-warning/",
+        "published_at": "2024-06-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-31T16:37:43.648813+00:00",
+      "verification": {
+        "article_title": "What is a heat advisory? Excessive heat warning? Heat wave? Why they feel even hotter in NYC.",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-heat-wave-excessive-heat-warning/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-31T16:37:42.406310+00:00"
+      }
+    },
+    {
+      "headline": "Serena Williams says she'll 'probably' play singles again after US",
+      "bullets": [
+        "The tennis legend opens up about her future on the court and playing at 44.",
+        "Serena Williams is leaving the door open to playing singles again."
+      ],
+      "summary": "Serena Williams says she'll 'probably' play singles again after US",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Serena Williams says she'll 'probably' play singles again after US Open return",
+        "article_url": "https://abc7ny.com/story/serena-williams-says-shell-play-singles-us-open-return/19770069/",
+        "published_at": "2026-08-31"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-31T16:37:43.762874+00:00",
+      "verification": {
+        "article_title": "Serena Williams says she'll 'probably' play singles again after US Open return",
+        "article_url": "https://abc7ny.com/story/serena-williams-says-shell-play-singles-us-open-return/19770069/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-31T16:37:42.465981+00:00"
+      }
+    },
+    {
+      "headline": "Happy Head hair loss treatment review",
+      "bullets": [
+        "An honest breakdown of how men can fight hair loss As people age, their hair often becomes thinner or more sparse.",
+        "Pattern hair loss affects 85% of men, according to the American Hair Loss Association, and 50% of women, according to Cleveland Clinic."
+      ],
+      "summary": "Happy Head hair loss treatment review",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Happy Head hair loss treatment review",
+        "article_url": "https://www.nydailynews.com/2026/08/28/happy-head-hair-loss-treatment-review/",
+        "published_at": "2026-08-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-08-31T16:37:43.829448+00:00",
+      "verification": {
+        "article_title": "Happy Head hair loss treatment review",
+        "article_url": "https://www.nydailynews.com/2026/08/28/happy-head-hair-loss-treatment-review/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-08-31T16:37:42.527166+00:00"
+      }
+    }
+  ]
+}
