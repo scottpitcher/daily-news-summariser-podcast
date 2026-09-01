@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-09-01T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-09-01.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "NYU Langone Confirmed to Own Kips Bay AMC Site, Theater",
+      "bullets": [
+        "NYU Langone Confirmed to Own Kips Bay AMC Site, Theater to Close City officials are requesting answers from NYU Langone, which they say bought the site of the AMC Kips Bay 15 over a year ago without their knowledge.",
+        "Assemblymember Keith Powers confirmed that NYU Langone has owned the \u00e2site\u00e2 of the AMC Kips Bay 15 for over a year now."
+      ],
+      "summary": "NYU Langone Confirmed to Own Kips Bay AMC Site, Theater",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "NYU Langone Confirmed to Own Kips Bay AMC Site, Theater to Close",
+        "article_url": "https://www.ourtownny.com/news/nyu-langone-confirmed-to-own-kips-bay-amc-site-theater-to-close-NE6152708",
+        "published_at": "2026-08-31"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-01T13:53:04.559157+00:00",
+      "verification": {
+        "article_title": "NYU Langone Confirmed to Own Kips Bay AMC Site, Theater to Close",
+        "article_url": "https://www.ourtownny.com/news/nyu-langone-confirmed-to-own-kips-bay-amc-site-theater-to-close-NE6152708",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-01T13:53:01.328658+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry",
+      "bullets": [
+        "New York City, NY|Featured Event Fine Arts and Mid-Century Modern Auction | Jewelry | Silver | Art | Furniture & More Fine Arts and Mid-Century Modern - Online Auction Thursday, September 10, 2026 at 10:00 AM Bid online at alderferauction.com.",
+        "Alderfer Auction\u2019s September Fine Art and Mid-Century Modern Auction features a collection of art, luxury Swiss timepieces, jewelry, sterling silver, d\u00e9cor, and mid-century and period furniture."
+      ],
+      "summary": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry | Silver | Art | Furniture & More",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260910/232b741b-d4d8-4e38-8be8-da09dd2f99a0/fine-arts-and-mid-century-modern-auction-jewelry-silver-art-furniture-more",
+        "published_at": "2026-09-10T14:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-01T13:53:04.700258+00:00",
+      "verification": {
+        "article_title": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry | Silver | Art | Furniture & More",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260910/232b741b-d4d8-4e38-8be8-da09dd2f99a0/fine-arts-and-mid-century-modern-auction-jewelry-silver-art-furniture-more",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-01T13:53:01.539726+00:00"
+      }
+    },
+    {
+      "headline": "TikTok is the new 311: New Yorkers tag Mayor Mamdani",
+      "bullets": [
+        "Maxime Kakhidze is an 8-year-old Brooklynite who\u2019s figured out a way to get Mayor Zohran Mamdani to solve a problem: go viral.",
+        "\u201cMy parents always told me that my voice matters,\u201d said Kakhidze, who joined Mamdani last week at a press conference announcing a plan to fast track repairs at city parks."
+      ],
+      "summary": "TikTok is the new 311: New Yorkers tag Mayor Mamdani",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "TikTok is the new 311: New Yorkers tag Mayor Mamdani on social media for help",
+        "article_url": "https://gothamist.com/news/tiktok-is-the-new-311-new-yorkers-tag-mayor-mamdani-on-social-media-for-help",
+        "published_at": "2026-08-31T15:00:56+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-01T13:53:04.900568+00:00",
+      "verification": {
+        "article_title": "TikTok is the new 311: New Yorkers tag Mayor Mamdani on social media for help",
+        "article_url": "https://gothamist.com/news/tiktok-is-the-new-311-new-yorkers-tag-mayor-mamdani-on-social-media-for-help",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-01T13:53:01.719740+00:00"
+      }
+    },
+    {
+      "headline": "Bruce Blakeman takes aim at NY's justice system: 'A revolving",
+      "bullets": [
+        "NEW YORK CITY - As violent crimes and repeat offenses continue to spark outrage across New York, Nassau County Executive and Republican gubernatorial candidate Bruce Blakeman is drawing a hard line.",
+        "What we know: In a recent interview with FOX 5' Lisa Evers, Blakeman sharply criticized the state's current criminal justice policies, taking direct aim at New York Gov."
+      ],
+      "summary": "Bruce Blakeman takes aim at NY's justice system: 'A revolving",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Bruce Blakeman takes aim at NY's justice system: 'A revolving door of criminality'",
+        "article_url": "https://www.fox5ny.com/news/bruce-blakeman-takes-aim-nys-justice-system-a-revolving-door-criminality",
+        "published_at": "2026-09-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-01T13:53:05.103029+00:00",
+      "verification": {
+        "article_title": "Bruce Blakeman takes aim at NY's justice system: 'A revolving door of criminality'",
+        "article_url": "https://www.fox5ny.com/news/bruce-blakeman-takes-aim-nys-justice-system-a-revolving-door-criminality",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-01T13:53:01.908817+00:00"
+      }
+    },
+    {
+      "headline": "New report to shed light on lasting health impact of",
+      "bullets": [
+        "NEW YORK (WABC) -- The FDNY will release a landmark report Tuesday detailing the long-term health effects of the September 11 attacks on firefighters, EMTs, paramedics and other rescue and recovery workers, marking nearly 25 years since the terrorist attack.",
+        "The report, produced by the FDNY World Trade Center Health Program, draws on decades of research and medical monitoring and examines the health of first responders, officers, civilians and retirees who participated in rescue and recovery operations at Ground Zero."
+      ],
+      "summary": "New report to shed light on lasting health impact of",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "New report to shed light on lasting health impact of 9/11 rescue effort",
+        "article_url": "https://abc7ny.com/post/fdny-release-25-year-report-health-impacts-911-rescue-recovery-effort/19774094/",
+        "published_at": "2026-09-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-01T13:53:05.236102+00:00",
+      "verification": {
+        "article_title": "New report to shed light on lasting health impact of 9/11 rescue effort",
+        "article_url": "https://abc7ny.com/post/fdny-release-25-year-report-health-impacts-911-rescue-recovery-effort/19774094/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-01T13:53:02.107337+00:00"
+      }
+    },
+    {
+      "headline": "NYC loosens restrictions on outdoor dining, reversing some post-pandemic rules",
+      "bullets": [
+        "Year-round outdoor dining is officially back in New York City as part of a suite of new regulations officials hope will bring back the roadside sheds and sidewalk cafes that peppered city streets during and after the COVID-19 pandemic.",
+        "\u201cOutdoor dining transformed our city once before,\u201d Mayor Zohran Mamdani said at a bill signing ceremony outside City Hall Monday."
+      ],
+      "summary": "NYC loosens restrictions on outdoor dining, reversing some post-pandemic rules",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC loosens restrictions on outdoor dining, reversing some post-pandemic rules",
+        "article_url": "https://gothamist.com/news/nyc-loosens-restrictions-on-outdoor-dining-reversing-some-post-pandemic-rules",
+        "published_at": "2026-08-31T19:51:12+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-01T13:53:05.373182+00:00",
+      "verification": {
+        "article_title": "NYC loosens restrictions on outdoor dining, reversing some post-pandemic rules",
+        "article_url": "https://gothamist.com/news/nyc-loosens-restrictions-on-outdoor-dining-reversing-some-post-pandemic-rules",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-01T13:53:02.322078+00:00"
+      }
+    },
+    {
+      "headline": "NYPD detective who wore his father's shield after 9/11 is",
+      "bullets": [
+        "Eleven days before the 25th anniversary of the Sept.",
+        "11 attacks, the NYPD on Monday promoted to sergeant a detective whose father was killed at the World Trade Center."
+      ],
+      "summary": "NYPD detective who wore his father's shield after 9/11 is",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYPD detective who wore his father's shield after 9/11 is now a sergeant",
+        "article_url": "https://gothamist.com/news/nypd-detective-who-wore-his-fathers-shield-after-911-is-now-a-sergeant",
+        "published_at": "2026-08-31T21:12:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-01T13:53:05.566134+00:00",
+      "verification": {
+        "article_title": "NYPD detective who wore his father's shield after 9/11 is now a sergeant",
+        "article_url": "https://gothamist.com/news/nypd-detective-who-wore-his-fathers-shield-after-911-is-now-a-sergeant",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-01T13:53:02.457783+00:00"
+      }
+    },
+    {
+      "headline": "Emmy Rossum walks around talking to herself. That no one",
+      "bullets": [
+        "When Emmy Rossum was growing up, full of angst or agony or whatever emotion her teenage hormones decided on that day, she would calm herself down by visiting Cedar Hill.",
+        "Located in Central Park near the 79th Street traverse, the field was near where she grew up on the Upper East Side."
+      ],
+      "summary": "Emmy Rossum walks around talking to herself. That no one",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Emmy Rossum walks around talking to herself. That no one cares is one of the reasons she loves NYC.",
+        "article_url": "https://gothamist.com/arts-entertainment/emmy-rossum-walks-around-talking-to-herself-that-no-one-cares-is-one-of-the-reasons-she-loves-nyc",
+        "published_at": "2026-08-31T17:25:56+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-01T13:53:05.706590+00:00",
+      "verification": {
+        "article_title": "Emmy Rossum walks around talking to herself. That no one cares is one of the reasons she loves NYC.",
+        "article_url": "https://gothamist.com/arts-entertainment/emmy-rossum-walks-around-talking-to-herself-that-no-one-cares-is-one-of-the-reasons-she-loves-nyc",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-01T13:53:02.678102+00:00"
+      }
+    },
+    {
+      "headline": "Building a city for tomorrow\u2019s storms",
+      "bullets": [
+        "Five years ago, Hurricane Ida changed New York City.",
+        "An unprecedented downpour turned streets into rivers, flooded homes, and led to the tragic loss of 13 New Yorkers \u2014 many living in basement apartments."
+      ],
+      "summary": "Building a city for tomorrow\u2019s storms",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Building a city for tomorrow\u2019s storms",
+        "article_url": "https://www.nydailynews.com/2026/09/01/building-a-city-for-tomorrows-storms/",
+        "published_at": "2026-09-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-01T13:53:05.899032+00:00",
+      "verification": {
+        "article_title": "Building a city for tomorrow\u2019s storms",
+        "article_url": "https://www.nydailynews.com/2026/09/01/building-a-city-for-tomorrows-storms/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-01T13:53:02.906086+00:00"
+      }
+    },
+    {
+      "headline": "Woman killed, man wounded in random Times Square stabbing; NYPD",
+      "bullets": [
+        "MIDTOWN (WABC) -- New York City police fatally shot an apparently emotionally disturbed woman after she allegedly stabbed two people in Times Square in a \"random and unprovoked\" attack, authorities said.",
+        "One victim, a 32-year-old woman, died at a hospital, police said."
+      ],
+      "summary": "Woman killed, man wounded in random Times Square stabbing; NYPD",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Woman killed, man wounded in random Times Square stabbing; NYPD fatally shoots suspect",
+        "article_url": "https://abc7ny.com/post/times-square-shooting-person-shot-police/19771286/",
+        "published_at": "2026-08-31"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-01T13:53:06.035119+00:00",
+      "verification": {
+        "article_title": "Woman killed, man wounded in random Times Square stabbing; NYPD fatally shoots suspect",
+        "article_url": "https://abc7ny.com/post/times-square-shooting-person-shot-police/19771286/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-01T13:53:03.090530+00:00"
+      }
+    },
+    {
+      "headline": "Victims, suspect identified in deadly Times Square stabbings, shooting",
+      "bullets": [
+        "MIDTOWN (WABC) -- The victims stabbed and the suspect who was shot by police in Times Square on Monday have been identified.",
+        "Police say 32-year-old Erin Piacenti died at the hospital."
+      ],
+      "summary": "Victims, suspect identified in deadly Times Square stabbings, shooting",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Victims, suspect identified in deadly Times Square stabbings, shooting",
+        "article_url": "https://abc7ny.com/post/times-square-stabbing-victims-suspect-identified-deadly-stabbings-police-involved-shooting/19774787/",
+        "published_at": "2026-09-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-01T13:53:06.174089+00:00",
+      "verification": {
+        "article_title": "Victims, suspect identified in deadly Times Square stabbings, shooting",
+        "article_url": "https://abc7ny.com/post/times-square-stabbing-victims-suspect-identified-deadly-stabbings-police-involved-shooting/19774787/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-01T13:53:03.283722+00:00"
+      }
+    },
+    {
+      "headline": "NYC Mayor Mamdani announces plan to prevent Legionnaires' disease after",
+      "bullets": [
+        "New York City Mayor Zohran Mamdani announced a plan to ramp up the city's response to after a this summer.",
+        "The cluster on Manhattan's Upper East Side killed 11 people and sickened 94 others."
+      ],
+      "summary": "NYC Mayor Mamdani announces plan to prevent Legionnaires' disease after",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "NYC Mayor Mamdani announces plan to prevent Legionnaires' disease after deadly outbreak",
+        "article_url": "https://www.cbsnews.com/newyork/news/legionnaires-disease-nyc-plan-zohran-mamdani/",
+        "published_at": "2026-09-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-01T13:53:06.361471+00:00",
+      "verification": {
+        "article_title": "NYC Mayor Mamdani announces plan to prevent Legionnaires' disease after deadly outbreak",
+        "article_url": "https://www.cbsnews.com/newyork/news/legionnaires-disease-nyc-plan-zohran-mamdani/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-01T13:53:03.423302+00:00"
+      }
+    },
+    {
+      "headline": "Death toll tops 1,000 after Nepal flooding, as search continues",
+      "bullets": [
+        "A total of 3,916 people were said to be missing throughout Nepal.",
+        "LONDON -- More than 1,000 people were confirmed dead and almost 4,000 others were thought to be missing as of Tuesday afternoon in Nepal, where deadly flash flooding last week destroyed towns and swept away structures, according to authorities."
+      ],
+      "summary": "Death toll tops 1,000 after Nepal flooding, as search continues",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Death toll tops 1,000 after Nepal flooding, as search continues for thousands",
+        "article_url": "https://abc7ny.com/story/death-toll-tops-1000-nepal-flooding-search-continues-thousands/19774344/",
+        "published_at": "2026-09-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-01T13:53:06.500154+00:00",
+      "verification": {
+        "article_title": "Death toll tops 1,000 after Nepal flooding, as search continues for thousands",
+        "article_url": "https://abc7ny.com/story/death-toll-tops-1000-nepal-flooding-search-continues-thousands/19774344/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-01T13:53:03.548384+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: Silent Voices United Inc. to Expand ReadQuest Free",
+      "bullets": [
+        "New York City, NY|Featured Event Silent Voices United Inc.",
+        "to Expand ReadQuest Free Book Program in September 2026 FOR IMMEDIATE RELEASE SILENT VOICES UNITED INC."
+      ],
+      "summary": "Local Event: Silent Voices United Inc. to Expand ReadQuest Free",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Silent Voices United Inc. to Expand ReadQuest Free Book Program in September 2026",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260901/3131782a-5004-425d-bef1-88ad5036e4e1/silent-voices-united-inc-to-expand-readquest-free-book-program-in-september-2026",
+        "published_at": "2026-09-01T13:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-01T13:53:06.632506+00:00",
+      "verification": {
+        "article_title": "Local Event: Silent Voices United Inc. to Expand ReadQuest Free Book Program in September 2026",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260901/3131782a-5004-425d-bef1-88ad5036e4e1/silent-voices-united-inc-to-expand-readquest-free-book-program-in-september-2026",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-01T13:53:03.686768+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on renewable energy, Canada spat and a",
+      "bullets": [
+        "Obviously, renewable energy is the future Beacon, N.Y.: Re \u201cThe price of waiting on pipes and wires\u201d (op-ed, Aug.",
+        "26): I was surprised that there wasn\u2019t a single mention of renewable energy \u2014 that is, until I reached the end and saw the authors\u2019 bios."
+      ],
+      "summary": "Readers sound off on renewable energy, Canada spat and a",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on renewable energy, Canada spat and a Dolly tribute",
+        "article_url": "https://www.nydailynews.com/2026/09/01/readers-sound-off-on-renewable-energy-canada-spat-and-a-dolly-tribute/",
+        "published_at": "2026-09-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-01T13:53:06.774748+00:00",
+      "verification": {
+        "article_title": "Readers sound off on renewable energy, Canada spat and a Dolly tribute",
+        "article_url": "https://www.nydailynews.com/2026/09/01/readers-sound-off-on-renewable-energy-canada-spat-and-a-dolly-tribute/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-01T13:53:03.819114+00:00"
+      }
+    },
+    {
+      "headline": "Building a city for tomorrow\u2019s storms",
+      "bullets": [
+        "Five years ago, Hurricane Ida changed New York City.",
+        "An unprecedented downpour turned streets into rivers, flooded homes, and led to the tragic loss of 13 New Yorkers \u2014 many living in basement apartments."
+      ],
+      "summary": "Building a city for tomorrow\u2019s storms",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Building a city for tomorrow\u2019s storms",
+        "article_url": "https://www.nydailynews.com/2026/09/01/building-a-city-for-tomorrows-storms/",
+        "published_at": "2026-09-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-01T13:53:06.913582+00:00",
+      "verification": {
+        "article_title": "Building a city for tomorrow\u2019s storms",
+        "article_url": "https://www.nydailynews.com/2026/09/01/building-a-city-for-tomorrows-storms/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-01T13:53:04.017466+00:00"
+      }
+    },
+    {
+      "headline": "The face of terrorism 25 years after the attacks of",
+      "bullets": [
+        "Terrorism in 2026 looks very different than it did 25 years ago when the Twin Towers fell on 9/11.",
+        "While the United States has not seen an attack on that scale since then, the risks have become more varied and complex."
+      ],
+      "summary": "The face of terrorism 25 years after the attacks of",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "The face of terrorism 25 years after the attacks of 9/11: Are we really any safer now?",
+        "article_url": "https://www.nydailynews.com/2026/09/01/the-face-of-terrorism-25-years-after-the-attacks-of-9-11-are-we-really-any-safer-now/",
+        "published_at": "2026-09-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-01T13:53:07.041698+00:00",
+      "verification": {
+        "article_title": "The face of terrorism 25 years after the attacks of 9/11: Are we really any safer now?",
+        "article_url": "https://www.nydailynews.com/2026/09/01/the-face-of-terrorism-25-years-after-the-attacks-of-9-11-are-we-really-any-safer-now/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-01T13:53:04.154961+00:00"
+      }
+    },
+    {
+      "headline": "Fury at Chinatown Jail: Locals Warn of Danger, City Set",
+      "bullets": [
+        "Fury at Chinatown Jail: Locals Warn of Danger, City Set to Build It\u00e2s promised to be the most welcoming and most stylish jail Manhattan has ever seen.",
+        "So why is Chinatown so mad, and what dangers lurk in the construction site\u00e2s primordial mud?"
+      ],
+      "summary": "Fury at Chinatown Jail: Locals Warn of Danger, City Set",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Fury at Chinatown Jail: Locals Warn of Danger, City Set to Build",
+        "article_url": "https://www.ourtownny.com/news/fury-at-chinatown-jail-locals-warn-of-danger-city-set-to-build-CB6146646",
+        "published_at": "2026-08-31"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-01T13:53:07.239367+00:00",
+      "verification": {
+        "article_title": "Fury at Chinatown Jail: Locals Warn of Danger, City Set to Build",
+        "article_url": "https://www.ourtownny.com/news/fury-at-chinatown-jail-locals-warn-of-danger-city-set-to-build-CB6146646",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-01T13:53:04.290857+00:00"
+      }
+    }
+  ]
+}
