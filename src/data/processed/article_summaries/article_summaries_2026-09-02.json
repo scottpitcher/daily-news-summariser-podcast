@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-09-02T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-09-02.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Victim fatally stabbed by woman in Times Square NYPD shooting",
+      "bullets": [
+        "A woman randomly murdered by a mentally ill assailant on a stabbing spree in Times Square has been identified as a vice president at Bank of America who had recently given birth to a baby daughter.",
+        "Erin Piacenti, 32, of Chester, N.J., died in Monday afternoon\u2019s bloody rampage when Pamela Cisneros, a 49-year-old Queens woman with a history of mental illness, pulled two kitchen knives out of a Target bag and started stabbing strangers."
+      ],
+      "summary": "Victim fatally stabbed by woman in Times Square NYPD shooting",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Victim fatally stabbed by woman in Times Square NYPD shooting ID\u2019d as Erin Piacenti of NJ",
+        "article_url": "https://www.nydailynews.com/2026/09/01/victim-fatally-stabbed-woman-times-square-nypd-shooting-id-erin-piacenti-nj/",
+        "published_at": "2026-09-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-02T13:09:27.294009+00:00",
+      "verification": {
+        "article_title": "Victim fatally stabbed by woman in Times Square NYPD shooting ID\u2019d as Erin Piacenti of NJ",
+        "article_url": "https://www.nydailynews.com/2026/09/01/victim-fatally-stabbed-woman-times-square-nypd-shooting-id-erin-piacenti-nj/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-02T13:09:22.541764+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry",
+      "bullets": [
+        "New York City, NY|Featured Event Fine Arts and Mid-Century Modern Auction | Jewelry | Silver | Art | Furniture & More Fine Arts and Mid-Century Modern - Online Auction Thursday, September 10, 2026 at 10:00 AM Bid online at alderferauction.com.",
+        "Alderfer Auction\u2019s September Fine Art and Mid-Century Modern Auction features a collection of art, luxury Swiss timepieces, jewelry, sterling silver, d\u00e9cor, and mid-century and period furniture."
+      ],
+      "summary": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry | Silver | Art | Furniture & More",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260910/232b741b-d4d8-4e38-8be8-da09dd2f99a0/fine-arts-and-mid-century-modern-auction-jewelry-silver-art-furniture-more",
+        "published_at": "2026-09-10T14:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-02T13:09:27.439600+00:00",
+      "verification": {
+        "article_title": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry | Silver | Art | Furniture & More",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260910/232b741b-d4d8-4e38-8be8-da09dd2f99a0/fine-arts-and-mid-century-modern-auction-jewelry-silver-art-furniture-more",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-02T13:09:22.879564+00:00"
+      }
+    },
+    {
+      "headline": "Postal Service work to comply with Trump\u2019s executive order is",
+      "bullets": [
+        "By NICHOLAS RICCARDI The U.S.",
+        "Postal Service is poised to launch a hastily built, error-riddled computer system that could jeopardize the process of mail voting relied upon by one-third of all voters, according to a whistleblower statement released Tuesday by Democratic Sen."
+      ],
+      "summary": "Postal Service work to comply with Trump\u2019s executive order is",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Postal Service work to comply with Trump\u2019s executive order is rushed, sloppy, whistleblower contends",
+        "article_url": "https://www.nydailynews.com/2026/09/01/postal-service-trump-executive-order-mail-voting/",
+        "published_at": "2026-09-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-02T13:09:27.593905+00:00",
+      "verification": {
+        "article_title": "Postal Service work to comply with Trump\u2019s executive order is rushed, sloppy, whistleblower contends",
+        "article_url": "https://www.nydailynews.com/2026/09/01/postal-service-trump-executive-order-mail-voting/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-02T13:09:23.211551+00:00"
+      }
+    },
+    {
+      "headline": "Hochul, Mamdani demand $87M in unpaid federal anti-terror funds",
+      "bullets": [
+        "Gov.",
+        "Hochul and Mayor Mamdani on Tuesday demanded President Trump\u2019s administration fork over $87 million in unpaid federal counter-terror funding as the 25th anniversary of the 9/11 attacks draws near."
+      ],
+      "summary": "Hochul, Mamdani demand $87M in unpaid federal anti-terror funds",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Hochul, Mamdani demand $87M in unpaid federal anti-terror funds",
+        "article_url": "https://www.nydailynews.com/2026/09/01/hochul-mamdani-trump-unpaid-counter-terror-funds/",
+        "published_at": "2026-09-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-02T13:09:27.739424+00:00",
+      "verification": {
+        "article_title": "Hochul, Mamdani demand $87M in unpaid federal anti-terror funds",
+        "article_url": "https://www.nydailynews.com/2026/09/01/hochul-mamdani-trump-unpaid-counter-terror-funds/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-02T13:09:23.597880+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on voting for Democrats, Canada tariffs and",
+      "bullets": [
+        "Let this election be our national pivot Brooklyn: The control of the executive and legislative branches by the current Republican administration and Congress has accelerated a deeply concerning decline in our nation\u2019s foundational systems and global standing.",
+        "The relentless focus on deregulating major industries has dismantled decades of critical environmental protections, accelerating habitat destruction and leaving public health vulnerable to industrial pollution."
+      ],
+      "summary": "Readers sound off on voting for Democrats, Canada tariffs and",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on voting for Democrats, Canada tariffs and lost cell service",
+        "article_url": "https://www.nydailynews.com/2026/09/02/readers-sound-off-on-voting-for-democrats-canada-tariffs-and-lost-cell-service/",
+        "published_at": "2026-09-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-02T13:09:27.950185+00:00",
+      "verification": {
+        "article_title": "Readers sound off on voting for Democrats, Canada tariffs and lost cell service",
+        "article_url": "https://www.nydailynews.com/2026/09/02/readers-sound-off-on-voting-for-democrats-canada-tariffs-and-lost-cell-service/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-02T13:09:23.879177+00:00"
+      }
+    },
+    {
+      "headline": "FDNY report details lasting health effects of 9/11 rescue and",
+      "bullets": [
+        "NEW YORK (WABC) -- The FDNY released a landmark report Tuesday detailing the long-term health effects of the September 11 attacks on firefighters, EMTs, paramedics and other rescue and recovery workers, marking nearly 25 years since the terrorist attack.",
+        "The report, produced by the FDNY World Trade Center Health Program, draws on decades of research and medical monitoring and examines the health of first responders, officers, civilians and retirees who participated in rescue and recovery operations at Ground Zero."
+      ],
+      "summary": "FDNY report details lasting health effects of 9/11 rescue and",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "FDNY report details lasting health effects of 9/11 rescue and recovery work",
+        "article_url": "https://abc7ny.com/post/fdny-release-25-year-report-health-impacts-911-rescue-recovery-effort/19774094/",
+        "published_at": "2026-09-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-02T13:09:28.089246+00:00",
+      "verification": {
+        "article_title": "FDNY report details lasting health effects of 9/11 rescue and recovery work",
+        "article_url": "https://abc7ny.com/post/fdny-release-25-year-report-health-impacts-911-rescue-recovery-effort/19774094/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-02T13:09:24.219432+00:00"
+      }
+    },
+    {
+      "headline": "New FDNY report shines light on 9/11's long-term health effects",
+      "bullets": [
+        "NEW YORK - A new report shines light on the long-term health effects FDNY members suffered in the two and a half decades since the September 11 terror attacks.",
+        "By the numbers: The FDNY's 9/11 health report said more than 10,000 members are currently living with at least one 9/11-related illness, while more than 600 have died in the 25 years since the attack."
+      ],
+      "summary": "New FDNY report shines light on 9/11's long-term health effects",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "New FDNY report shines light on 9/11's long-term health effects",
+        "article_url": "https://www.fox5ny.com/news/911-related-illnesses-fdny-report",
+        "published_at": "2026-09-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-02T13:09:28.220322+00:00",
+      "verification": {
+        "article_title": "New FDNY report shines light on 9/11's long-term health effects",
+        "article_url": "https://www.fox5ny.com/news/911-related-illnesses-fdny-report",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-02T13:09:24.567142+00:00"
+      }
+    },
+    {
+      "headline": "September at the movies in NYC: Occult scenes, concrete dreams",
+      "bullets": [
+        "Deep in the bowels of the city\u2019s oldest research institutions, an obsessive academic researches something forbidden and occult.",
+        "Out on the streets, a location scout tries to find the perfect interiors for an overbearing director."
+      ],
+      "summary": "September at the movies in NYC: Occult scenes, concrete dreams",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "September at the movies in NYC: Occult scenes, concrete dreams",
+        "article_url": "https://gothamist.com/arts-entertainment/september-at-the-movies-in-nyc-occult-scenes-concrete-dreams",
+        "published_at": "2026-09-01T16:00:56+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-02T13:09:28.376690+00:00",
+      "verification": {
+        "article_title": "September at the movies in NYC: Occult scenes, concrete dreams",
+        "article_url": "https://gothamist.com/arts-entertainment/september-at-the-movies-in-nyc-occult-scenes-concrete-dreams",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-02T13:09:24.879754+00:00"
+      }
+    },
+    {
+      "headline": "NY's climate superfund law has been struck down. Is NJ's",
+      "bullets": [
+        "New York\u2019s landmark law compelling oil companies to pay for state efforts to address climate change has been struck down.",
+        "And the ruling casts new doubt on a similar New Jersey bill that had been gaining momentum in Trenton."
+      ],
+      "summary": "NY's climate superfund law has been struck down. Is NJ's",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NY's climate superfund law has been struck down. Is NJ's bill now in trouble?",
+        "article_url": "https://gothamist.com/news/nys-climate-superfund-law-has-been-struck-down-is-njs-bill-now-in-trouble",
+        "published_at": "2026-09-02T12:40:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-02T13:09:28.580227+00:00",
+      "verification": {
+        "article_title": "NY's climate superfund law has been struck down. Is NJ's bill now in trouble?",
+        "article_url": "https://gothamist.com/news/nys-climate-superfund-law-has-been-struck-down-is-njs-bill-now-in-trouble",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-02T13:09:25.260517+00:00"
+      }
+    },
+    {
+      "headline": "Bank of America vice president killed in Times Square stabbing",
+      "bullets": [
+        "NEW YORK - The NYPD has identified the woman killed in a Times Square stabbing spree as Erin Piacenti, a 32-year-old Bank of America executive from Chester, New Jersey.",
+        "Deadly Times Square stabbing What we know: Piacenti was walking on Seventh Avenue near 42nd Street on Monday when she was attacked by an emotionally disturbed woman armed with two sword-like knives, investigators said."
+      ],
+      "summary": "Bank of America vice president killed in Times Square stabbing",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Bank of America vice president killed in Times Square stabbing spree, NYPD says",
+        "article_url": "https://www.fox5ny.com/news/erin-piacenti-bank-of-america-exec-killed-times-square-stabbing",
+        "published_at": "2026-09-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-02T13:09:28.724448+00:00",
+      "verification": {
+        "article_title": "Bank of America vice president killed in Times Square stabbing spree, NYPD says",
+        "article_url": "https://www.fox5ny.com/news/erin-piacenti-bank-of-america-exec-killed-times-square-stabbing",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-02T13:09:25.530042+00:00"
+      }
+    },
+    {
+      "headline": "Woman NYPD killed after Times Square stabbings had long mental",
+      "bullets": [
+        "The woman police shot and killed in Times Square Monday afternoon after she allegedly fatally stabbed one person and injured another had been experiencing mental health struggles for years, her brother said.",
+        "But he said she recently seemed to be doing better."
+      ],
+      "summary": "Woman NYPD killed after Times Square stabbings had long mental",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Woman NYPD killed after Times Square stabbings had long mental health struggle, brother says",
+        "article_url": "https://gothamist.com/news/woman-nypd-killed-after-times-square-stabbings-had-long-mental-health-struggle-brother-says",
+        "published_at": "2026-09-01T18:24:03+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-02T13:09:28.875495+00:00",
+      "verification": {
+        "article_title": "Woman NYPD killed after Times Square stabbings had long mental health struggle, brother says",
+        "article_url": "https://gothamist.com/news/woman-nypd-killed-after-times-square-stabbings-had-long-mental-health-struggle-brother-says",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-02T13:09:25.721742+00:00"
+      }
+    },
+    {
+      "headline": "7 new dementia risk factors revealed \u2014 including one millions",
+      "bullets": [
+        "The World Health Organization (WHO) has released a major update to its guidelines on reducing the risk of cognitive decline and dementia.",
+        "The second edition of the original 2019 report was updated to \"reflect the latest evidence and advances in dementia risk reduction.\" The following seven additional health conditions and exposures were added to the list."
+      ],
+      "summary": "7 new dementia risk factors revealed \u2014 including one millions",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "7 new dementia risk factors revealed \u2014 including one millions struggle with",
+        "article_url": "https://www.fox5ny.com/news/7-new-dementia-risk-factors-revealed-one-millions-struggle-with",
+        "published_at": "2026-09-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-02T13:09:29.017783+00:00",
+      "verification": {
+        "article_title": "7 new dementia risk factors revealed \u2014 including one millions struggle with",
+        "article_url": "https://www.fox5ny.com/news/7-new-dementia-risk-factors-revealed-one-millions-struggle-with",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-02T13:09:25.923494+00:00"
+      }
+    },
+    {
+      "headline": "Gov. Kathy Hochul Says Hello to Upper West Side at",
+      "bullets": [
+        "Gov.",
+        "Kathy Hochul Says Hello to Upper West Side at Farmers\u00e2 Markets Hochul surprised Upper West Siders at Sunday markets Aug."
+      ],
+      "summary": "Gov. Kathy Hochul Says Hello to Upper West Side at",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Gov. Kathy Hochul Says Hello to Upper West Side at Farmers\u00e2 Markets",
+        "article_url": "https://www.ourtownny.com/news/gov-kathy-hochul-says-hello-to-upper-west-side-at-farmers-markets-GX6154800",
+        "published_at": "2026-09-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-02T13:09:29.154373+00:00",
+      "verification": {
+        "article_title": "Gov. Kathy Hochul Says Hello to Upper West Side at Farmers\u00e2 Markets",
+        "article_url": "https://www.ourtownny.com/news/gov-kathy-hochul-says-hello-to-upper-west-side-at-farmers-markets-GX6154800",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-02T13:09:26.109858+00:00"
+      }
+    },
+    {
+      "headline": "Big day for subway fans: MTA sells old MetroCard vending",
+      "bullets": [
+        "The MTA may have retired the MetroCard, but many subway fanatics aren\u2019t quite ready to say goodbye to the old fare system.",
+        "A select group of those transit aficionados gathered at a warehouse in Maspeth, Queens, on Tuesday after they were notified they\u2019d won one of more than 60 MetroCard vending machines the MTA sold at an official auction."
+      ],
+      "summary": "Big day for subway fans: MTA sells old MetroCard vending",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Big day for subway fans: MTA sells old MetroCard vending machines for more than $2K",
+        "article_url": "https://gothamist.com/news/big-day-for-subway-fans-mta-sells-old-metrocard-vending-machines-for-more-than-2k",
+        "published_at": "2026-09-01T20:30:50+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-02T13:09:29.359501+00:00",
+      "verification": {
+        "article_title": "Big day for subway fans: MTA sells old MetroCard vending machines for more than $2K",
+        "article_url": "https://gothamist.com/news/big-day-for-subway-fans-mta-sells-old-metrocard-vending-machines-for-more-than-2k",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-02T13:09:26.247871+00:00"
+      }
+    },
+    {
+      "headline": "Mamdani releases long-awaited Racial Equity Plan",
+      "bullets": [
+        "The Mamdani administration on Tuesday released the city\u2019s first Racial Equity Plan \u2014 a citywide blueprint to reduce racial inequities \u2014 after years of delay.",
+        "The release comes just days after a Manhattan state court judge ruled that both the Mamdani and Adams administrations had broken the law by failing to release the charter-mandated plan on time."
+      ],
+      "summary": "Mamdani releases long-awaited Racial Equity Plan",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Mamdani releases long-awaited Racial Equity Plan",
+        "article_url": "https://www.nydailynews.com/2026/09/01/mamdani-releases-long-awaited-racial-equity-plan/",
+        "published_at": "2026-09-01T17:29:56+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-02T13:09:29.548433+00:00",
+      "verification": {
+        "article_title": "Mamdani releases long-awaited Racial Equity Plan",
+        "article_url": "https://www.nydailynews.com/2026/09/01/mamdani-releases-long-awaited-racial-equity-plan/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-02T13:09:26.442607+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on voting for Democrats, Canada tariffs and",
+      "bullets": [
+        "Let this election be our national pivot Brooklyn: The control of the executive and legislative branches by the current Republican administration and Congress has accelerated a deeply concerning decline in our nation\u2019s foundational systems and global standing.",
+        "The relentless focus on deregulating major industries has dismantled decades of critical environmental protections, accelerating habitat destruction and leaving public health vulnerable to industrial pollution."
+      ],
+      "summary": "Readers sound off on voting for Democrats, Canada tariffs and",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on voting for Democrats, Canada tariffs and lost cell service",
+        "article_url": "https://www.nydailynews.com/2026/09/02/readers-sound-off-on-voting-for-democrats-canada-tariffs-and-lost-cell-service/",
+        "published_at": "2026-09-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-02T13:09:29.692496+00:00",
+      "verification": {
+        "article_title": "Readers sound off on voting for Democrats, Canada tariffs and lost cell service",
+        "article_url": "https://www.nydailynews.com/2026/09/02/readers-sound-off-on-voting-for-democrats-canada-tariffs-and-lost-cell-service/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-02T13:09:26.581472+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: Dame Dash\u2019s \u201cMy Paid In Full\u201d: Harlem Holiday",
+      "bullets": [
+        "New York City, NY|Featured Event Dame Dash\u2019s \u201cMy Paid In Full\u201d: Harlem Holiday Demands Credit And Accountability Harlem author raises concerns over alleged reuse of her work documenting Richard \u201cFritz\u201d Simmons\u2014and the growing role of AI.",
+        "Harlem author and publisher Tiffany Simone Fulton, professionally known as Harlem Holiday, is calling for accountability over what she describes as the unauthorized use of material connected to her book, The Harlem Plug: The Richard \u201cFritz\u201d Simmons Story."
+      ],
+      "summary": "Local Event: Dame Dash\u2019s \u201cMy Paid In Full\u201d: Harlem Holiday",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Dame Dash\u2019s \u201cMy Paid In Full\u201d: Harlem Holiday Demands Credit And Accountability",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260906/6f52256c-544d-4d04-afe5-2c75616adf17/dame-dash-s-my-paid-in-full-harlem-holiday-demands-credit-and-accountability",
+        "published_at": "2026-09-06T13:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-02T13:09:29.838813+00:00",
+      "verification": {
+        "article_title": "Local Event: Dame Dash\u2019s \u201cMy Paid In Full\u201d: Harlem Holiday Demands Credit And Accountability",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260906/6f52256c-544d-4d04-afe5-2c75616adf17/dame-dash-s-my-paid-in-full-harlem-holiday-demands-credit-and-accountability",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-02T13:09:26.732154+00:00"
+      }
+    },
+    {
+      "headline": "Fury at Chinatown Jail: Locals Warn of Danger, City Set",
+      "bullets": [
+        "Fury at Chinatown Jail: Locals Warn of Danger, City Set to Build It\u00e2s promised to be the most welcoming and most stylish jail Manhattan has ever seen.",
+        "So why is Chinatown so mad, and what dangers lurk in the construction site\u00e2s primordial mud?"
+      ],
+      "summary": "Fury at Chinatown Jail: Locals Warn of Danger, City Set",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Fury at Chinatown Jail: Locals Warn of Danger, City Set to Build",
+        "article_url": "https://www.ourtownny.com/news/fury-at-chinatown-jail-locals-warn-of-danger-city-set-to-build-CB6146646",
+        "published_at": "2026-08-31"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-02T13:09:29.977222+00:00",
+      "verification": {
+        "article_title": "Fury at Chinatown Jail: Locals Warn of Danger, City Set to Build",
+        "article_url": "https://www.ourtownny.com/news/fury-at-chinatown-jail-locals-warn-of-danger-city-set-to-build-CB6146646",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-02T13:09:26.934042+00:00"
+      }
+    }
+  ]
+}
