@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-09-03T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-09-03.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "The pain and trauma of 9/11 shaped many of those",
+      "bullets": [
+        "The attacks of Sept 11, 2001 claimed thousands of lives and shattered countless families, but the trauma of that day and the resilience NYC showed in the weeks and years following the destruction of the Twin Towers also helped shape many who would go onto key positions of leadership in the worlds of politics, business and culture.",
+        "Here are just a few of their stories: Julie Menin, NYC Council speaker Julie Menin was living in lower Manhattan and running a small bistro across from the New York Stock Exchange when the terrorists struck, turning her bustling neighborhood into a roiling sea of smoke, debris and death."
+      ],
+      "summary": "The pain and trauma of 9/11 shaped many of those",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "The pain and trauma of 9/11 shaped many of those leading NYC 25 years later",
+        "article_url": "https://www.nydailynews.com/2026/09/02/new-york-leaders-shaped-9-11/",
+        "published_at": "2026-09-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-03T13:11:46.831138+00:00",
+      "verification": {
+        "article_title": "The pain and trauma of 9/11 shaped many of those leading NYC 25 years later",
+        "article_url": "https://www.nydailynews.com/2026/09/02/new-york-leaders-shaped-9-11/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-03T13:11:45.506932+00:00"
+      }
+    },
+    {
+      "headline": "Nearly 100 NJ towns have banned data centers. Don\u2019t expect",
+      "bullets": [
+        "Ninety-three towns around the Garden State have banned data centers from developing in their municipalities over the past several months, according to climate activists tracking municipal activity in New Jersey.",
+        "At the same time, Gov."
+      ],
+      "summary": "Nearly 100 NJ towns have banned data centers. Don\u2019t expect",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Nearly 100 NJ towns have banned data centers. Don\u2019t expect a statewide prohibition soon.",
+        "article_url": "https://gothamist.com/news/nearly-100-nj-towns-have-banned-data-centers-dont-expect-a-statewide-prohibition-soon",
+        "published_at": "2026-09-02T19:09:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-03T13:11:46.894318+00:00",
+      "verification": {
+        "article_title": "Nearly 100 NJ towns have banned data centers. Don\u2019t expect a statewide prohibition soon.",
+        "article_url": "https://gothamist.com/news/nearly-100-nj-towns-have-banned-data-centers-dont-expect-a-statewide-prohibition-soon",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-03T13:11:45.587013+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry",
+      "bullets": [
+        "New York City, NY|Featured Event Fine Arts and Mid-Century Modern Auction | Jewelry | Silver | Art | Furniture & More Fine Arts and Mid-Century Modern - Online Auction Thursday, September 10, 2026 at 10:00 AM Bid online at alderferauction.com.",
+        "Alderfer Auction\u2019s September Fine Art and Mid-Century Modern Auction features a collection of art, luxury Swiss timepieces, jewelry, sterling silver, d\u00e9cor, and mid-century and period furniture."
+      ],
+      "summary": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry | Silver | Art | Furniture & More",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260910/232b741b-d4d8-4e38-8be8-da09dd2f99a0/fine-arts-and-mid-century-modern-auction-jewelry-silver-art-furniture-more",
+        "published_at": "2026-09-10T14:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-03T13:11:46.945357+00:00",
+      "verification": {
+        "article_title": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry | Silver | Art | Furniture & More",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260910/232b741b-d4d8-4e38-8be8-da09dd2f99a0/fine-arts-and-mid-century-modern-auction-jewelry-silver-art-furniture-more",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-03T13:11:45.674607+00:00"
+      }
+    },
+    {
+      "headline": "Some NYC workers are about to get a childcare perk",
+      "bullets": [
+        "The Mamdani administration will open the New York City\u2019s first day care for the children of municipal workers next week.",
+        "The pilot program will open for 41 children on the ground floor of the David N."
+      ],
+      "summary": "Some NYC workers are about to get a childcare perk",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Some NYC workers are about to get a childcare perk worth tens of thousands",
+        "article_url": "https://gothamist.com/news/some-nyc-workers-are-about-to-get-a-childcare-perk-worth-tens-of-thousands",
+        "published_at": "2026-09-02T19:53:32+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-03T13:11:46.991993+00:00",
+      "verification": {
+        "article_title": "Some NYC workers are about to get a childcare perk worth tens of thousands",
+        "article_url": "https://gothamist.com/news/some-nyc-workers-are-about-to-get-a-childcare-perk-worth-tens-of-thousands",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-03T13:11:45.722388+00:00"
+      }
+    },
+    {
+      "headline": "America's last foie gras farmers say they've evolved, want NYC",
+      "bullets": [
+        "Upstate New York is home to America\u2019s last remaining foie gras farms, including Hudson Valley Foie Gras, where thousands of ducks are crammed into barns, waiting for their turn to be fattened up.",
+        "When the ducks are about 12 weeks old, they begin a three-week stretch where they\u2019re force-fed three times a day."
+      ],
+      "summary": "America's last foie gras farmers say they've evolved, want NYC",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "America's last foie gras farmers say they've evolved, want NYC ban overturned",
+        "article_url": "https://gothamist.com/news/americas-last-foie-gras-farmers-say-theyve-evolved-want-nyc-ban-overturned",
+        "published_at": "2026-09-03T10:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-03T13:11:47.071034+00:00",
+      "verification": {
+        "article_title": "America's last foie gras farmers say they've evolved, want NYC ban overturned",
+        "article_url": "https://gothamist.com/news/americas-last-foie-gras-farmers-say-theyve-evolved-want-nyc-ban-overturned",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-03T13:11:45.796489+00:00"
+      }
+    },
+    {
+      "headline": "Meta Axes Over 1,000 Workers Across 3 Manhattan Offices",
+      "bullets": [
+        "Meta Axes Over 1,000 Workers Across 3 Manhattan Offices The tech titan announced it was laying off 10 percent of its 79,000 workforce back in May, but it was not until Aug.",
+        "20 that the company acknowledged how deep the cuts were going to be in its three Manhattan offices."
+      ],
+      "summary": "Meta Axes Over 1,000 Workers Across 3 Manhattan Offices",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Meta Axes Over 1,000 Workers Across 3 Manhattan Offices",
+        "article_url": "https://www.ourtownny.com/news/meta-axes-over-1000-workers-across-3-manhattan-offices-BC6163892",
+        "published_at": "2026-09-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-03T13:11:47.112930+00:00",
+      "verification": {
+        "article_title": "Meta Axes Over 1,000 Workers Across 3 Manhattan Offices",
+        "article_url": "https://www.ourtownny.com/news/meta-axes-over-1000-workers-across-3-manhattan-offices-BC6163892",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-03T13:11:45.944678+00:00"
+      }
+    },
+    {
+      "headline": "FDNY honors 36 members who died of WTC illnesses to",
+      "bullets": [
+        "The FDNY on Wednesday honored 36 heroes whose names will be added to the department\u2019s World Trade Center Memorial Wall following their deaths due to 9/11-related illnesses.",
+        "\u201cOn Sept."
+      ],
+      "summary": "FDNY honors 36 members who died of WTC illnesses to",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "FDNY honors 36 members who died of WTC illnesses to be added to memorial wall",
+        "article_url": "https://www.nydailynews.com/2026/09/02/fdny-honors-dozens-members-died-wtc-illnesses-added-memorial-wall/",
+        "published_at": "2026-09-02T23:26:35+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-03T13:11:47.160359+00:00",
+      "verification": {
+        "article_title": "FDNY honors 36 members who died of WTC illnesses to be added to memorial wall",
+        "article_url": "https://www.nydailynews.com/2026/09/02/fdny-honors-dozens-members-died-wtc-illnesses-added-memorial-wall/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-03T13:11:46.066461+00:00"
+      }
+    },
+    {
+      "headline": "September concerts in NYC: Dancehall, death metal and Erykah Badu",
+      "bullets": [
+        "New York\u2019s massive fall concert season kicks off this month, and while outdoor-show season is winding down, there are still plenty of enticing open-air gigs on offer this September.",
+        "You\u2019ll find a couple of those below in our monthly gig roundup, along with psychedelic folk, left-of-center pop, body-moving dancehall, heavy-duty death metal and more."
+      ],
+      "summary": "September concerts in NYC: Dancehall, death metal and Erykah Badu",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "September concerts in NYC: Dancehall, death metal and Erykah Badu",
+        "article_url": "https://gothamist.com/arts-entertainment/september-concerts-in-nyc-dancehall-death-metal-and-erykah-badu",
+        "published_at": "2026-09-02T15:00:45+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-03T13:11:47.237433+00:00",
+      "verification": {
+        "article_title": "September concerts in NYC: Dancehall, death metal and Erykah Badu",
+        "article_url": "https://gothamist.com/arts-entertainment/september-concerts-in-nyc-dancehall-death-metal-and-erykah-badu",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-03T13:11:46.126921+00:00"
+      }
+    },
+    {
+      "headline": "Shocking video shows man throwing crib filled with trash at",
+      "bullets": [
+        "NEW YORK - The NYPD is searching for a man seen on video attacking a 90-year-old woman with a container of garbage in Brooklyn.",
+        "What we know: Surveillance video of the shocking assault shows the elderly woman crossing the street on Brighton Beach Avenue when a man darts in front of her, picks up a crib filled with trash on the corner and hurls it at her."
+      ],
+      "summary": "Shocking video shows man throwing crib filled with trash at",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Shocking video shows man throwing crib filled with trash at 90-year-old in Brooklyn",
+        "article_url": "https://www.fox5ny.com/news/man-throws-trash-can-at-90-year-old-woman-brooklyn",
+        "published_at": "2026-09-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-03T13:11:47.382516+00:00",
+      "verification": {
+        "article_title": "Shocking video shows man throwing crib filled with trash at 90-year-old in Brooklyn",
+        "article_url": "https://www.fox5ny.com/news/man-throws-trash-can-at-90-year-old-woman-brooklyn",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-03T13:11:46.175795+00:00"
+      }
+    },
+    {
+      "headline": "Man arrested for stabbing MTA worker during argument at Times",
+      "bullets": [
+        "A man was arrested Wednesday for stabbing an MTA maintenance worker during an argument at the Times Square subway station in Manhattan, police said.",
+        "Jhon Hurtado Olmos, 30, was charged with assault after surrendering himself for the Aug."
+      ],
+      "summary": "Man arrested for stabbing MTA worker during argument at Times",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Man arrested for stabbing MTA worker during argument at Times Square subway station",
+        "article_url": "https://www.nydailynews.com/2026/09/02/man-arrested-stabbing-mta-worker-argument-times-square-subway-station/",
+        "published_at": "2026-09-03T01:00:17+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-03T13:11:47.433736+00:00",
+      "verification": {
+        "article_title": "Man arrested for stabbing MTA worker during argument at Times Square subway station",
+        "article_url": "https://www.nydailynews.com/2026/09/02/man-arrested-stabbing-mta-worker-argument-times-square-subway-station/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-03T13:11:46.226432+00:00"
+      }
+    },
+    {
+      "headline": "Deadly UES Legionnaires Outbreak Pits Council Against Health Officials",
+      "bullets": [
+        "Deadly UES Legionnaires Outbreak Pits Council Against Health Officials Lawmakers questioned lagging enforcement after the disease killed 11 people and infected 94 this summer.",
+        "MANHATTAN, NY \u2014 City Council members grilled Health Department officials Wednesday over New York City\u2019s handling of a Legionnaires\u2019 disease outbreak that killed 11 people and sickened 94 on the Upper East Side this summer."
+      ],
+      "summary": "Deadly UES Legionnaires Outbreak Pits Council Against Health Officials",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Deadly UES Legionnaires Outbreak Pits Council Against Health Officials",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/after-deadly-ues-legionnaires-outbreak-council-grills-health-officials",
+        "published_at": "2026-09-02T20:59:34+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-03T13:11:47.478837+00:00",
+      "verification": {
+        "article_title": "Deadly UES Legionnaires Outbreak Pits Council Against Health Officials",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/after-deadly-ues-legionnaires-outbreak-council-grills-health-officials",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-03T13:11:46.277310+00:00"
+      }
+    },
+    {
+      "headline": "New Legionnaires\u2019 Bills Proposed After Deadly UES Outbreak",
+      "bullets": [
+        "New Legionnaires\u2019 Bills Proposed After Deadly UES Outbreak The bills would strengthen cooling-tower enforcement, educate at-risk New Yorkers and increase fines for building owners.",
+        "MANHATTAN, NY \u2014 City Council lawmakers shared a package of bills during the Legionnaires' disease oversight hearing on Wednesday aimed at preventing another deadly outbreak after a cluster on the Upper East Side killed 11 people and sickened 94 this summer."
+      ],
+      "summary": "New Legionnaires\u2019 Bills Proposed After Deadly UES Outbreak",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "New Legionnaires\u2019 Bills Proposed After Deadly UES Outbreak",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/new-legionnaires-bills-pushed-council-after-deadly-ues-outbreak",
+        "published_at": "2026-09-02T21:01:46+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-03T13:11:47.570579+00:00",
+      "verification": {
+        "article_title": "New Legionnaires\u2019 Bills Proposed After Deadly UES Outbreak",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/new-legionnaires-bills-pushed-council-after-deadly-ues-outbreak",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-03T13:11:46.325953+00:00"
+      }
+    },
+    {
+      "headline": "Pioneering feminist icon Gloria Steinem dies at 92",
+      "bullets": [
+        "Feminist icon Gloria Steinem, the lifelong activist whose pioneering work ran the gamut from women\u2019s rights to magazine publishing to politics, has died.",
+        "The Ohio native was 92."
+      ],
+      "summary": "Pioneering feminist icon Gloria Steinem dies at 92",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Pioneering feminist icon Gloria Steinem dies at 92",
+        "article_url": "https://www.nydailynews.com/2026/09/03/gloria-steinem-dead-92/",
+        "published_at": "2026-09-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-03T13:11:47.685761+00:00",
+      "verification": {
+        "article_title": "Pioneering feminist icon Gloria Steinem dies at 92",
+        "article_url": "https://www.nydailynews.com/2026/09/03/gloria-steinem-dead-92/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-03T13:11:46.404314+00:00"
+      }
+    },
+    {
+      "headline": "Gloria Steinem, feminist icon and journalist, dies at 92",
+      "bullets": [
+        "Her \"near-century on earth were years well-lived,\" an official account said.",
+        "Women's liberation icon Gloria Steinem has died at 92."
+      ],
+      "summary": "Gloria Steinem, feminist icon and journalist, dies at 92",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Gloria Steinem, feminist icon and journalist, dies at 92",
+        "article_url": "https://abc7ny.com/story/gloria-steinem-feminist-icon-journalist-dies-92/19784007/",
+        "published_at": "2026-09-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-03T13:11:47.734485+00:00",
+      "verification": {
+        "article_title": "Gloria Steinem, feminist icon and journalist, dies at 92",
+        "article_url": "https://abc7ny.com/story/gloria-steinem-feminist-icon-journalist-dies-92/19784007/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-03T13:11:46.448307+00:00"
+      }
+    },
+    {
+      "headline": "Nearly 100 NJ towns have banned data centers. Don\u2019t expect",
+      "bullets": [
+        "Ninety-three towns around the Garden State have banned data centers from developing in their municipalities over the past several months, according to climate activists tracking municipal activity in New Jersey.",
+        "At the same time, Gov."
+      ],
+      "summary": "Nearly 100 NJ towns have banned data centers. Don\u2019t expect",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Nearly 100 NJ towns have banned data centers. Don\u2019t expect a statewide prohibition soon.",
+        "article_url": "https://gothamist.com/news/nearly-100-nj-towns-have-banned-data-centers-dont-expect-a-statewide-prohibition-soon",
+        "published_at": "2026-09-02T19:09:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-03T13:11:47.780814+00:00",
+      "verification": {
+        "article_title": "Nearly 100 NJ towns have banned data centers. Don\u2019t expect a statewide prohibition soon.",
+        "article_url": "https://gothamist.com/news/nearly-100-nj-towns-have-banned-data-centers-dont-expect-a-statewide-prohibition-soon",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-03T13:11:46.489502+00:00"
+      }
+    },
+    {
+      "headline": "NYC councilmembers plot next steps on Legionnaires', hear from a",
+      "bullets": [
+        "Ida Goldstein, whose husband Robert died of Legionnaires\u2019 disease during this summer's outbreak on the Upper East Side, told a City Council hearing on Wednesday about how his condition deteriorated over weeks, spiraling from a 104-degree fever to kidney failure and then life support.",
+        "\u201cMy heart was breaking watching him suffer,\u201d Goldstein said of her husband, who died in July at 88."
+      ],
+      "summary": "NYC councilmembers plot next steps on Legionnaires', hear from a",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC councilmembers plot next steps on Legionnaires', hear from a widow",
+        "article_url": "https://gothamist.com/news/nyc-councilmembers-plot-next-steps-on-legionnaires-hear-from-a-widow",
+        "published_at": "2026-09-02T21:18:36+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-03T13:11:47.823774+00:00",
+      "verification": {
+        "article_title": "NYC councilmembers plot next steps on Legionnaires', hear from a widow",
+        "article_url": "https://gothamist.com/news/nyc-councilmembers-plot-next-steps-on-legionnaires-hear-from-a-widow",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-03T13:11:46.538051+00:00"
+      }
+    },
+    {
+      "headline": "Gloria Steinem, trailblazing figure in women's liberation movement, dies at",
+      "bullets": [
+        "Gloria Steinem, a co-founder of Ms.",
+        "Magazine and a trailblazing figure of the women's liberation movement in the latter half of the 20th century, has died."
+      ],
+      "summary": "Gloria Steinem, trailblazing figure in women's liberation movement, dies at",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Gloria Steinem, trailblazing figure in women's liberation movement, dies at age 92",
+        "article_url": "https://www.cbsnews.com/newyork/news/gloria-steinem-dies-age-92-feminist-ms-magazine/",
+        "published_at": "2026-09-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-03T13:11:47.868747+00:00",
+      "verification": {
+        "article_title": "Gloria Steinem, trailblazing figure in women's liberation movement, dies at age 92",
+        "article_url": "https://www.cbsnews.com/newyork/news/gloria-steinem-dies-age-92-feminist-ms-magazine/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-03T13:11:46.680250+00:00"
+      }
+    },
+    {
+      "headline": "Minneapolis shooting: 3 dead including shooter, 3 officers, 3 civilians",
+      "bullets": [
+        "MINNEAPOLIS (FOX 9) - Authorities say three people are dead, including the shooting suspect and two civilians, and three police officers as well as three civilians were injured after a shooting at a downtown Minneapolis apartment Wednesday afternoon.",
+        "Minneapolis police say they are still investigating how the suspected shooter died."
+      ],
+      "summary": "Minneapolis shooting: 3 dead including shooter, 3 officers, 3 civilians",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Minneapolis shooting: 3 dead including shooter, 3 officers, 3 civilians injured",
+        "article_url": "https://www.fox5ny.com/news/downtown-minneapolis-shooting-least-1-dead-6-injured-2-officers-shot",
+        "published_at": "2026-09-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-03T13:11:47.912618+00:00",
+      "verification": {
+        "article_title": "Minneapolis shooting: 3 dead including shooter, 3 officers, 3 civilians injured",
+        "article_url": "https://www.fox5ny.com/news/downtown-minneapolis-shooting-least-1-dead-6-injured-2-officers-shot",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-03T13:11:46.724727+00:00"
+      }
+    }
+  ]
+}
