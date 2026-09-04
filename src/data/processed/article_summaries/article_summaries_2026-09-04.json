@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-09-04T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-09-04.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Council to question City Hall\u2019s links to online influencers, use",
+      "bullets": [
+        "The Council is scheduled to grill City Hall on its ongoing coordination with influencers on Signal, an encrypted messaging app where messages can be set to automatically delete, which has raised questions about transparency and security.",
+        "The news of the Committee on Governmental Operations hearing comes after a report in the Columbia Journalism Review revealed that the Mamdani administration, as part of a larger effort to get news out to New Yorkers on social media, maintains a 200-person group chat on the app to send content creators information, daily updates, talking points, clips to use in their posts, and potential opportunities to make videos with the mayor."
+      ],
+      "summary": "Council to question City Hall\u2019s links to online influencers, use",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Council to question City Hall\u2019s links to online influencers, use of encrypted messaging apps",
+        "article_url": "https://www.nydailynews.com/2026/09/03/council-to-question-city-halls-links-to-online-influencers-use-of-encrypted-messaging-apps/",
+        "published_at": "2026-09-03T22:14:58+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-04T13:05:58.087610+00:00",
+      "verification": {
+        "article_title": "Council to question City Hall\u2019s links to online influencers, use of encrypted messaging apps",
+        "article_url": "https://www.nydailynews.com/2026/09/03/council-to-question-city-halls-links-to-online-influencers-use-of-encrypted-messaging-apps/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-04T13:05:55.036525+00:00"
+      }
+    },
+    {
+      "headline": "Brooklyn election boss changes party\u2019s election rules to stay in",
+      "bullets": [
+        "This column originally appeared in The Politics Brief, our weekly newsletter on the people, power and policies that shape New Yorkers' lives.",
+        "Sign up to get the full version where you can ask questions, share news tips and weigh in on the conversation."
+      ],
+      "summary": "Brooklyn election boss changes party\u2019s election rules to stay in",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Brooklyn election boss changes party\u2019s election rules to stay in power",
+        "article_url": "https://gothamist.com/news/brooklyn-election-boss-changes-partys-election-rules-to-stay-in-power",
+        "published_at": "2026-09-03T15:00:46+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-04T13:05:58.152857+00:00",
+      "verification": {
+        "article_title": "Brooklyn election boss changes party\u2019s election rules to stay in power",
+        "article_url": "https://gothamist.com/news/brooklyn-election-boss-changes-partys-election-rules-to-stay-in-power",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-04T13:05:55.259555+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry",
+      "bullets": [
+        "New York City, NY|Featured Event Fine Arts and Mid-Century Modern Auction | Jewelry | Silver | Art | Furniture & More Fine Arts and Mid-Century Modern - Online Auction Thursday, September 10, 2026 at 10:00 AM Bid online at alderferauction.com.",
+        "Alderfer Auction\u2019s September Fine Art and Mid-Century Modern Auction features a collection of art, luxury Swiss timepieces, jewelry, sterling silver, d\u00e9cor, and mid-century and period furniture."
+      ],
+      "summary": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry | Silver | Art | Furniture & More",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260910/232b741b-d4d8-4e38-8be8-da09dd2f99a0/fine-arts-and-mid-century-modern-auction-jewelry-silver-art-furniture-more",
+        "published_at": "2026-09-10T14:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-04T13:05:58.228865+00:00",
+      "verification": {
+        "article_title": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry | Silver | Art | Furniture & More",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260910/232b741b-d4d8-4e38-8be8-da09dd2f99a0/fine-arts-and-mid-century-modern-auction-jewelry-silver-art-furniture-more",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-04T13:05:55.475780+00:00"
+      }
+    },
+    {
+      "headline": "The pain and trauma of 9/11 shaped many of those",
+      "bullets": [
+        "The attacks of Sept 11, 2001 claimed thousands of lives and shattered countless families, but the trauma of that day and the resilience NYC showed in the weeks and years following the destruction of the Twin Towers also helped shape many who would go onto key positions of leadership in the worlds of politics, business and culture.",
+        "Julie Menin, NYC Council speaker Julie Menin was living in lower Manhattan and running a small bistro across from the New York Stock Exchange when the terrorists struck, turning her bustling neighborhood into a roiling sea of smoke, debris and death."
+      ],
+      "summary": "The pain and trauma of 9/11 shaped many of those",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "The pain and trauma of 9/11 shaped many of those leading NYC 25 years later",
+        "article_url": "https://www.nydailynews.com/2026/09/02/new-york-leaders-shaped-9-11/",
+        "published_at": "2026-09-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-04T13:05:58.304780+00:00",
+      "verification": {
+        "article_title": "The pain and trauma of 9/11 shaped many of those leading NYC 25 years later",
+        "article_url": "https://www.nydailynews.com/2026/09/02/new-york-leaders-shaped-9-11/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-04T13:05:55.708866+00:00"
+      }
+    },
+    {
+      "headline": "US diesel prices hit a record high of $5.85 on",
+      "bullets": [
+        "Diesel hit a new record price in the U.S.",
+        "on Friday, soaring to an average of $5.85 a gallon for the first time ever as the six-month war with Iran disrupts the world\u2019s flow of fuel."
+      ],
+      "summary": "US diesel prices hit a record high of $5.85 on",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "US diesel prices hit a record high of $5.85 on average as the Iran war disrupts the flow of fuel",
+        "article_url": "https://abc7ny.com/story/us-diesel-prices-hit-record-high-585-average-iran-war-disrupts-flow-fuel/19789077/",
+        "published_at": "2026-09-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-04T13:05:58.389676+00:00",
+      "verification": {
+        "article_title": "US diesel prices hit a record high of $5.85 on average as the Iran war disrupts the flow of fuel",
+        "article_url": "https://abc7ny.com/story/us-diesel-prices-hit-record-high-585-average-iran-war-disrupts-flow-fuel/19789077/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-04T13:05:55.949588+00:00"
+      }
+    },
+    {
+      "headline": "Meta Axes Over 1,000 Workers Across 3 Manhattan Offices",
+      "bullets": [
+        "Meta Axes Over 1,000 Workers Across 3 Manhattan Offices The tech titan announced it was laying off 10 percent of its 79,000 workforce back in May, but it was not until Aug.",
+        "20 that the company acknowledged how deep the cuts were going to be in its three Manhattan offices."
+      ],
+      "summary": "Meta Axes Over 1,000 Workers Across 3 Manhattan Offices",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Meta Axes Over 1,000 Workers Across 3 Manhattan Offices",
+        "article_url": "https://www.ourtownny.com/news/meta-axes-over-1000-workers-across-3-manhattan-offices-BC6163892",
+        "published_at": "2026-09-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-04T13:05:58.474729+00:00",
+      "verification": {
+        "article_title": "Meta Axes Over 1,000 Workers Across 3 Manhattan Offices",
+        "article_url": "https://www.ourtownny.com/news/meta-axes-over-1000-workers-across-3-manhattan-offices-BC6163892",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-04T13:05:56.205146+00:00"
+      }
+    },
+    {
+      "headline": "NYC announces $1 million for 9/11 Memorial & Museum field",
+      "bullets": [
+        "NEW YORK - New York City will invest $1 million in the 9/11 Memorial & Museum to expand access for students and help them learn about the terror attacks.",
+        "City Council Speaker Julie Menin announced funding for free field trips and educational programs during a ceremony Thursday at the 9/11 Memorial in Lower Manhattan."
+      ],
+      "summary": "NYC announces $1 million for 9/11 Memorial & Museum field",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "NYC announces $1 million for 9/11 Memorial & Museum field trips",
+        "article_url": "https://www.fox5ny.com/news/nyc-9-11-memorial-museum-field-trips-funding",
+        "published_at": "2026-09-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-04T13:05:58.554898+00:00",
+      "verification": {
+        "article_title": "NYC announces $1 million for 9/11 Memorial & Museum field trips",
+        "article_url": "https://www.fox5ny.com/news/nyc-9-11-memorial-museum-field-trips-funding",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-04T13:05:56.420661+00:00"
+      }
+    },
+    {
+      "headline": "DHS stiffs terror-target NYC on counter-terror funding",
+      "bullets": [
+        "In the run-up to the grim 25th anniversary of the Sept.",
+        "11 attacks on New York City, the Department of Homeland Security, under hapless Secretary Markwayne Mullin and a one-time New Yorker president, has still not disbursed about $87 million in counterterrorism funding out of a total $187 million it has owed New York since last year, when it unlawfully tried to cut the money as a result of Donald Trump\u2019s unrelated grievances with the state, including over immigration protections."
+      ],
+      "summary": "DHS stiffs terror-target NYC on counter-terror funding",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "DHS stiffs terror-target NYC on counter-terror funding",
+        "article_url": "https://www.nydailynews.com/2026/09/04/dhs-stiffs-terror-target-nyc-on-counter-terror-funding/",
+        "published_at": "2026-09-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-04T13:05:58.620089+00:00",
+      "verification": {
+        "article_title": "DHS stiffs terror-target NYC on counter-terror funding",
+        "article_url": "https://www.nydailynews.com/2026/09/04/dhs-stiffs-terror-target-nyc-on-counter-terror-funding/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-04T13:05:56.646685+00:00"
+      }
+    },
+    {
+      "headline": "Girl, 6, nearly kidnapped by stranger inside Manhattan subway station",
+      "bullets": [
+        "A 6-year-old girl was nearly kidnapped by a stranger at an Upper Manhattan subway station \u2014 and cops are asking the public\u2019s help finding the woman who tried to snatch the child.",
+        "The victim was approaching the turnstiles in the mezzanine of the Inwood-207th St."
+      ],
+      "summary": "Girl, 6, nearly kidnapped by stranger inside Manhattan subway station",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Girl, 6, nearly kidnapped by stranger inside Manhattan subway station",
+        "article_url": "https://www.nydailynews.com/2026/09/03/girl-6-nearly-kidnapped-by-stranger-inside-manhattan-subway-station/",
+        "published_at": "2026-09-03T17:55:31+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-04T13:05:58.697014+00:00",
+      "verification": {
+        "article_title": "Girl, 6, nearly kidnapped by stranger inside Manhattan subway station",
+        "article_url": "https://www.nydailynews.com/2026/09/03/girl-6-nearly-kidnapped-by-stranger-inside-manhattan-subway-station/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-04T13:05:56.828448+00:00"
+      }
+    },
+    {
+      "headline": "Man stabbed in back during dispute that started in Greenwich",
+      "bullets": [
+        "Police are investigating if the same suspect may have stabbed another man in the East Village hours later.",
+        "GREENWICH VILLAGE, Manhattan (WABC) -- A 23-year-old man was stabbed during a dispute that started inside a McDonalds in Greenwich Village."
+      ],
+      "summary": "Man stabbed in back during dispute that started in Greenwich",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Man stabbed in back during dispute that started in Greenwich Village McDonald's",
+        "article_url": "https://abc7ny.com/post/man-stabbed-back-inside-greenwich-village-mcdonalds-search-suspect-continues/19784291/",
+        "published_at": "2026-09-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-04T13:05:58.758651+00:00",
+      "verification": {
+        "article_title": "Man stabbed in back during dispute that started in Greenwich Village McDonald's",
+        "article_url": "https://abc7ny.com/post/man-stabbed-back-inside-greenwich-village-mcdonalds-search-suspect-continues/19784291/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-04T13:05:57.065340+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on the Board of Peace, psychiatric care",
+      "bullets": [
+        "A board can\u2019t replace peace agreements San Mateo, Calif.: A new UN Security Council resolution is needed to adjust what appears to be a massive oversight in the recently passed Board of Peace resolution.",
+        "It must specify that only nations with no ongoing or recent violations of the UN Charter and international law can be situated on this new Board of Peace."
+      ],
+      "summary": "Readers sound off on the Board of Peace, psychiatric care",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on the Board of Peace, psychiatric care and Broadway economics",
+        "article_url": "https://www.nydailynews.com/2026/09/04/readers-sound-off-on-the-board-of-peace-psychiatric-care-and-broadway-economics/",
+        "published_at": "2026-09-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-04T13:05:58.910779+00:00",
+      "verification": {
+        "article_title": "Readers sound off on the Board of Peace, psychiatric care and Broadway economics",
+        "article_url": "https://www.nydailynews.com/2026/09/04/readers-sound-off-on-the-board-of-peace-psychiatric-care-and-broadway-economics/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-04T13:05:57.166949+00:00"
+      }
+    },
+    {
+      "headline": "N.Y. needs a Legionella prevention law",
+      "bullets": [
+        "Once again, a community is reeling from a preventable condition.",
+        "A Legionnaires\u2019 outbreak on New York\u2019s Upper East Side sickened more than 90 people and claimed 11 lives."
+      ],
+      "summary": "N.Y. needs a Legionella prevention law",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "N.Y. needs a Legionella prevention law",
+        "article_url": "https://www.nydailynews.com/2026/09/04/n-y-needs-a-legionella-prevention-law/",
+        "published_at": "2026-09-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-04T13:05:58.970715+00:00",
+      "verification": {
+        "article_title": "N.Y. needs a Legionella prevention law",
+        "article_url": "https://www.nydailynews.com/2026/09/04/n-y-needs-a-legionella-prevention-law/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-04T13:05:57.310950+00:00"
+      }
+    },
+    {
+      "headline": "Brenda Janowitz talks to Club Calvi about her new YA",
+      "bullets": [
+        "Please consider joining our Facebook group by CLICKING HERE.",
+        "Find out more about the books below."
+      ],
+      "summary": "Brenda Janowitz talks to Club Calvi about her new YA",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Brenda Janowitz talks to Club Calvi about her new YA book \"The Introvert's Guide to Kissing in Europe\"",
+        "article_url": "https://www.cbsnews.com/newyork/news/brenda-janowitz-the-introverts-guide-to-kissing-in-europe/",
+        "published_at": "2026-09-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-04T13:05:59.052426+00:00",
+      "verification": {
+        "article_title": "Brenda Janowitz talks to Club Calvi about her new YA book \"The Introvert's Guide to Kissing in Europe\"",
+        "article_url": "https://www.cbsnews.com/newyork/news/brenda-janowitz-the-introverts-guide-to-kissing-in-europe/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-04T13:05:57.382241+00:00"
+      }
+    },
+    {
+      "headline": "Lindsay Clancy trial shines spotlight on maternal mental health",
+      "bullets": [
+        "Clancy is on trial in Massachusetts for the deaths of her three young children.",
+        "Widespread attention on the Lindsay Clancy murder trial has turned a national spotlight on maternal mental health."
+      ],
+      "summary": "Lindsay Clancy trial shines spotlight on maternal mental health",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Lindsay Clancy trial shines spotlight on maternal mental health",
+        "article_url": "https://abc7ny.com/story/lindsay-clancy-trial-shines-spotlight-maternal-mental-health/19788573/",
+        "published_at": "2026-09-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-04T13:05:59.116805+00:00",
+      "verification": {
+        "article_title": "Lindsay Clancy trial shines spotlight on maternal mental health",
+        "article_url": "https://abc7ny.com/story/lindsay-clancy-trial-shines-spotlight-maternal-mental-health/19788573/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-04T13:05:57.487808+00:00"
+      }
+    },
+    {
+      "headline": "Women gather at Gloria Steinem\u2019s Upper East Side home to",
+      "bullets": [
+        "Following the news of feminist icon Gloria Steinem\u2019s death at 92, New Yorkers spanning generations paid their respects outside her longtime Upper East Side home on Thursday.",
+        "Visitors, most of whom were women, described Steinem as \u201can example,\u201d \u201ca brave and amazing woman,\u201d and \u201ca guiding light.\u201d Some laid flowers against the fence in front of the brownstone on 73rd Street, along with notes that read \u201cThank you Gloria\u201d and \u201cHero to all women.\u201d Others quietly reflected, pausing before the growing pile of bouquets for a few moments before moving on down the block."
+      ],
+      "summary": "Women gather at Gloria Steinem\u2019s Upper East Side home to",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Women gather at Gloria Steinem\u2019s Upper East Side home to lay flowers, pay respects",
+        "article_url": "https://gothamist.com/arts-entertainment/women-gather-at-gloria-steinems-upper-east-side-home-to-lay-flowers-and-pay-their-respect",
+        "published_at": "2026-09-03T22:33:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-04T13:05:59.196227+00:00",
+      "verification": {
+        "article_title": "Women gather at Gloria Steinem\u2019s Upper East Side home to lay flowers, pay respects",
+        "article_url": "https://gothamist.com/arts-entertainment/women-gather-at-gloria-steinems-upper-east-side-home-to-lay-flowers-and-pay-their-respect",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-04T13:05:57.586673+00:00"
+      }
+    },
+    {
+      "headline": "$6 billion power line from Canada to NYC flowing below",
+      "bullets": [
+        "New York City\u2019s $6 billion power line from Canada was supposed to bring enough energy to power one million homes.",
+        "Instead, it\u2019s been operating at a trickle since coming on line in June."
+      ],
+      "summary": "$6 billion power line from Canada to NYC flowing below",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "$6 billion power line from Canada to NYC flowing below capacity, experts say",
+        "article_url": "https://gothamist.com/news/6-billion-power-line-from-canada-to-nyc-flowing-below-capacity-experts-say",
+        "published_at": "2026-09-03T20:14:43+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-04T13:05:59.257858+00:00",
+      "verification": {
+        "article_title": "$6 billion power line from Canada to NYC flowing below capacity, experts say",
+        "article_url": "https://gothamist.com/news/6-billion-power-line-from-canada-to-nyc-flowing-below-capacity-experts-say",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-04T13:05:57.717327+00:00"
+      }
+    },
+    {
+      "headline": "Beloved Hobby Retailer Red Caboose Reaches the End Of the",
+      "bullets": [
+        "Beloved Hobby Retailer Red Caboose Reaches the End Of the Line The last holdout of a dozen or so Gotham hobby shops will be gone by the middle of October, as its building on West 45th Street is slated to be torn down soon.",
+        "The Red Caboose, the last of the old-time hobby shops in the city, is closing."
+      ],
+      "summary": "Beloved Hobby Retailer Red Caboose Reaches the End Of the",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Beloved Hobby Retailer Red Caboose Reaches the End Of the Line",
+        "article_url": "https://www.ourtownny.com/news/beloved-hobby-retailer-red-caboose-reaches-the-end-of-the-line-YN6168573",
+        "published_at": "2026-09-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-04T13:05:59.317977+00:00",
+      "verification": {
+        "article_title": "Beloved Hobby Retailer Red Caboose Reaches the End Of the Line",
+        "article_url": "https://www.ourtownny.com/news/beloved-hobby-retailer-red-caboose-reaches-the-end-of-the-line-YN6168573",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-04T13:05:57.784162+00:00"
+      }
+    },
+    {
+      "headline": "Historically Black St. Stephen's Episcopal in Queens set to close",
+      "bullets": [
+        "Lori Von S.",
+        "Lucas learned nearly two weeks ago that her Queens\u2019 neighborhood church, the historically Black St."
+      ],
+      "summary": "Historically Black St. Stephen's Episcopal in Queens set to close",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Historically Black St. Stephen's Episcopal in Queens set to close nearly 125-year history",
+        "article_url": "https://gothamist.com/news/historically-black-st-stephens-episcopal-in-queens-set-to-close-nearly-125-year-history",
+        "published_at": "2026-09-04T10:30:56+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-04T13:05:59.418413+00:00",
+      "verification": {
+        "article_title": "Historically Black St. Stephen's Episcopal in Queens set to close nearly 125-year history",
+        "article_url": "https://gothamist.com/news/historically-black-st-stephens-episcopal-in-queens-set-to-close-nearly-125-year-history",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-04T13:05:57.885340+00:00"
+      }
+    }
+  ]
+}
