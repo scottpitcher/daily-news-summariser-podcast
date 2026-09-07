@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-09-07T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-09-07.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "The fall of Rudy Giuliani: From \u2018America\u2019s mayor\u2019 after 9/11",
+      "bullets": [
+        "Twenty-five years since his leadership in the wake of the 9/11 terrorist attacks garnered him universal praise and the moniker \u201cAmerica\u2019s mayor,\u201d a quarter-century of scandal and disgrace has clouded Rudy Giuliani\u2019s peak in public life.",
+        "Barred from practicing law, accused of plotting to overthrow democracy and rig an election for Donald Trump in two criminal indictments, a third divorce, and a humiliating cameo in a \u201cBorat\u201d film, the steady stream of controversies has yet to cease."
+      ],
+      "summary": "The fall of Rudy Giuliani: From \u2018America\u2019s mayor\u2019 after 9/11",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "The fall of Rudy Giuliani: From \u2018America\u2019s mayor\u2019 after 9/11 to \u2018tragic American figure\u2019",
+        "article_url": "https://www.nydailynews.com/2026/09/06/the-fall-of-rudy-giuliani-from-americas-mayor-after-9-11-to-tragic-american-figure/",
+        "published_at": "2026-09-06T21:33:23+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-07T14:41:58.725242+00:00",
+      "verification": {
+        "article_title": "The fall of Rudy Giuliani: From \u2018America\u2019s mayor\u2019 after 9/11 to \u2018tragic American figure\u2019",
+        "article_url": "https://www.nydailynews.com/2026/09/06/the-fall-of-rudy-giuliani-from-americas-mayor-after-9-11-to-tragic-american-figure/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-07T14:41:56.120077+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry",
+      "bullets": [
+        "New York City, NY|Featured Event Fine Arts and Mid-Century Modern Auction | Jewelry | Silver | Art | Furniture & More Fine Arts and Mid-Century Modern - Online Auction Thursday, September 10, 2026 at 10:00 AM Bid online at alderferauction.com.",
+        "Alderfer Auction\u2019s September Fine Art and Mid-Century Modern Auction features a collection of art, luxury Swiss timepieces, jewelry, sterling silver, d\u00e9cor, and mid-century and period furniture."
+      ],
+      "summary": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry | Silver | Art | Furniture & More",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260910/232b741b-d4d8-4e38-8be8-da09dd2f99a0/fine-arts-and-mid-century-modern-auction-jewelry-silver-art-furniture-more",
+        "published_at": "2026-09-10T14:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-07T14:41:58.772885+00:00",
+      "verification": {
+        "article_title": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry | Silver | Art | Furniture & More",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260910/232b741b-d4d8-4e38-8be8-da09dd2f99a0/fine-arts-and-mid-century-modern-auction-jewelry-silver-art-furniture-more",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-07T14:41:56.381997+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: The Wisdom Bar \u2013 \"Freedom in the Era",
+      "bullets": [
+        "New York City, NY|Featured Event The Wisdom Bar \u2013 \"Freedom in the Era of Reconstruction: Thaddeus Stevens\" Expert-led lectures in bars and creative spaces across NYC.",
+        "\ud83d\udca1A smarter night out in NYC\u2014fascinating speakers, craft beer, and real conversation."
+      ],
+      "summary": "Local Event: The Wisdom Bar \u2013 \"Freedom in the Era",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: The Wisdom Bar \u2013 \"Freedom in the Era of Reconstruction: Thaddeus Stevens\"",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260909/a4e5cb1d-aa37-4334-a5bc-22921b951ed1/the-wisdom-bar-freedom-in-the-era-of-reconstruction-thaddeus-stevens",
+        "published_at": "2026-09-09T22:30:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-07T14:41:58.822587+00:00",
+      "verification": {
+        "article_title": "Local Event: The Wisdom Bar \u2013 \"Freedom in the Era of Reconstruction: Thaddeus Stevens\"",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260909/a4e5cb1d-aa37-4334-a5bc-22921b951ed1/the-wisdom-bar-freedom-in-the-era-of-reconstruction-thaddeus-stevens",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-07T14:41:56.571761+00:00"
+      }
+    },
+    {
+      "headline": "Failing to learn the lessons of 9/11",
+      "bullets": [
+        "America stands at the precipice of 25 years, when on Sept.",
+        "11, 2001, 19 hijackers devastated the twin towers, murdered 2,977 people, and drew the nation into a 20-year conflict that has fundamentally changed the nation and the world."
+      ],
+      "summary": "Failing to learn the lessons of 9/11",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Failing to learn the lessons of 9/11",
+        "article_url": "https://www.nydailynews.com/2026/09/06/failing-to-learn-the-lessons-of-9-11/",
+        "published_at": "2026-09-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-07T14:41:58.877098+00:00",
+      "verification": {
+        "article_title": "Failing to learn the lessons of 9/11",
+        "article_url": "https://www.nydailynews.com/2026/09/06/failing-to-learn-the-lessons-of-9-11/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-07T14:41:56.815395+00:00"
+      }
+    },
+    {
+      "headline": "Keep your yard tidy with the best electric leaf blowers",
+      "bullets": [
+        "Which electric leaf blowers are best?",
+        "A leaf blower is an invaluable tool during the autumn."
+      ],
+      "summary": "Keep your yard tidy with the best electric leaf blowers",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Keep your yard tidy with the best electric leaf blowers",
+        "article_url": "https://www.nydailynews.com/2026/09/07/keep-your-yard-tidy-with-the-best-electric-leaf-blowers/",
+        "published_at": "2026-09-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-07T14:41:58.933761+00:00",
+      "verification": {
+        "article_title": "Keep your yard tidy with the best electric leaf blowers",
+        "article_url": "https://www.nydailynews.com/2026/09/07/keep-your-yard-tidy-with-the-best-electric-leaf-blowers/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-07T14:41:57.094588+00:00"
+      }
+    },
+    {
+      "headline": "Retired NYPD officer's 1st Precinct memo book now serves as",
+      "bullets": [
+        "An NYPD officer recently went back to the precinct closest to ground zero and opened the memo book he carried on .",
+        "He is now sharing its contents publicly for the first time since that day."
+      ],
+      "summary": "Retired NYPD officer's 1st Precinct memo book now serves as",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Retired NYPD officer's 1st Precinct memo book now serves as a valued 9/11 artifact",
+        "article_url": "https://www.cbsnews.com/newyork/news/911-terror-attacks-new-york-city-nypd-1st-precinct/",
+        "published_at": "2026-09-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-07T14:41:59.003329+00:00",
+      "verification": {
+        "article_title": "Retired NYPD officer's 1st Precinct memo book now serves as a valued 9/11 artifact",
+        "article_url": "https://www.cbsnews.com/newyork/news/911-terror-attacks-new-york-city-nypd-1st-precinct/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-07T14:41:57.305909+00:00"
+      }
+    },
+    {
+      "headline": "An open letter to Mayor Mamdani on 9/11\u2019s meaning",
+      "bullets": [
+        "Mayor Mamdani: You were a month shy of 10 and living in New York City when 19 Al Qaeda hijackers took down the twin towers on Sept.",
+        "11, 2001."
+      ],
+      "summary": "An open letter to Mayor Mamdani on 9/11\u2019s meaning",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "An open letter to Mayor Mamdani on 9/11\u2019s meaning",
+        "article_url": "https://www.nydailynews.com/2026/09/07/an-open-letter-to-mayor-mamdani-on-9-11s-meaning/",
+        "published_at": "2026-09-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-07T14:41:59.083576+00:00",
+      "verification": {
+        "article_title": "An open letter to Mayor Mamdani on 9/11\u2019s meaning",
+        "article_url": "https://www.nydailynews.com/2026/09/07/an-open-letter-to-mayor-mamdani-on-9-11s-meaning/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-07T14:41:57.485738+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: From Silent Voices to Bestselling Stories: Tiffany Fulton\u2019s",
+      "bullets": [
+        "New York City, NY|Featured Event From Silent Voices to Bestselling Stories: Tiffany Fulton\u2019s Pen Continues to Inspire Tiffany Fulton, founder and executive director of Silent Voices United Inc., is a three-time Amazon bestselling author who writes under the pen name Harlem Holiday.",
+        "Her purposeful stories uplift children, families and communities."
+      ],
+      "summary": "Local Event: From Silent Voices to Bestselling Stories: Tiffany Fulton\u2019s",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: From Silent Voices to Bestselling Stories: Tiffany Fulton\u2019s Pen Continues to Inspire",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260907/ba2e2e23-2662-4f86-83e7-bd10f2a87582/from-silent-voices-to-bestselling-stories-tiffany-fulton-s-pen-continues-to-inspire",
+        "published_at": "2026-09-07T13:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-07T14:41:59.268620+00:00",
+      "verification": {
+        "article_title": "Local Event: From Silent Voices to Bestselling Stories: Tiffany Fulton\u2019s Pen Continues to Inspire",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260907/ba2e2e23-2662-4f86-83e7-bd10f2a87582/from-silent-voices-to-bestselling-stories-tiffany-fulton-s-pen-continues-to-inspire",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-07T14:41:57.691783+00:00"
+      }
+    },
+    {
+      "headline": "Hawaii residents told to expect tropical storm conditions as Hurricane",
+      "bullets": [
+        "Officials in Hawaii urged residents and visitors to prepare for heavy rains, flooding and possibly mudslides as Hurricane Lowell, a major Category 3 storm, prompted the National Hurricane Center to issue a tropical storm warning for two islands on Sunday.",
+        "The Miami-based center issued the warning and a hurricane watch for Kauai and Niihau as Lowell was forecast to pass the islands to the west late Monday while traveling north."
+      ],
+      "summary": "Hawaii residents told to expect tropical storm conditions as Hurricane",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Hawaii residents told to expect tropical storm conditions as Hurricane Lowell passes to the west",
+        "article_url": "https://abc7ny.com/story/hawaii-residents-told-expect-tropical-storm-conditions-hurricane-lowell-passes-west/19802160/",
+        "published_at": "2026-09-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-07T14:41:59.316640+00:00",
+      "verification": {
+        "article_title": "Hawaii residents told to expect tropical storm conditions as Hurricane Lowell passes to the west",
+        "article_url": "https://abc7ny.com/story/hawaii-residents-told-expect-tropical-storm-conditions-hurricane-lowell-passes-west/19802160/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-07T14:41:57.886820+00:00"
+      }
+    },
+    {
+      "headline": "Investigators hunt for what went wrong after Amazon cargo plane",
+      "bullets": [
+        "MIAMI -- Federal investigators on Monday are detailing their plans for determining what caused an Amazon cargo jet to barrel off a runway at Miami International Airport, killing at least five people and injuring five others as it struck vehicles and was engulfed in flames.",
+        "The aircraft overran the runway around 2 p.m."
+      ],
+      "summary": "Investigators hunt for what went wrong after Amazon cargo plane",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Investigators hunt for what went wrong after Amazon cargo plane crash in Miami kills at least 5",
+        "article_url": "https://abc7ny.com/story/amazon-plane-crash-investigators-hunt-what-went-wrong-cargo-crashed-miami-killing-least-5/19801806/",
+        "published_at": "2026-09-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-07T14:41:59.365084+00:00",
+      "verification": {
+        "article_title": "Investigators hunt for what went wrong after Amazon cargo plane crash in Miami kills at least 5",
+        "article_url": "https://abc7ny.com/story/amazon-plane-crash-investigators-hunt-what-went-wrong-cargo-crashed-miami-killing-least-5/19801806/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-07T14:41:58.136296+00:00"
+      }
+    },
+    {
+      "headline": "Mother, allegedly 'invested' in Lindsay Clancy trial, charged with murdering",
+      "bullets": [
+        "Clancy's murder trial ended with a hung jury resulting in a mistrial on Friday.",
+        "As a Massachusetts jury deliberated in the Lindsay Clancy trial, prosecutors in Illinois say a mother described by witnesses as recently being \"very invested\" in the case allegedly murdered her 2-year-old son and tried to take her own life, according to a petition to deny pre-trial release obtained by ABC Chicago station WLS."
+      ],
+      "summary": "Mother, allegedly 'invested' in Lindsay Clancy trial, charged with murdering",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Mother, allegedly 'invested' in Lindsay Clancy trial, charged with murdering 2-year-old child",
+        "article_url": "https://abc7ny.com/story/mother-allegedly-invested-lindsay-clancy-trial-charged-murdering-2-year-old-child/19801903/",
+        "published_at": "2026-09-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-07T14:41:59.413548+00:00",
+      "verification": {
+        "article_title": "Mother, allegedly 'invested' in Lindsay Clancy trial, charged with murdering 2-year-old child",
+        "article_url": "https://abc7ny.com/story/mother-allegedly-invested-lindsay-clancy-trial-charged-murdering-2-year-old-child/19801903/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-07T14:41:58.190150+00:00"
+      }
+    },
+    {
+      "headline": "Amazon cargo plane crash at Miami International Airport leaves 5",
+      "bullets": [
+        "At least five people were killed and five others were injured when an Amazon cargo plane overran a runway at Miami International Airport and struck several vehicles Sunday, officials said.",
+        "The crash prompted a roughly three-hour ground stop at the airport as emergency crews responded to the scene."
+      ],
+      "summary": "Amazon cargo plane crash at Miami International Airport leaves 5",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Amazon cargo plane crash at Miami International Airport leaves 5 dead, 5 injured",
+        "article_url": "https://www.cbsnews.com/newyork/news/miami-airport-plane-disabled-9-6-2026/",
+        "published_at": "2026-09-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-07T14:41:59.465215+00:00",
+      "verification": {
+        "article_title": "Amazon cargo plane crash at Miami International Airport leaves 5 dead, 5 injured",
+        "article_url": "https://www.cbsnews.com/newyork/news/miami-airport-plane-disabled-9-6-2026/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-07T14:41:58.247690+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on the U.S. Open, tech moguls and",
+      "bullets": [
+        "Why do men play more for the same prize?",
+        "Flushing: As someone who has played tennis since 1962, and having coached girl\u2019s and boy\u2019s tennis at Francis Lewis High School in Queens, I wish (once again) to address the inequity in tennis grand slams."
+      ],
+      "summary": "Readers sound off on the U.S. Open, tech moguls and",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on the U.S. Open, tech moguls and donation ethics",
+        "article_url": "https://www.nydailynews.com/2026/09/07/readers-sound-off-on-the-u-s-open-tech-moguls-and-donation-ethics/",
+        "published_at": "2026-09-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-07T14:41:59.517230+00:00",
+      "verification": {
+        "article_title": "Readers sound off on the U.S. Open, tech moguls and donation ethics",
+        "article_url": "https://www.nydailynews.com/2026/09/07/readers-sound-off-on-the-u-s-open-tech-moguls-and-donation-ethics/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-07T14:41:58.296953+00:00"
+      }
+    },
+    {
+      "headline": "NY\u2019s back-to-school vaccine requirements are airtight, at least for now",
+      "bullets": [
+        "New York City health and education officials are urging parents to double-check that their children are up to date on their vaccinations as schools return to session.",
+        "The vaccination campaign is launching not only as schools prepare to reopen but also as parents face an onslaught of shifting federal messaging on vaccines, which public health officials see as undermining longstanding guidance in New York and other states."
+      ],
+      "summary": "NY\u2019s back-to-school vaccine requirements are airtight, at least for now",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NY\u2019s back-to-school vaccine requirements are airtight, at least for now",
+        "article_url": "https://gothamist.com/news/nys-back-to-school-vaccine-requirements-are-airtight-at-least-for-now",
+        "published_at": "2026-09-07T10:00:59+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-07T14:41:59.566490+00:00",
+      "verification": {
+        "article_title": "NY\u2019s back-to-school vaccine requirements are airtight, at least for now",
+        "article_url": "https://gothamist.com/news/nys-back-to-school-vaccine-requirements-are-airtight-at-least-for-now",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-07T14:41:58.349229+00:00"
+      }
+    },
+    {
+      "headline": "Ben Shelton moves on to US Open third round after",
+      "bullets": [
+        "Ben Shelton\u2019s second-round matchup of the US Open posed as a bit more of a challenge than the first.",
+        "Still, the top-ranked American defeated Hubert Hurkacz 6-3, 5-7, 7-6 (7), 7-5 inside Arthur Ashe Stadium on Wednesday afternoon."
+      ],
+      "summary": "Ben Shelton moves on to US Open third round after",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Ben Shelton moves on to US Open third round after overcoming \u2018tall task\u2019 vs. Hubert Hurkacz",
+        "article_url": "https://www.nydailynews.com/2026/09/02/ben-shelton-us-open-huberrt-hurkacz/",
+        "published_at": "2026-09-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-07T14:41:59.615280+00:00",
+      "verification": {
+        "article_title": "Ben Shelton moves on to US Open third round after overcoming \u2018tall task\u2019 vs. Hubert Hurkacz",
+        "article_url": "https://www.nydailynews.com/2026/09/02/ben-shelton-us-open-huberrt-hurkacz/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-07T14:41:58.401242+00:00"
+      }
+    },
+    {
+      "headline": "AccuWeather: Standout day",
+      "bullets": [
+        "AccuWeather forecast for NYC, New York, New Jersey and Connecticut NEW YORK (WABC) -- Labor Day is shaping up to be the standout day of the holiday weekend.",
+        "Sunshine will dominate from start to finish, humidity levels will be even lower, and afternoon temperatures will climb into the middle and upper 70s."
+      ],
+      "summary": "AccuWeather: Standout day",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "AccuWeather: Standout day",
+        "article_url": "https://abc7ny.com/nyc-weather-forecast-7-day-temperatures/27410/",
+        "published_at": "2020-02-12"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-07T14:41:59.667472+00:00",
+      "verification": {
+        "article_title": "AccuWeather: Standout day",
+        "article_url": "https://abc7ny.com/nyc-weather-forecast-7-day-temperatures/27410/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-07T14:41:58.451002+00:00"
+      }
+    },
+    {
+      "headline": "Use 9/11 memorials as models to honor COVID dead",
+      "bullets": [
+        "The rubble of the World Trade Center was still smoldering 25 years ago when New Yorkers went to work creating memorials to the dead.",
+        "In parks and on streetcorners, impromptu shrines gave faces and names to almost 3,000 lives lost."
+      ],
+      "summary": "Use 9/11 memorials as models to honor COVID dead",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Use 9/11 memorials as models to honor COVID dead",
+        "article_url": "https://www.nydailynews.com/2026/09/06/use-9-11-memorials-as-models-to-honor-covid-dead/",
+        "published_at": "2026-09-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-07T14:41:59.750730+00:00",
+      "verification": {
+        "article_title": "Use 9/11 memorials as models to honor COVID dead",
+        "article_url": "https://www.nydailynews.com/2026/09/06/use-9-11-memorials-as-models-to-honor-covid-dead/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-07T14:41:58.500130+00:00"
+      }
+    },
+    {
+      "headline": "The fall of Rudy Giuliani: From \u2018America\u2019s mayor\u2019 after 9/11",
+      "bullets": [
+        "Twenty-five years since his leadership in the wake of the 9/11 terrorist attacks garnered him universal praise and the moniker \u201cAmerica\u2019s mayor,\u201d a quarter-century of scandal and disgrace has clouded Rudy Giuliani\u2019s peak in public life.",
+        "Barred from practicing law, accused of plotting to overthrow democracy and rig an election for Donald Trump in two criminal indictments, a third divorce, and a humiliating cameo in a \u201cBorat\u201d film, the steady stream of controversies has yet to cease."
+      ],
+      "summary": "The fall of Rudy Giuliani: From \u2018America\u2019s mayor\u2019 after 9/11",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "The fall of Rudy Giuliani: From \u2018America\u2019s mayor\u2019 after 9/11 to \u2018tragic American figure\u2019",
+        "article_url": "https://www.nydailynews.com/2026/09/06/the-fall-of-rudy-giuliani-from-americas-mayor-after-9-11-to-tragic-american-figure/",
+        "published_at": "2026-09-06T21:33:23+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-07T14:41:59.863701+00:00",
+      "verification": {
+        "article_title": "The fall of Rudy Giuliani: From \u2018America\u2019s mayor\u2019 after 9/11 to \u2018tragic American figure\u2019",
+        "article_url": "https://www.nydailynews.com/2026/09/06/the-fall-of-rudy-giuliani-from-americas-mayor-after-9-11-to-tragic-american-figure/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-07T14:41:58.551203+00:00"
+      }
+    }
+  ]
+}
