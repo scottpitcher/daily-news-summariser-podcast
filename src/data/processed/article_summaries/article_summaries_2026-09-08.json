@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-09-08T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-09-08.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Long-sought 9/11 toxin documents show NYC knew within weeks how",
+      "bullets": [
+        "Long-sought pivotal documents about the toxins swirling around Ground Zero after 9/11 are being released to the general public Tuesday, showing NYC officials knew within weeks of the towers\u2019 collapse that the air quality in lower Manhattan was hazardous to those living there and who responded to the terror attacks 25 years ago.",
+        "\u201cThere are clear indications (that the city) knew there was problem with air quality,\u201d City Corporation Counsel Steven Banks said Monday in a press briefing ahead of the documents release via an online portal."
+      ],
+      "summary": "Long-sought 9/11 toxin documents show NYC knew within weeks how",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Long-sought 9/11 toxin documents show NYC knew within weeks how dangerous the air was",
+        "article_url": "https://www.nydailynews.com/2026/09/08/long-sought-9-11-toxin-documents-show-nyc-knew-within-weeks-how-dangerous-the-air-was/",
+        "published_at": "2026-09-08"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-08T13:14:54.179806+00:00",
+      "verification": {
+        "article_title": "Long-sought 9/11 toxin documents show NYC knew within weeks how dangerous the air was",
+        "article_url": "https://www.nydailynews.com/2026/09/08/long-sought-9-11-toxin-documents-show-nyc-knew-within-weeks-how-dangerous-the-air-was/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-08T13:14:51.217601+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry",
+      "bullets": [
+        "New York City, NY|Featured Event Fine Arts and Mid-Century Modern Auction | Jewelry | Silver | Art | Furniture & More Fine Arts and Mid-Century Modern - Online Auction Thursday, September 10, 2026 at 10:00 AM Bid online at alderferauction.com.",
+        "Alderfer Auction\u2019s September Fine Art and Mid-Century Modern Auction features a collection of art, luxury Swiss timepieces, jewelry, sterling silver, d\u00e9cor, and mid-century and period furniture."
+      ],
+      "summary": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry | Silver | Art | Furniture & More",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260910/232b741b-d4d8-4e38-8be8-da09dd2f99a0/fine-arts-and-mid-century-modern-auction-jewelry-silver-art-furniture-more",
+        "published_at": "2026-09-10T14:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-08T13:14:54.239842+00:00",
+      "verification": {
+        "article_title": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry | Silver | Art | Furniture & More",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260910/232b741b-d4d8-4e38-8be8-da09dd2f99a0/fine-arts-and-mid-century-modern-auction-jewelry-silver-art-furniture-more",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-08T13:14:51.453432+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: The Wisdom Bar \u2013 \"Freedom in the Era",
+      "bullets": [
+        "New York City, NY|Featured Event The Wisdom Bar \u2013 \"Freedom in the Era of Reconstruction: Thaddeus Stevens\" Expert-led lectures in bars and creative spaces across NYC.",
+        "\ud83d\udca1A smarter night out in NYC\u2014fascinating speakers, craft beer, and real conversation."
+      ],
+      "summary": "Local Event: The Wisdom Bar \u2013 \"Freedom in the Era",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: The Wisdom Bar \u2013 \"Freedom in the Era of Reconstruction: Thaddeus Stevens\"",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260909/a4e5cb1d-aa37-4334-a5bc-22921b951ed1/the-wisdom-bar-freedom-in-the-era-of-reconstruction-thaddeus-stevens",
+        "published_at": "2026-09-09T22:30:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-08T13:14:54.300813+00:00",
+      "verification": {
+        "article_title": "Local Event: The Wisdom Bar \u2013 \"Freedom in the Era of Reconstruction: Thaddeus Stevens\"",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260909/a4e5cb1d-aa37-4334-a5bc-22921b951ed1/the-wisdom-bar-freedom-in-the-era-of-reconstruction-thaddeus-stevens",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-08T13:14:51.688273+00:00"
+      }
+    },
+    {
+      "headline": "New York\u2019s workers are union strong",
+      "bullets": [
+        "Labor Day is a time to celebrate the contributions of working people.",
+        "They built this country, and by organizing and joining unions, they also built the middle class, creating a better quality of life for generations of working families."
+      ],
+      "summary": "New York\u2019s workers are union strong",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "New York\u2019s workers are union strong",
+        "article_url": "https://www.nydailynews.com/2026/09/07/new-yorks-workers-are-union-strong/",
+        "published_at": "2026-09-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-08T13:14:54.360972+00:00",
+      "verification": {
+        "article_title": "New York\u2019s workers are union strong",
+        "article_url": "https://www.nydailynews.com/2026/09/07/new-yorks-workers-are-union-strong/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-08T13:14:51.925868+00:00"
+      }
+    },
+    {
+      "headline": "Keep your yard tidy with the best electric leaf blowers",
+      "bullets": [
+        "Which electric leaf blowers are best?",
+        "A leaf blower is an invaluable tool during the autumn."
+      ],
+      "summary": "Keep your yard tidy with the best electric leaf blowers",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Keep your yard tidy with the best electric leaf blowers",
+        "article_url": "https://www.nydailynews.com/2026/09/07/keep-your-yard-tidy-with-the-best-electric-leaf-blowers/",
+        "published_at": "2026-09-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-08T13:14:54.420195+00:00",
+      "verification": {
+        "article_title": "Keep your yard tidy with the best electric leaf blowers",
+        "article_url": "https://www.nydailynews.com/2026/09/07/keep-your-yard-tidy-with-the-best-electric-leaf-blowers/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-08T13:14:52.168607+00:00"
+      }
+    },
+    {
+      "headline": "After 9/11, sports helped New York return to normalcy",
+      "bullets": [
+        "The sports world stopped cold around here after 9/11, respectfully and correctly.",
+        "There was too much despair in the air, too much angst about big crowds and airline flights."
+      ],
+      "summary": "After 9/11, sports helped New York return to normalcy",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "After 9/11, sports helped New York return to normalcy",
+        "article_url": "https://www.nydailynews.com/2026/09/07/after-9-11-sports-helped-new-york-return-to-normalcy/",
+        "published_at": "2026-09-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-08T13:14:54.517064+00:00",
+      "verification": {
+        "article_title": "After 9/11, sports helped New York return to normalcy",
+        "article_url": "https://www.nydailynews.com/2026/09/07/after-9-11-sports-helped-new-york-return-to-normalcy/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-08T13:14:52.505675+00:00"
+      }
+    },
+    {
+      "headline": "An open letter to Mayor Mamdani on 9/11\u2019s meaning",
+      "bullets": [
+        "Mayor Mamdani: You were a month shy of 10 and living in New York City when 19 Al Qaeda hijackers took down the twin towers on Sept.",
+        "11, 2001."
+      ],
+      "summary": "An open letter to Mayor Mamdani on 9/11\u2019s meaning",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "An open letter to Mayor Mamdani on 9/11\u2019s meaning",
+        "article_url": "https://www.nydailynews.com/2026/09/07/an-open-letter-to-mayor-mamdani-on-9-11s-meaning/",
+        "published_at": "2026-09-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-08T13:14:54.579104+00:00",
+      "verification": {
+        "article_title": "An open letter to Mayor Mamdani on 9/11\u2019s meaning",
+        "article_url": "https://www.nydailynews.com/2026/09/07/an-open-letter-to-mayor-mamdani-on-9-11s-meaning/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-08T13:14:52.709716+00:00"
+      }
+    },
+    {
+      "headline": "Police search for killer who beat mother to death in",
+      "bullets": [
+        "EAST HARLEM, Manhattan (WABC) -- Family members and advocates gathered Monday night in East Harlem to mourn Lovay Williams, a 27-year-old mother found dead in her Washington Heights apartment Sunday afternoon in what police are investigating as a domestic violence killing.",
+        "Green balloons were released in her honor as relatives described Williams as a devoted mother whose 7-year-old daughter is now left without her."
+      ],
+      "summary": "Police search for killer who beat mother to death in",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Police search for killer who beat mother to death in front of her 7-year-old daughter",
+        "article_url": "https://abc7ny.com/post/police-search-killer-beat-mother-death-front-7-year-old-daughter-washington-heights/19804350/",
+        "published_at": "2026-09-08"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-08T13:14:54.651295+00:00",
+      "verification": {
+        "article_title": "Police search for killer who beat mother to death in front of her 7-year-old daughter",
+        "article_url": "https://abc7ny.com/post/police-search-killer-beat-mother-death-front-7-year-old-daughter-washington-heights/19804350/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-08T13:14:52.947056+00:00"
+      }
+    },
+    {
+      "headline": "Cannoli King Ready to Celebrate as San Gennaro Festival Turns",
+      "bullets": [
+        "Cannoli King Ready to Celebrate as San Gennaro Festival Turns 100 in Little Italy Set to take over Little Italy Sept.",
+        "17 through Sept."
+      ],
+      "summary": "Cannoli King Ready to Celebrate as San Gennaro Festival Turns",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Cannoli King Ready to Celebrate as San Gennaro Festival Turns 100 in Little Italy",
+        "article_url": "https://www.ourtownny.com/home/cannoli-king-ready-to-celebrate-as-san-gennaro-festival-turns-100-in-little-italy-KN6168378",
+        "published_at": "2026-09-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-08T13:14:54.731059+00:00",
+      "verification": {
+        "article_title": "Cannoli King Ready to Celebrate as San Gennaro Festival Turns 100 in Little Italy",
+        "article_url": "https://www.ourtownny.com/home/cannoli-king-ready-to-celebrate-as-san-gennaro-festival-turns-100-in-little-italy-KN6168378",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-08T13:14:53.154778+00:00"
+      }
+    },
+    {
+      "headline": "Shootings and stabbings rock area near West Indian American Day",
+      "bullets": [
+        "The NYPD is investigating multiple shootings and stabbings that happened Monday near the .",
+        "Police responded to the scene of a 24-year-old man shot in the buttocks at 800 Nostrand Ave., between St."
+      ],
+      "summary": "Shootings and stabbings rock area near West Indian American Day",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Shootings and stabbings rock area near West Indian American Day Parade in Brooklyn",
+        "article_url": "https://www.cbsnews.com/newyork/news/violence-rocks-west-indian-american-day-parade-in-brooklyn/",
+        "published_at": "2026-09-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-08T13:14:54.796075+00:00",
+      "verification": {
+        "article_title": "Shootings and stabbings rock area near West Indian American Day Parade in Brooklyn",
+        "article_url": "https://www.cbsnews.com/newyork/news/violence-rocks-west-indian-american-day-parade-in-brooklyn/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-08T13:14:53.400596+00:00"
+      }
+    },
+    {
+      "headline": "New York\u2019s workers are union strong",
+      "bullets": [
+        "Labor Day is a time to celebrate the contributions of working people.",
+        "They built this country, and by organizing and joining unions, they also built the middle class, creating a better quality of life for generations of working families."
+      ],
+      "summary": "New York\u2019s workers are union strong",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "New York\u2019s workers are union strong",
+        "article_url": "https://www.nydailynews.com/2026/09/07/new-yorks-workers-are-union-strong/",
+        "published_at": "2026-09-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-08T13:14:54.873318+00:00",
+      "verification": {
+        "article_title": "New York\u2019s workers are union strong",
+        "article_url": "https://www.nydailynews.com/2026/09/07/new-yorks-workers-are-union-strong/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-08T13:14:53.463479+00:00"
+      }
+    },
+    {
+      "headline": "Nonprofit Sing for Hope, borne out of 9/11, continues to",
+      "bullets": [
+        "In the days following the , two Juilliard students felt an overwhelming need to do something to help.",
+        "They took their talents to the streets and sang and their voices were considered rays of light on the darkest of days."
+      ],
+      "summary": "Nonprofit Sing for Hope, borne out of 9/11, continues to",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Nonprofit Sing for Hope, borne out of 9/11, continues to unite people in times of despair, 25 years later",
+        "article_url": "https://www.cbsnews.com/newyork/news/sing-for-hope-911-terror-attacks-new-york-city-health-hospitals/",
+        "published_at": "2026-09-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-08T13:14:54.971837+00:00",
+      "verification": {
+        "article_title": "Nonprofit Sing for Hope, borne out of 9/11, continues to unite people in times of despair, 25 years later",
+        "article_url": "https://www.cbsnews.com/newyork/news/sing-for-hope-911-terror-attacks-new-york-city-health-hospitals/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-08T13:14:53.560854+00:00"
+      }
+    },
+    {
+      "headline": "How post-9/11 Islamophobia sparked a Muslim political awakening in NYC",
+      "bullets": [
+        "Just a few days after the 9/11 attacks, then-16-year-old Faiza Ali was wearing a hijab at a Rite Aid near her home in Midwood, Brooklyn, when a screaming woman told her to leave.",
+        "The woman pushed Ali's little sister as other customers and a security guard stood by idly."
+      ],
+      "summary": "How post-9/11 Islamophobia sparked a Muslim political awakening in NYC",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "How post-9/11 Islamophobia sparked a Muslim political awakening in NYC",
+        "article_url": "https://gothamist.com/news/how-post-911-islamophobia-sparked-a-muslim-political-awakening-in-nyc",
+        "published_at": "2026-09-08T10:01:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-08T13:14:55.039760+00:00",
+      "verification": {
+        "article_title": "How post-9/11 Islamophobia sparked a Muslim political awakening in NYC",
+        "article_url": "https://gothamist.com/news/how-post-911-islamophobia-sparked-a-muslim-political-awakening-in-nyc",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-08T13:14:53.706857+00:00"
+      }
+    },
+    {
+      "headline": "Where to run in NYC: 13 trails for marathoners and",
+      "bullets": [
+        "The first hint of fall air is blowing into New York City, the marathon is a couple months away, and whether you\u2019re a casual jogger or a true competitor, running season has arrived.",
+        "We may live in a concrete jungle, but it\u2019s filled with picturesque paths for both long runs and shorter jaunts."
+      ],
+      "summary": "Where to run in NYC: 13 trails for marathoners and",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Where to run in NYC: 13 trails for marathoners and casual joggers",
+        "article_url": "https://gothamist.com/news/where-to-run-in-nyc-13-trails-for-marathoners-and-casual-joggers",
+        "published_at": "2026-09-07T16:00:56+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-08T13:14:55.144092+00:00",
+      "verification": {
+        "article_title": "Where to run in NYC: 13 trails for marathoners and casual joggers",
+        "article_url": "https://gothamist.com/news/where-to-run-in-nyc-13-trails-for-marathoners-and-casual-joggers",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-08T13:14:53.778187+00:00"
+      }
+    },
+    {
+      "headline": "City homeowners need to use officials NYC trash bins or",
+      "bullets": [
+        "All News NY News Bronx News Brooklyn News Harlem News Long Island News Northern Suburbs Queens News NJ News CT News Investigations Politics Education Transportation Crime Housing Arts & Entertainment Climate & Environment Health & Wellness Aging & Caregiving First Alert Weather Radars & Maps CBS2 Weather Map CBS2 Weather Watchers First Alert Weather 101 Share Photos & Videos All Sports Giants Yankees Knicks Rangers Islanders Jets Mets Nets Devils CBS Sports HQ Odds Latest News CBS New York Investigates Book Club with Mary Calvi Class Act with Chris Wragge #BetterTogether Breaking The Stigma Furry Friend Finder Sandy The 5:33 | Legacy of the LIRR Massacre On The Dot with David Schechter: Wildfires & Climate Change Climate Change: Protecting our Planet Station Info WCBS-TV WLNY-TV Contact Us Advertise Contests & Promotions Galleries Links & Numbers Download Our App Memorials Watch CBS News City homeowners need to use officials NYC trash bins or face fines Starting Tuesday, residential properties with 1 to 9 units have to use the official trash bins or get fined $50.",
+        "View CBS News In CBS News App Open Chrome Safari Continue"
+      ],
+      "summary": "City homeowners need to use officials NYC trash bins or",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "City homeowners need to use officials NYC trash bins or face fines",
+        "article_url": "https://www.cbsnews.com/newyork/video/city-homeowners-need-to-use-officials-nyc-trash-bins-or-face-fines/",
+        "published_at": null
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-08T13:14:55.212857+00:00",
+      "verification": {
+        "article_title": "City homeowners need to use officials NYC trash bins or face fines",
+        "article_url": "https://www.cbsnews.com/newyork/video/city-homeowners-need-to-use-officials-nyc-trash-bins-or-face-fines/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-08T13:14:53.843967+00:00"
+      }
+    },
+    {
+      "headline": "AccuWeather: Remaining comfortable",
+      "bullets": [
+        "AccuWeather forecast for NYC, New York, New Jersey and Connecticut NEW YORK (WABC) -- Sunshine and a few clouds are expected Tuesday, with comfortable conditions continuing despite a warmer afternoon.",
+        "High temperatures will climb into the lower 80s, making it a noticeably warmer day than in recent days."
+      ],
+      "summary": "AccuWeather: Remaining comfortable",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "AccuWeather: Remaining comfortable",
+        "article_url": "https://abc7ny.com/nyc-weather-forecast-7-day-temperatures/27410/",
+        "published_at": "2020-02-12"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-08T13:14:55.277154+00:00",
+      "verification": {
+        "article_title": "AccuWeather: Remaining comfortable",
+        "article_url": "https://abc7ny.com/nyc-weather-forecast-7-day-temperatures/27410/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-08T13:14:53.919209+00:00"
+      }
+    },
+    {
+      "headline": "9/11 and the need to combat all forms of hate",
+      "bullets": [
+        "Nearly 25 years after Sept.",
+        "11, there are images New York will never forget: a skyline forever changed; families waiting for loved ones who would never come home; and firefighters, police officers, paramedics and other first responders running toward danger because strangers needed them."
+      ],
+      "summary": "9/11 and the need to combat all forms of hate",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "9/11 and the need to combat all forms of hate",
+        "article_url": "https://www.nydailynews.com/2026/09/08/9-11-and-the-need-to-combat-all-forms-of-hate/",
+        "published_at": "2026-09-08"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-08T13:14:55.339099+00:00",
+      "verification": {
+        "article_title": "9/11 and the need to combat all forms of hate",
+        "article_url": "https://www.nydailynews.com/2026/09/08/9-11-and-the-need-to-combat-all-forms-of-hate/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-08T13:14:53.988512+00:00"
+      }
+    },
+    {
+      "headline": "Three numbers facing N.Y. housing leaders",
+      "bullets": [
+        "Three recent numbers should shape the housing debate in New York City.",
+        "The first is 700,000."
+      ],
+      "summary": "Three numbers facing N.Y. housing leaders",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Three numbers facing N.Y. housing leaders",
+        "article_url": "https://www.nydailynews.com/2026/09/08/three-numbers-facing-n-y-housing-leaders/",
+        "published_at": "2026-09-08"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-08T13:14:55.444922+00:00",
+      "verification": {
+        "article_title": "Three numbers facing N.Y. housing leaders",
+        "article_url": "https://www.nydailynews.com/2026/09/08/three-numbers-facing-n-y-housing-leaders/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-08T13:14:54.050095+00:00"
+      }
+    }
+  ]
+}
