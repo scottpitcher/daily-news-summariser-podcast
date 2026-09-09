@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-09-09T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-09-09.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "'The Real Housewives of New York City' is back, and",
+      "bullets": [
+        "Carole Radziwill is a lot of things: a reality TV star, an award-winning journalist, a New York Times bestselling author and, technically, a princess.",
+        "But first and foremost, she is a New Yorker."
+      ],
+      "summary": "'The Real Housewives of New York City' is back, and",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "'The Real Housewives of New York City' is back, and so is Carole Radziwill",
+        "article_url": "https://gothamist.com/arts-entertainment/the-real-housewives-of-new-york-city-is-back-and-so-is-carole-radziwill",
+        "published_at": "2026-09-08T18:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-09T13:20:10.318821+00:00",
+      "verification": {
+        "article_title": "'The Real Housewives of New York City' is back, and so is Carole Radziwill",
+        "article_url": "https://gothamist.com/arts-entertainment/the-real-housewives-of-new-york-city-is-back-and-so-is-carole-radziwill",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-09T13:20:06.600054+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry",
+      "bullets": [
+        "New York City, NY|Featured Event Fine Arts and Mid-Century Modern Auction | Jewelry | Silver | Art | Furniture & More Fine Arts and Mid-Century Modern - Online Auction Thursday, September 10, 2026 at 10:00 AM Bid online at alderferauction.com.",
+        "Alderfer Auction\u2019s September Fine Art and Mid-Century Modern Auction features a collection of art, luxury Swiss timepieces, jewelry, sterling silver, d\u00e9cor, and mid-century and period furniture."
+      ],
+      "summary": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry | Silver | Art | Furniture & More",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260910/232b741b-d4d8-4e38-8be8-da09dd2f99a0/fine-arts-and-mid-century-modern-auction-jewelry-silver-art-furniture-more",
+        "published_at": "2026-09-10T14:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-09T13:20:10.427302+00:00",
+      "verification": {
+        "article_title": "Local Event: Fine Arts and Mid-Century Modern Auction | Jewelry | Silver | Art | Furniture & More",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260910/232b741b-d4d8-4e38-8be8-da09dd2f99a0/fine-arts-and-mid-century-modern-auction-jewelry-silver-art-furniture-more",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-09T13:20:06.868727+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: The Wisdom Bar \u2013 \"Freedom in the Era",
+      "bullets": [
+        "New York City, NY|Featured Event The Wisdom Bar \u2013 \"Freedom in the Era of Reconstruction: Thaddeus Stevens\" Expert-led lectures in bars and creative spaces across NYC.",
+        "\ud83d\udca1A smarter night out in NYC\u2014fascinating speakers, craft beer, and real conversation."
+      ],
+      "summary": "Local Event: The Wisdom Bar \u2013 \"Freedom in the Era",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: The Wisdom Bar \u2013 \"Freedom in the Era of Reconstruction: Thaddeus Stevens\"",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260909/a4e5cb1d-aa37-4334-a5bc-22921b951ed1/the-wisdom-bar-freedom-in-the-era-of-reconstruction-thaddeus-stevens",
+        "published_at": "2026-09-09T22:30:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-09T13:20:10.541729+00:00",
+      "verification": {
+        "article_title": "Local Event: The Wisdom Bar \u2013 \"Freedom in the Era of Reconstruction: Thaddeus Stevens\"",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260909/a4e5cb1d-aa37-4334-a5bc-22921b951ed1/the-wisdom-bar-freedom-in-the-era-of-reconstruction-thaddeus-stevens",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-09T13:20:07.135665+00:00"
+      }
+    },
+    {
+      "headline": "Columbia must reopen campus to public, say neighbors, local politicians",
+      "bullets": [
+        "Neighborhood residents rallied on the first day of classes Tuesday to call on Columbia University to reopen its campus to the general public.",
+        "The gates have been closed since protests on campus over the war in Gaza during the 2023-24 school year."
+      ],
+      "summary": "Columbia must reopen campus to public, say neighbors, local politicians",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Columbia must reopen campus to public, say neighbors, local politicians at rally",
+        "article_url": "https://www.nydailynews.com/2026/09/08/columbia-must-reopen-campus-public-neighbors-local-politicians-demand/",
+        "published_at": "2026-09-08T23:00:39+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-09T13:20:10.659934+00:00",
+      "verification": {
+        "article_title": "Columbia must reopen campus to public, say neighbors, local politicians at rally",
+        "article_url": "https://www.nydailynews.com/2026/09/08/columbia-must-reopen-campus-public-neighbors-local-politicians-demand/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-09T13:20:07.429490+00:00"
+      }
+    },
+    {
+      "headline": "A NYC firehouse was first to respond on 9/11. 25",
+      "bullets": [
+        "Sal Argano got lucky.",
+        "When the World Trade Center was struck by hijacked jets on Sept."
+      ],
+      "summary": "A NYC firehouse was first to respond on 9/11. 25",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "A NYC firehouse was first to respond on 9/11. 25 years on, Sal Argano is the last still on staff",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-firehouse-ten-9-11-sal-argano-last-on-staff/",
+        "published_at": "2026-09-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-09T13:20:10.775416+00:00",
+      "verification": {
+        "article_title": "A NYC firehouse was first to respond on 9/11. 25 years on, Sal Argano is the last still on staff",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-firehouse-ten-9-11-sal-argano-last-on-staff/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-09T13:20:07.685629+00:00"
+      }
+    },
+    {
+      "headline": "25 Years After 9/11: World Trade Center Remembrances",
+      "bullets": [
+        "\u00e2That\u00e2s going to be a good one,\u00e2 said the photographer \u00e2you have the World Trade Center in the background!\u00e2 I remember the words like it was yesterday.",
+        "There was no way of knowing then that the photo Glen Davis was shooting would be among the very last ever taken of the World Trade Center at night."
+      ],
+      "summary": "25 Years After 9/11: World Trade Center Remembrances",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "25 Years After 9/11: World Trade Center Remembrances",
+        "article_url": "https://www.ourtownny.com/voices/25-years-after-9-11-world-trade-center-remembrances-HB6164458",
+        "published_at": "2026-09-08"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-09T13:20:10.895721+00:00",
+      "verification": {
+        "article_title": "25 Years After 9/11: World Trade Center Remembrances",
+        "article_url": "https://www.ourtownny.com/voices/25-years-after-9-11-world-trade-center-remembrances-HB6164458",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-09T13:20:07.942432+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on interest rates, fall activities and Stacy",
+      "bullets": [
+        "Trump needs a refresher in Economics 101 San Francisco: On Sept.",
+        "4, President Trump issued a directive to the Federal Reserve and Chair Kevin Warsh that interest rates had better be lowered or he\u2019ll stop trading with countries the U.S."
+      ],
+      "summary": "Readers sound off on interest rates, fall activities and Stacy",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on interest rates, fall activities and Stacy Keach",
+        "article_url": "https://www.nydailynews.com/2026/09/08/readers-sound-off-on-interest-rates-fall-activities-and-stacy-keach/",
+        "published_at": "2026-09-08"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-09T13:20:11.029930+00:00",
+      "verification": {
+        "article_title": "Readers sound off on interest rates, fall activities and Stacy Keach",
+        "article_url": "https://www.nydailynews.com/2026/09/08/readers-sound-off-on-interest-rates-fall-activities-and-stacy-keach/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-09T13:20:08.292401+00:00"
+      }
+    },
+    {
+      "headline": "Cops catch man drinking at J\u2019Ouvert, find he\u2019s fugitive wanted",
+      "bullets": [
+        "A fugitive in a deadly lounge shootout drank his freedom away Monday, when police caught him boozing at Brooklyn\u2019s J\u2019Ouvert festivities after he\u2019d spent more than a year on the run, authorities said.",
+        "Haile Cummings, 34, disappeared after firing off several shots behind the bar at Taste of the City Lounge in Crown Heights during a wild gang-fueled gunfight that left three dead and 11 wounded on Aug."
+      ],
+      "summary": "Cops catch man drinking at J\u2019Ouvert, find he\u2019s fugitive wanted",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Cops catch man drinking at J\u2019Ouvert, find he\u2019s fugitive wanted in Brooklyn lounge shooting",
+        "article_url": "https://www.nydailynews.com/2026/09/08/fugitive-deadly-2025-brooklyn-lounge-gunfight-caught-drinking-jouvert/",
+        "published_at": "2026-09-08"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-09T13:20:11.146032+00:00",
+      "verification": {
+        "article_title": "Cops catch man drinking at J\u2019Ouvert, find he\u2019s fugitive wanted in Brooklyn lounge shooting",
+        "article_url": "https://www.nydailynews.com/2026/09/08/fugitive-deadly-2025-brooklyn-lounge-gunfight-caught-drinking-jouvert/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-09T13:20:08.533673+00:00"
+      }
+    },
+    {
+      "headline": "Suspect arrested at Newark Airport for killing woman in front",
+      "bullets": [
+        "A fugitive wanted for stabbing a woman to death in front of her 7-year-old son during a barbecue at a Brooklyn park was captured trying to fly out of Newark Liberty International Airport, police said Tuesday.",
+        "Deandre Creary, 25, was extradited to New York City from New Jersey on Tuesday, just over two weeks after Port Authority police at Newark Airport recognized him as a fugitive from justice wanted for the fatal stabbing of 30-year-old Shakeema Davis in Brooklyn\u2019s Lincoln Terrace Park, police said."
+      ],
+      "summary": "Suspect arrested at Newark Airport for killing woman in front",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Suspect arrested at Newark Airport for killing woman in front of her son, 7, at Brooklyn park BBQ",
+        "article_url": "https://www.nydailynews.com/2026/09/08/suspect-arrested-for-stabbing-woman-to-death-in-front-of-her-son-7-at-brooklyn-park-bbq/",
+        "published_at": "2026-09-08T21:59:16+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-09T13:20:11.251205+00:00",
+      "verification": {
+        "article_title": "Suspect arrested at Newark Airport for killing woman in front of her son, 7, at Brooklyn park BBQ",
+        "article_url": "https://www.nydailynews.com/2026/09/08/suspect-arrested-for-stabbing-woman-to-death-in-front-of-her-son-7-at-brooklyn-park-bbq/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-09T13:20:08.777979+00:00"
+      }
+    },
+    {
+      "headline": "Suspect in attack at NYC synagogue to be arraigned on",
+      "bullets": [
+        "The man accused of storming in New York City, shouting antisemitic and racial slurs, is expected to be arraigned in federal court.",
+        "Larry Montes, 46, is due Wednesday in New York Supreme Court in Lower Manhattan."
+      ],
+      "summary": "Suspect in attack at NYC synagogue to be arraigned on",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Suspect in attack at NYC synagogue to be arraigned on federal hate crime charges",
+        "article_url": "https://www.cbsnews.com/newyork/news/synagogue-attack-midtown-nyc-suspect-arraignment-federal-charges/",
+        "published_at": "2026-09-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-09T13:20:11.359232+00:00",
+      "verification": {
+        "article_title": "Suspect in attack at NYC synagogue to be arraigned on federal hate crime charges",
+        "article_url": "https://www.cbsnews.com/newyork/news/synagogue-attack-midtown-nyc-suspect-arraignment-federal-charges/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-09T13:20:09.120902+00:00"
+      }
+    },
+    {
+      "headline": "Holdout in Lindsay Clancy trial said he had reasonable doubt",
+      "bullets": [
+        "PLYMOUTH, Mass.",
+        "-- A lone juror blocked Lindsay Clancy from being acquitted, insisting he wouldn't find her not guilty by reason of insanity despite saying during deliberations that he had reasonable doubt, the jury's foreperson said in a TV interview Tuesday."
+      ],
+      "summary": "Holdout in Lindsay Clancy trial said he had reasonable doubt",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Holdout in Lindsay Clancy trial said he had reasonable doubt but still wouldn't acquit, juror says",
+        "article_url": "https://abc7ny.com/post/lindsay-clancy-juror-interview-holdout-trial-said-he-had-reasonable-doubt-wouldnt-acquit-says-nbc10-boston/19808641/",
+        "published_at": "2026-09-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-09T13:20:11.468313+00:00",
+      "verification": {
+        "article_title": "Holdout in Lindsay Clancy trial said he had reasonable doubt but still wouldn't acquit, juror says",
+        "article_url": "https://abc7ny.com/post/lindsay-clancy-juror-interview-holdout-trial-said-he-had-reasonable-doubt-wouldnt-acquit-says-nbc10-boston/19808641/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-09T13:20:09.243983+00:00"
+      }
+    },
+    {
+      "headline": "After deadly Times Square violence, a bill emerges to better",
+      "bullets": [
+        "New legislation in Albany, spurred in part by recent violence in Times Square, aims to make it easier for healthcare providers, police officers, social workers and other professionals to collaborate and connect needy New Yorkers with housing and other supportive services.",
+        "The bill, introduced by Sen."
+      ],
+      "summary": "After deadly Times Square violence, a bill emerges to better",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "After deadly Times Square violence, a bill emerges to better deliver assistance",
+        "article_url": "https://gothamist.com/news/after-deadly-times-square-violence-a-bill-emerges-to-better-deliver-assistance",
+        "published_at": "2026-09-09T13:00:57+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-09T13:20:11.666203+00:00",
+      "verification": {
+        "article_title": "After deadly Times Square violence, a bill emerges to better deliver assistance",
+        "article_url": "https://gothamist.com/news/after-deadly-times-square-violence-a-bill-emerges-to-better-deliver-assistance",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-09T13:20:09.346666+00:00"
+      }
+    },
+    {
+      "headline": "Archdiocese, Sexual Abuse Plaintiffs Miss Deadline but Settlement Talks Continue",
+      "bullets": [
+        "Archdiocese, Sexual Abuse Plaintiffs Miss Deadline but Settlement Talks Continue The deadline came and went on July 10 in which every plaintiff in the Sex Abuse case against the Archdiocese had to agree to accept terms of an $800 million out -of-court settlement offer.",
+        "The Archdiocese of New York and the lawyers representing about 1,300 victims of sexual abuse busted through the July 10 deadline without a final agreement in the proposed $800 million out-of-court settlement deal, but both sides are still talking."
+      ],
+      "summary": "Archdiocese, Sexual Abuse Plaintiffs Miss Deadline but Settlement Talks Continue",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Archdiocese, Sexual Abuse Plaintiffs Miss Deadline but Settlement Talks Continue",
+        "article_url": "https://www.ourtownny.com/news/archdiocese-sexual-abuse-plaintiffs-miss-deadline-but-settlement-talks-continue-AH6180222",
+        "published_at": "2026-09-08"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-09T13:20:11.826652+00:00",
+      "verification": {
+        "article_title": "Archdiocese, Sexual Abuse Plaintiffs Miss Deadline but Settlement Talks Continue",
+        "article_url": "https://www.ourtownny.com/news/archdiocese-sexual-abuse-plaintiffs-miss-deadline-but-settlement-talks-continue-AH6180222",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-09T13:20:09.455345+00:00"
+      }
+    },
+    {
+      "headline": "How post-9/11 Islamophobia sparked a Muslim political awakening in NYC",
+      "bullets": [
+        "Just a few days after the 9/11 attacks, then-16-year-old Faiza Ali was wearing a hijab at a Rite Aid near her home in Midwood, Brooklyn, when a screaming woman told her to leave.",
+        "The woman pushed Ali's little sister as other customers and a security guard stood by idly."
+      ],
+      "summary": "How post-9/11 Islamophobia sparked a Muslim political awakening in NYC",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "How post-9/11 Islamophobia sparked a Muslim political awakening in NYC",
+        "article_url": "https://gothamist.com/news/how-post-911-islamophobia-sparked-a-muslim-political-awakening-in-nyc",
+        "published_at": "2026-09-08T15:26:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-09T13:20:11.939147+00:00",
+      "verification": {
+        "article_title": "How post-9/11 Islamophobia sparked a Muslim political awakening in NYC",
+        "article_url": "https://gothamist.com/news/how-post-911-islamophobia-sparked-a-muslim-political-awakening-in-nyc",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-09T13:20:09.561077+00:00"
+      }
+    },
+    {
+      "headline": "Ben Shelton stuns Carlos Alcaraz in latest-finishing match in US",
+      "bullets": [
+        "QUEENS, New York City -- Ben Shelton had gone toe-to-toe with Carlos Alcaraz for five exhausting sets and finally at 3:33 a.m.",
+        "Wednesday came the chance to end the U.S."
+      ],
+      "summary": "Ben Shelton stuns Carlos Alcaraz in latest-finishing match in US",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Ben Shelton stuns Carlos Alcaraz in latest-finishing match in US Open history",
+        "article_url": "https://abc7ny.com/post/shelton-ends-alcarazs-title-reign-late-night-marathon-will-face-tiafoe-us-open-semis/19810188/",
+        "published_at": "2026-09-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-09T13:20:12.044967+00:00",
+      "verification": {
+        "article_title": "Ben Shelton stuns Carlos Alcaraz in latest-finishing match in US Open history",
+        "article_url": "https://abc7ny.com/post/shelton-ends-alcarazs-title-reign-late-night-marathon-will-face-tiafoe-us-open-semis/19810188/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-09T13:20:09.671874+00:00"
+      }
+    },
+    {
+      "headline": "US appeals court deals blow to natural gas pipeline running",
+      "bullets": [
+        "A federal appeals court on Tuesday put a halt on the proposed natural gas pipeline running from Pennsylvania through New Jersey and New York, ruling the massive project violates the Garden State\u2019s water-quality standards.",
+        "The ruling by the Third Circuit Court of Appeals negated the New Jersey Department of Environmental Protection\u2019s earlier certification of a key section of the Northeast Supply Enhancement (NESE) pipeline, which includes approximately 10 miles of 26-inch-diameter conduits running through Middlesex County wetlands and offshore under Raritan Bay."
+      ],
+      "summary": "US appeals court deals blow to natural gas pipeline running",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "US appeals court deals blow to natural gas pipeline running through NJ, NY",
+        "article_url": "https://gothamist.com/news/us-appeals-court-deals-blow-to-natural-gas-pipeline-running-through-nj-ny",
+        "published_at": "2026-09-08T20:45:58+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-09T13:20:12.158275+00:00",
+      "verification": {
+        "article_title": "US appeals court deals blow to natural gas pipeline running through NJ, NY",
+        "article_url": "https://gothamist.com/news/us-appeals-court-deals-blow-to-natural-gas-pipeline-running-through-nj-ny",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-09T13:20:09.781954+00:00"
+      }
+    },
+    {
+      "headline": "Why PopUp Bagels appeals on Long Island, where mom-and-pop bagel",
+      "bullets": [
+        "How do you create buzz and success around something so ingrained in the psyche of a location without upsetting the decades-old order of said destination?",
+        "We\u2019re talking about PopUp Bagels, the viral bagel-and-schmear combination that began as a cooking experiment in a Connecticut backyard during the pandemic and is now catching on with Long Islanders."
+      ],
+      "summary": "Why PopUp Bagels appeals on Long Island, where mom-and-pop bagel",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Newsday",
+        "source_level": "local",
+        "article_title": "Why PopUp Bagels appeals on Long Island, where mom-and-pop bagel shops reign",
+        "article_url": "https://www.newsday.com/lifestyle/restaurants/popup-bagels-long-island-qqtq4r1j",
+        "published_at": "2026-09-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-09T13:20:12.277206+00:00",
+      "verification": {
+        "article_title": "Why PopUp Bagels appeals on Long Island, where mom-and-pop bagel shops reign",
+        "article_url": "https://www.newsday.com/lifestyle/restaurants/popup-bagels-long-island-qqtq4r1j",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-09T13:20:09.951341+00:00"
+      }
+    },
+    {
+      "headline": "Three numbers facing N.Y. housing leaders",
+      "bullets": [
+        "Three recent numbers should shape the housing debate in New York City.",
+        "The first is 700,000."
+      ],
+      "summary": "Three numbers facing N.Y. housing leaders",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Three numbers facing N.Y. housing leaders",
+        "article_url": "https://www.nydailynews.com/2026/09/08/three-numbers-facing-n-y-housing-leaders/",
+        "published_at": "2026-09-08"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-09T13:20:12.383919+00:00",
+      "verification": {
+        "article_title": "Three numbers facing N.Y. housing leaders",
+        "article_url": "https://www.nydailynews.com/2026/09/08/three-numbers-facing-n-y-housing-leaders/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-09T13:20:10.092351+00:00"
+      }
+    }
+  ]
+}
