@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-09-10T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-09-10.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "NYC\u2019s 9/11 document release could expand number of people receiving",
+      "bullets": [
+        "Legal experts say the Mamdani administration\u2019s decision to settle two lawsuits against New York City by releasing thousands of documents showing what officials knew about toxins released by the 9/11 attacks is poised to expand the number of people covered by federal benefit programs \u2014 but is unlikely to trigger a flood of new claims against the city.",
+        "Mayor Zohran Mamdani said his administration\u2019s creation of a public portal to allow people to search 170,000 records related to the attacks was the product of perseverance by advocates, \u201cthrough mayoral administration after mayoral administration after mayoral administration after mayoral administration.\u201d He did not cite each of his four predecessors, Rudolph Giuliani, Michael Bloomberg, Bill de Blasio and Eric Adams, by name."
+      ],
+      "summary": "NYC\u2019s 9/11 document release could expand number of people receiving",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC\u2019s 9/11 document release could expand number of people receiving federal benefits",
+        "article_url": "https://gothamist.com/news/nycs-911-document-release-could-expand-number-of-people-receiving-federal-benefits",
+        "published_at": "2026-09-09T20:37:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-10T13:18:01.367408+00:00",
+      "verification": {
+        "article_title": "NYC\u2019s 9/11 document release could expand number of people receiving federal benefits",
+        "article_url": "https://gothamist.com/news/nycs-911-document-release-could-expand-number-of-people-receiving-federal-benefits",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-10T13:17:57.927160+00:00"
+      }
+    },
+    {
+      "headline": "NYPD, Mayor Mamdani reveal security plan ahead of 9/11, Jewish",
+      "bullets": [
+        "While New York City , thousands of Jewish residents will also be heading to synagogues for Rosh Hashanah.",
+        "Both events are on Friday, and security is top of mind for New York leaders."
+      ],
+      "summary": "NYPD, Mayor Mamdani reveal security plan ahead of 9/11, Jewish",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "NYPD, Mayor Mamdani reveal security plan ahead of 9/11, Jewish holidays",
+        "article_url": "https://www.cbsnews.com/newyork/news/zohran-mamdani-nypd-security-plan-911-jewish-holidays/",
+        "published_at": "2026-09-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-10T13:18:01.431925+00:00",
+      "verification": {
+        "article_title": "NYPD, Mayor Mamdani reveal security plan ahead of 9/11, Jewish holidays",
+        "article_url": "https://www.cbsnews.com/newyork/news/zohran-mamdani-nypd-security-plan-911-jewish-holidays/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-10T13:17:58.241743+00:00"
+      }
+    },
+    {
+      "headline": "Key takeaways from Trump's GOP midterm convention speech",
+      "bullets": [
+        "The president urged his supporters to pretend \"I'm on the ballot.\" Once again on his party's biggest stage, President Donald Trump put himself in the center of the midterms, urging his supporters to pretend \"I'm on the ballot\" in a bid to energize the GOP at the party's midterm convention in Dallas.",
+        "\"We're running together,\" Trump said."
+      ],
+      "summary": "Key takeaways from Trump's GOP midterm convention speech",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Key takeaways from Trump's GOP midterm convention speech",
+        "article_url": "https://abc7ny.com/story/key-takeaways-trumps-gop-midterm-convention-speech/19814622/",
+        "published_at": "2026-09-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-10T13:18:01.569493+00:00",
+      "verification": {
+        "article_title": "Key takeaways from Trump's GOP midterm convention speech",
+        "article_url": "https://abc7ny.com/story/key-takeaways-trumps-gop-midterm-convention-speech/19814622/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-10T13:17:58.466558+00:00"
+      }
+    },
+    {
+      "headline": "Trump promises every American adult $5,000 if GOP wins the",
+      "bullets": [
+        "President Donald Trump made a pledge Wednesday to send every American adult a $5,000 \"Trump Dividend\" if Republicans retain control of Congress in November.",
+        "The promise is an extraordinary promise that lacks a clear legal or financial path and would likely cost more than $1 trillion."
+      ],
+      "summary": "Trump promises every American adult $5,000 if GOP wins the",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Trump promises every American adult $5,000 if GOP wins the midterms",
+        "article_url": "https://www.fox5ny.com/news/trump-promises-every-american-adult-5000-gop-wins-midterms",
+        "published_at": "2026-09-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-10T13:18:01.633265+00:00",
+      "verification": {
+        "article_title": "Trump promises every American adult $5,000 if GOP wins the midterms",
+        "article_url": "https://www.fox5ny.com/news/trump-promises-every-american-adult-5000-gop-wins-midterms",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-10T13:17:58.766742+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on 9/11 after 25 years",
+      "bullets": [
+        "Honor who we lost \u2014 and how we responded Cibolo, Texas: Twenty-five years ago, this nation was brought to tears.",
+        "The horrific attacks on Sept."
+      ],
+      "summary": "Readers sound off on 9/11 after 25 years",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on 9/11 after 25 years",
+        "article_url": "https://www.nydailynews.com/2026/09/10/readers-sound-off-on-9-11-after-25-years/",
+        "published_at": "2026-09-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-10T13:18:01.703941+00:00",
+      "verification": {
+        "article_title": "Readers sound off on 9/11 after 25 years",
+        "article_url": "https://www.nydailynews.com/2026/09/10/readers-sound-off-on-9-11-after-25-years/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-10T13:17:59.138620+00:00"
+      }
+    },
+    {
+      "headline": "FDNY \"Ten House\" was the first firehouse to respond on",
+      "bullets": [
+        "FDNY Ten House, home of Engine 10 and Ladder 10, is a small Manhattan firehouse just across an intersection from where the twin towers stood.",
+        "Following the events of 9/11, the firefighters of Ten House have served as both living testimonials to what happened that day and public faces of the centuries-old FDNY."
+      ],
+      "summary": "FDNY \"Ten House\" was the first firehouse to respond on",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "FDNY \"Ten House\" was the first firehouse to respond on 9/11, Sal Argano is the last firefighter still on staff",
+        "article_url": "https://www.fox5ny.com/news/fdny-ten-house-9-11",
+        "published_at": "2026-09-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-10T13:18:01.800500+00:00",
+      "verification": {
+        "article_title": "FDNY \"Ten House\" was the first firehouse to respond on 9/11, Sal Argano is the last firefighter still on staff",
+        "article_url": "https://www.fox5ny.com/news/fdny-ten-house-9-11",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-10T13:17:59.377054+00:00"
+      }
+    },
+    {
+      "headline": "NYC Unveils Expanded Security Plans for 9/11 Anniversary and Rosh",
+      "bullets": [
+        "NEW YORK (WABC) -- New York City officials unveiled security plans for Friday's 25th anniversary commemoration of the Sept.",
+        "11 terror attacks and the start of Rosh Hashanah, with the NYPD increasing deployments across Lower Manhattan and at Jewish institutions throughout the five boroughs."
+      ],
+      "summary": "NYC Unveils Expanded Security Plans for 9/11 Anniversary and Rosh",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "NYC Unveils Expanded Security Plans for 9/11 Anniversary and Rosh Hashanah",
+        "article_url": "https://abc7ny.com/post/new-york-city-officials-outline-security-september-11-anniversary-lower-manhattan/19810940/",
+        "published_at": "2026-09-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-10T13:18:01.875174+00:00",
+      "verification": {
+        "article_title": "NYC Unveils Expanded Security Plans for 9/11 Anniversary and Rosh Hashanah",
+        "article_url": "https://abc7ny.com/post/new-york-city-officials-outline-security-september-11-anniversary-lower-manhattan/19810940/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-10T13:17:59.684390+00:00"
+      }
+    },
+    {
+      "headline": "S.E. Cupp: For Trump, even 9/11 is an opportunity",
+      "bullets": [
+        "There was a reason organizers of the 9/11 ceremony in Manhattan told President Trump he could not speak at this year\u2019s memorial service.",
+        "A good one, it turns out."
+      ],
+      "summary": "S.E. Cupp: For Trump, even 9/11 is an opportunity",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "S.E. Cupp: For Trump, even 9/11 is an opportunity",
+        "article_url": "https://www.nydailynews.com/2026/09/09/s-e-cupp-for-trump-even-9-11-is-an-opportunity/",
+        "published_at": "2026-09-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-10T13:18:01.943622+00:00",
+      "verification": {
+        "article_title": "S.E. Cupp: For Trump, even 9/11 is an opportunity",
+        "article_url": "https://www.nydailynews.com/2026/09/09/s-e-cupp-for-trump-even-9-11-is-an-opportunity/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-10T13:17:59.937325+00:00"
+      }
+    },
+    {
+      "headline": "1 man dead after 2 people stabbed in Hell's Kitchen;",
+      "bullets": [
+        "HELL'S KITCHEN, Manhattan (WABC) -- A person of interest is in police custody after one man was killed and a woman was injured in a stabbing in Hell's Kitchen on Wednesday.",
+        "The stabbings happened inside 440 West 47th St."
+      ],
+      "summary": "1 man dead after 2 people stabbed in Hell's Kitchen;",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "1 man dead after 2 people stabbed in Hell's Kitchen; person of interest in custody",
+        "article_url": "https://abc7ny.com/post/hells-kitchen-stabbing-woman-male-stabbed-west-47th-street-manhattan-police-searching-suspect/19811842/",
+        "published_at": "2026-09-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-10T13:18:02.040356+00:00",
+      "verification": {
+        "article_title": "1 man dead after 2 people stabbed in Hell's Kitchen; person of interest in custody",
+        "article_url": "https://abc7ny.com/post/hells-kitchen-stabbing-woman-male-stabbed-west-47th-street-manhattan-police-searching-suspect/19811842/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-10T13:18:00.195189+00:00"
+      }
+    },
+    {
+      "headline": "\u2018Doctor Who\u2019 actor charged with sexual assault, voyeurism, indecent exposure",
+      "bullets": [
+        "British \u201cDoctor Who\u201d actor Noel Clarke is charged with two counts of sexual assault, three counts of voyeurism and one count of exposure following a string of incidents alleged to have occurred in London between 2007 and 2016.",
+        "Five women accuse the 51-year-old actor of misconduct, according to the British Crown Prosecution Service."
+      ],
+      "summary": "\u2018Doctor Who\u2019 actor charged with sexual assault, voyeurism, indecent exposure",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "\u2018Doctor Who\u2019 actor charged with sexual assault, voyeurism, indecent exposure",
+        "article_url": "https://www.nydailynews.com/2026/09/09/doctor-who-noel-clarke-sexual-assault-voyeurism/",
+        "published_at": "2026-09-09T20:36:47+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-10T13:18:02.101169+00:00",
+      "verification": {
+        "article_title": "\u2018Doctor Who\u2019 actor charged with sexual assault, voyeurism, indecent exposure",
+        "article_url": "https://www.nydailynews.com/2026/09/09/doctor-who-noel-clarke-sexual-assault-voyeurism/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-10T13:18:00.451781+00:00"
+      }
+    },
+    {
+      "headline": "After deadly Times Square violence, a bill emerges to better",
+      "bullets": [
+        "New legislation in Albany, spurred in part by recent violence in Times Square, aims to make it easier for healthcare providers, police officers, social workers and other professionals to collaborate and connect needy New Yorkers with housing and other supportive services.",
+        "The bill, introduced by Sen."
+      ],
+      "summary": "After deadly Times Square violence, a bill emerges to better",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "After deadly Times Square violence, a bill emerges to better deliver assistance",
+        "article_url": "https://gothamist.com/news/after-deadly-times-square-violence-a-bill-emerges-to-better-deliver-assistance",
+        "published_at": "2026-09-09T14:09:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-10T13:18:02.164231+00:00",
+      "verification": {
+        "article_title": "After deadly Times Square violence, a bill emerges to better deliver assistance",
+        "article_url": "https://gothamist.com/news/after-deadly-times-square-violence-a-bill-emerges-to-better-deliver-assistance",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-10T13:18:00.538361+00:00"
+      }
+    },
+    {
+      "headline": "25 Years After 9/11: World Trade Center Remembrances",
+      "bullets": [
+        "\u00e2That\u00e2s going to be a good one,\u00e2 said the photographer \u00e2you have the World Trade Center in the background!\u00e2 I remember the words like it was yesterday.",
+        "There was no way of knowing then that the photo Glen Davis was shooting would be among the very last ever taken of the World Trade Center at night."
+      ],
+      "summary": "25 Years After 9/11: World Trade Center Remembrances",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "25 Years After 9/11: World Trade Center Remembrances",
+        "article_url": "https://www.ourtownny.com/voices/25-years-after-9-11-world-trade-center-remembrances-HB6164458",
+        "published_at": "2026-09-08"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-10T13:18:02.254899+00:00",
+      "verification": {
+        "article_title": "25 Years After 9/11: World Trade Center Remembrances",
+        "article_url": "https://www.ourtownny.com/voices/25-years-after-9-11-world-trade-center-remembrances-HB6164458",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-10T13:18:00.684372+00:00"
+      }
+    },
+    {
+      "headline": "For the children of those killed on 9/11, 25 years",
+      "bullets": [
+        "Michael Gardner was just shy of 5 in 2001 when he lost his dad, Douglas \u201cDoug\u201d Gardner, who worked at Cantor Fitzgerald on one of the top floors of the World Trade Center\u2019s north tower, in the Sept.",
+        "11 attacks."
+      ],
+      "summary": "For the children of those killed on 9/11, 25 years",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "For the children of those killed on 9/11, 25 years later the loss is still very personal",
+        "article_url": "https://www.nydailynews.com/2026/09/10/for-the-children-of-those-killed-on-9-11-25-years-later-the-loss-is-still-very-personal/",
+        "published_at": "2026-09-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-10T13:18:02.315101+00:00",
+      "verification": {
+        "article_title": "For the children of those killed on 9/11, 25 years later the loss is still very personal",
+        "article_url": "https://www.nydailynews.com/2026/09/10/for-the-children-of-those-killed-on-9-11-25-years-later-the-loss-is-still-very-personal/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-10T13:18:00.798518+00:00"
+      }
+    },
+    {
+      "headline": "As NYC's free 2-K begins, childcare providers say they're still",
+      "bullets": [
+        "Hundreds of New York City 2-year-olds will turn out for their first day of free preschool Thursday \u2014 realizing Mayor Zohran Mamdani\u2019s signature policy pledge to deliver more affordable childcare for parents.",
+        "But the debut of 2-K along with a growing number of publicly-funded seats for 3- and 4-year-olds comes amid an ongoing payment crisis, with some providers owed months of funding and others on the brink of closing."
+      ],
+      "summary": "As NYC's free 2-K begins, childcare providers say they're still",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "As NYC's free 2-K begins, childcare providers say they're still waiting to get paid",
+        "article_url": "https://gothamist.com/news/as-nycs-free-2-k-begins-childcare-providers-say-theyre-still-waiting-to-get-paid",
+        "published_at": "2026-09-10T10:00:58+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-10T13:18:02.374661+00:00",
+      "verification": {
+        "article_title": "As NYC's free 2-K begins, childcare providers say they're still waiting to get paid",
+        "article_url": "https://gothamist.com/news/as-nycs-free-2-k-begins-childcare-providers-say-theyre-still-waiting-to-get-paid",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-10T13:18:00.858916+00:00"
+      }
+    },
+    {
+      "headline": "Global temperatures hit record highs as El Ni\u00f1o strengthens: Report",
+      "bullets": [
+        "August global temperatures surpassed highs set in 2023, 2024.",
+        "Global temperatures are once again reaching new records as potentially historic El Ni\u00f1o conditions continue to unfold across the central and eastern equatorial Pacific, according to a report released Wednesday."
+      ],
+      "summary": "Global temperatures hit record highs as El Ni\u00f1o strengthens: Report",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Global temperatures hit record highs as El Ni\u00f1o strengthens: Report",
+        "article_url": "https://abc7ny.com/post/global-temperatures-hit-record-highs-el-nino-strengthens-report/19814797/",
+        "published_at": "2026-09-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-10T13:18:02.436949+00:00",
+      "verification": {
+        "article_title": "Global temperatures hit record highs as El Ni\u00f1o strengthens: Report",
+        "article_url": "https://abc7ny.com/post/global-temperatures-hit-record-highs-el-nino-strengthens-report/19814797/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-10T13:18:00.975354+00:00"
+      }
+    },
+    {
+      "headline": "Mamdani creates 'Office of Worker Power' to help 'improve working",
+      "bullets": [
+        "NEW YORK - New York City is now home to the country's first Office of Worker Power, designed to help workers become \"informed and connected.\" Mayor's Office of Worker Power What we know: The Mayor's Office of Worker Power, launched by Mayor Zohran Mamdani, will aid workers throughout the city build and organize power to \"improve their working conditions and their lives.\" This new office (MOWP) \"will make sure workers have a seat at the table before exploitation becomes a crisis and violations become routine,\" the mayor said when announcing its creation.",
+        "According to the mayor's administration, MOWP will: - convene rank-and-file workers, union leaders, worker centers, immigrant workers, gig workers and platform workers - hold public hearings on significant worker issues - provide referrals to organizations that support workers - coordinate with city agencies to produce research on pressing issues facing workers - develop policy proposals informed by workers\u2019 experiences - engage workers on emerging challenges, including new technologies, worker misclassification, immigration-based exploitation and climate risks to worker safety - connect workers with information about their rights at everyday touchpoints, including workforce centers, libraries, IDNYC offices, schools and community events The Source: This article includes information from Mayor Zohran Mamdani's press release regarding the creation of the Office of Worker Power."
+      ],
+      "summary": "Mamdani creates 'Office of Worker Power' to help 'improve working",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Mamdani creates 'Office of Worker Power' to help 'improve working conditions'",
+        "article_url": "https://www.fox5ny.com/news/nyc-zohran-mamdani-office-worker-power-job-union",
+        "published_at": "2026-09-08"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-10T13:18:02.581912+00:00",
+      "verification": {
+        "article_title": "Mamdani creates 'Office of Worker Power' to help 'improve working conditions'",
+        "article_url": "https://www.fox5ny.com/news/nyc-zohran-mamdani-office-worker-power-job-union",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-10T13:18:01.082598+00:00"
+      }
+    },
+    {
+      "headline": "Coco Gauff rallies to reach the U.S. Open semifinals against",
+      "bullets": [
+        "Coco Gauff fought off a couple match points in a tiebreaker and beat Mirra Andreeva 2-6, 7-6 (7), 6-2 on Wednesday to set up a U.S.",
+        "Open semifinal matchup against new No."
+      ],
+      "summary": "Coco Gauff rallies to reach the U.S. Open semifinals against",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Coco Gauff rallies to reach the U.S. Open semifinals against new women\u2019s No. 1 Elena Rybakina",
+        "article_url": "https://www.nydailynews.com/2026/09/09/coco-gauff-us-open-semifinals-elena-rybakina/",
+        "published_at": "2026-09-09T23:26:52+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-10T13:18:02.646083+00:00",
+      "verification": {
+        "article_title": "Coco Gauff rallies to reach the U.S. Open semifinals against new women\u2019s No. 1 Elena Rybakina",
+        "article_url": "https://www.nydailynews.com/2026/09/09/coco-gauff-us-open-semifinals-elena-rybakina/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-10T13:18:01.142568+00:00"
+      }
+    },
+    {
+      "headline": "\u2018Assume there\u2019s a camera now\u2019: How 9/11 spurred NYC\u2019s vast",
+      "bullets": [
+        "Joseph Pascarella expected more pushback from the public.",
+        "As a former NYPD captain, he responded to Ground Zero after the Sept."
+      ],
+      "summary": "\u2018Assume there\u2019s a camera now\u2019: How 9/11 spurred NYC\u2019s vast",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "\u2018Assume there\u2019s a camera now\u2019: How 9/11 spurred NYC\u2019s vast private surveillance network",
+        "article_url": "https://gothamist.com/news/assume-theres-a-camera-now-how-911-spurred-nycs-vast-private-surveillance-network",
+        "published_at": "2026-09-10T10:30:55+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-10T13:18:02.720039+00:00",
+      "verification": {
+        "article_title": "\u2018Assume there\u2019s a camera now\u2019: How 9/11 spurred NYC\u2019s vast private surveillance network",
+        "article_url": "https://gothamist.com/news/assume-theres-a-camera-now-how-911-spurred-nycs-vast-private-surveillance-network",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:402 Client Error: Payment Required for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-10T13:18:01.203383+00:00"
+      }
+    }
+  ]
+}
