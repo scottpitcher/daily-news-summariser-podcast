@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-09-14T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-09-14.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Readers sound off on protecting data privacy, Dante\u2019s writings and",
+      "bullets": [
+        "The retail lobby\u2019s selling us out to DHS Manhattan: Re \u201cOrganized retail crime can be stopped\u201d (op-ed, Aug.",
+        "8): A coordinated effort from the retail lobby across the country and in New York openly advocates for the Combatting Organized Retail Theft Act, or CORCA."
+      ],
+      "summary": "Readers sound off on protecting data privacy, Dante\u2019s writings and",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on protecting data privacy, Dante\u2019s writings and the 9/11 ceremony",
+        "article_url": "https://www.nydailynews.com/2026/09/14/readers-sound-off-on-protecting-data-privacy-dantes-writings-and-the-9-11-ceremony/",
+        "published_at": "2026-09-14"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-14T15:34:12.715284+00:00",
+      "verification": {
+        "article_title": "Readers sound off on protecting data privacy, Dante\u2019s writings and the 9/11 ceremony",
+        "article_url": "https://www.nydailynews.com/2026/09/14/readers-sound-off-on-protecting-data-privacy-dantes-writings-and-the-9-11-ceremony/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-14T15:34:11.184193+00:00"
+      }
+    },
+    {
+      "headline": "New warnings about the risks of AI to humanity revive",
+      "bullets": [
+        "SAN FRANCISCO -- New warnings from within the artificial intelligence industry have revived a long-running debate over whether advanced AI could escape human control and ultimately threaten humanity's survival, and whether the companies developing the technology are doing enough to prevent such a scenario.",
+        "The CEO of Anthropic, the San Francisco company behind Claude, said he thought the industry needed to reduce the speed of its work, cautioning Saturday that a swarm of AI agents might be able to take over the internet in six months to a year unless companies devoted more time to putting safeguards in place."
+      ],
+      "summary": "New warnings about the risks of AI to humanity revive",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "New warnings about the risks of AI to humanity revive a long-running debate",
+        "article_url": "https://abc7ny.com/post/new-warnings-openai-anthropic-ceos-risks-ai-humanity-revive-long-running-debate/19829686/",
+        "published_at": "2026-09-14"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-14T15:34:12.773752+00:00",
+      "verification": {
+        "article_title": "New warnings about the risks of AI to humanity revive a long-running debate",
+        "article_url": "https://abc7ny.com/post/new-warnings-openai-anthropic-ceos-risks-ai-humanity-revive-long-running-debate/19829686/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-14T15:34:11.289029+00:00"
+      }
+    },
+    {
+      "headline": "Mayor Mamdani still waiting on federal security clearance 8 months",
+      "bullets": [
+        "Since taking office, Mayor Zohran Mamdani has faced threats on his life, a botched terror attack outside of Gracie Mansion and global upheaval caused by wars in the Middle East.",
+        "But after eight months, Mamdani is still waiting to be approved for a high-level security clearance from the federal government."
+      ],
+      "summary": "Mayor Mamdani still waiting on federal security clearance 8 months",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Mayor Mamdani still waiting on federal security clearance 8 months into office",
+        "article_url": "https://gothamist.com/news/mayor-mamdani-still-waiting-on-federal-security-clearance-8-months-into-office",
+        "published_at": "2026-09-14T10:30:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-14T15:34:12.831331+00:00",
+      "verification": {
+        "article_title": "Mayor Mamdani still waiting on federal security clearance 8 months into office",
+        "article_url": "https://gothamist.com/news/mayor-mamdani-still-waiting-on-federal-security-clearance-8-months-into-office",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-14T15:34:11.353794+00:00"
+      }
+    },
+    {
+      "headline": "Luigi Mangione 'fangirls' could have press passes revoked under new",
+      "bullets": [
+        "NEW YORK CITY - New York City officials are moving to close a loophole that allowed self-described \"Mangionistas\" to obtain and flaunt official city press credentials.",
+        "In response to Luigi Mangione's supporters accessing restricted areas and acting as advocates during the murder suspect's latest court appearance, the City Council has introduced a bill designed to make it much easier to revoke abused press passes."
+      ],
+      "summary": "Luigi Mangione 'fangirls' could have press passes revoked under new",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Luigi Mangione 'fangirls' could have press passes revoked under new NYC bill",
+        "article_url": "https://www.fox5ny.com/news/luigi-mangione-fangirls-could-have-press-passes-revoked-under-new-nyc-bill",
+        "published_at": "2026-09-14"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-14T15:34:12.906430+00:00",
+      "verification": {
+        "article_title": "Luigi Mangione 'fangirls' could have press passes revoked under new NYC bill",
+        "article_url": "https://www.fox5ny.com/news/luigi-mangione-fangirls-could-have-press-passes-revoked-under-new-nyc-bill",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-14T15:34:11.463184+00:00"
+      }
+    },
+    {
+      "headline": "9/11 Photographer Recalls Three Iconic Shots Taken Amid Chaos",
+      "bullets": [
+        "9/11 Photographer Recalls Three Iconic Shots Taken Amid Chaos Award winning photographer Shannon Stapleton captured three of the most iconic images to emerge on 9/11, none more famous than the one of Father Mychal Judge.",
+        "Sometimes a roll of the dice is the difference between life and death."
+      ],
+      "summary": "9/11 Photographer Recalls Three Iconic Shots Taken Amid Chaos",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "9/11 Photographer Recalls Three Iconic Shots Taken Amid Chaos",
+        "article_url": "https://www.ourtownny.com/news/9-11-photographer-recalls-three-iconic-shots-taken-amid-chaos-LL6184841",
+        "published_at": "2026-09-12"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-14T15:34:12.969607+00:00",
+      "verification": {
+        "article_title": "9/11 Photographer Recalls Three Iconic Shots Taken Amid Chaos",
+        "article_url": "https://www.ourtownny.com/news/9-11-photographer-recalls-three-iconic-shots-taken-amid-chaos-LL6184841",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-14T15:34:11.597535+00:00"
+      }
+    },
+    {
+      "headline": "AI safety debate intensifies after new warnings from tech leaders",
+      "bullets": [
+        "MANHATTAN (WABC) -- Artificial intelligence leaders are warning that the race to develop increasingly powerful AI systems may be moving too quickly, prompting renewed calls for government oversight and industry safeguards.",
+        "The latest alarm came from Anthropic CEO Dario Amodei, who argued in an essay published over the weekend that AI companies should slow the pace of development to give safety measures time to catch up."
+      ],
+      "summary": "AI safety debate intensifies after new warnings from tech leaders",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "AI safety debate intensifies after new warnings from tech leaders",
+        "article_url": "https://abc7ny.com/post/ai-safety-warnings-grow-new-york-officials-weigh-oversight/19829037/",
+        "published_at": "2026-09-14"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-14T15:34:13.042581+00:00",
+      "verification": {
+        "article_title": "AI safety debate intensifies after new warnings from tech leaders",
+        "article_url": "https://abc7ny.com/post/ai-safety-warnings-grow-new-york-officials-weigh-oversight/19829037/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-14T15:34:11.711744+00:00"
+      }
+    },
+    {
+      "headline": "Newly Opened Records Show Fears Over Air Quality After 9/11",
+      "bullets": [
+        "Newly Opened Records Show Fears Over Air Quality After 9/11 Attacks Mayor Mamdani is making public a trove of previously withheld city documents related to air quality and health concerns after the attack on the World Trade Center.",
+        "This story was originally published by THE CITY."
+      ],
+      "summary": "Newly Opened Records Show Fears Over Air Quality After 9/11",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Newly Opened Records Show Fears Over Air Quality After 9/11 Attacks",
+        "article_url": "https://www.ourtownny.com/news/newly-opened-records-show-fears-over-air-quality-after-9-11-attacks-YM6187526",
+        "published_at": "2026-09-11"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-14T15:34:13.114111+00:00",
+      "verification": {
+        "article_title": "Newly Opened Records Show Fears Over Air Quality After 9/11 Attacks",
+        "article_url": "https://www.ourtownny.com/news/newly-opened-records-show-fears-over-air-quality-after-9-11-attacks-YM6187526",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-14T15:34:11.771446+00:00"
+      }
+    },
+    {
+      "headline": "Family of slain Washington Heights woman erupts in court, demands",
+      "bullets": [
+        "The family of murdered Manhattan mom Lovay Williams exploded with rage after seeing her alleged killer in Manhattan criminal court, cursing him and demanding he be put to death in a chaotic scene Sunday afternoon.",
+        "\u201cYour honor, give him the gas chamber!\u201d Williams\u2019 father, NuQuan Williams, bellowed just after 41-year-old Tiliek Thompson was led from the courtroom and back to a holding cell."
+      ],
+      "summary": "Family of slain Washington Heights woman erupts in court, demands",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Family of slain Washington Heights woman erupts in court, demands \u2018gas chamber\u2019",
+        "article_url": "https://www.nydailynews.com/2026/09/13/lovay-williams-murder-washington-heights-arraignment-arrest/",
+        "published_at": "2026-09-13T22:30:33+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-14T15:34:13.175788+00:00",
+      "verification": {
+        "article_title": "Family of slain Washington Heights woman erupts in court, demands \u2018gas chamber\u2019",
+        "article_url": "https://www.nydailynews.com/2026/09/13/lovay-williams-murder-washington-heights-arraignment-arrest/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-14T15:34:11.857539+00:00"
+      }
+    },
+    {
+      "headline": "Ex-Met Pete Alonso not \u2018hurt or slighted\u2019 ahead of return",
+      "bullets": [
+        "BALTIMORE \u2014 The thing you have to understand about Baltimore is that it\u2019s always been on the cusp of greatness.",
+        "It always feels as though the renaissance is coming, but every time Baltimore rises, it falls."
+      ],
+      "summary": "Ex-Met Pete Alonso not \u2018hurt or slighted\u2019 ahead of return",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Ex-Met Pete Alonso not \u2018hurt or slighted\u2019 ahead of return to Citi Field with Orioles",
+        "article_url": "https://www.nydailynews.com/2026/09/14/pete-alonso-returns-to-citi-field-with-the-orioles/",
+        "published_at": "2026-09-14T15:22:32+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-14T15:34:13.236824+00:00",
+      "verification": {
+        "article_title": "Ex-Met Pete Alonso not \u2018hurt or slighted\u2019 ahead of return to Citi Field with Orioles",
+        "article_url": "https://www.nydailynews.com/2026/09/14/pete-alonso-returns-to-citi-field-with-the-orioles/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-14T15:34:11.920404+00:00"
+      }
+    },
+    {
+      "headline": "Two men killed in Brooklyn playground shooting were anti-gun violence",
+      "bullets": [
+        "The two men who were fatally shot at a Brooklyn playground were childhood friends who became anti-gun violence activists, heartbroken family and friends of the victims told the Daily News.",
+        "Antoine Utsey, 35, visited the NYCHA Howard Houses on Friday to catch up with family members and long-time pal Deon Miller, 33."
+      ],
+      "summary": "Two men killed in Brooklyn playground shooting were anti-gun violence",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Two men killed in Brooklyn playground shooting were anti-gun violence workers",
+        "article_url": "https://www.nydailynews.com/2026/09/13/two-men-killed-in-brooklyn-playground-shooting-were-anti-gun-violence-workers/",
+        "published_at": "2026-09-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-14T15:34:13.324847+00:00",
+      "verification": {
+        "article_title": "Two men killed in Brooklyn playground shooting were anti-gun violence workers",
+        "article_url": "https://www.nydailynews.com/2026/09/13/two-men-killed-in-brooklyn-playground-shooting-were-anti-gun-violence-workers/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-14T15:34:12.004595+00:00"
+      }
+    },
+    {
+      "headline": "Yankee Stadium cooling tower tests positive for Legionella, NYC says",
+      "bullets": [
+        "A cooling tower at Yankee Stadium was among 10 in the South Bronx that preliminarily tested positive for Legionella bacteria amid an outbreak of Legionnaires\u2019 disease that has killed one person and sickened eight others, city health officials said Sunday.",
+        "The city Department of Health ordered all 10 cooling towers to be cleaned and disinfected by Monday, Sept."
+      ],
+      "summary": "Yankee Stadium cooling tower tests positive for Legionella, NYC says",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Yankee Stadium cooling tower tests positive for Legionella, NYC says",
+        "article_url": "https://gothamist.com/news/yankee-stadium-cooling-tower-tests-positive-for-legionella-nyc-says",
+        "published_at": "2026-09-14T01:14:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-14T15:34:13.385645+00:00",
+      "verification": {
+        "article_title": "Yankee Stadium cooling tower tests positive for Legionella, NYC says",
+        "article_url": "https://gothamist.com/news/yankee-stadium-cooling-tower-tests-positive-for-legionella-nyc-says",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-14T15:34:12.112215+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on protecting data privacy, Dante\u2019s writings and",
+      "bullets": [
+        "The retail lobby\u2019s selling us out to DHS Manhattan: Re \u201cOrganized retail crime can be stopped\u201d (op-ed, Aug.",
+        "8): A coordinated effort from the retail lobby across the country and in New York openly advocates for the Combatting Organized Retail Theft Act, or CORCA."
+      ],
+      "summary": "Readers sound off on protecting data privacy, Dante\u2019s writings and",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on protecting data privacy, Dante\u2019s writings and the 9/11 ceremony",
+        "article_url": "https://www.nydailynews.com/2026/09/14/readers-sound-off-on-protecting-data-privacy-dantes-writings-and-the-9-11-ceremony/",
+        "published_at": "2026-09-14"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-14T15:34:13.447992+00:00",
+      "verification": {
+        "article_title": "Readers sound off on protecting data privacy, Dante\u2019s writings and the 9/11 ceremony",
+        "article_url": "https://www.nydailynews.com/2026/09/14/readers-sound-off-on-protecting-data-privacy-dantes-writings-and-the-9-11-ceremony/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-14T15:34:12.172266+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: 3rd Annual Step Up For Fashion on Madison",
+      "bullets": [
+        "CFDA and Madison Avenue B.I.D.",
+        "Host 3rd Annual Step Up for Fashion on Madison Avenue Benefiting the CFDA Scholarship Fund Saturday, September 19."
+      ],
+      "summary": "Local Event: 3rd Annual Step Up For Fashion on Madison",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: 3rd Annual Step Up For Fashion on Madison Avenue",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260919/c34618ef-3fe0-413c-9d6d-b65b805e25f7/3rd-annual-step-up-for-fashion-on-madison-avenue",
+        "published_at": "2026-09-20T02:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-14T15:34:13.507851+00:00",
+      "verification": {
+        "article_title": "Local Event: 3rd Annual Step Up For Fashion on Madison Avenue",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260919/c34618ef-3fe0-413c-9d6d-b65b805e25f7/3rd-annual-step-up-for-fashion-on-madison-avenue",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-14T15:34:12.230770+00:00"
+      }
+    },
+    {
+      "headline": "UWS Stabber Indicted for Attempted Murder, Antisemitic Hate Crimes",
+      "bullets": [
+        "UWS Stabber Indicted for Attempted Murder, Antisemitic Hate Crimes Within the space of 12 minutes on July 23, two men were stabbed near synagogues on the Upper West Side.",
+        "Manhattan DA Alvin Bragg says he has evidence proving the suspect harbored anti-Jewish sentiments."
+      ],
+      "summary": "UWS Stabber Indicted for Attempted Murder, Antisemitic Hate Crimes",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "UWS Stabber Indicted for Attempted Murder, Antisemitic Hate Crimes",
+        "article_url": "https://www.ourtownny.com/news/uws-stabber-indicted-for-attempted-murder-antisemitic-hate-crimes-FK6185766",
+        "published_at": "2026-09-12"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-14T15:34:13.598683+00:00",
+      "verification": {
+        "article_title": "UWS Stabber Indicted for Attempted Murder, Antisemitic Hate Crimes",
+        "article_url": "https://www.ourtownny.com/news/uws-stabber-indicted-for-attempted-murder-antisemitic-hate-crimes-FK6185766",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-14T15:34:12.291672+00:00"
+      }
+    },
+    {
+      "headline": "Sunday's early downpours cause flooding headaches in parts of the",
+      "bullets": [
+        "Waterlogged cars and flooded basements caused by flash flooding proved a problem for many in Paterson, New Jersey, on Sunday morning.",
+        "Those living on 11th Avenue and 25th Street dealt with heavy rain coming down so fast, there wasn't enough time to move out all the cars in time."
+      ],
+      "summary": "Sunday's early downpours cause flooding headaches in parts of the",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Sunday's early downpours cause flooding headaches in parts of the Tri-State Area",
+        "article_url": "https://www.cbsnews.com/newyork/news/flash-flooding-paterson-new-jersey-westport-connecticut/",
+        "published_at": "2026-09-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-14T15:34:13.658468+00:00",
+      "verification": {
+        "article_title": "Sunday's early downpours cause flooding headaches in parts of the Tri-State Area",
+        "article_url": "https://www.cbsnews.com/newyork/news/flash-flooding-paterson-new-jersey-westport-connecticut/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-14T15:34:12.357084+00:00"
+      }
+    },
+    {
+      "headline": "Alexander Zverev beats Ben Shelton to win the US Open",
+      "bullets": [
+        "QUEENS -- Alexander Zverev won his second major championship and kept American men without a Grand Slam title since 2003, beating Ben Shelton 6-3, 7-6 (2), 5-7, 6-2 on Sunday in the US Open.",
+        "Zverev finally broke through in the majors by winning this year's French Open and followed up by finally adding the title in New York that he so painfully let slip away in 2020."
+      ],
+      "summary": "Alexander Zverev beats Ben Shelton to win the US Open",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Alexander Zverev beats Ben Shelton to win the US Open title and extend a drought by American men",
+        "article_url": "https://abc7ny.com/post/alexander-zverev-beats-ben-shelton-sets-us-open-final/19827380/",
+        "published_at": "2026-09-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-14T15:34:13.721053+00:00",
+      "verification": {
+        "article_title": "Alexander Zverev beats Ben Shelton to win the US Open title and extend a drought by American men",
+        "article_url": "https://abc7ny.com/post/alexander-zverev-beats-ben-shelton-sets-us-open-final/19827380/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-14T15:34:12.417035+00:00"
+      }
+    },
+    {
+      "headline": "Sunday's early downpours cause flooding headaches in parts of the",
+      "bullets": [
+        "Waterlogged cars and flooded basements caused by flash flooding proved a problem for many in Paterson, New Jersey, on Sunday morning.",
+        "Those living on 11th Avenue and 25th Street dealt with heavy rain coming down so fast, there wasn't enough time to move out all the cars in time."
+      ],
+      "summary": "Sunday's early downpours cause flooding headaches in parts of the",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Sunday's early downpours cause flooding headaches in parts of the Tri-State Area",
+        "article_url": "https://www.cbsnews.com/newyork/news/flash-flooding-paterson-new-jersey-westport-connecticut/",
+        "published_at": "2026-09-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-14T15:34:13.781860+00:00",
+      "verification": {
+        "article_title": "Sunday's early downpours cause flooding headaches in parts of the Tri-State Area",
+        "article_url": "https://www.cbsnews.com/newyork/news/flash-flooding-paterson-new-jersey-westport-connecticut/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-14T15:34:12.512910+00:00"
+      }
+    },
+    {
+      "headline": "10 Slimming And Affordable Shapewear Alternatives To Skims And Yitty",
+      "bullets": [
+        "If the words that come to mind when thinking about shapewear include uncomfortable or suffocating, you\u2019re not alone.",
+        "While shapewear has justifiably received its reputation, the past few years have proven that change is possible, even for undergarments."
+      ],
+      "summary": "10 Slimming And Affordable Shapewear Alternatives To Skims And Yitty",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "10 Slimming And Affordable Shapewear Alternatives To Skims And Yitty",
+        "article_url": "https://www.nydailynews.com/2026/09/14/10-slimming-and-affordable-shapewear-alternatives-to-skims-and-yitty/",
+        "published_at": "2026-09-14"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-14T15:34:13.848689+00:00",
+      "verification": {
+        "article_title": "10 Slimming And Affordable Shapewear Alternatives To Skims And Yitty",
+        "article_url": "https://www.nydailynews.com/2026/09/14/10-slimming-and-affordable-shapewear-alternatives-to-skims-and-yitty/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-14T15:34:12.593400+00:00"
+      }
+    }
+  ]
+}
