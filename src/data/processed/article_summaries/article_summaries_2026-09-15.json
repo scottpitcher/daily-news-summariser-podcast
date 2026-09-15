@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-09-15T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-09-15.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Readers sound off on public servant misconduct, election cheating and",
+      "bullets": [
+        "Where\u2019s accountability for NYC officials?",
+        "Kearny, N.J.: Now that it\u2019s finally been revealed that city officials knew about the dangers of the toxic air at Ground Zero right after 9/11 but kept that knowledge from those who engaged in recovery efforts and those who lived and worked downtown, when can we expect to see the four mayors, corporation counsels and environmental commissioners who covered that up and lied about it for 25 years criminally charged, stripped of their pensions and benefits and sent to jail?"
+      ],
+      "summary": "Readers sound off on public servant misconduct, election cheating and",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on public servant misconduct, election cheating and AI advances",
+        "article_url": "https://www.nydailynews.com/2026/09/15/readers-sound-off-on-public-servant-misconduct-election-cheating-and-ai-advances/",
+        "published_at": "2026-09-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-15T14:06:52.532055+00:00",
+      "verification": {
+        "article_title": "Readers sound off on public servant misconduct, election cheating and AI advances",
+        "article_url": "https://www.nydailynews.com/2026/09/15/readers-sound-off-on-public-servant-misconduct-election-cheating-and-ai-advances/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-15T14:06:51.103555+00:00"
+      }
+    },
+    {
+      "headline": "NYC, state file lawsuits to block Trump rule tying green",
+      "bullets": [
+        "The Trump administration\u2019s plan to put green cards out of reach for immigrants who use public benefits could have fatal consequences by deterring those in need from using vital services they\u2019re eligible for, Mayor Mamdani said Monday as he and New York Attorney General Tish James filed a set of lawsuits in Manhattan targeting the new measures.",
+        "The Manhattan Federal Court cases brought by a coalition of 22 states and a half-dozen cities and counties seek to stop the federal government\u2019s \u201cpublic charge\u201d rule change from taking effect this Friday."
+      ],
+      "summary": "NYC, state file lawsuits to block Trump rule tying green",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYC, state file lawsuits to block Trump rule tying green card eligibility to public benefit use",
+        "article_url": "https://www.nydailynews.com/2026/09/14/mamdani-james-filing-lawsuits-to-stop-trump-rule-targeting-immigrants-using-public-benefits/",
+        "published_at": "2026-09-15T00:49:53+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-15T14:06:52.601977+00:00",
+      "verification": {
+        "article_title": "NYC, state file lawsuits to block Trump rule tying green card eligibility to public benefit use",
+        "article_url": "https://www.nydailynews.com/2026/09/14/mamdani-james-filing-lawsuits-to-stop-trump-rule-targeting-immigrants-using-public-benefits/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-15T14:06:51.219950+00:00"
+      }
+    },
+    {
+      "headline": "Best Arctic Fox product at Ulta Beauty",
+      "bullets": [
+        "Which Arctic Fox product at Ulta Beauty is best?",
+        "Ulta Beauty has a wide selection of well-known beauty brands, and that includes hair products from Arctic Fox."
+      ],
+      "summary": "Best Arctic Fox product at Ulta Beauty",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Best Arctic Fox product at Ulta Beauty",
+        "article_url": "https://www.nydailynews.com/2026/09/15/best-arctic-fox-product-at-ulta-beauty/",
+        "published_at": "2026-09-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-15T14:06:52.649449+00:00",
+      "verification": {
+        "article_title": "Best Arctic Fox product at Ulta Beauty",
+        "article_url": "https://www.nydailynews.com/2026/09/15/best-arctic-fox-product-at-ulta-beauty/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-15T14:06:51.362745+00:00"
+      }
+    },
+    {
+      "headline": "Luigi Mangione 'fangirls' could have press passes revoked under new",
+      "bullets": [
+        "NEW YORK CITY - New York City officials are moving to close a loophole that allowed self-described \"Mangionistas\" to obtain and flaunt official city press credentials.",
+        "In response to Luigi Mangione's supporters accessing restricted areas and acting as advocates during the murder suspect's latest court appearance, the City Council has introduced a bill designed to make it much easier to revoke abused press passes."
+      ],
+      "summary": "Luigi Mangione 'fangirls' could have press passes revoked under new",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Luigi Mangione 'fangirls' could have press passes revoked under new NYC bill",
+        "article_url": "https://www.fox5ny.com/news/luigi-mangione-fangirls-could-have-press-passes-revoked-under-new-nyc-bill",
+        "published_at": "2026-09-14"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-15T14:06:52.696329+00:00",
+      "verification": {
+        "article_title": "Luigi Mangione 'fangirls' could have press passes revoked under new NYC bill",
+        "article_url": "https://www.fox5ny.com/news/luigi-mangione-fangirls-could-have-press-passes-revoked-under-new-nyc-bill",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-15T14:06:51.474298+00:00"
+      }
+    },
+    {
+      "headline": "Federal Reserve is expected to raise its benchmark rate, defying",
+      "bullets": [
+        "WASHINGTON -- The Federal Reserve is widely expected to lift its short-term interest rate Wednesday for the first time in three years to fight stubbornly high inflation, a move that would put the central bank at odds with President Donald Trump's support for a cut.",
+        "A quarter-point increase in the Fed's rate, currently about 3.6%, isn't guaranteed because Fed Chair Kevin Warsh doesn't provide the signals about next moves that his predecessors did."
+      ],
+      "summary": "Federal Reserve is expected to raise its benchmark rate, defying",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Federal Reserve is expected to raise its benchmark rate, defying Trump's demands",
+        "article_url": "https://abc7ny.com/story/federal-reserve-is-expected-raise-benchmark-rate-defying-trumps-demands/19834498/",
+        "published_at": "2026-09-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-15T14:06:52.747579+00:00",
+      "verification": {
+        "article_title": "Federal Reserve is expected to raise its benchmark rate, defying Trump's demands",
+        "article_url": "https://abc7ny.com/story/federal-reserve-is-expected-raise-benchmark-rate-defying-trumps-demands/19834498/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-15T14:06:51.516995+00:00"
+      }
+    },
+    {
+      "headline": "Small businesses need crypto clarity",
+      "bullets": [
+        "Today the Senate will vote on the Digital Asset Market Clarity Act, and the stakes reach from Wall Street to Main Street.",
+        "My wife and I started Prevail Coffee to create value for our community, provide good jobs, and earn enough to give our family a measure of security and comfort."
+      ],
+      "summary": "Small businesses need crypto clarity",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Small businesses need crypto clarity",
+        "article_url": "https://www.nydailynews.com/2026/09/15/small-businesses-need-crypto-clarity/",
+        "published_at": "2026-09-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-15T14:06:52.793627+00:00",
+      "verification": {
+        "article_title": "Small businesses need crypto clarity",
+        "article_url": "https://www.nydailynews.com/2026/09/15/small-businesses-need-crypto-clarity/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-15T14:06:51.584249+00:00"
+      }
+    },
+    {
+      "headline": "9/11 Photographer Recalls Three Iconic Shots Taken Amid Chaos",
+      "bullets": [
+        "9/11 Photographer Recalls Three Iconic Shots Taken Amid Chaos Award winning photographer Shannon Stapleton captured three of the most iconic images to emerge on 9/11, none more famous than the one of Father Mychal Judge.",
+        "Sometimes a roll of the dice is the difference between life and death."
+      ],
+      "summary": "9/11 Photographer Recalls Three Iconic Shots Taken Amid Chaos",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "9/11 Photographer Recalls Three Iconic Shots Taken Amid Chaos",
+        "article_url": "https://www.ourtownny.com/news/9-11-photographer-recalls-three-iconic-shots-taken-amid-chaos-LL6184841",
+        "published_at": "2026-09-12"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-15T14:06:52.837512+00:00",
+      "verification": {
+        "article_title": "9/11 Photographer Recalls Three Iconic Shots Taken Amid Chaos",
+        "article_url": "https://www.ourtownny.com/news/9-11-photographer-recalls-three-iconic-shots-taken-amid-chaos-LL6184841",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-15T14:06:51.713926+00:00"
+      }
+    },
+    {
+      "headline": "12 Best Action Figures On Amazon",
+      "bullets": [
+        "Which action figures on Amazon are best?",
+        "The inspiration for the first action figures came from toy makers trying to recreate the success of the Barbie doll."
+      ],
+      "summary": "12 Best Action Figures On Amazon",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "12 Best Action Figures On Amazon",
+        "article_url": "https://www.nydailynews.com/2026/09/14/12-best-action-figures-on-amazon/",
+        "published_at": "2026-09-14"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-15T14:06:52.885170+00:00",
+      "verification": {
+        "article_title": "12 Best Action Figures On Amazon",
+        "article_url": "https://www.nydailynews.com/2026/09/14/12-best-action-figures-on-amazon/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-15T14:06:51.778262+00:00"
+      }
+    },
+    {
+      "headline": "Young man and woman killed by NYC subway train after",
+      "bullets": [
+        "A young man and woman were crushed to death by an oncoming train in a lower Manhattan subway station \u2014 apparently after one of them fell onto the tracks and the other jumped off the platform to help, transit sources said Monday.",
+        "The woman was laughing and pulling the man toward her when they were run over by a downtown No."
+      ],
+      "summary": "Young man and woman killed by NYC subway train after",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Young man and woman killed by NYC subway train after one falls to tracks and other tries to help",
+        "article_url": "https://www.nydailynews.com/2026/09/14/young-man-and-woman-sit-down-together-on-manhattan-subway-tracks-killed-by-train/",
+        "published_at": "2026-09-15T01:34:17+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-15T14:06:52.954120+00:00",
+      "verification": {
+        "article_title": "Young man and woman killed by NYC subway train after one falls to tracks and other tries to help",
+        "article_url": "https://www.nydailynews.com/2026/09/14/young-man-and-woman-sit-down-together-on-manhattan-subway-tracks-killed-by-train/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-15T14:06:51.849661+00:00"
+      }
+    },
+    {
+      "headline": "Florida woman tosses bucket of feces on neighbor in love",
+      "bullets": [
+        "A Florida woman was arrested after authorities say a lover\u2019s triangle led to her tossing a bucket of feces on a woman she accused of sleeping with her husband.",
+        "The backstory: Police say the women are neighbors in adjoining portions of a split trailer."
+      ],
+      "summary": "Florida woman tosses bucket of feces on neighbor in love",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Florida woman tosses bucket of feces on neighbor in love triangle: court records",
+        "article_url": "https://www.fox5ny.com/news/florida-woman-tosses-bucket-feces-neighbor-lovers-triangle-court-records",
+        "published_at": "2026-09-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-15T14:06:52.997874+00:00",
+      "verification": {
+        "article_title": "Florida woman tosses bucket of feces on neighbor in love triangle: court records",
+        "article_url": "https://www.fox5ny.com/news/florida-woman-tosses-bucket-feces-neighbor-lovers-triangle-court-records",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-15T14:06:51.982724+00:00"
+      }
+    },
+    {
+      "headline": "NYC, state file lawsuits to block Trump rule tying green",
+      "bullets": [
+        "The Trump administration\u2019s plan to put green cards out of reach for immigrants who use public benefits could have fatal consequences by deterring those in need from using vital services they\u2019re eligible for, Mayor Mamdani said Monday as he and New York Attorney General Tish James filed a set of lawsuits in Manhattan targeting the new measures.",
+        "The Manhattan Federal Court cases brought by a coalition of 22 states and a half-dozen cities and counties seek to stop the federal government\u2019s \u201cpublic charge\u201d rule change from taking effect this Friday."
+      ],
+      "summary": "NYC, state file lawsuits to block Trump rule tying green",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYC, state file lawsuits to block Trump rule tying green card eligibility to public benefit use",
+        "article_url": "https://www.nydailynews.com/2026/09/14/mamdani-james-filing-lawsuits-to-stop-trump-rule-targeting-immigrants-using-public-benefits/",
+        "published_at": "2026-09-15T00:49:53+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-15T14:06:53.040430+00:00",
+      "verification": {
+        "article_title": "NYC, state file lawsuits to block Trump rule tying green card eligibility to public benefit use",
+        "article_url": "https://www.nydailynews.com/2026/09/14/mamdani-james-filing-lawsuits-to-stop-trump-rule-targeting-immigrants-using-public-benefits/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-15T14:06:52.052270+00:00"
+      }
+    },
+    {
+      "headline": "What we know so far about the Legionnaires\u2019 outbreak ahead",
+      "bullets": [
+        "New York City health officials will take questions from South Bronx residents Tuesday evening as they continue their investigation into the city\u2019s second outbreak of Legionnaires\u2019 disease.",
+        "The outbreak in the Bronx has so far killed one person."
+      ],
+      "summary": "What we know so far about the Legionnaires\u2019 outbreak ahead",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "What we know so far about the Legionnaires\u2019 outbreak ahead of Bronx town hall",
+        "article_url": "https://gothamist.com/news/what-we-know-so-far-about-the-legionnaires-outbreak-ahead-of-bronx-town-hall",
+        "published_at": "2026-09-15T12:45:46+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-15T14:06:53.089398+00:00",
+      "verification": {
+        "article_title": "What we know so far about the Legionnaires\u2019 outbreak ahead of Bronx town hall",
+        "article_url": "https://gothamist.com/news/what-we-know-so-far-about-the-legionnaires-outbreak-ahead-of-bronx-town-hall",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-15T14:06:52.099344+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: 3rd Annual Step Up For Fashion on Madison",
+      "bullets": [
+        "CFDA and Madison Avenue B.I.D.",
+        "Host 3rd Annual Step Up for Fashion on Madison Avenue Benefiting the CFDA Scholarship Fund Saturday, September 19."
+      ],
+      "summary": "Local Event: 3rd Annual Step Up For Fashion on Madison",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: 3rd Annual Step Up For Fashion on Madison Avenue",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260919/c34618ef-3fe0-413c-9d6d-b65b805e25f7/3rd-annual-step-up-for-fashion-on-madison-avenue",
+        "published_at": "2026-09-20T02:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-15T14:06:53.133242+00:00",
+      "verification": {
+        "article_title": "Local Event: 3rd Annual Step Up For Fashion on Madison Avenue",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260919/c34618ef-3fe0-413c-9d6d-b65b805e25f7/3rd-annual-step-up-for-fashion-on-madison-avenue",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-15T14:06:52.144261+00:00"
+      }
+    },
+    {
+      "headline": "NYC Council holding hearing on screen time and use of",
+      "bullets": [
+        "A New York City Council committee will be raising questions to the Department of Education about the use of technology in the classroom, including screen time and , at a hearing Tuesday.",
+        "Two council members want the department to cut back on screen time in city public schools because they said evidence doesn't show that it improves learning."
+      ],
+      "summary": "NYC Council holding hearing on screen time and use of",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "NYC Council holding hearing on screen time and use of digital devices in schools",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-council-screen-time-digital-devices-public-schools-hearing/",
+        "published_at": "2026-09-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-15T14:06:53.179145+00:00",
+      "verification": {
+        "article_title": "NYC Council holding hearing on screen time and use of digital devices in schools",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-council-screen-time-digital-devices-public-schools-hearing/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-15T14:06:52.187544+00:00"
+      }
+    },
+    {
+      "headline": "What we know so far about the Legionnaires\u2019 outbreak ahead",
+      "bullets": [
+        "New York City health officials will take questions from South Bronx residents Tuesday evening as they continue their investigation into the city\u2019s second outbreak of Legionnaires\u2019 disease.",
+        "The outbreak in the Bronx has so far killed one person."
+      ],
+      "summary": "What we know so far about the Legionnaires\u2019 outbreak ahead",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "What we know so far about the Legionnaires\u2019 outbreak ahead of Bronx town hall",
+        "article_url": "https://gothamist.com/news/what-we-know-so-far-about-the-legionnaires-outbreak-ahead-of-bronx-town-hall",
+        "published_at": "2026-09-15T12:45:46+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-15T14:06:53.225065+00:00",
+      "verification": {
+        "article_title": "What we know so far about the Legionnaires\u2019 outbreak ahead of Bronx town hall",
+        "article_url": "https://gothamist.com/news/what-we-know-so-far-about-the-legionnaires-outbreak-ahead-of-bronx-town-hall",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-15T14:06:52.243159+00:00"
+      }
+    },
+    {
+      "headline": "Thousands of gallons of diesel spill from AI data center",
+      "bullets": [
+        "Thousands of gallons of diesel fuel spilled from an in Secaucus late last week, the New Jersey Department of Environmental Protection said.",
+        "Contractors have been at the scene since, removing the oil from nearby Anderson Creek, a tributary of the Hackensack River."
+      ],
+      "summary": "Thousands of gallons of diesel spill from AI data center",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Thousands of gallons of diesel spill from AI data center in Secaucus, N.J.",
+        "article_url": "https://www.cbsnews.com/newyork/news/secaucus-nj-data-center-fuel-spill/",
+        "published_at": "2026-09-14"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-15T14:06:53.274343+00:00",
+      "verification": {
+        "article_title": "Thousands of gallons of diesel spill from AI data center in Secaucus, N.J.",
+        "article_url": "https://www.cbsnews.com/newyork/news/secaucus-nj-data-center-fuel-spill/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-15T14:06:52.313951+00:00"
+      }
+    },
+    {
+      "headline": "Big Changes Coming To Ruppert Park As $8.9M Revamp Begins",
+      "bullets": [
+        "Big Changes Coming To Ruppert Park As $8.9M Revamp Begins The city is making several long-awaited infrastructure upgrades to the park, including a dog run and an exercise area.",
+        "UPPER EAST SIDE, NY \u2014 After years of delays, the $8,894,000 project to redesign Ruppert Park \u2014 the much-loved but awkwardly laid-out green space in the heart of Yorkville at East 90th Street and Second Avenue \u2014 will begin construction on Monday."
+      ],
+      "summary": "Big Changes Coming To Ruppert Park As $8.9M Revamp Begins",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Big Changes Coming To Ruppert Park As $8.9M Revamp Begins",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/8-8m-ruppert-park-construction-begins-after-years-delays",
+        "published_at": "2026-09-14T20:30:38+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-15T14:06:53.321828+00:00",
+      "verification": {
+        "article_title": "Big Changes Coming To Ruppert Park As $8.9M Revamp Begins",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/8-8m-ruppert-park-construction-begins-after-years-delays",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-15T14:06:52.356918+00:00"
+      }
+    },
+    {
+      "headline": "High Line Goes High Brow With Artsy Topic Tours",
+      "bullets": [
+        "High Line Goes High Brow With Artsy Topic Tours Horticulture, art, architecture and design, and history are some of the field trips planned for the Chelsea park The High Line has been an irreplaceable asset to Chelsea from its start in June of 2009 and now The Highline higher-ups have organized a series of monthly Spotlight Tours with specific topics: horticulture, art, architecture and design, and history, each led by volunteer docents that are experts in their respective fields.",
+        "In addition to stimulating the neighborhood\u00e2s economy, encouraging a sense of naturalism, and boosting the region\u00e2s oxygen content with its abundant flora, it has always held a plethora of community events."
+      ],
+      "summary": "High Line Goes High Brow With Artsy Topic Tours",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "High Line Goes High Brow With Artsy Topic Tours",
+        "article_url": "https://www.ourtownny.com/news/high-line-goes-high-brow-with-artsy-topic-tours-MM6196358",
+        "published_at": "2026-09-14"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-15T14:06:53.393270+00:00",
+      "verification": {
+        "article_title": "High Line Goes High Brow With Artsy Topic Tours",
+        "article_url": "https://www.ourtownny.com/news/high-line-goes-high-brow-with-artsy-topic-tours-MM6196358",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-15T14:06:52.403189+00:00"
+      }
+    }
+  ]
+}
