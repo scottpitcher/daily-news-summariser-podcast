@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-09-16T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-09-16.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "3 people killed when NBC and Telemundo news helicopter crashes",
+      "bullets": [
+        "By ASHLEY DUONG and HALLIE GOLDEN LOS ANGELES (AP) \u2014 A news helicopter used by NBC and Telemundo crashed in a Los Angeles neighborhood and burst into flames, killing at least three people while reporters were covering the collision of an SUV and a city bus, officials and the news outlet said.",
+        "Colleen Williams, an NBC4 Los Angeles anchor, confirmed during live broadcasts that two people were killed Tuesday when the chopper went down."
+      ],
+      "summary": "3 people killed when NBC and Telemundo news helicopter crashes",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "3 people killed when NBC and Telemundo news helicopter crashes while covering LA bus collision",
+        "article_url": "https://www.nydailynews.com/2026/09/16/news-helicopter-crash-california/",
+        "published_at": "2026-09-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-16T14:00:06.344332+00:00",
+      "verification": {
+        "article_title": "3 people killed when NBC and Telemundo news helicopter crashes while covering LA bus collision",
+        "article_url": "https://www.nydailynews.com/2026/09/16/news-helicopter-crash-california/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-16T14:00:04.203539+00:00"
+      }
+    },
+    {
+      "headline": "New York won\u2019t crack down on Canada, UK for Israel",
+      "bullets": [
+        "A high-profile 2016 executive order blocking New York from doing business with entities supporting the boycott, divest and sanctions, or BDS, movement against Israel does not apply to countries like Canada and the United Kingdom, which are set to boycott products from Israeli settlements, Gov.",
+        "Kathy Hochul's office said."
+      ],
+      "summary": "New York won\u2019t crack down on Canada, UK for Israel",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "New York won\u2019t crack down on Canada, UK for Israel sanctions",
+        "article_url": "https://gothamist.com/news/new-york-wont-crack-down-on-canada-uk-for-israel-sanctions",
+        "published_at": "2026-09-15T16:16:52+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-16T14:00:06.527692+00:00",
+      "verification": {
+        "article_title": "New York won\u2019t crack down on Canada, UK for Israel sanctions",
+        "article_url": "https://gothamist.com/news/new-york-wont-crack-down-on-canada-uk-for-israel-sanctions",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-16T14:00:04.336290+00:00"
+      }
+    },
+    {
+      "headline": "3 killed after TV news helicopter crashes near site of",
+      "bullets": [
+        "The helicopter belonging to NBC station KNBC crashed near the scene of a large bus crash that left at least three people dead.",
+        "LOS ANGELES -- Three people were killed after an NBC4 news helicopter crashed near the scene of a deadly bus collision in Chatsworth, California, on Tuesday evening, authorities said."
+      ],
+      "summary": "3 killed after TV news helicopter crashes near site of",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "3 killed after TV news helicopter crashes near site of deadly Los Angeles bus collision",
+        "article_url": "https://abc7ny.com/post/los-angeles-crash-helicopter-crashes-site-deadly-bus-collision-chatsworth-california/19837494/",
+        "published_at": "2026-09-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-16T14:00:06.692557+00:00",
+      "verification": {
+        "article_title": "3 killed after TV news helicopter crashes near site of deadly Los Angeles bus collision",
+        "article_url": "https://abc7ny.com/post/los-angeles-crash-helicopter-crashes-site-deadly-bus-collision-chatsworth-california/19837494/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-16T14:00:04.457546+00:00"
+      }
+    },
+    {
+      "headline": "Major $670M Construction Kicks Off At Met Museum \u2014 Here\u2019s",
+      "bullets": [
+        "Major $670M Construction Kicks Off At Met Museum \u2014 Here\u2019s What\u2019s Coming The Upper East Side museum says the Tang Wing will expand gallery space, improve accessibility and add terraces overlooking the park.",
+        "UPPER EAST SIDE, NY \u2014 The Metropolitan Museum of Art broke ground Tuesday on a major new wing for modern and contemporary art, launching a four-year construction project at its Fifth Avenue campus."
+      ],
+      "summary": "Major $670M Construction Kicks Off At Met Museum \u2014 Here\u2019s",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Major $670M Construction Kicks Off At Met Museum \u2014 Here\u2019s What\u2019s Coming",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/met-breaks-ground-new-modern-art-wing-set-open-2030",
+        "published_at": "2026-09-15T19:27:25+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-16T14:00:06.799432+00:00",
+      "verification": {
+        "article_title": "Major $670M Construction Kicks Off At Met Museum \u2014 Here\u2019s What\u2019s Coming",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/met-breaks-ground-new-modern-art-wing-set-open-2030",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-16T14:00:04.584217+00:00"
+      }
+    },
+    {
+      "headline": "3 dead after NBC Los Angeles news helicopter crashes near",
+      "bullets": [
+        "Three people were killed when an NBC Los Angeles helicopter crashed in the San Fernando Valley on Tuesday night near the scene of a .",
+        "The crash happened just before 7 p.m."
+      ],
+      "summary": "3 dead after NBC Los Angeles news helicopter crashes near",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "3 dead after NBC Los Angeles news helicopter crashes near site of deadly bus crash in Chatsworth",
+        "article_url": "https://www.cbsnews.com/newyork/news/chatsworth-deadly-news-helicopter-crash-san-fernando-valley-los-angeles-fire/",
+        "published_at": "2026-09-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-16T14:00:06.907974+00:00",
+      "verification": {
+        "article_title": "3 dead after NBC Los Angeles news helicopter crashes near site of deadly bus crash in Chatsworth",
+        "article_url": "https://www.cbsnews.com/newyork/news/chatsworth-deadly-news-helicopter-crash-san-fernando-valley-los-angeles-fire/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-16T14:00:04.697606+00:00"
+      }
+    },
+    {
+      "headline": "NYC announces plans to ease crowding at violence-plagued juvenile detention",
+      "bullets": [
+        "New York City is taking steps to reduce the number of teens in juvenile detention following years of overcrowding.",
+        "The plan, which will be formally unveiled on Tuesday, includes increasing access to community-based programs to reduce the number of young people at Crossroads Juvenile Center in Brownsville and Horizon Juvenile Center in the South Bronx, the mayor\u2019s office told Gothamist."
+      ],
+      "summary": "NYC announces plans to ease crowding at violence-plagued juvenile detention",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC announces plans to ease crowding at violence-plagued juvenile detention centers",
+        "article_url": "https://gothamist.com/news/nyc-announces-plans-to-ease-crowding-at-violence-plagued-juvenile-detention-centers",
+        "published_at": "2026-09-15T16:00:55+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-16T14:00:07.029067+00:00",
+      "verification": {
+        "article_title": "NYC announces plans to ease crowding at violence-plagued juvenile detention centers",
+        "article_url": "https://gothamist.com/news/nyc-announces-plans-to-ease-crowding-at-violence-plagued-juvenile-detention-centers",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-16T14:00:04.824925+00:00"
+      }
+    },
+    {
+      "headline": "Broadway Week is just the beginning",
+      "bullets": [
+        "Reports of theater\u2019s death have been exaggerated for generations.",
+        "In 1938, George S."
+      ],
+      "summary": "Broadway Week is just the beginning",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Broadway Week is just the beginning",
+        "article_url": "https://www.nydailynews.com/2026/09/16/broadway-week-is-just-the-beginning/",
+        "published_at": "2026-09-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-16T14:00:07.136065+00:00",
+      "verification": {
+        "article_title": "Broadway Week is just the beginning",
+        "article_url": "https://www.nydailynews.com/2026/09/16/broadway-week-is-just-the-beginning/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-16T14:00:04.938947+00:00"
+      }
+    },
+    {
+      "headline": "7 On Your Side helps single mother get back stolen",
+      "bullets": [
+        "GOSHEN, New York (WABC) -- It sadly happens all too often; thieves hacking debit cards loaded with money for SNAP food benefits and social services.",
+        "For one Goshen mom, it was like Groundhog Day."
+      ],
+      "summary": "7 On Your Side helps single mother get back stolen",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "7 On Your Side helps single mother get back stolen child support funds",
+        "article_url": "https://abc7ny.com/post/7-side-helps-single-mother-get-back-stolen-child-support-fundsfrom-way2go-card/19835471/",
+        "published_at": "2026-09-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-16T14:00:07.244343+00:00",
+      "verification": {
+        "article_title": "7 On Your Side helps single mother get back stolen child support funds",
+        "article_url": "https://abc7ny.com/post/7-side-helps-single-mother-get-back-stolen-child-support-fundsfrom-way2go-card/19835471/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-16T14:00:05.054874+00:00"
+      }
+    },
+    {
+      "headline": "5 missing women now linked to massive investigation at Philadelphia",
+      "bullets": [
+        "The investigation centers on 44-year-old Eugene Horsch.",
+        "PHILADELPHIA -- A total of five missing women have now been linked to the sprawling and ongoing investigation centered on a home in Philadelphia's Olney neighborhood."
+      ],
+      "summary": "5 missing women now linked to massive investigation at Philadelphia",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "5 missing women now linked to massive investigation at Philadelphia home",
+        "article_url": "https://abc7ny.com/story/5-missing-women-now-linked-massive-investigation-home-philadelphia-pennsylvania-eugene-horsch-connected-case-officials-say/19836316/",
+        "published_at": "2026-09-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-16T14:00:07.372177+00:00",
+      "verification": {
+        "article_title": "5 missing women now linked to massive investigation at Philadelphia home",
+        "article_url": "https://abc7ny.com/story/5-missing-women-now-linked-massive-investigation-home-philadelphia-pennsylvania-eugene-horsch-connected-case-officials-say/19836316/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-16T14:00:05.160684+00:00"
+      }
+    },
+    {
+      "headline": "Sunrise Highway expansion urged by officials in Suffolk County",
+      "bullets": [
+        "PATCHOGUE, Long Island (WABC) -- State and local officials are calling for an expansion of Sunrise Highway in Suffolk County, saying heavy congestion between Patchogue and Moriches creates delays for motorists and first responders.",
+        "North Patchogue Assistant Fire Chief Daniel Glenn said traveling through the area during rush hour can be challenging."
+      ],
+      "summary": "Sunrise Highway expansion urged by officials in Suffolk County",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Sunrise Highway expansion urged by officials in Suffolk County",
+        "article_url": "https://abc7ny.com/post/sunrise-highway-expansion-2-lanes-3-urged-officials-suffolk-county-between-patchogue-moriches/19836006/",
+        "published_at": "2026-09-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-16T14:00:07.475534+00:00",
+      "verification": {
+        "article_title": "Sunrise Highway expansion urged by officials in Suffolk County",
+        "article_url": "https://abc7ny.com/post/sunrise-highway-expansion-2-lanes-3-urged-officials-suffolk-county-between-patchogue-moriches/19836006/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-16T14:00:05.261952+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on postpartum care, opposing Islamophobia and Russian",
+      "bullets": [
+        "Support for new moms helps the kids, too White Rock, British Columbia: Regarding Lindsay Clancy\u2019s postpartum mental illness defense, pregnancy-related mental illness \u2014 notably, postpartum depression \u2014 often has serious consequences even beyond those suffered by the new mother.",
+        "In his book \u201cShame: Free Yourself, Find Joy, and Build True Self-Esteem,\u201d Dr."
+      ],
+      "summary": "Readers sound off on postpartum care, opposing Islamophobia and Russian",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on postpartum care, opposing Islamophobia and Russian speakers",
+        "article_url": "https://www.nydailynews.com/2026/09/16/readers-sound-off-on-postpartum-care-opposing-islamophobia-and-russian-speakers/",
+        "published_at": "2026-09-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-16T14:00:07.579262+00:00",
+      "verification": {
+        "article_title": "Readers sound off on postpartum care, opposing Islamophobia and Russian speakers",
+        "article_url": "https://www.nydailynews.com/2026/09/16/readers-sound-off-on-postpartum-care-opposing-islamophobia-and-russian-speakers/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-16T14:00:05.367141+00:00"
+      }
+    },
+    {
+      "headline": "What are the top threats posed by AI and should",
+      "bullets": [
+        "Anthropic and OpenAI CEOs have issued warnings of \"serious\" risks.",
+        "The most powerful executives in the artificial intelligence industry in recent days warned of a grave threat posed by the technology, issuing a series of statements calling for a slowdown in AI development."
+      ],
+      "summary": "What are the top threats posed by AI and should",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "What are the top threats posed by AI and should you be worried? Experts explain",
+        "article_url": "https://abc7ny.com/story/what-are-top-threats-posed-ai-should-worried-experts-explain/19839350/",
+        "published_at": "2026-09-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-16T14:00:07.686661+00:00",
+      "verification": {
+        "article_title": "What are the top threats posed by AI and should you be worried? Experts explain",
+        "article_url": "https://abc7ny.com/story/what-are-top-threats-posed-ai-should-worried-experts-explain/19839350/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-16T14:00:05.473190+00:00"
+      }
+    },
+    {
+      "headline": "Kennedy Center will close for renovations after judge blocks returning",
+      "bullets": [
+        "By STEVEN SLOAN and ASHRAF KHALIL, Associated Press WASHINGTON (AP) \u2014 The Trump-aligned Kennedy Center board voted Tuesday to close most of the iconic performing arts venue just hours after a federal judge blocked the institution from returning President Donald Trump\u2019s name to the building.",
+        "In a social media post, Trump said the closure was needed for safety repairs."
+      ],
+      "summary": "Kennedy Center will close for renovations after judge blocks returning",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Kennedy Center will close for renovations after judge blocks returning Trump\u2019s name to building",
+        "article_url": "https://www.nydailynews.com/2026/09/15/kennedy-center-trump-branding-dispute/",
+        "published_at": "2026-09-15T23:20:48+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-16T14:00:07.806428+00:00",
+      "verification": {
+        "article_title": "Kennedy Center will close for renovations after judge blocks returning Trump\u2019s name to building",
+        "article_url": "https://www.nydailynews.com/2026/09/15/kennedy-center-trump-branding-dispute/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-16T14:00:05.580650+00:00"
+      }
+    },
+    {
+      "headline": "Education chancellor weighs plans for 30K students in small NYC",
+      "bullets": [
+        "Families at P.S.",
+        "309 describe the Bedford-Stuyvesant school as \u201csmall but mighty.\u201d \u201cThey have art, science, dance, cheerleading."
+      ],
+      "summary": "Education chancellor weighs plans for 30K students in small NYC",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Education chancellor weighs plans for 30K students in small NYC schools",
+        "article_url": "https://gothamist.com/news/schools-chancellor-weighs-plans-for-30k-students-in-small-nyc-schools",
+        "published_at": "2026-09-16T10:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-16T14:00:07.911250+00:00",
+      "verification": {
+        "article_title": "Education chancellor weighs plans for 30K students in small NYC schools",
+        "article_url": "https://gothamist.com/news/schools-chancellor-weighs-plans-for-30k-students-in-small-nyc-schools",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-16T14:00:05.685815+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on postpartum care, opposing Islamophobia and Russian",
+      "bullets": [
+        "Support for new moms helps the kids, too White Rock, British Columbia: Regarding Lindsay Clancy\u2019s postpartum mental illness defense, pregnancy-related mental illness \u2014 notably, postpartum depression \u2014 often has serious consequences even beyond those suffered by the new mother.",
+        "In his book \u201cShame: Free Yourself, Find Joy, and Build True Self-Esteem,\u201d Dr."
+      ],
+      "summary": "Readers sound off on postpartum care, opposing Islamophobia and Russian",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on postpartum care, opposing Islamophobia and Russian speakers",
+        "article_url": "https://www.nydailynews.com/2026/09/16/readers-sound-off-on-postpartum-care-opposing-islamophobia-and-russian-speakers/",
+        "published_at": "2026-09-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-16T14:00:08.015587+00:00",
+      "verification": {
+        "article_title": "Readers sound off on postpartum care, opposing Islamophobia and Russian speakers",
+        "article_url": "https://www.nydailynews.com/2026/09/16/readers-sound-off-on-postpartum-care-opposing-islamophobia-and-russian-speakers/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-16T14:00:05.808633+00:00"
+      }
+    },
+    {
+      "headline": "NJ Rep. Kean acquired more data center stocks as backlash",
+      "bullets": [
+        "U.S.",
+        "Rep."
+      ],
+      "summary": "NJ Rep. Kean acquired more data center stocks as backlash",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NJ Rep. Kean acquired more data center stocks as backlash to AI boom grows",
+        "article_url": "https://gothamist.com/news/nj-rep-kean-acquired-more-data-center-stocks-as-backlash-to-ai-boom-grows",
+        "published_at": "2026-09-15T15:38:54+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-16T14:00:08.121527+00:00",
+      "verification": {
+        "article_title": "NJ Rep. Kean acquired more data center stocks as backlash to AI boom grows",
+        "article_url": "https://gothamist.com/news/nj-rep-kean-acquired-more-data-center-stocks-as-backlash-to-ai-boom-grows",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-16T14:00:05.909705+00:00"
+      }
+    },
+    {
+      "headline": "What are the top threats posed by AI and should",
+      "bullets": [
+        "Anthropic and OpenAI CEOs have issued warnings of \"serious\" risks.",
+        "The most powerful executives in the artificial intelligence industry in recent days warned of a grave threat posed by the technology, issuing a series of statements calling for a slowdown in AI development."
+      ],
+      "summary": "What are the top threats posed by AI and should",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "What are the top threats posed by AI and should you be worried? Experts explain",
+        "article_url": "https://abc7ny.com/story/what-are-top-threats-posed-ai-should-worried-experts-explain/19839350/",
+        "published_at": "2026-09-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-16T14:00:08.225083+00:00",
+      "verification": {
+        "article_title": "What are the top threats posed by AI and should you be worried? Experts explain",
+        "article_url": "https://abc7ny.com/story/what-are-top-threats-posed-ai-should-worried-experts-explain/19839350/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-16T14:00:06.019088+00:00"
+      }
+    },
+    {
+      "headline": "Best 4k Tv Under $500",
+      "bullets": [
+        "Are 4K TVs worth it?",
+        "4K TVs are not only mainstream now, but many can be considered budget-friendly too."
+      ],
+      "summary": "Best 4k Tv Under $500",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Best 4k Tv Under $500",
+        "article_url": "https://www.nydailynews.com/2026/09/15/best-4k-tv-under-500-2/",
+        "published_at": "2026-09-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-16T14:00:08.332423+00:00",
+      "verification": {
+        "article_title": "Best 4k Tv Under $500",
+        "article_url": "https://www.nydailynews.com/2026/09/15/best-4k-tv-under-500-2/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-16T14:00:06.129704+00:00"
+      }
+    }
+  ]
+}
