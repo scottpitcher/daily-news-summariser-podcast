@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-09-17T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-09-17.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "NYC teachers union flexes political muscle in bid to unwind",
+      "bullets": [
+        "New York teachers unions and supporters in the labor movement and the Democratic party rallied Wednesday to urge Gov.",
+        "Hochul to reject President Trump\u2019s signature school voucher plan."
+      ],
+      "summary": "NYC teachers union flexes political muscle in bid to unwind",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYC teachers union flexes political muscle in bid to unwind Hochul support for Trump voucher plan",
+        "article_url": "https://www.nydailynews.com/2026/09/16/nyc-teachers-union-flexes-political-muscle-in-bid-to-unwind-hochul-support-for-trump-voucher-plan/",
+        "published_at": "2026-09-16T21:10:21+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-17T14:04:10.459170+00:00",
+      "verification": {
+        "article_title": "NYC teachers union flexes political muscle in bid to unwind Hochul support for Trump voucher plan",
+        "article_url": "https://www.nydailynews.com/2026/09/16/nyc-teachers-union-flexes-political-muscle-in-bid-to-unwind-hochul-support-for-trump-voucher-plan/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-17T14:04:08.986009+00:00"
+      }
+    },
+    {
+      "headline": "UES Mansion With A Glamorous Past Hits The Market At",
+      "bullets": [
+        "UES Mansion With A Glamorous Past Hits The Market At $65M The landmarked limestone residence boasts eight bedrooms, 11 fireplaces, and once housed jewelry heir Pierre Cartier.",
+        "UPPER EAST SIDE, NY \u2014 A landmarked limestone mansion from the Gilded Age just hit the market for a whopping $65 million."
+      ],
+      "summary": "UES Mansion With A Glamorous Past Hits The Market At",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "UES Mansion With A Glamorous Past Hits The Market At $65M",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/65m-gilded-age-mansion-hits-market-upper-east-side",
+        "published_at": "2026-09-16T19:50:31+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-17T14:04:10.549597+00:00",
+      "verification": {
+        "article_title": "UES Mansion With A Glamorous Past Hits The Market At $65M",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/65m-gilded-age-mansion-hits-market-upper-east-side",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-17T14:04:09.077237+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on policing statistics, Pete Alonso and a",
+      "bullets": [
+        "Skewed stats aren\u2019t enough to prove bias Malverne, L.I.: To Voicers Jim Carney and Fran Bocignone: Thank you both for your letters.",
+        "I can certainly attest that your observations in regard to Bob Gangi\u2019s op-ed on Aug."
+      ],
+      "summary": "Readers sound off on policing statistics, Pete Alonso and a",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on policing statistics, Pete Alonso and a chicken ritual",
+        "article_url": "https://www.nydailynews.com/2026/09/17/readers-sound-off-on-policing-statistics-pete-alonso-and-a-chicken-ritual/",
+        "published_at": "2026-09-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-17T14:04:10.616834+00:00",
+      "verification": {
+        "article_title": "Readers sound off on policing statistics, Pete Alonso and a chicken ritual",
+        "article_url": "https://www.nydailynews.com/2026/09/17/readers-sound-off-on-policing-statistics-pete-alonso-and-a-chicken-ritual/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-17T14:04:09.164090+00:00"
+      }
+    },
+    {
+      "headline": "Cleanup of NJ's Passaic River inches forward with $125M settlement",
+      "bullets": [
+        "The lower Passaic River is among the nation\u2019s most toxic waterways.",
+        "Decades of chemical manufacturing and industrial pollution left the muck on the riverbed filled with substances harmful to human health."
+      ],
+      "summary": "Cleanup of NJ's Passaic River inches forward with $125M settlement",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Cleanup of NJ's Passaic River inches forward with $125M settlement",
+        "article_url": "https://gothamist.com/news/cleanup-of-njs-passaic-river-inches-forward-with-125m-settlement",
+        "published_at": "2026-09-16T16:45:22+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-17T14:04:10.694748+00:00",
+      "verification": {
+        "article_title": "Cleanup of NJ's Passaic River inches forward with $125M settlement",
+        "article_url": "https://gothamist.com/news/cleanup-of-njs-passaic-river-inches-forward-with-125m-settlement",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-17T14:04:09.325853+00:00"
+      }
+    },
+    {
+      "headline": "The psychedelic pop artist Peter Max has died at 88,",
+      "bullets": [
+        "NEW YORK -- Peter Max, whose colorful, psychedelic pop art expressed the optimism of the \"flower power\" movement of the 1960s and graced everything from postage stamps to a cruise ship, has died at 88, his son said in a written statement Wednesday.",
+        "Max died on Monday, the statement said."
+      ],
+      "summary": "The psychedelic pop artist Peter Max has died at 88,",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "The psychedelic pop artist Peter Max has died at 88, his son says",
+        "article_url": "https://abc7ny.com/post/peter-max-dies-88-psychedelic-pop-artist-passed-away-monday-son-says/19841653/",
+        "published_at": "2026-09-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-17T14:04:10.904086+00:00",
+      "verification": {
+        "article_title": "The psychedelic pop artist Peter Max has died at 88, his son says",
+        "article_url": "https://abc7ny.com/post/peter-max-dies-88-psychedelic-pop-artist-passed-away-monday-son-says/19841653/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-17T14:04:09.416610+00:00"
+      }
+    },
+    {
+      "headline": "Brooklyn-born NYPD sergeant awarded Purple Heart for Afghanistan service 25",
+      "bullets": [
+        "Exactly 25 years after he witnessed first responders heroically rushing to Ground Zero as a child in Brooklyn, the experience came full circle last Friday, when NYPD Sgt.",
+        "Ruben Cespedes was awarded the Purple Heart for his military service in Afghanistan."
+      ],
+      "summary": "Brooklyn-born NYPD sergeant awarded Purple Heart for Afghanistan service 25",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Brooklyn-born NYPD sergeant awarded Purple Heart for Afghanistan service 25 years after 9/11",
+        "article_url": "https://www.nydailynews.com/2026/09/16/brooklyn-nypd-sergeant-awarded-purple-heart-afghanistan-service-9-11/",
+        "published_at": "2026-09-16T21:06:17+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-17T14:04:10.993825+00:00",
+      "verification": {
+        "article_title": "Brooklyn-born NYPD sergeant awarded Purple Heart for Afghanistan service 25 years after 9/11",
+        "article_url": "https://www.nydailynews.com/2026/09/16/brooklyn-nypd-sergeant-awarded-purple-heart-afghanistan-service-9-11/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-17T14:04:09.504820+00:00"
+      }
+    },
+    {
+      "headline": "3 dead after NBC Los Angeles news helicopter crashes near",
+      "bullets": [
+        "Investigations are underway after three people were killed when an NBC Los Angeles helicopter crashed in the San Fernando Valley on Tuesday night near the scene of a .",
+        "The helicopter crash happened just before 7 p.m."
+      ],
+      "summary": "3 dead after NBC Los Angeles news helicopter crashes near",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "3 dead after NBC Los Angeles news helicopter crashes near site of deadly bus crash in Chatsworth",
+        "article_url": "https://www.cbsnews.com/newyork/news/chatsworth-deadly-news-helicopter-crash-san-fernando-valley-los-angeles-fire/",
+        "published_at": "2026-09-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-17T14:04:11.052584+00:00",
+      "verification": {
+        "article_title": "3 dead after NBC Los Angeles news helicopter crashes near site of deadly bus crash in Chatsworth",
+        "article_url": "https://www.cbsnews.com/newyork/news/chatsworth-deadly-news-helicopter-crash-san-fernando-valley-los-angeles-fire/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-17T14:04:09.566578+00:00"
+      }
+    },
+    {
+      "headline": "Uber ordered to pay $40M to parents of woman fatally",
+      "bullets": [
+        "Emily Normandin-Parker's parents speak out after an arbitration award.",
+        "The parents of a 23-year-old woman who was struck and killed after her Uber driver left her along a Southern California freeway are speaking out after being awarded $40 million in an arbitration against Uber and the driver."
+      ],
+      "summary": "Uber ordered to pay $40M to parents of woman fatally",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Uber ordered to pay $40M to parents of woman fatally struck after being left on freeway",
+        "article_url": "https://abc7ny.com/story/uber-ordered-pay-40m-parents-emily-normandin-parker-woman-fatally-struck-being-left-california-freeway/19843221/",
+        "published_at": "2026-09-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-17T14:04:11.111740+00:00",
+      "verification": {
+        "article_title": "Uber ordered to pay $40M to parents of woman fatally struck after being left on freeway",
+        "article_url": "https://abc7ny.com/story/uber-ordered-pay-40m-parents-emily-normandin-parker-woman-fatally-struck-being-left-california-freeway/19843221/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-17T14:04:09.626004+00:00"
+      }
+    },
+    {
+      "headline": "New Jersey social media influencer helps expose sophisticated arrest warrant",
+      "bullets": [
+        "HACKENSACK, New Jersey (WABC) -- A New Jersey mother and social media influencer said she was targeted by a sophisticated phone scam in which callers falsely claimed to be from the Bergen County Sheriff's Office and attempted to convince her to pay money to avoid arrest.",
+        "In a video posted on TikTok, Lindsay Angio said she received a call from a man who identified himself as a lieutenant with the Bergen County Sheriff's Office."
+      ],
+      "summary": "New Jersey social media influencer helps expose sophisticated arrest warrant",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "New Jersey social media influencer helps expose sophisticated arrest warrant scam",
+        "article_url": "https://abc7ny.com/post/nj-phone-scam-social-media-influencer-helps-expose-scammer-claiming-bergen-county-sheriffs-office/19841793/",
+        "published_at": "2026-09-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-17T14:04:11.199846+00:00",
+      "verification": {
+        "article_title": "New Jersey social media influencer helps expose sophisticated arrest warrant scam",
+        "article_url": "https://abc7ny.com/post/nj-phone-scam-social-media-influencer-helps-expose-scammer-claiming-bergen-county-sheriffs-office/19841793/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-17T14:04:09.689264+00:00"
+      }
+    },
+    {
+      "headline": "Dozens of people seen on images recovered from home in",
+      "bullets": [
+        "PHILADELPHIA -- Nearly 60 different people can be seen in more than 1 million digital images and videos recovered from a home in Philadelphia that has been at the center of a months-long investigation, police said Wednesday.",
+        "A total of seven women have now been connected to the home, including five women who appeared to be injured, lifeless, and possibly dead, investigators said."
+      ],
+      "summary": "Dozens of people seen on images recovered from home in",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Dozens of people seen on images recovered from home in Philadelphia; some appeared lifeless",
+        "article_url": "https://abc7ny.com/post/eugene-horsch-case-dozens-people-seen-images-found-philadelphia-home-appeared-lifeless/19841606/",
+        "published_at": "2026-09-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-17T14:04:11.260588+00:00",
+      "verification": {
+        "article_title": "Dozens of people seen on images recovered from home in Philadelphia; some appeared lifeless",
+        "article_url": "https://abc7ny.com/post/eugene-horsch-case-dozens-people-seen-images-found-philadelphia-home-appeared-lifeless/19841606/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-17T14:04:09.778370+00:00"
+      }
+    },
+    {
+      "headline": "Family faults city's oversight after Legionnaires' death linked to Upper",
+      "bullets": [
+        "NEW YORK (WABC) -- Christine Roussel, a renowned author and longtime archivist at Rockefeller Center, lived what her family describes as an accomplished and determined life.",
+        "Roussel, who published the book \"Lunch on a Beam,\" about ironworkers, died on July 16 at age 87 during a Legionnaires' disease outbreak on the Upper East Side that killed 11 people."
+      ],
+      "summary": "Family faults city's oversight after Legionnaires' death linked to Upper",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Family faults city's oversight after Legionnaires' death linked to Upper East Side outbreak",
+        "article_url": "https://abc7ny.com/post/legionnaires-disease-lawsuit-family-christine-roussel-faults-nycs-oversight-death-linked-upper-east-side-outbreak/19841794/",
+        "published_at": "2026-09-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-17T14:04:11.320188+00:00",
+      "verification": {
+        "article_title": "Family faults city's oversight after Legionnaires' death linked to Upper East Side outbreak",
+        "article_url": "https://abc7ny.com/post/legionnaires-disease-lawsuit-family-christine-roussel-faults-nycs-oversight-death-linked-upper-east-side-outbreak/19841794/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-17T14:04:09.841667+00:00"
+      }
+    },
+    {
+      "headline": "Metro-North passengers self-evacuate train in Grand Central tunnel, MTA says",
+      "bullets": [
+        "NEW YORK - Metro-North lines were delayed Wednesday morning at Grand Central Terminal after a passenger on a train from Connecticut pulled the emergency brake when another rider suffered a mental health crisis, the MTA said.",
+        "Riders opened emergency windows, climbed onto tracks, MTA says What we know: At least two Manhattan-bound Metro-North trains stopped in the tunnel between 125 Street and Grand Central after an incident on a New Haven Line train."
+      ],
+      "summary": "Metro-North passengers self-evacuate train in Grand Central tunnel, MTA says",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Metro-North passengers self-evacuate train in Grand Central tunnel, MTA says",
+        "article_url": "https://www.fox5ny.com/news/metro-north-delays-grand-central-police-activity",
+        "published_at": "2026-09-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-17T14:04:11.381491+00:00",
+      "verification": {
+        "article_title": "Metro-North passengers self-evacuate train in Grand Central tunnel, MTA says",
+        "article_url": "https://www.fox5ny.com/news/metro-north-delays-grand-central-police-activity",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-17T14:04:09.902812+00:00"
+      }
+    },
+    {
+      "headline": "Swimming the Hudson River: It's a thing, but avoid the",
+      "bullets": [
+        "The Hudson River sparkled from the lights of New York City's skyline when a group of open water swimmers first arrived at Pier 25 on a recent morning.",
+        "The sun was barely peeking through the clouds and fog when they boarded a motor boat, the Melissa Marie, which would accompany the four swimmers as they circumnavigated Manhattan."
+      ],
+      "summary": "Swimming the Hudson River: It's a thing, but avoid the",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Swimming the Hudson River: It's a thing, but avoid the dead rats, other water hazards.",
+        "article_url": "https://gothamist.com/news/swimming-the-hudson-river-its-a-thing-but-avoid-the-dead-rats-other-water-hazards",
+        "published_at": "2026-09-17T10:30:55+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-17T14:04:11.441428+00:00",
+      "verification": {
+        "article_title": "Swimming the Hudson River: It's a thing, but avoid the dead rats, other water hazards.",
+        "article_url": "https://gothamist.com/news/swimming-the-hudson-river-its-a-thing-but-avoid-the-dead-rats-other-water-hazards",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-17T14:04:09.968796+00:00"
+      }
+    },
+    {
+      "headline": "2 people stabbed at SUNY Westchester Community College, 2 in",
+      "bullets": [
+        "VALHALLA, New York (WABC) -- Two people are in custody after a double stabbing Wednesday afternoon at SUNY Westchester Community College in Valhalla, New York.",
+        "It happened during a fistfight at the student center on the campus on Grasslands Road at 12:40 p.m."
+      ],
+      "summary": "2 people stabbed at SUNY Westchester Community College, 2 in",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "2 people stabbed at SUNY Westchester Community College, 2 in custody",
+        "article_url": "https://abc7ny.com/post/multiple-people-injured-following-stabbing-suny-westchester-community-college/19839995/",
+        "published_at": "2026-09-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-17T14:04:11.501131+00:00",
+      "verification": {
+        "article_title": "2 people stabbed at SUNY Westchester Community College, 2 in custody",
+        "article_url": "https://abc7ny.com/post/multiple-people-injured-following-stabbing-suny-westchester-community-college/19839995/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-17T14:04:10.036428+00:00"
+      }
+    },
+    {
+      "headline": "NYC Mayor Zohran Mamdani touts \"sewer socialism\": 17 new modular",
+      "bullets": [
+        "Seventeen new public bathrooms are being installed across New York City, Mayor Zohran Mamdani announced Wednesday.",
+        "Throne Labs has been chosen to fulfill the $4 million, yearlong modular public bathroom pilot program."
+      ],
+      "summary": "NYC Mayor Zohran Mamdani touts \"sewer socialism\": 17 new modular",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "NYC Mayor Zohran Mamdani touts \"sewer socialism\": 17 new modular public bathrooms being installed citywide",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-17-new-public-bathrooms/",
+        "published_at": "2026-09-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-17T14:04:11.566163+00:00",
+      "verification": {
+        "article_title": "NYC Mayor Zohran Mamdani touts \"sewer socialism\": 17 new modular public bathrooms being installed citywide",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-17-new-public-bathrooms/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-17T14:04:10.094570+00:00"
+      }
+    },
+    {
+      "headline": "Swimming the Hudson River: It's a thing, but avoid the",
+      "bullets": [
+        "The Hudson River sparkled from the lights of New York City's skyline when a group of open water swimmers first arrived at Pier 25 on a recent morning.",
+        "The sun was barely peeking through the clouds and fog when they boarded a motor boat, the Melissa Marie, which would accompany the four swimmers as they circumnavigated Manhattan."
+      ],
+      "summary": "Swimming the Hudson River: It's a thing, but avoid the",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Swimming the Hudson River: It's a thing, but avoid the dead rats, other water hazards.",
+        "article_url": "https://gothamist.com/news/swimming-the-hudson-river-its-a-thing-but-avoid-the-dead-rats-other-water-hazards",
+        "published_at": "2026-09-17T10:30:55+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-17T14:04:11.631507+00:00",
+      "verification": {
+        "article_title": "Swimming the Hudson River: It's a thing, but avoid the dead rats, other water hazards.",
+        "article_url": "https://gothamist.com/news/swimming-the-hudson-river-its-a-thing-but-avoid-the-dead-rats-other-water-hazards",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-17T14:04:10.155249+00:00"
+      }
+    },
+    {
+      "headline": "Exercise in style with the best Puma sweatpants",
+      "bullets": [
+        "Which Puma sweatpants are best?",
+        "Founded in Germany in 1948, Puma is a mainstay in the world of sportswear, so if you\u2019re looking for sweats, this brand is a great option."
+      ],
+      "summary": "Exercise in style with the best Puma sweatpants",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Exercise in style with the best Puma sweatpants",
+        "article_url": "https://www.nydailynews.com/2026/09/17/exercise-in-style-with-the-best-puma-sweatpants/",
+        "published_at": "2026-09-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-17T14:04:11.697122+00:00",
+      "verification": {
+        "article_title": "Exercise in style with the best Puma sweatpants",
+        "article_url": "https://www.nydailynews.com/2026/09/17/exercise-in-style-with-the-best-puma-sweatpants/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-17T14:04:10.264579+00:00"
+      }
+    },
+    {
+      "headline": "NYC pension funds make $300M affordable housing investment to help",
+      "bullets": [
+        "Four New York City municipal pension funds are investing $300 million into a trust connected to the country\u2019s biggest alliance of labor unions in an attempt to address a dire housing shortage in the five boroughs, Comptroller Mark Levine announced Thursday.",
+        "The new investment in the AFL-CIO Housing Investment Trust marks the first allocation of its kind since Levine announced a plan to direct $4 billion in city pension funds over the next four years to build more apartments."
+      ],
+      "summary": "NYC pension funds make $300M affordable housing investment to help",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC pension funds make $300M affordable housing investment to help solve apartment shortage",
+        "article_url": "https://gothamist.com/news/nyc-pension-funds-make-300m-affordable-housing-investment-to-help-solve-apartment-shortage",
+        "published_at": "2026-09-17T12:00:44+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-17T14:04:11.765575+00:00",
+      "verification": {
+        "article_title": "NYC pension funds make $300M affordable housing investment to help solve apartment shortage",
+        "article_url": "https://gothamist.com/news/nyc-pension-funds-make-300m-affordable-housing-investment-to-help-solve-apartment-shortage",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-17T14:04:10.327379+00:00"
+      }
+    }
+  ]
+}
