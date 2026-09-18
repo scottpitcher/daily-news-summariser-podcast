@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-09-18T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-09-18.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Readers sound off on charging Trump\u2019s cronies, the national debt",
+      "bullets": [
+        "Leftists: Champion post-Trump prosecution Granby, Conn.: As a longtime observer and recent member of the Democratic Socialists of America, I\u2019ve found it strange that the leftist group doesn\u2019t seem to do messaging about the need to lock up the fascist criminals in President Trump\u2019s administration.",
+        "I associate those kinds of demands with mainstream liberals or alienated conservatives."
+      ],
+      "summary": "Readers sound off on charging Trump\u2019s cronies, the national debt",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on charging Trump\u2019s cronies, the national debt and student screen time",
+        "article_url": "https://www.nydailynews.com/2026/09/18/readers-sound-off-on-charging-trumps-cronies-the-national-debt-and-student-screen-time/",
+        "published_at": "2026-09-18"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-18T13:19:45.454402+00:00",
+      "verification": {
+        "article_title": "Readers sound off on charging Trump\u2019s cronies, the national debt and student screen time",
+        "article_url": "https://www.nydailynews.com/2026/09/18/readers-sound-off-on-charging-trumps-cronies-the-national-debt-and-student-screen-time/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-18T13:19:43.488662+00:00"
+      }
+    },
+    {
+      "headline": "How attacking data centers became smart politics for the left",
+      "bullets": [
+        "This column originally appeared in The Politics Brief, our weekly newsletter on the people, power and policies that shape New Yorkers' lives.",
+        "Sign up to get the full version where you can ask questions, share news tips and weigh in on the conversation."
+      ],
+      "summary": "How attacking data centers became smart politics for the left",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "How attacking data centers became smart politics for the left and right in New York",
+        "article_url": "https://gothamist.com/news/how-attacking-data-centers-became-smart-politics-for-the-left-and-right-in-new-york",
+        "published_at": "2026-09-17T15:08:02+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-18T13:19:45.546641+00:00",
+      "verification": {
+        "article_title": "How attacking data centers became smart politics for the left and right in New York",
+        "article_url": "https://gothamist.com/news/how-attacking-data-centers-became-smart-politics-for-the-left-and-right-in-new-york",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-18T13:19:43.599510+00:00"
+      }
+    },
+    {
+      "headline": "Fighting back on Trump\u2019s cruel public charge plan",
+      "bullets": [
+        "Donald Trump\u2019s ever-cruel administration is wrongly trying to put up even more roadblocks to block legal immigrants from getting green cards and a coalition of states and cities, led by New York in the persons of Attorney General Tish James and Mayor Mamdani, is correctly fighting back.",
+        "The U.S."
+      ],
+      "summary": "Fighting back on Trump\u2019s cruel public charge plan",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Fighting back on Trump\u2019s cruel public charge plan",
+        "article_url": "https://www.nydailynews.com/2026/09/18/fighting-back-on-trumps-cruel-public-charge-plan/",
+        "published_at": "2026-09-18"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-18T13:19:45.641016+00:00",
+      "verification": {
+        "article_title": "Fighting back on Trump\u2019s cruel public charge plan",
+        "article_url": "https://www.nydailynews.com/2026/09/18/fighting-back-on-trumps-cruel-public-charge-plan/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-18T13:19:43.699875+00:00"
+      }
+    },
+    {
+      "headline": "NYC braces for multiple daily protests as world leaders arrive",
+      "bullets": [
+        "As New York braces for multiple daily protests around this year\u2019s United Nations General Assembly, NYPD officers will flood midtown Manhattan to protect the public and controversial world leaders scheduled to attend, including President Trump and Israeli Prime Minister Benjamin Netanyahu, Police Commissioner Jessica Tisch said Thursday.",
+        "\u201cEvery year, we see an uptick in demonstrations and protests coinciding with the U.N."
+      ],
+      "summary": "NYC braces for multiple daily protests as world leaders arrive",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYC braces for multiple daily protests as world leaders arrive for UN General Assembly",
+        "article_url": "https://www.nydailynews.com/2026/09/17/nyc-braces-for-multiple-daily-protests-as-world-leaders-arrive-for-un-general-assembly/",
+        "published_at": "2026-09-17T21:20:48+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-18T13:19:45.735117+00:00",
+      "verification": {
+        "article_title": "NYC braces for multiple daily protests as world leaders arrive for UN General Assembly",
+        "article_url": "https://www.nydailynews.com/2026/09/17/nyc-braces-for-multiple-daily-protests-as-world-leaders-arrive-for-un-general-assembly/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-18T13:19:43.812020+00:00"
+      }
+    },
+    {
+      "headline": "A truck driver built a model of NYC with over",
+      "bullets": [
+        "For more than two decades, truck driver Joe Macken spent his free time building a massive scale model of his native New York City out of balsa wood and foam board.",
+        "When he finished, his daughter convinced him to show off the sprawling basement creation \u2014 encompassing over 800,000 structures \u2014 on TikTok."
+      ],
+      "summary": "A truck driver built a model of NYC with over",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "A truck driver built a model of NYC with over 800,000 structures for fun. Now it's a museum exhibit",
+        "article_url": "https://www.cbsnews.com/newyork/news/model-of-nyc-museum-exhibit-truck-driver-joe-macken/",
+        "published_at": "2026-09-18"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-18T13:19:45.829764+00:00",
+      "verification": {
+        "article_title": "A truck driver built a model of NYC with over 800,000 structures for fun. Now it's a museum exhibit",
+        "article_url": "https://www.cbsnews.com/newyork/news/model-of-nyc-museum-exhibit-truck-driver-joe-macken/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-18T13:19:43.940599+00:00"
+      }
+    },
+    {
+      "headline": "Hyperlocal New York City publications are having a moment",
+      "bullets": [
+        "As media evolves, individual reporters are starting their own.",
+        "A burgeoning slate of hyperlocal publications \u2014 heavily focused on Brooklyn, at least for now \u2014 now offer straight-to-your-inbox local news dispatches that lack Reddit's toxicity and NextDoor's gossipy vibes, are more reliable than Facebook, and provide better context than Citizen."
+      ],
+      "summary": "Hyperlocal New York City publications are having a moment",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Hyperlocal New York City publications are having a moment",
+        "article_url": "https://gothamist.com/arts-entertainment/hyperlocal-new-york-city-publications-are-having-a-moment",
+        "published_at": "2026-09-17T17:08:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-18T13:19:45.925902+00:00",
+      "verification": {
+        "article_title": "Hyperlocal New York City publications are having a moment",
+        "article_url": "https://gothamist.com/arts-entertainment/hyperlocal-new-york-city-publications-are-having-a-moment",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-18T13:19:44.052897+00:00"
+      }
+    },
+    {
+      "headline": "Starbucks resolves Florida DEI lawsuit with blockbuster agreement",
+      "bullets": [
+        "TALLAHASSEE, Fla.",
+        "- Starbucks will pay Florida $1 million and will not use race-and sex-based goals, quotas and preferences in employment practices companywide under a sweeping settlement ending the state's civil rights lawsuit against the coffee giant."
+      ],
+      "summary": "Starbucks resolves Florida DEI lawsuit with blockbuster agreement",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Starbucks resolves Florida DEI lawsuit with blockbuster agreement",
+        "article_url": "https://www.fox5ny.com/news/politics-starbucks-resolves-florida-dei-lawsuit-blockbuster-agreement",
+        "published_at": "2026-09-18"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-18T13:19:46.020145+00:00",
+      "verification": {
+        "article_title": "Starbucks resolves Florida DEI lawsuit with blockbuster agreement",
+        "article_url": "https://www.fox5ny.com/news/politics-starbucks-resolves-florida-dei-lawsuit-blockbuster-agreement",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-18T13:19:44.166404+00:00"
+      }
+    },
+    {
+      "headline": "Son who tracked down BK mom\u2019s alleged killer \u2014 his",
+      "bullets": [
+        "After assisting police in tracking down and arresting his mother\u2019s alleged killer, the son of a woman found dead in her Brooklyn apartment has managed to also recover her stolen goldendoodle, which he found with the murder suspect\u2019s aunt after staking out her apartment, according to cops and the slain woman\u2019s son.",
+        "Maria Ines Granda\u2019s lifeless body was discovered with head trauma inside her apartment on 79th St."
+      ],
+      "summary": "Son who tracked down BK mom\u2019s alleged killer \u2014 his",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Son who tracked down BK mom\u2019s alleged killer \u2014 his stepfather \u2014 also recovers her stolen dog",
+        "article_url": "https://www.nydailynews.com/2026/09/16/son-who-tracked-down-bk-moms-alleged-killer-his-stepfather-also-recovers-her-stolen-dog/",
+        "published_at": "2026-09-17T14:54:28+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-18T13:19:46.132916+00:00",
+      "verification": {
+        "article_title": "Son who tracked down BK mom\u2019s alleged killer \u2014 his stepfather \u2014 also recovers her stolen dog",
+        "article_url": "https://www.nydailynews.com/2026/09/16/son-who-tracked-down-bk-moms-alleged-killer-his-stepfather-also-recovers-her-stolen-dog/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-18T13:19:44.263873+00:00"
+      }
+    },
+    {
+      "headline": "Swerving van leads police to $2.65 million in stolen US",
+      "bullets": [
+        "Three Norwegians have been sentenced to prison over a money laundering case that finally cracked when police discovered $2.65 million in U.S.",
+        "silver coins during a traffic stop."
+      ],
+      "summary": "Swerving van leads police to $2.65 million in stolen US",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Swerving van leads police to $2.65 million in stolen US silver coins",
+        "article_url": "https://www.fox5ny.com/news/swerving-van-leads-police-2-65-million-stolen-us-silver-coins",
+        "published_at": "2026-09-18"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-18T13:19:46.228430+00:00",
+      "verification": {
+        "article_title": "Swerving van leads police to $2.65 million in stolen US silver coins",
+        "article_url": "https://www.fox5ny.com/news/swerving-van-leads-police-2-65-million-stolen-us-silver-coins",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-18T13:19:44.360750+00:00"
+      }
+    },
+    {
+      "headline": "Police Seek Man In Upper East Side Subway Groping",
+      "bullets": [
+        "Police Seek Man In Upper East Side Subway Groping The man grabbed a 27-year-old woman from behind at the Fifth Avenue-59th Street station before fleeing, police said.",
+        "UPPER EAST SIDE, NY \u2014 Police are searching for a man accused of groping a woman inside an Upper East Side subway station Tuesday afternoon."
+      ],
+      "summary": "Police Seek Man In Upper East Side Subway Groping",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Police Seek Man In Upper East Side Subway Groping",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/police-seek-man-upper-east-side-subway-groping",
+        "published_at": "2026-09-17T20:25:14+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-18T13:19:46.324076+00:00",
+      "verification": {
+        "article_title": "Police Seek Man In Upper East Side Subway Groping",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/police-seek-man-upper-east-side-subway-groping",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-18T13:19:44.459763+00:00"
+      }
+    },
+    {
+      "headline": "What we know about 7 women linked to investigation at",
+      "bullets": [
+        "Seven women have been connected to the investigation so far.",
+        "PHILADELPHIA (WPVI) -- Several women have been linked to the sprawling and ongoing investigation centered around 44-year-old Eugene Horsch, his late father Raymond \"R.C.\" Horsch and their home in Philadelphia's Olney section."
+      ],
+      "summary": "What we know about 7 women linked to investigation at",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "What we know about 7 women linked to investigation at home in Philadelphia neighborhood",
+        "article_url": "https://abc7ny.com/story/what-know-7-women-linked-investigation-horsch-home-philadelphias-olney-neighborhood/19844616/",
+        "published_at": "2026-09-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-18T13:19:46.421842+00:00",
+      "verification": {
+        "article_title": "What we know about 7 women linked to investigation at home in Philadelphia neighborhood",
+        "article_url": "https://abc7ny.com/story/what-know-7-women-linked-investigation-horsch-home-philadelphias-olney-neighborhood/19844616/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-18T13:19:44.550124+00:00"
+      }
+    },
+    {
+      "headline": "Americans' average household incomes are higher than ever, Census data",
+      "bullets": [
+        "The average household incomes in the United States hit a record high in 2025 based on recent Census Bureau data.",
+        "Americans' median household income was $87,460 in 2025, representing an increase of 2.6% from the 2024 estimate of $85,210."
+      ],
+      "summary": "Americans' average household incomes are higher than ever, Census data",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Americans' average household incomes are higher than ever, Census data shows",
+        "article_url": "https://www.fox5ny.com/news/americans-household-income-higher-data",
+        "published_at": "2026-09-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-18T13:19:46.513114+00:00",
+      "verification": {
+        "article_title": "Americans' average household incomes are higher than ever, Census data shows",
+        "article_url": "https://www.fox5ny.com/news/americans-household-income-higher-data",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-18T13:19:44.668367+00:00"
+      }
+    },
+    {
+      "headline": "NYC preschools are finally getting paid. Now they're bracing for",
+      "bullets": [
+        "After severe funding delays hampered the launch of Mayor Zohran Mamdani\u2019s free childcare program for 2-year-olds, many providers said they\u2019re finally seeing money in their accounts.",
+        "But others said they\u2019re still waiting for funds more than a week into the school year."
+      ],
+      "summary": "NYC preschools are finally getting paid. Now they're bracing for",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC preschools are finally getting paid. Now they're bracing for next month.",
+        "article_url": "https://gothamist.com/news/nyc-preschools-are-finally-getting-paid-now-theyre-bracing-for-next-month",
+        "published_at": "2026-09-18T10:00:55+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-18T13:19:46.607831+00:00",
+      "verification": {
+        "article_title": "NYC preschools are finally getting paid. Now they're bracing for next month.",
+        "article_url": "https://gothamist.com/news/nyc-preschools-are-finally-getting-paid-now-theyre-bracing-for-next-month",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-18T13:19:44.759849+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: 3rd Annual Step Up For Fashion on Madison",
+      "bullets": [
+        "CFDA and Madison Avenue B.I.D.",
+        "Host 3rd Annual Step Up for Fashion on Madison Avenue Benefiting the CFDA Scholarship Fund Saturday, September 19."
+      ],
+      "summary": "Local Event: 3rd Annual Step Up For Fashion on Madison",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: 3rd Annual Step Up For Fashion on Madison Avenue",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260919/c34618ef-3fe0-413c-9d6d-b65b805e25f7/3rd-annual-step-up-for-fashion-on-madison-avenue",
+        "published_at": "2026-09-20T02:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-18T13:19:46.701695+00:00",
+      "verification": {
+        "article_title": "Local Event: 3rd Annual Step Up For Fashion on Madison Avenue",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260919/c34618ef-3fe0-413c-9d6d-b65b805e25f7/3rd-annual-step-up-for-fashion-on-madison-avenue",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-18T13:19:44.853678+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on charging Trump\u2019s cronies, the national debt",
+      "bullets": [
+        "Leftists: Champion post-Trump prosecution Granby, Conn.: As a longtime observer and recent member of the Democratic Socialists of America, I\u2019ve found it strange that the leftist group doesn\u2019t seem to do messaging about the need to lock up the fascist criminals in President Trump\u2019s administration.",
+        "I associate those kinds of demands with mainstream liberals or alienated conservatives."
+      ],
+      "summary": "Readers sound off on charging Trump\u2019s cronies, the national debt",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on charging Trump\u2019s cronies, the national debt and student screen time",
+        "article_url": "https://www.nydailynews.com/2026/09/18/readers-sound-off-on-charging-trumps-cronies-the-national-debt-and-student-screen-time/",
+        "published_at": "2026-09-18"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-18T13:19:46.797233+00:00",
+      "verification": {
+        "article_title": "Readers sound off on charging Trump\u2019s cronies, the national debt and student screen time",
+        "article_url": "https://www.nydailynews.com/2026/09/18/readers-sound-off-on-charging-trumps-cronies-the-national-debt-and-student-screen-time/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-18T13:19:44.984540+00:00"
+      }
+    },
+    {
+      "headline": "NYC Mayor Zohran Mamdani touts \"sewer socialism\": 17 new modular",
+      "bullets": [
+        "Seventeen new public bathrooms are being installed across New York City, Mayor Zohran Mamdani announced Wednesday.",
+        "Throne Labs has been chosen to fulfill the $4 million, yearlong modular public bathroom pilot program."
+      ],
+      "summary": "NYC Mayor Zohran Mamdani touts \"sewer socialism\": 17 new modular",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "NYC Mayor Zohran Mamdani touts \"sewer socialism\": 17 new modular public bathrooms being installed citywide",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-17-new-public-bathrooms/",
+        "published_at": "2026-09-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-18T13:19:46.891526+00:00",
+      "verification": {
+        "article_title": "NYC Mayor Zohran Mamdani touts \"sewer socialism\": 17 new modular public bathrooms being installed citywide",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-17-new-public-bathrooms/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-18T13:19:45.079783+00:00"
+      }
+    },
+    {
+      "headline": "16 best duck boots for women",
+      "bullets": [
+        "What are the best duck boots for women?",
+        "In cold, wet weather, there are few things worse than walking through puddles or snow and winding up with soggy feet."
+      ],
+      "summary": "16 best duck boots for women",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "16 best duck boots for women",
+        "article_url": "https://www.nydailynews.com/2026/09/17/16-best-duck-boots-for-women/",
+        "published_at": "2026-09-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-18T13:19:46.989069+00:00",
+      "verification": {
+        "article_title": "16 best duck boots for women",
+        "article_url": "https://www.nydailynews.com/2026/09/17/16-best-duck-boots-for-women/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-18T13:19:45.171359+00:00"
+      }
+    },
+    {
+      "headline": "Exercise in style with the best Puma sweatpants",
+      "bullets": [
+        "Which Puma sweatpants are best?",
+        "Founded in Germany in 1948, Puma is a mainstay in the world of sportswear, so if you\u2019re looking for sweats, this brand is a great option."
+      ],
+      "summary": "Exercise in style with the best Puma sweatpants",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Exercise in style with the best Puma sweatpants",
+        "article_url": "https://www.nydailynews.com/2026/09/17/exercise-in-style-with-the-best-puma-sweatpants/",
+        "published_at": "2026-09-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-18T13:19:47.083741+00:00",
+      "verification": {
+        "article_title": "Exercise in style with the best Puma sweatpants",
+        "article_url": "https://www.nydailynews.com/2026/09/17/exercise-in-style-with-the-best-puma-sweatpants/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-18T13:19:45.262880+00:00"
+      }
+    }
+  ]
+}
