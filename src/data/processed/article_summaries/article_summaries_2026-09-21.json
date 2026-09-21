@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-09-21T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-09-21.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Readers sound off on anti-Mamdani sanctimony, social media risks and",
+      "bullets": [
+        "Israel\u2019s sins are what require repentance Manhattan: Here we go again.",
+        "Another guest columnist rabbi, this time Marc Schneier (photo), making demands of Mayor Mamdani using Jewish law and custom as the basis (\u201cMayor Mamdani, repentance is calling you,\u201d op-ed, Sept."
+      ],
+      "summary": "Readers sound off on anti-Mamdani sanctimony, social media risks and",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on anti-Mamdani sanctimony, social media risks and Gayle King",
+        "article_url": "https://www.nydailynews.com/2026/09/21/readers-sound-off-on-anti-mamdani-sanctimony-social-media-risks-and-gayle-king/",
+        "published_at": "2026-09-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-21T15:35:00.461967+00:00",
+      "verification": {
+        "article_title": "Readers sound off on anti-Mamdani sanctimony, social media risks and Gayle King",
+        "article_url": "https://www.nydailynews.com/2026/09/21/readers-sound-off-on-anti-mamdani-sanctimony-social-media-risks-and-gayle-king/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-21T15:34:57.873689+00:00"
+      }
+    },
+    {
+      "headline": "Ten Must-See Art Exhibitions in Manhattan this Fall",
+      "bullets": [
+        "Ten Must-See Art Exhibitions in Manhattan this Fall From abstract expressionists at the Met to Renaissance masters from the Bronze Age rarely seen in New York at the reopened Frick, this autumn\u00e2s art shows will be as stunning as the season\u00e2s foliage.",
+        "Art is long, but autumn will be here and gone before you know it."
+      ],
+      "summary": "Ten Must-See Art Exhibitions in Manhattan this Fall",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Ten Must-See Art Exhibitions in Manhattan this Fall",
+        "article_url": "https://www.ourtownny.com/city-arts/ten-must-see-art-exhibitions-in-manhattan-this-fall-JB6201920",
+        "published_at": "2026-09-20"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-21T15:35:00.584653+00:00",
+      "verification": {
+        "article_title": "Ten Must-See Art Exhibitions in Manhattan this Fall",
+        "article_url": "https://www.ourtownny.com/city-arts/ten-must-see-art-exhibitions-in-manhattan-this-fall-JB6201920",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-21T15:34:58.046481+00:00"
+      }
+    },
+    {
+      "headline": "NYC braces for traffic, protests during UN General Assembly",
+      "bullets": [
+        "NEW YORK CITY (WABC) -- Thousands of NYPD officers will be deployed across New York City this week as world leaders gather for the United Nations General Assembly, an event city officials describe as taking place in a heightened security environment.",
+        "Mayor Zohran Mamdani said last week there are no credible security threats, but officials are preparing for extensive security operations as representatives from nearly 200 countries arrive in the city."
+      ],
+      "summary": "NYC braces for traffic, protests during UN General Assembly",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "NYC braces for traffic, protests during UN General Assembly",
+        "article_url": "https://abc7ny.com/post/nypd-deploys-thousands-officers-general-assembly/19854244/",
+        "published_at": "2026-09-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-21T15:35:00.708224+00:00",
+      "verification": {
+        "article_title": "NYC braces for traffic, protests during UN General Assembly",
+        "article_url": "https://abc7ny.com/post/nypd-deploys-thousands-officers-general-assembly/19854244/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-21T15:34:58.169241+00:00"
+      }
+    },
+    {
+      "headline": "UN General Assembly 2026: Trump-Mamdani meeting, NYC gridlock and street",
+      "bullets": [
+        "NEW YORK - The United Nations General Assembly has arrived in New York City, launching a week of high-level international diplomacy, heightened security, and traffic gridlock.",
+        "As world leaders converge on Manhattan, here is what you need to know about key political meetings, security measures, and travel advisories for the week ahead."
+      ],
+      "summary": "UN General Assembly 2026: Trump-Mamdani meeting, NYC gridlock and street",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "UN General Assembly 2026: Trump-Mamdani meeting, NYC gridlock and street closures",
+        "article_url": "https://www.fox5ny.com/news/unga-trump-mamdani-meeting-nyc-gridlock-alert",
+        "published_at": "2026-09-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-21T15:35:00.828430+00:00",
+      "verification": {
+        "article_title": "UN General Assembly 2026: Trump-Mamdani meeting, NYC gridlock and street closures",
+        "article_url": "https://www.fox5ny.com/news/unga-trump-mamdani-meeting-nyc-gridlock-alert",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-21T15:34:58.343940+00:00"
+      }
+    },
+    {
+      "headline": "Don\u2019t impose a new NYC \u2018delivery tax\u2019",
+      "bullets": [
+        "New Yorkers are already paying more for groceries, rent and everyday goods.",
+        "We have watched our bills climb and learned to make due with less and less."
+      ],
+      "summary": "Don\u2019t impose a new NYC \u2018delivery tax\u2019",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Don\u2019t impose a new NYC \u2018delivery tax\u2019",
+        "article_url": "https://www.nydailynews.com/2026/09/21/dont-impose-a-new-nyc-delivery-tax/",
+        "published_at": "2026-09-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-21T15:35:00.959873+00:00",
+      "verification": {
+        "article_title": "Don\u2019t impose a new NYC \u2018delivery tax\u2019",
+        "article_url": "https://www.nydailynews.com/2026/09/21/dont-impose-a-new-nyc-delivery-tax/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-21T15:34:58.509702+00:00"
+      }
+    },
+    {
+      "headline": "Hochul\u2019s rebate checks seek to buy votes of New Yorkers",
+      "bullets": [
+        "Starting today, Gov.",
+        "Hochul is engaging in an expensive political gimmick of mailing out to 8.2 million New York households checks of $100, $150 or $200, touted as energy rebates."
+      ],
+      "summary": "Hochul\u2019s rebate checks seek to buy votes of New Yorkers",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Hochul\u2019s rebate checks seek to buy votes of New Yorkers",
+        "article_url": "https://www.nydailynews.com/2026/09/21/hochuls-rebate-checks-seek-to-buy-votes-of-new-yorkers/",
+        "published_at": "2026-09-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-21T15:35:01.081204+00:00",
+      "verification": {
+        "article_title": "Hochul\u2019s rebate checks seek to buy votes of New Yorkers",
+        "article_url": "https://www.nydailynews.com/2026/09/21/hochuls-rebate-checks-seek-to-buy-votes-of-new-yorkers/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-21T15:34:58.626426+00:00"
+      }
+    },
+    {
+      "headline": "Heated legal dispute over 'hot garbage' smell in a $5,850",
+      "bullets": [
+        "How far would you go to get rid of an awful stench in your $5,850-a-month apartment that your landlord says doesn\u2019t exist?",
+        "The answer, according to David Gobaud, is pretty far."
+      ],
+      "summary": "Heated legal dispute over 'hot garbage' smell in a $5,850",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Heated legal dispute over 'hot garbage' smell in a $5,850 Midtown luxury apartment",
+        "article_url": "https://gothamist.com/news/heated-legal-dispute-over-hot-garbage-smell-in-a-5850-midtown-luxury-apartment",
+        "published_at": "2026-09-21T10:00:58+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-21T15:35:01.207203+00:00",
+      "verification": {
+        "article_title": "Heated legal dispute over 'hot garbage' smell in a $5,850 Midtown luxury apartment",
+        "article_url": "https://gothamist.com/news/heated-legal-dispute-over-hot-garbage-smell-in-a-5850-midtown-luxury-apartment",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-21T15:34:58.744883+00:00"
+      }
+    },
+    {
+      "headline": "Friends and family mourn \u2018sassy, spicy\u2019 NYC teen who died",
+      "bullets": [
+        "The twin sister and family of teen Citi Bike crash victim Daria Serkov were dining with friends, eating Mexican food and playing games, when a phone call shattered their joyful night, a family friend told the Daily News.",
+        "\u201cThis is a parent\u2019s worst nightmare,\u201d said Christine Janssen, a friend of 15-year-old Daria\u2019s mother, at a candlelight vigil for the victim Saturday night."
+      ],
+      "summary": "Friends and family mourn \u2018sassy, spicy\u2019 NYC teen who died",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Friends and family mourn \u2018sassy, spicy\u2019 NYC teen who died on Citi Bike in crash with truck",
+        "article_url": "https://www.nydailynews.com/2026/09/20/friends-and-family-mourn-sassy-spicy-nyc-teen-who-died-on-citi-bike-in-crash-with-truck/",
+        "published_at": "2026-09-20T21:08:54+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-21T15:35:01.332302+00:00",
+      "verification": {
+        "article_title": "Friends and family mourn \u2018sassy, spicy\u2019 NYC teen who died on Citi Bike in crash with truck",
+        "article_url": "https://www.nydailynews.com/2026/09/20/friends-and-family-mourn-sassy-spicy-nyc-teen-who-died-on-citi-bike-in-crash-with-truck/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-21T15:34:58.865873+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on anti-Mamdani sanctimony, social media risks and",
+      "bullets": [
+        "Israel\u2019s sins are what require repentance Manhattan: Here we go again.",
+        "Another guest columnist rabbi, this time Marc Schneier (photo), making demands of Mayor Mamdani using Jewish law and custom as the basis (\u201cMayor Mamdani, repentance is calling you,\u201d op-ed, Sept."
+      ],
+      "summary": "Readers sound off on anti-Mamdani sanctimony, social media risks and",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on anti-Mamdani sanctimony, social media risks and Gayle King",
+        "article_url": "https://www.nydailynews.com/2026/09/21/readers-sound-off-on-anti-mamdani-sanctimony-social-media-risks-and-gayle-king/",
+        "published_at": "2026-09-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-21T15:35:01.455767+00:00",
+      "verification": {
+        "article_title": "Readers sound off on anti-Mamdani sanctimony, social media risks and Gayle King",
+        "article_url": "https://www.nydailynews.com/2026/09/21/readers-sound-off-on-anti-mamdani-sanctimony-social-media-risks-and-gayle-king/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-21T15:34:58.989532+00:00"
+      }
+    },
+    {
+      "headline": "18 suspects in Haitian president\u2019s assassination face extradition to US",
+      "bullets": [
+        "PORT-AU-PRINCE, Haiti - Eighteen suspects arrested in connection with the July 2021 assassination of Haitian President Jovenel Mo\u00efse were awaiting extradition to the United States Sunday, ending a lengthy judicial process in Haiti over a killing that shocked the troubled Caribbean nation.",
+        "The suspects will face trial in Florida, according to Jason Reding Qui\u00f1ones, U.S."
+      ],
+      "summary": "18 suspects in Haitian president\u2019s assassination face extradition to US",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "18 suspects in Haitian president\u2019s assassination face extradition to US for Florida trial",
+        "article_url": "https://www.fox5ny.com/news/haitian-presidents-assassination-face-extradition-us-florida-trial",
+        "published_at": "2026-09-20"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-21T15:35:01.578953+00:00",
+      "verification": {
+        "article_title": "18 suspects in Haitian president\u2019s assassination face extradition to US for Florida trial",
+        "article_url": "https://www.fox5ny.com/news/haitian-presidents-assassination-face-extradition-us-florida-trial",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-21T15:34:59.180713+00:00"
+      }
+    },
+    {
+      "headline": "Patrick Clancy speaks out after mistrial in ex-wife Lindsay Clancy's",
+      "bullets": [
+        "He reflects on the loss of his three children and the years since their deaths.",
+        "Patrick Clancy is speaking out following the mistrial in his ex-wife's high-profile murder case in the killing of their three young children."
+      ],
+      "summary": "Patrick Clancy speaks out after mistrial in ex-wife Lindsay Clancy's",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Patrick Clancy speaks out after mistrial in ex-wife Lindsay Clancy's murder trial",
+        "article_url": "https://abc7ny.com/story/patrick-clancy-speaks-mistrial-ex-wife-lindsay-clancys-murder-trial/19854466/",
+        "published_at": "2026-09-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-21T15:35:01.701231+00:00",
+      "verification": {
+        "article_title": "Patrick Clancy speaks out after mistrial in ex-wife Lindsay Clancy's murder trial",
+        "article_url": "https://abc7ny.com/story/patrick-clancy-speaks-mistrial-ex-wife-lindsay-clancys-murder-trial/19854466/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-21T15:34:59.301718+00:00"
+      }
+    },
+    {
+      "headline": "Presley Gerber, son of Cindy Crawford and Rande Gerber, dies",
+      "bullets": [
+        "Presley Gerber, the only son of supermodel Cindy Crawford and her husband, Rande Gerber, died Sunday.",
+        "The model was 27."
+      ],
+      "summary": "Presley Gerber, son of Cindy Crawford and Rande Gerber, dies",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Presley Gerber, son of Cindy Crawford and Rande Gerber, dies at 27",
+        "article_url": "https://www.nydailynews.com/2026/09/21/presley-gerber-dead-cindy-crawford-rande-gerber-son/",
+        "published_at": "2026-09-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-21T15:35:01.823538+00:00",
+      "verification": {
+        "article_title": "Presley Gerber, son of Cindy Crawford and Rande Gerber, dies at 27",
+        "article_url": "https://www.nydailynews.com/2026/09/21/presley-gerber-dead-cindy-crawford-rande-gerber-son/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-21T15:34:59.443325+00:00"
+      }
+    },
+    {
+      "headline": "ICE agent shoots and wounds man in Austin, Texas, sparking",
+      "bullets": [
+        "A federal immigration agent shot and wounded a man on Sunday in Austin, Texas, authorities said.",
+        "The shooting occurred shortly before 1 p.m."
+      ],
+      "summary": "ICE agent shoots and wounds man in Austin, Texas, sparking",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "ICE agent shoots and wounds man in Austin, Texas, sparking demands for full investigation",
+        "article_url": "https://www.cbsnews.com/newyork/news/austin-ice-shooting-investigation/",
+        "published_at": "2026-09-20"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-21T15:35:01.948739+00:00",
+      "verification": {
+        "article_title": "ICE agent shoots and wounds man in Austin, Texas, sparking demands for full investigation",
+        "article_url": "https://www.cbsnews.com/newyork/news/austin-ice-shooting-investigation/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-21T15:34:59.565309+00:00"
+      }
+    },
+    {
+      "headline": "Ex-husband and in-laws of Hong Kong socialite Abby Choi stand",
+      "bullets": [
+        "HONG KONG -- A murder trial began Monday for the former husband and in-laws of Hong Kong socialite Abby Choi more than three years after the discovery of parts of her dismembered body at a house shocked the city where violent crime is rare.",
+        "Choi's ex-husband Alex Kwong, his father Kwong Kau and his brother Anthony Kwong were accused of killing Choi in February 2023."
+      ],
+      "summary": "Ex-husband and in-laws of Hong Kong socialite Abby Choi stand",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Ex-husband and in-laws of Hong Kong socialite Abby Choi stand trial in her killing",
+        "article_url": "https://abc7ny.com/story/abby-choi-case-ex-husband-alex-kwong-laws-hong-kong-socialite-stand-trial-killing/19854596/",
+        "published_at": "2026-09-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-21T15:35:02.072025+00:00",
+      "verification": {
+        "article_title": "Ex-husband and in-laws of Hong Kong socialite Abby Choi stand trial in her killing",
+        "article_url": "https://abc7ny.com/story/abby-choi-case-ex-husband-alex-kwong-laws-hong-kong-socialite-stand-trial-killing/19854596/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-21T15:34:59.685093+00:00"
+      }
+    },
+    {
+      "headline": "Put away those scarves. New York City is in for",
+      "bullets": [
+        "New York City may be getting a second summer.",
+        "Fall begins with the equinox on Tuesday, but don't pull out the scarves and jackets just yet."
+      ],
+      "summary": "Put away those scarves. New York City is in for",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Put away those scarves. New York City is in for a mild fall and winter.",
+        "article_url": "https://gothamist.com/news/put-away-those-scarves-new-york-city-is-in-for-a-mild-fall-and-winter",
+        "published_at": "2026-09-21T13:00:56+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-21T15:35:02.195211+00:00",
+      "verification": {
+        "article_title": "Put away those scarves. New York City is in for a mild fall and winter.",
+        "article_url": "https://gothamist.com/news/put-away-those-scarves-new-york-city-is-in-for-a-mild-fall-and-winter",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-21T15:34:59.804232+00:00"
+      }
+    },
+    {
+      "headline": "NYC Mayor Zohran Mamdani touts \"sewer socialism\": 17 new modular",
+      "bullets": [
+        "Seventeen new public bathrooms are being installed across New York City, Mayor Zohran Mamdani announced Wednesday.",
+        "Throne Labs has been chosen to fulfill the $4 million, yearlong modular public bathroom pilot program."
+      ],
+      "summary": "NYC Mayor Zohran Mamdani touts \"sewer socialism\": 17 new modular",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "NYC Mayor Zohran Mamdani touts \"sewer socialism\": 17 new modular public bathrooms being installed citywide",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-17-new-public-bathrooms/",
+        "published_at": "2026-09-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-21T15:35:02.318986+00:00",
+      "verification": {
+        "article_title": "NYC Mayor Zohran Mamdani touts \"sewer socialism\": 17 new modular public bathrooms being installed citywide",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-17-new-public-bathrooms/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-21T15:34:59.923749+00:00"
+      }
+    },
+    {
+      "headline": "Men Open Up\u00e2Finally!\u00e2 in \u00e2The Other Half,\u00e2 a Book About",
+      "bullets": [
+        "Men Open Up\u00e2Finally!\u00e2 in \u00e2The Other Half,\u00e2 a Book About Life After 50 \u00e2The Other Half: Forty Men Reveal Life After Fifty\u00e2 shares interviews with men, from fishmongers to the famous, whose candid answers challenge stereotypes about masculinity, aging, and success, accompanied by author Ellen Warner\u00e2s photographs.",
+        "If you want to know what makes the men tick, don\u00e2t look to some millennial sharing his \u00e2vast\u00e2 life experience on Instagram."
+      ],
+      "summary": "Men Open Up\u00e2Finally!\u00e2 in \u00e2The Other Half,\u00e2 a Book About",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Men Open Up\u00e2Finally!\u00e2 in \u00e2The Other Half,\u00e2 a Book About Life After 50",
+        "article_url": "https://www.ourtownny.com/city-arts/men-open-up-finally-in-the-other-half-a-book-about-life-after-50-ML6195718",
+        "published_at": "2026-09-20"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-21T15:35:02.441416+00:00",
+      "verification": {
+        "article_title": "Men Open Up\u00e2Finally!\u00e2 in \u00e2The Other Half,\u00e2 a Book About Life After 50",
+        "article_url": "https://www.ourtownny.com/city-arts/men-open-up-finally-in-the-other-half-a-book-about-life-after-50-ML6195718",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-21T15:35:00.044667+00:00"
+      }
+    },
+    {
+      "headline": "Pope Leo XIV in France to find a secular country",
+      "bullets": [
+        "VATICAN CITY -- When an ailing Pope John Paul II visited the French shrine at Lourdes in 2004, on his last foreign trip, he delivered a forceful condemnation of abortion and euthanasia as he gasped for air during Mass.",
+        "Pope Leo XIV is expected to make a similar appeal to protect life when he visits France this weekend and also prays at Lourdes."
+      ],
+      "summary": "Pope Leo XIV in France to find a secular country",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Pope Leo XIV in France to find a secular country at odds with Catholic teaching on life",
+        "article_url": "https://abc7ny.com/story/pope-leo-xiv-france-find-secular-country-odds-catholic-teaching-life/19854780/",
+        "published_at": "2026-09-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-21T15:35:02.564740+00:00",
+      "verification": {
+        "article_title": "Pope Leo XIV in France to find a secular country at odds with Catholic teaching on life",
+        "article_url": "https://abc7ny.com/story/pope-leo-xiv-france-find-secular-country-odds-catholic-teaching-life/19854780/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-21T15:35:00.166244+00:00"
+      }
+    }
+  ]
+}
