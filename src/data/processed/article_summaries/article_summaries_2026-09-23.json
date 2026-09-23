@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-09-23T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-09-23.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Mamdani, Trump discuss housing, affordability at Gracie Mansion meeting",
+      "bullets": [
+        "Mayor Mamdani and President Trump said Monday they\u2019d advance a plan to build housing at Sunnyside Yards after meeting at Gracie Mansion, although they didn\u2019t give any specific commitments.",
+        "Mamdani said they also spoke about \u201caffordability,\u201d the importance of the New York Police Department and the president\u2019s decision to strip Temporary Protected Status from immigrants originating from countries including Haiti."
+      ],
+      "summary": "Mamdani, Trump discuss housing, affordability at Gracie Mansion meeting",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Mamdani, Trump discuss housing, affordability at Gracie Mansion meeting",
+        "article_url": "https://www.nydailynews.com/2026/09/21/mamdani-trump-gracie-mansion-meeting-sunnyside-yards/",
+        "published_at": "2026-09-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-23T14:02:52.227661+00:00",
+      "verification": {
+        "article_title": "Mamdani, Trump discuss housing, affordability at Gracie Mansion meeting",
+        "article_url": "https://www.nydailynews.com/2026/09/21/mamdani-trump-gracie-mansion-meeting-sunnyside-yards/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-23T14:02:49.443555+00:00"
+      }
+    },
+    {
+      "headline": "Iran War Updates: U.S. and Iran hold first talks since",
+      "bullets": [
+        "What to know about the Iran war today: - Iranian state media say the country's president will address the United Nations General Assembly Wednesday, after President Trump said the went well the previous day.",
+        "- The Iran-backed Houthi rebels threatened Wednesday to attack U.S."
+      ],
+      "summary": "Iran War Updates: U.S. and Iran hold first talks since",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Iran War Updates: U.S. and Iran hold first talks since June after Trump threatens regime with annihilation",
+        "article_url": "https://www.cbsnews.com/newyork/live-updates/iran-war-trump-un-speech-annihilate-threat-talks-resume/",
+        "published_at": "2026-09-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-23T14:02:52.374160+00:00",
+      "verification": {
+        "article_title": "Iran War Updates: U.S. and Iran hold first talks since June after Trump threatens regime with annihilation",
+        "article_url": "https://www.cbsnews.com/newyork/live-updates/iran-war-trump-un-speech-annihilate-threat-talks-resume/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-23T14:02:49.612492+00:00"
+      }
+    },
+    {
+      "headline": "NJ fines data center $1 million for illegally powering facility",
+      "bullets": [
+        "The Sherrill administration has fined a large data center in New Jersey over $1 million for installing and operating 62 large gas powered generators without state permits.",
+        "The penalty comes as growth of the data center industry, and the energy it requires, has been blamed for rising electricity prices in the state and sparked environmental concerns."
+      ],
+      "summary": "NJ fines data center $1 million for illegally powering facility",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NJ fines data center $1 million for illegally powering facility with gas generators",
+        "article_url": "https://gothamist.com/news/nj-fines-data-center-1-million-for-illegally-powering-facility-with-gas-generators",
+        "published_at": "2026-09-22T20:29:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-23T14:02:52.499066+00:00",
+      "verification": {
+        "article_title": "NJ fines data center $1 million for illegally powering facility with gas generators",
+        "article_url": "https://gothamist.com/news/nj-fines-data-center-1-million-for-illegally-powering-facility-with-gas-generators",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-23T14:02:49.784302+00:00"
+      }
+    },
+    {
+      "headline": "Trump's endorsement of Blakeman could hurt his chances in governor's",
+      "bullets": [
+        "NEW YORK - The majority of likely voters say that the president's endorsement of Bruce Blakeman will hurt his campaign for the governor's office, according to the latest Siena poll.",
+        "Latest on NY political races By the numbers: A Siena poll released today, Sept."
+      ],
+      "summary": "Trump's endorsement of Blakeman could hurt his chances in governor's",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Trump's endorsement of Blakeman could hurt his chances in governor's race, poll says",
+        "article_url": "https://www.fox5ny.com/election/ny-election-poll-midterms-politics-bruce-blakeman-kathy-hochul-donald-trump-zohran-mamdani",
+        "published_at": "2026-09-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-23T14:02:52.624735+00:00",
+      "verification": {
+        "article_title": "Trump's endorsement of Blakeman could hurt his chances in governor's race, poll says",
+        "article_url": "https://www.fox5ny.com/election/ny-election-poll-midterms-politics-bruce-blakeman-kathy-hochul-donald-trump-zohran-mamdani",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-23T14:02:49.975025+00:00"
+      }
+    },
+    {
+      "headline": "NYC\u2019s creative workers are increasingly self-employed, report says",
+      "bullets": [
+        "Increasingly, being an artist in New York City means being self-employed.",
+        "So says a new report published Tuesday by think tank Center For An Urban Future, which found a recent shift from traditional employment to freelance labor among Big Apple creatives."
+      ],
+      "summary": "NYC\u2019s creative workers are increasingly self-employed, report says",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC\u2019s creative workers are increasingly self-employed, report says",
+        "article_url": "https://gothamist.com/arts-entertainment/nycs-creative-workers-are-increasingly-self-employed-report-says",
+        "published_at": "2026-09-22T16:00:54+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-23T14:02:52.758080+00:00",
+      "verification": {
+        "article_title": "NYC\u2019s creative workers are increasingly self-employed, report says",
+        "article_url": "https://gothamist.com/arts-entertainment/nycs-creative-workers-are-increasingly-self-employed-report-says",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-23T14:02:50.174912+00:00"
+      }
+    },
+    {
+      "headline": "\u2018Mr. Immaculate\u2019 arrested for raping 2 NYC women, forcing 1",
+      "bullets": [
+        "A 40-year-old predator who goes by the online handle \u201cMr.",
+        "Immaculate\u201d was arrested for raping two women \u2014 one of whom he forced into sex work \u2014 inside his Manhattan apartment after meeting them on an online livestreaming app, prosecutors said Tuesday."
+      ],
+      "summary": "\u2018Mr. Immaculate\u2019 arrested for raping 2 NYC women, forcing 1",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "\u2018Mr. Immaculate\u2019 arrested for raping 2 NYC women, forcing 1 into sex trade: DA",
+        "article_url": "https://www.nydailynews.com/2026/09/22/mr-immaculate-arrested-for-raping-2-nyc-women-forcing-1-into-sex-trade-da/",
+        "published_at": "2026-09-22T21:18:24+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-23T14:02:52.882873+00:00",
+      "verification": {
+        "article_title": "\u2018Mr. Immaculate\u2019 arrested for raping 2 NYC women, forcing 1 into sex trade: DA",
+        "article_url": "https://www.nydailynews.com/2026/09/22/mr-immaculate-arrested-for-raping-2-nyc-women-forcing-1-into-sex-trade-da/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-23T14:02:50.339101+00:00"
+      }
+    },
+    {
+      "headline": "Across America Patch - Breaking News, Local News, Schools, Weather,",
+      "bullets": [
+        "Across America|News| CVS is accused of letting third-party companies collect information from its website, potentially compromising sensitive health information.",
+        "The corn mazes were planned before the \u201cJolene\u201d crooner\u2019s death and will benefit her Imagination Library foundation."
+      ],
+      "summary": "Across America Patch - Breaking News, Local News, Schools, Weather,",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Across America Patch - Breaking News, Local News, Schools, Weather, Sports and Shopping",
+        "article_url": "https://patch.com/us/across-america",
+        "published_at": "2026-09-22T15:29:58+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-23T14:02:53.013748+00:00",
+      "verification": {
+        "article_title": "Across America Patch - Breaking News, Local News, Schools, Weather, Sports and Shopping",
+        "article_url": "https://patch.com/us/across-america",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-23T14:02:50.468599+00:00"
+      }
+    },
+    {
+      "headline": "Harvey Weinstein set to be sentenced for NYC sex assault",
+      "bullets": [
+        "NEW YORK - The first time Harvey Weinstein was sentenced to prison, reporters, advocates and the curious public crammed the courtroom to witness the disgraced Hollywood honcho\u2019s #MeToo reckoning.",
+        "Hours later, the world began shutting down as the COVID-19 pandemic raged."
+      ],
+      "summary": "Harvey Weinstein set to be sentenced for NYC sex assault",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Harvey Weinstein set to be sentenced for NYC sex assault after 6-year legal battle",
+        "article_url": "https://www.fox5ny.com/news/harvey-weinstein-nyc-resentencing-case-details-miriam-haley",
+        "published_at": "2026-09-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-23T14:02:53.135514+00:00",
+      "verification": {
+        "article_title": "Harvey Weinstein set to be sentenced for NYC sex assault after 6-year legal battle",
+        "article_url": "https://www.fox5ny.com/news/harvey-weinstein-nyc-resentencing-case-details-miriam-haley",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-23T14:02:50.645116+00:00"
+      }
+    },
+    {
+      "headline": "Nor'easter to batter East Coast with severe flooding, high winds:",
+      "bullets": [
+        "NEW YORK CITY - A developing nor'easter is set to impact millions along the East Coast this week, bringing a multi-day threat of strong winds, pounding surf, and significant coastal flooding through the weekend.",
+        "What we know: As the low-pressure system strengthens off the Mid-Atlantic, major metro areas including New York City, Philadelphia, and Washington D.C."
+      ],
+      "summary": "Nor'easter to batter East Coast with severe flooding, high winds:",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Nor'easter to batter East Coast with severe flooding, high winds: When to expect the storm",
+        "article_url": "https://www.fox5ny.com/weather/noreaster-batter-east-coast-severe-flooding-high-winds-when-expect-storm",
+        "published_at": "2026-09-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-23T14:02:53.264509+00:00",
+      "verification": {
+        "article_title": "Nor'easter to batter East Coast with severe flooding, high winds: When to expect the storm",
+        "article_url": "https://www.fox5ny.com/weather/noreaster-batter-east-coast-severe-flooding-high-winds-when-expect-storm",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-23T14:02:50.773839+00:00"
+      }
+    },
+    {
+      "headline": "NYPD cleared in death of man tackled by cops in",
+      "bullets": [
+        "New York Attorney General Letitia James said Tuesday that she will not pursue criminal charges against police in the case of a man who died after he was tackled to the ground by cops during a pursuit inside Manhattan\u2019s Riverside Park.",
+        "James\u2019 Office of Special Investigation found no evidence that the officer involved intended to injure Shelton Ennis, an ex-con with an extensive criminal history, when he tackled him, and cleared the officer of all criminal liability."
+      ],
+      "summary": "NYPD cleared in death of man tackled by cops in",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYPD cleared in death of man tackled by cops in Manhattan\u2019s Riverside Park",
+        "article_url": "https://www.nydailynews.com/2026/09/22/nypd-cleared-in-death-of-man-tackled-by-cops-in-manhattans-riverside-park/",
+        "published_at": "2026-09-22T23:09:29+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-23T14:02:53.391797+00:00",
+      "verification": {
+        "article_title": "NYPD cleared in death of man tackled by cops in Manhattan\u2019s Riverside Park",
+        "article_url": "https://www.nydailynews.com/2026/09/22/nypd-cleared-in-death-of-man-tackled-by-cops-in-manhattans-riverside-park/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-23T14:02:50.901135+00:00"
+      }
+    },
+    {
+      "headline": "Nearly 200K NY home care workers to decide whether to",
+      "bullets": [
+        "Nearly 200,000 home care workers in New York\u2019s Consumer Directed Personal Assistance Program will decide whether to join the healthcare union 1199SEIU after the union on Tuesday said it filed with the National Labor Relations Board to hold a union election.",
+        "If successful, it will be the largest unionization of workers through a single election in United States history, according to 1199SEIU."
+      ],
+      "summary": "Nearly 200K NY home care workers to decide whether to",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Nearly 200K NY home care workers to decide whether to unionize with 1199SEIU",
+        "article_url": "https://gothamist.com/news/nearly-200k-ny-home-care-workers-to-decide-whether-to-unionize-with-1199seiu",
+        "published_at": "2026-09-22T15:11:20+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-23T14:02:53.516858+00:00",
+      "verification": {
+        "article_title": "Nearly 200K NY home care workers to decide whether to unionize with 1199SEIU",
+        "article_url": "https://gothamist.com/news/nearly-200k-ny-home-care-workers-to-decide-whether-to-unionize-with-1199seiu",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-23T14:02:51.028731+00:00"
+      }
+    },
+    {
+      "headline": "State suspends license of NYC psychiatrist in oxycodone case involving",
+      "bullets": [
+        "New York State has suspended the license of the Manhattan psychiatrist accused of illegally funneling thousands of oxycodone pills to award-winning television producer Maura Mandt before she died, the Daily News has learned.",
+        "A hearing before the State Board for Professional Medical Conduct will determine whether Dr."
+      ],
+      "summary": "State suspends license of NYC psychiatrist in oxycodone case involving",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "State suspends license of NYC psychiatrist in oxycodone case involving death of TV exec Maura Mandt",
+        "article_url": "https://www.nydailynews.com/2026/09/22/state-suspends-license-of-nyc-psychiatrist-in-oxycodone-case-involving-death-of-tv-exec/",
+        "published_at": "2026-09-23T00:35:13+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-23T14:02:53.643079+00:00",
+      "verification": {
+        "article_title": "State suspends license of NYC psychiatrist in oxycodone case involving death of TV exec Maura Mandt",
+        "article_url": "https://www.nydailynews.com/2026/09/22/state-suspends-license-of-nyc-psychiatrist-in-oxycodone-case-involving-death-of-tv-exec/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-23T14:02:51.177464+00:00"
+      }
+    },
+    {
+      "headline": "3 couples tie for the lead in 'Dancing with the",
+      "bullets": [
+        "ABC,Synergy,Mid-City,Los-Angeles,Los-Angeles-County'] --- FAIRFAX DISTRICT, LOS ANGELES -- The couples danced their way through the nerve-racking first round on \"Dancing with the Stars,\" and now the competition is heating up in week two.",
+        "The 14 remaining couples returned to the ballroom floor, hoping to impress the judges and viewers as their individual journeys continue to mirrorball greatness."
+      ],
+      "summary": "3 couples tie for the lead in 'Dancing with the",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "3 couples tie for the lead in 'Dancing with the Stars' week 2, another star is sent home",
+        "article_url": "https://abc7ny.com/post/dancing-stars-week-2-recap-3-couples-tie-lead-another-star-is-sent-home/19859627/",
+        "published_at": "2026-09-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-23T14:02:53.767563+00:00",
+      "verification": {
+        "article_title": "3 couples tie for the lead in 'Dancing with the Stars' week 2, another star is sent home",
+        "article_url": "https://abc7ny.com/post/dancing-stars-week-2-recap-3-couples-tie-lead-another-star-is-sent-home/19859627/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-23T14:02:51.312756+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: Boarding School Admissions Virtual Panel Discussion",
+      "bullets": [
+        "What are boarding schools like?",
+        "What makes the boarding school experience unique?"
+      ],
+      "summary": "Local Event: Boarding School Admissions Virtual Panel Discussion",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Boarding School Admissions Virtual Panel Discussion",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260924/b08c0555-a38c-4595-bbb2-28718d4ce99b/boarding-school-admissions-virtual-panel-discussion",
+        "published_at": "2026-09-24T17:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-23T14:02:53.896311+00:00",
+      "verification": {
+        "article_title": "Local Event: Boarding School Admissions Virtual Panel Discussion",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20260924/b08c0555-a38c-4595-bbb2-28718d4ce99b/boarding-school-admissions-virtual-panel-discussion",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-23T14:02:51.439732+00:00"
+      }
+    },
+    {
+      "headline": "Get cozy with the best afghan blankets",
+      "bullets": [
+        "Which afghan blanket is best?",
+        "Sometimes called crocheted or knitted blankets, afghan blankets come in different colors, patterns and designs."
+      ],
+      "summary": "Get cozy with the best afghan blankets",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Get cozy with the best afghan blankets",
+        "article_url": "https://www.nydailynews.com/2026/09/22/get-cozy-with-the-best-afghan-blankets/",
+        "published_at": "2026-09-22"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-23T14:02:54.029982+00:00",
+      "verification": {
+        "article_title": "Get cozy with the best afghan blankets",
+        "article_url": "https://www.nydailynews.com/2026/09/22/get-cozy-with-the-best-afghan-blankets/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-23T14:02:51.567845+00:00"
+      }
+    },
+    {
+      "headline": "Hurricane Polo off Mexican coast is among 'the strongest storms",
+      "bullets": [
+        "MEXICO CITY -- Polo has grown into one of the most powerful Pacific cyclones in decades and was expected to skirt Mexico's southwestern coast as a major hurricane, while another Pacific system, Odalys, strengthened Wednesday from a tropical storm to a hurricane without threatening land.",
+        "The U.S."
+      ],
+      "summary": "Hurricane Polo off Mexican coast is among 'the strongest storms",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Hurricane Polo off Mexican coast is among 'the strongest storms ever,' fueled by El Ni\u00f1o",
+        "article_url": "https://abc7ny.com/post/hurricane-polo-off-mexican-coast-is-among-strongest-storms-fueled-el-nio-odalys-becomes/19861195/",
+        "published_at": "2026-09-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-23T14:02:54.185254+00:00",
+      "verification": {
+        "article_title": "Hurricane Polo off Mexican coast is among 'the strongest storms ever,' fueled by El Ni\u00f1o",
+        "article_url": "https://abc7ny.com/post/hurricane-polo-off-mexican-coast-is-among-strongest-storms-fueled-el-nio-odalys-becomes/19861195/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-23T14:02:51.704419+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on U.S. aircraft carriers, the UN and",
+      "bullets": [
+        "Expand the fleet to relieve carrier crews Londonderry, N.H.: Our 11 aircraft carrier strike groups, like the USS Abraham Lincoln, are stretched thin around the world, in shipyards undergoing repairs, maintenance, overhauls and upgrades, in transit, and in port after prolonged deployments.",
+        "A major undertaking must be the revival of our shipyards to handle construction and repair of our carriers."
+      ],
+      "summary": "Readers sound off on U.S. aircraft carriers, the UN and",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on U.S. aircraft carriers, the UN and Thanksgiving turkeys",
+        "article_url": "https://www.nydailynews.com/2026/09/23/readers-sound-off-on-u-s-aircraft-carriers-the-un-and-thanksgiving-turkeys/",
+        "published_at": "2026-09-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-23T14:02:54.317379+00:00",
+      "verification": {
+        "article_title": "Readers sound off on U.S. aircraft carriers, the UN and Thanksgiving turkeys",
+        "article_url": "https://www.nydailynews.com/2026/09/23/readers-sound-off-on-u-s-aircraft-carriers-the-un-and-thanksgiving-turkeys/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-23T14:02:51.852697+00:00"
+      }
+    },
+    {
+      "headline": "How a Harry Styles pop-up in the East Village led",
+      "bullets": [
+        "A sign on the building hosting the Harry Styles pop-up shop reads, \u201cTogether, Together.\u201d The temporary merchandise store opened in the East Village in late August and will stick around through Nov.",
+        "1, a weekslong period coinciding with Styles\u2019 30-show residency at Madison Square Garden."
+      ],
+      "summary": "How a Harry Styles pop-up in the East Village led",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "How a Harry Styles pop-up in the East Village led to a nearby bookstore owner's arrest",
+        "article_url": "https://gothamist.com/arts-entertainment/after-a-harry-styles-pop-up-opened-nearby-a-bookstore-owner-was-arrested-what-happened",
+        "published_at": "2026-09-22T19:59:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-23T14:02:54.446594+00:00",
+      "verification": {
+        "article_title": "How a Harry Styles pop-up in the East Village led to a nearby bookstore owner's arrest",
+        "article_url": "https://gothamist.com/arts-entertainment/after-a-harry-styles-pop-up-opened-nearby-a-bookstore-owner-was-arrested-what-happened",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-23T14:02:51.975689+00:00"
+      }
+    }
+  ]
+}
