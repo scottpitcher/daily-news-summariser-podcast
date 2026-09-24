@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-09-24T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-09-24.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Readers sound off on student performance, Mamdani\u2019s Trump meeting and",
+      "bullets": [
+        "Keep the special in specialized schools Brooklyn: I attended Brooklyn Tech and I\u2019m a former junior high school teacher.",
+        "Based on my experience in both areas, I can tell you that if a student is admitted to a specialized high school and is not able to academically perform to the standards of the school, they will be demoralized and fail."
+      ],
+      "summary": "Readers sound off on student performance, Mamdani\u2019s Trump meeting and",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on student performance, Mamdani\u2019s Trump meeting and Climate Week",
+        "article_url": "https://www.nydailynews.com/2026/09/24/readers-sound-off-on-student-performance-mamdanis-trump-meeting-and-climate-week/",
+        "published_at": "2026-09-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-24T14:00:32.840089+00:00",
+      "verification": {
+        "article_title": "Readers sound off on student performance, Mamdani\u2019s Trump meeting and Climate Week",
+        "article_url": "https://www.nydailynews.com/2026/09/24/readers-sound-off-on-student-performance-mamdanis-trump-meeting-and-climate-week/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-24T14:00:30.150461+00:00"
+      }
+    },
+    {
+      "headline": "Skyrocketing diesel prices rattle Republicans as midterms approach",
+      "bullets": [
+        "Diesel fuel, which powers the global economy and the American heartland, is hitting record prices as the war in the Middle East intensifies, leaving Republican candidates reeling and contemplating extreme steps that economists warn could only increase pain for consumers.",
+        "Republicans in key states like Iowa and Michigan called for ending exports of diesel refined in the United States to help boost domestic supply."
+      ],
+      "summary": "Skyrocketing diesel prices rattle Republicans as midterms approach",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Skyrocketing diesel prices rattle Republicans as midterms approach",
+        "article_url": "https://abc7ny.com/story/skyrocketing-diesel-prices-rattle-republicans-midterms-approach/19865323/",
+        "published_at": "2026-09-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-24T14:00:32.966003+00:00",
+      "verification": {
+        "article_title": "Skyrocketing diesel prices rattle Republicans as midterms approach",
+        "article_url": "https://abc7ny.com/story/skyrocketing-diesel-prices-rattle-republicans-midterms-approach/19865323/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-24T14:00:30.323905+00:00"
+      }
+    },
+    {
+      "headline": "New York Gov. Hochul says she will hit the campaign",
+      "bullets": [
+        "This column originally appeared in The Politics Brief, our weekly newsletter on the people, power and policies that shape New Yorkers' lives.",
+        "Sign up to get the full version where you can ask questions, share news tips and weigh in on the conversation."
+      ],
+      "summary": "New York Gov. Hochul says she will hit the campaign",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "New York Gov. Hochul says she will hit the campaign trail with Rep. AOC",
+        "article_url": "https://gothamist.com/news/new-york-gov-hochul-says-she-will-hit-the-campaign-trail-with-rep-aoc",
+        "published_at": "2026-09-23T20:55:40+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-24T14:00:33.092081+00:00",
+      "verification": {
+        "article_title": "New York Gov. Hochul says she will hit the campaign trail with Rep. AOC",
+        "article_url": "https://gothamist.com/news/new-york-gov-hochul-says-she-will-hit-the-campaign-trail-with-rep-aoc",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-24T14:00:30.469565+00:00"
+      }
+    },
+    {
+      "headline": "Mamdani is the most popular elected official in NYC: poll",
+      "bullets": [
+        "Nine months into his mayoralty, Mayor Mamdani\u2019s honeymoon phase is still going strong, according to a poll released Wednesday.",
+        "Mamdani is the most popular elected official in New York City, a new poll from Quinnipiac found, with his statewide popularity on par with that of Gov."
+      ],
+      "summary": "Mamdani is the most popular elected official in NYC: poll",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Mamdani is the most popular elected official in NYC: poll",
+        "article_url": "https://www.nydailynews.com/2026/09/23/mamdani-is-the-most-popular-elected-official-in-nyc-poll/",
+        "published_at": "2026-09-23T22:09:01+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-24T14:00:33.215133+00:00",
+      "verification": {
+        "article_title": "Mamdani is the most popular elected official in NYC: poll",
+        "article_url": "https://www.nydailynews.com/2026/09/23/mamdani-is-the-most-popular-elected-official-in-nyc-poll/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-24T14:00:30.635251+00:00"
+      }
+    },
+    {
+      "headline": "Penn Station Bar Is Back on Tracks",
+      "bullets": [
+        "Penn Station Bar Is Back on Tracks Everything is new as restaurant reopens in old haunt on the concourse level of Pennsylvania Station.",
+        "For 16 years at Penn Station, Tracks Raw Bar and Grill kept hungry commuters happy with a raw bar, burgers, beers and other adult beverages on their way home."
+      ],
+      "summary": "Penn Station Bar Is Back on Tracks",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Penn Station Bar Is Back on Tracks",
+        "article_url": "https://www.ourtownny.com/home/penn-station-bar-is-back-on-tracks-BI6208377",
+        "published_at": "2026-09-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-24T14:00:33.342676+00:00",
+      "verification": {
+        "article_title": "Penn Station Bar Is Back on Tracks",
+        "article_url": "https://www.ourtownny.com/home/penn-station-bar-is-back-on-tracks-BI6208377",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-24T14:00:30.756901+00:00"
+      }
+    },
+    {
+      "headline": "Son of FDNY hero who died on 9/11 sues city",
+      "bullets": [
+        "The son of a hero firefighter who died on Sept.",
+        "11 says in a lawsuit that the city\u2019s archaic age restrictions have kept him from following in his dad\u2019s footsteps \u2014 because a last-minute delay to the FDNY test meant he turned 29 by the time he was able to apply for the job."
+      ],
+      "summary": "Son of FDNY hero who died on 9/11 sues city",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Son of FDNY hero who died on 9/11 sues city after age cutoff keeps him from following dad\u2019s footsteps",
+        "article_url": "https://www.nydailynews.com/2026/09/23/son-of-fdny-hero-who-died-on-9-11-sues-city-after-age-cutoff-keeps-him-from-following-dads-footsteps/",
+        "published_at": "2026-09-24T00:49:29+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-24T14:00:33.467046+00:00",
+      "verification": {
+        "article_title": "Son of FDNY hero who died on 9/11 sues city after age cutoff keeps him from following dad\u2019s footsteps",
+        "article_url": "https://www.nydailynews.com/2026/09/23/son-of-fdny-hero-who-died-on-9-11-sues-city-after-age-cutoff-keeps-him-from-following-dads-footsteps/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-24T14:00:30.937012+00:00"
+      }
+    },
+    {
+      "headline": "DeWalt vs Ryobi leaf blowers",
+      "bullets": [
+        "Is a DeWalt or Ryobi leaf blower better?",
+        "The ritual hum of leaf blowers fires up in the fall and marks the change in season as much as vibrant leaves falling from the trees."
+      ],
+      "summary": "DeWalt vs Ryobi leaf blowers",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "DeWalt vs Ryobi leaf blowers",
+        "article_url": "https://www.nydailynews.com/2026/09/24/dewalt-vs-ryobi-leaf-blowers/",
+        "published_at": "2026-09-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-24T14:00:33.594129+00:00",
+      "verification": {
+        "article_title": "DeWalt vs Ryobi leaf blowers",
+        "article_url": "https://www.nydailynews.com/2026/09/24/dewalt-vs-ryobi-leaf-blowers/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-24T14:00:31.107528+00:00"
+      }
+    },
+    {
+      "headline": "Updated NYC forecast track shows nor'easter shifting closer to Tri-State",
+      "bullets": [
+        "NEW YORK CITY - A powerful early-season nor\u2019easter developing off the Mid-Atlantic coast is threatening millions along the I-95 corridor with days of coastal flooding, battering waves and persistent, gusty winds.",
+        "While the system's exact track into the weekend remains uncertain, the Northeast region is already feeling the brunt of increasing coastal hazards."
+      ],
+      "summary": "Updated NYC forecast track shows nor'easter shifting closer to Tri-State",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Updated NYC forecast track shows nor'easter shifting closer to Tri-State area",
+        "article_url": "https://www.fox5ny.com/weather/developing-noreaster-keeps-east-coast-high-alert-coastal-communities-prepare",
+        "published_at": "2026-09-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-24T14:00:33.716615+00:00",
+      "verification": {
+        "article_title": "Updated NYC forecast track shows nor'easter shifting closer to Tri-State area",
+        "article_url": "https://www.fox5ny.com/weather/developing-noreaster-keeps-east-coast-high-alert-coastal-communities-prepare",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-24T14:00:31.283048+00:00"
+      }
+    },
+    {
+      "headline": "NYC man who killed 2 people and pit bull in",
+      "bullets": [
+        "A Manhattan man convicted of shooting his neighbor, her friend and her pit bull to death in an ongoing dispute over barking dogs was sentenced to life in prison without parole, officials said Wednesday.",
+        "In December, a Manhattan jury found Lenue Moore, 34, guilty of first- and second-degree murder, criminal possession of a weapon, aggravated criminal contempt and aggravated cruelty to animals for carrying out his revenge-filled plot against his dog-owning Washington Heights neighbor."
+      ],
+      "summary": "NYC man who killed 2 people and pit bull in",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYC man who killed 2 people and pit bull in barking feud sentenced to life in prison",
+        "article_url": "https://www.nydailynews.com/2026/09/23/manhattan-man-who-killed-two-people-and-pit-bull-in-feud-over-barking-sentenced-to-life-in-prison/",
+        "published_at": "2026-09-24T00:20:40+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-24T14:00:33.842406+00:00",
+      "verification": {
+        "article_title": "NYC man who killed 2 people and pit bull in barking feud sentenced to life in prison",
+        "article_url": "https://www.nydailynews.com/2026/09/23/manhattan-man-who-killed-two-people-and-pit-bull-in-feud-over-barking-sentenced-to-life-in-prison/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-24T14:00:31.408831+00:00"
+      }
+    },
+    {
+      "headline": "Harvey Weinstein sentenced to 15 years in sexual assault case:",
+      "bullets": [
+        "NEW YORK - The first time Harvey Weinstein was sentenced to prison, reporters, advocates and the curious public crammed the courtroom to witness the disgraced Hollywood honcho\u2019s #MeToo reckoning.",
+        "Hours later, the world began shutting down as the COVID-19 pandemic raged."
+      ],
+      "summary": "Harvey Weinstein sentenced to 15 years in sexual assault case:",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Harvey Weinstein sentenced to 15 years in sexual assault case: AP",
+        "article_url": "https://www.fox5ny.com/news/harvey-weinstein-nyc-resentencing-case-details-miriam-haley",
+        "published_at": "2026-09-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-24T14:00:33.965336+00:00",
+      "verification": {
+        "article_title": "Harvey Weinstein sentenced to 15 years in sexual assault case: AP",
+        "article_url": "https://www.fox5ny.com/news/harvey-weinstein-nyc-resentencing-case-details-miriam-haley",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-24T14:00:31.533429+00:00"
+      }
+    },
+    {
+      "headline": "Hayden Panettiere's death highlights risk of overdose death after stopping",
+      "bullets": [
+        "Using opioids again after withdrawal can be especially dangerous.",
+        "A coroner\u2019s report notes actor Hayden Panettiere had been in rehab just weeks before her death from an accidental drug overdose."
+      ],
+      "summary": "Hayden Panettiere's death highlights risk of overdose death after stopping",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Hayden Panettiere's death highlights risk of overdose death after stopping and resuming drug use",
+        "article_url": "https://abc7ny.com/story/hayden-panettieres-death-highlights-risk-overdose-stopping-resuming-drug-use/19865212/",
+        "published_at": "2026-09-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-24T14:00:34.090047+00:00",
+      "verification": {
+        "article_title": "Hayden Panettiere's death highlights risk of overdose death after stopping and resuming drug use",
+        "article_url": "https://abc7ny.com/story/hayden-panettieres-death-highlights-risk-overdose-stopping-resuming-drug-use/19865212/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-24T14:00:31.710256+00:00"
+      }
+    },
+    {
+      "headline": "Measles in the Northeast: PA and MD cases surge as",
+      "bullets": [
+        "NEW YORK CITY - The United States is currently facing its most severe measles year in more than three decades.",
+        "As measles cases rise nationwide, the Northeast is experiencing both the worst of the outbreaks and the strongest examples of containment."
+      ],
+      "summary": "Measles in the Northeast: PA and MD cases surge as",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Measles in the Northeast: PA and MD cases surge as NYC and DC report single digits",
+        "article_url": "https://www.fox5ny.com/news/measles-northeast-pa-md-cases-surge-nyc-dc-report-single-digits",
+        "published_at": "2026-09-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-24T14:00:34.212267+00:00",
+      "verification": {
+        "article_title": "Measles in the Northeast: PA and MD cases surge as NYC and DC report single digits",
+        "article_url": "https://www.fox5ny.com/news/measles-northeast-pa-md-cases-surge-nyc-dc-report-single-digits",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-24T14:00:31.834350+00:00"
+      }
+    },
+    {
+      "headline": "As NY phases out Regents exams, parents and educators wonder",
+      "bullets": [
+        "The Regents exam will no longer be a mandatory rite of passage for high school seniors in New York starting next fall.",
+        "But what will replace the test remains a mystery, leaving parents and educators anxious about how students\u2019 mastery in core subjects will be measured."
+      ],
+      "summary": "As NY phases out Regents exams, parents and educators wonder",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "As NY phases out Regents exams, parents and educators wonder what\u2019s next for students",
+        "article_url": "https://gothamist.com/news/as-ny-phases-out-regents-exams-parents-and-educators-wonder-whats-next-for-students",
+        "published_at": "2026-09-23T16:00:53+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-24T14:00:34.340437+00:00",
+      "verification": {
+        "article_title": "As NY phases out Regents exams, parents and educators wonder what\u2019s next for students",
+        "article_url": "https://gothamist.com/news/as-ny-phases-out-regents-exams-parents-and-educators-wonder-whats-next-for-students",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-24T14:00:31.959502+00:00"
+      }
+    },
+    {
+      "headline": "Kennedy Center closure to last another week, at least, official",
+      "bullets": [
+        "The official cited several \"documented hazards\" within the building.",
+        "The executive director of the Kennedy Center said in a court filing Wednesday the closure of the performing arts venue will extend another week -- and he gave no indication when the closure might end."
+      ],
+      "summary": "Kennedy Center closure to last another week, at least, official",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Kennedy Center closure to last another week, at least, official says",
+        "article_url": "https://abc7ny.com/story/kennedy-center-closure-last-another-week-least-official-says/19865127/",
+        "published_at": "2026-09-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-24T14:00:34.479321+00:00",
+      "verification": {
+        "article_title": "Kennedy Center closure to last another week, at least, official says",
+        "article_url": "https://abc7ny.com/story/kennedy-center-closure-last-another-week-least-official-says/19865127/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-24T14:00:32.085087+00:00"
+      }
+    },
+    {
+      "headline": "New Yorkers want more protection from the heat after a",
+      "bullets": [
+        "Workers who spend their days toiling in the sun or in sweltering warehouses and kitchens say they need more safeguards before the next heat wave.",
+        "\u201cIf we were to lock our animals in a car with those same conditions, we would be arrested."
+      ],
+      "summary": "New Yorkers want more protection from the heat after a",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "New Yorkers want more protection from the heat after a sweltering summer",
+        "article_url": "https://gothamist.com/news/new-yorkers-want-more-protection-from-the-heat-after-a-sweltering-summer",
+        "published_at": "2026-09-23T19:03:54+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-24T14:00:34.603525+00:00",
+      "verification": {
+        "article_title": "New Yorkers want more protection from the heat after a sweltering summer",
+        "article_url": "https://gothamist.com/news/new-yorkers-want-more-protection-from-the-heat-after-a-sweltering-summer",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-24T14:00:32.218977+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on student performance, Mamdani\u2019s Trump meeting and",
+      "bullets": [
+        "Keep the special in specialized schools Brooklyn: I attended Brooklyn Tech and I\u2019m a former junior high school teacher.",
+        "Based on my experience in both areas, I can tell you that if a student is admitted to a specialized high school and is not able to academically perform to the standards of the school, they will be demoralized and fail."
+      ],
+      "summary": "Readers sound off on student performance, Mamdani\u2019s Trump meeting and",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on student performance, Mamdani\u2019s Trump meeting and Climate Week",
+        "article_url": "https://www.nydailynews.com/2026/09/24/readers-sound-off-on-student-performance-mamdanis-trump-meeting-and-climate-week/",
+        "published_at": "2026-09-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-24T14:00:34.724556+00:00",
+      "verification": {
+        "article_title": "Readers sound off on student performance, Mamdani\u2019s Trump meeting and Climate Week",
+        "article_url": "https://www.nydailynews.com/2026/09/24/readers-sound-off-on-student-performance-mamdanis-trump-meeting-and-climate-week/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-24T14:00:32.339045+00:00"
+      }
+    },
+    {
+      "headline": "Netanyahu addresses UN General Assembly on Thursday \u2014 Full speaker",
+      "bullets": [
+        "NEW YORK - Israeli Prime Minister Benjamin Netanyahu will address the United Nations General Assembly on Thursday.",
+        "He teased there would be \"surprises\" during his speech in a video shared online."
+      ],
+      "summary": "Netanyahu addresses UN General Assembly on Thursday \u2014 Full speaker",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Netanyahu addresses UN General Assembly on Thursday \u2014 Full speaker schedule & NYC street closures",
+        "article_url": "https://www.fox5ny.com/news/netanyahu-speech-unga-thursday-schedule-full-speaker-list-2026",
+        "published_at": "2026-09-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-24T14:00:34.849625+00:00",
+      "verification": {
+        "article_title": "Netanyahu addresses UN General Assembly on Thursday \u2014 Full speaker schedule & NYC street closures",
+        "article_url": "https://www.fox5ny.com/news/netanyahu-speech-unga-thursday-schedule-full-speaker-list-2026",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-24T14:00:32.464026+00:00"
+      }
+    },
+    {
+      "headline": "Bank of America to hire 1,000 more apprentices, invest $150M",
+      "bullets": [
+        "Bank of America is expanding its skills-based hiring efforts, announcing Thursday that it will hire 1,000 additional apprentices over the next two years while investing $150 million in workforce development programs.",
+        "The Charlotte, North Carolina-based bank said the new apprenticeship positions will span consumer banking, technology, operations and other business areas, building on the more than 800 apprentices it already hires each year through paid work-based learning programs."
+      ],
+      "summary": "Bank of America to hire 1,000 more apprentices, invest $150M",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Bank of America to hire 1,000 more apprentices, invest $150M in workforce development",
+        "article_url": "https://www.fox5ny.com/news/bank-america-hire-1000-more-apprentices-invest-150m-workforce-development",
+        "published_at": "2026-09-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-24T14:00:34.979953+00:00",
+      "verification": {
+        "article_title": "Bank of America to hire 1,000 more apprentices, invest $150M in workforce development",
+        "article_url": "https://www.fox5ny.com/news/bank-america-hire-1000-more-apprentices-invest-150m-workforce-development",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-24T14:00:32.586901+00:00"
+      }
+    }
+  ]
+}
