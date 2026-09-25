@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-09-25T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-09-25.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Readers sound off on unblocking the straits, Ed Sheeran and",
+      "bullets": [
+        "Serious minds must resolve the Iran war Westbrook, Maine: Current U.S.",
+        "foreign policy is largely an extension of President Trump\u2019s excessive ego."
+      ],
+      "summary": "Readers sound off on unblocking the straits, Ed Sheeran and",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on unblocking the straits, Ed Sheeran and meat recalls",
+        "article_url": "https://www.nydailynews.com/2026/09/25/readers-sound-off-on-unblocking-the-straits-ed-sheeran-and-meat-recalls/",
+        "published_at": "2026-09-25"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-25T14:23:17.588735+00:00",
+      "verification": {
+        "article_title": "Readers sound off on unblocking the straits, Ed Sheeran and meat recalls",
+        "article_url": "https://www.nydailynews.com/2026/09/25/readers-sound-off-on-unblocking-the-straits-ed-sheeran-and-meat-recalls/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-25T14:23:15.336754+00:00"
+      }
+    },
+    {
+      "headline": "Coastal flood advisories for the Tri-State",
+      "bullets": [
+        "Stay with the Eyewitness News AccuWeather team for continuing updates on the nor'easter NEW YORK (WABC) -- A powerful nor'easter will bring a soggy, windy weekend to the Tri-State area, with the greatest impacts expected along the coast, where flooding concerns continue to grow.",
+        "While conditions remained quiet Friday morning, rain is expected to begin developing later in the afternoon, first arriving south and east of New York City before spreading across the region Friday evening."
+      ],
+      "summary": "Coastal flood advisories for the Tri-State",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Coastal flood advisories for the Tri-State",
+        "article_url": "https://abc7ny.com/live-updates/developing-noreaster-threatens-jersey-shore-long-island-coastal-flooding-rough-surf-strong-winds-accuweather-alert/19861959/entry/19868721/",
+        "published_at": "2026-09-25"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-25T14:23:17.710626+00:00",
+      "verification": {
+        "article_title": "Coastal flood advisories for the Tri-State",
+        "article_url": "https://abc7ny.com/live-updates/developing-noreaster-threatens-jersey-shore-long-island-coastal-flooding-rough-surf-strong-winds-accuweather-alert/19861959/entry/19868721/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-25T14:23:15.449589+00:00"
+      }
+    },
+    {
+      "headline": "NYC councilmember wants to ban tickets for spitting after arrest",
+      "bullets": [
+        "A New York City councilmember wants to strike spitting from the NYPD\u2019s list of ticketable offenses after a video circulated on social media this week showed a spitting summons escalating into a forceful police arrest.",
+        "The video, which was taken last Saturday evening in Brooklyn\u2019s Brownsville neighborhood shows an NYPD officer ticketing a man minutes before the officer grabbed the man by the collar, threw him to the ground and handcuffed him."
+      ],
+      "summary": "NYC councilmember wants to ban tickets for spitting after arrest",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC councilmember wants to ban tickets for spitting after arrest video circulates",
+        "article_url": "https://gothamist.com/news/nyc-councilmember-wants-to-ban-tickets-for-spitting-after-arrest-video-circulates",
+        "published_at": "2026-09-25T10:00:53+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-25T14:23:17.832206+00:00",
+      "verification": {
+        "article_title": "NYC councilmember wants to ban tickets for spitting after arrest video circulates",
+        "article_url": "https://gothamist.com/news/nyc-councilmember-wants-to-ban-tickets-for-spitting-after-arrest-video-circulates",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-25T14:23:15.562952+00:00"
+      }
+    },
+    {
+      "headline": "More than 100 arrests at NYC demonstrations as Netanyahu appeared",
+      "bullets": [
+        "The NYPD took more than 100 people into custody Thursday at demonstrations near the United Nations as Israeli Prime Minister Benjamin Netanyahu appeared to address the General Assembly.",
+        "Both inside and outside the building, there were denouncements, demonstrations, and also some support for Netanyahu's appearance in New York City."
+      ],
+      "summary": "More than 100 arrests at NYC demonstrations as Netanyahu appeared",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "More than 100 arrests at NYC demonstrations as Netanyahu appeared at U.N. General Assembly",
+        "article_url": "https://www.cbsnews.com/newyork/news/protests-nyc-benjamin-netanyahu-israel-united-nations-speech/",
+        "published_at": "2026-09-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-25T14:23:17.928008+00:00",
+      "verification": {
+        "article_title": "More than 100 arrests at NYC demonstrations as Netanyahu appeared at U.N. General Assembly",
+        "article_url": "https://www.cbsnews.com/newyork/news/protests-nyc-benjamin-netanyahu-israel-united-nations-speech/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-25T14:23:15.678207+00:00"
+      }
+    },
+    {
+      "headline": "Immigration court can\u2019t be secret and must be humane",
+      "bullets": [
+        "The Trump administration has been processing immigration cases at 26 Federal Plaza amid \u201covercrowded, squalid, and degrading\u201d detention conditions, says Manhattan Federal Judge Lewis Kaplan, who has ordered it be permanently cleaned up and that people in custody no longer be denied access to medical care or their lawyers.",
+        "This is the exact same place where there are new immigration courtrooms on the third floor that, unlike the older courtrooms on the 12th and 14th floors, are off limits to visitors, making for a secret court, a violation of a foundational part of a free society, going back centuries."
+      ],
+      "summary": "Immigration court can\u2019t be secret and must be humane",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Immigration court can\u2019t be secret and must be humane",
+        "article_url": "https://www.nydailynews.com/2026/09/25/immigration-court-cant-be-secret-and-must-be-humane/",
+        "published_at": "2026-09-25"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-25T14:23:18.020542+00:00",
+      "verification": {
+        "article_title": "Immigration court can\u2019t be secret and must be humane",
+        "article_url": "https://www.nydailynews.com/2026/09/25/immigration-court-cant-be-secret-and-must-be-humane/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-25T14:23:15.812289+00:00"
+      }
+    },
+    {
+      "headline": "Penn Station Bar Is Back on Tracks",
+      "bullets": [
+        "Penn Station Bar Is Back on Tracks Everything is new as restaurant reopens in old haunt on the concourse level of Pennsylvania Station.",
+        "For 16 years at Penn Station, Tracks Raw Bar and Grill kept hungry commuters happy with a raw bar, burgers, beers and other adult beverages on their way home."
+      ],
+      "summary": "Penn Station Bar Is Back on Tracks",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Penn Station Bar Is Back on Tracks",
+        "article_url": "https://www.ourtownny.com/home/penn-station-bar-is-back-on-tracks-BI6208377",
+        "published_at": "2026-09-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-25T14:23:18.118605+00:00",
+      "verification": {
+        "article_title": "Penn Station Bar Is Back on Tracks",
+        "article_url": "https://www.ourtownny.com/home/penn-station-bar-is-back-on-tracks-BI6208377",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-25T14:23:15.961519+00:00"
+      }
+    },
+    {
+      "headline": "DeWalt vs Ryobi leaf blowers",
+      "bullets": [
+        "Is a DeWalt or Ryobi leaf blower better?",
+        "The ritual hum of leaf blowers fires up in the fall and marks the change in season as much as vibrant leaves falling from the trees."
+      ],
+      "summary": "DeWalt vs Ryobi leaf blowers",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "DeWalt vs Ryobi leaf blowers",
+        "article_url": "https://www.nydailynews.com/2026/09/24/dewalt-vs-ryobi-leaf-blowers/",
+        "published_at": "2026-09-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-25T14:23:18.230951+00:00",
+      "verification": {
+        "article_title": "DeWalt vs Ryobi leaf blowers",
+        "article_url": "https://www.nydailynews.com/2026/09/24/dewalt-vs-ryobi-leaf-blowers/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-25T14:23:16.066882+00:00"
+      }
+    },
+    {
+      "headline": "Nor'easter live updates: Coastal flooding, rough surf for Jersey Shore,",
+      "bullets": [
+        "NEW YORK (WABC) -- A powerful nor'easter will bring a soggy, windy weekend to the Tri-State area, with the greatest impacts expected along the coast, where flooding concerns continue to grow.",
+        "While conditions remained quiet Friday morning, rain is expected to begin developing later in the afternoon, first arriving south and east of New York City before spreading across the region Friday evening."
+      ],
+      "summary": "Nor'easter live updates: Coastal flooding, rough surf for Jersey Shore,",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Nor'easter live updates: Coastal flooding, rough surf for Jersey Shore, Long Island",
+        "article_url": "https://abc7ny.com/live-updates/developing-noreaster-threatens-jersey-shore-long-island-coastal-flooding-rough-surf-strong-winds-accuweather-alert/19861959/",
+        "published_at": "2026-09-25"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-25T14:23:18.344020+00:00",
+      "verification": {
+        "article_title": "Nor'easter live updates: Coastal flooding, rough surf for Jersey Shore, Long Island",
+        "article_url": "https://abc7ny.com/live-updates/developing-noreaster-threatens-jersey-shore-long-island-coastal-flooding-rough-surf-strong-winds-accuweather-alert/19861959/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-25T14:23:16.190491+00:00"
+      }
+    },
+    {
+      "headline": "Updated NYC forecast track shows nor'easter shifting closer to Tri-State",
+      "bullets": [
+        "NEW YORK CITY - A powerful early-season nor\u2019easter developing off the Mid-Atlantic coast is threatening millions along the I-95 corridor with days of coastal flooding, battering waves and persistent, gusty winds.",
+        "JUMP TO: TRACK UNCERTAINTY l LOCAL FORECAST l NOR'EASTER DEFINITION Nor'easter NYC: FOX Weather LIVE coverage While the system's exact track into the weekend remains uncertain, the Northeast region is already feeling the brunt of increasing coastal hazards."
+      ],
+      "summary": "Updated NYC forecast track shows nor'easter shifting closer to Tri-State",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Updated NYC forecast track shows nor'easter shifting closer to Tri-State area",
+        "article_url": "https://www.fox5ny.com/weather/developing-noreaster-keeps-east-coast-high-alert-coastal-communities-prepare",
+        "published_at": "2026-09-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-25T14:23:18.466080+00:00",
+      "verification": {
+        "article_title": "Updated NYC forecast track shows nor'easter shifting closer to Tri-State area",
+        "article_url": "https://www.fox5ny.com/weather/developing-noreaster-keeps-east-coast-high-alert-coastal-communities-prepare",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-25T14:23:16.312069+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on unblocking the straits, Ed Sheeran and",
+      "bullets": [
+        "Serious minds must resolve the Iran war Westbrook, Maine: Current U.S.",
+        "foreign policy is largely an extension of President Trump\u2019s excessive ego."
+      ],
+      "summary": "Readers sound off on unblocking the straits, Ed Sheeran and",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on unblocking the straits, Ed Sheeran and meat recalls",
+        "article_url": "https://www.nydailynews.com/2026/09/25/readers-sound-off-on-unblocking-the-straits-ed-sheeran-and-meat-recalls/",
+        "published_at": "2026-09-25"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-25T14:23:18.585081+00:00",
+      "verification": {
+        "article_title": "Readers sound off on unblocking the straits, Ed Sheeran and meat recalls",
+        "article_url": "https://www.nydailynews.com/2026/09/25/readers-sound-off-on-unblocking-the-straits-ed-sheeran-and-meat-recalls/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-25T14:23:16.451517+00:00"
+      }
+    },
+    {
+      "headline": "ICE must fix \u2018overcrowded, squalid, and degrading\u2019 conditions at 26",
+      "bullets": [
+        "A federal judge in Manhattan on Thursday ordered the Trump administration to permanently improve the \u201covercrowded, squalid, and degrading\u201d cells where undocumented New Yorkers are detained at 26 Federal Plaza, and said U.S.",
+        "Immigration and Customs Enforcement had inflicted cruelty and \u201cappalling conditions\u201d to induce people to self-deport."
+      ],
+      "summary": "ICE must fix \u2018overcrowded, squalid, and degrading\u2019 conditions at 26",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "ICE must fix \u2018overcrowded, squalid, and degrading\u2019 conditions at 26 Federal Plaza: NY judge",
+        "article_url": "https://www.nydailynews.com/2026/09/24/ice-must-fix-overcrowded-squalid-and-degrading-conditions-at-26-federal-plaza-ny-judge/",
+        "published_at": "2026-09-25T00:08:06+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-25T14:23:18.681373+00:00",
+      "verification": {
+        "article_title": "ICE must fix \u2018overcrowded, squalid, and degrading\u2019 conditions at 26 Federal Plaza: NY judge",
+        "article_url": "https://www.nydailynews.com/2026/09/24/ice-must-fix-overcrowded-squalid-and-degrading-conditions-at-26-federal-plaza-ny-judge/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-25T14:23:16.574027+00:00"
+      }
+    },
+    {
+      "headline": "People are ditching their vapes only to pick up another",
+      "bullets": [
+        "E-cigarettes have long been used as an alternative to traditional smoking, but public health data suggests some adults trying to quit vaping are turning back to cigarettes.",
+        "Recent data from Action on Smoking and Health (ASH) shows that some smokers and dual users who stop vaping opt for traditional tobacco products instead, a shift that addiction specialists say may be driven by nicotine dependence and the challenges of withdrawal."
+      ],
+      "summary": "People are ditching their vapes only to pick up another",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "People are ditching their vapes only to pick up another surprising habit",
+        "article_url": "https://www.fox5ny.com/news/people-ditching-vapes-only-pick-up-another-surprising-habit",
+        "published_at": "2026-09-25"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-25T14:23:18.779573+00:00",
+      "verification": {
+        "article_title": "People are ditching their vapes only to pick up another surprising habit",
+        "article_url": "https://www.fox5ny.com/news/people-ditching-vapes-only-pick-up-another-surprising-habit",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-25T14:23:16.694601+00:00"
+      }
+    },
+    {
+      "headline": "Israeli Prime Minister Netanyahu addresses U.N. General Assembly amid protests",
+      "bullets": [
+        "NEW YORK CITY (WABC) -- Israeli Prime Minister Benjamin Netanyahu used his address to the United Nations General Assembly on Thursday to defend Israel's conduct in the war against Hamas and sharply criticize New York City Mayor Zohran Mamdani, drawing a mix of applause and taunts as some delegations walked out.",
+        "\"If there are any other moral cowards who have not yet left the hall, please do so now,\" Netanyahu said."
+      ],
+      "summary": "Israeli Prime Minister Netanyahu addresses U.N. General Assembly amid protests",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Israeli Prime Minister Netanyahu addresses U.N. General Assembly amid protests",
+        "article_url": "https://abc7ny.com/post/protests-expected-prime-minister-benjamin-netanyahu-addresses-general-assembly/19864807/",
+        "published_at": "2026-09-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-25T14:23:18.878617+00:00",
+      "verification": {
+        "article_title": "Israeli Prime Minister Netanyahu addresses U.N. General Assembly amid protests",
+        "article_url": "https://abc7ny.com/post/protests-expected-prime-minister-benjamin-netanyahu-addresses-general-assembly/19864807/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-25T14:23:16.791863+00:00"
+      }
+    },
+    {
+      "headline": "Accused squatters living in Queens home arrested after 7 On",
+      "bullets": [
+        "BAYSIDE, Queens (WABC) -- Less than three weeks after a 7 On Your Side investigation first exposed an accused squatter living in a Queen's neighborhood, the police not only removed him from the property, they arrested him and the woman he was living with in the home.",
+        "They're now facing multiple charges."
+      ],
+      "summary": "Accused squatters living in Queens home arrested after 7 On",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Accused squatters living in Queens home arrested after 7 On Your Side investigation | Exclusive",
+        "article_url": "https://abc7ny.com/post/accused-squatters-living-bayside-queens-home-arrested-7-side-investigation/19868592/",
+        "published_at": "2026-09-25"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-25T14:23:18.974816+00:00",
+      "verification": {
+        "article_title": "Accused squatters living in Queens home arrested after 7 On Your Side investigation | Exclusive",
+        "article_url": "https://abc7ny.com/post/accused-squatters-living-bayside-queens-home-arrested-7-side-investigation/19868592/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-25T14:23:16.885550+00:00"
+      }
+    },
+    {
+      "headline": "Super-sized El Ni\u00f1o could cause more than 450,000 heat deaths",
+      "bullets": [
+        "Nearly half a million people across the world could lose their lives by February due to El Ni\u00f1o-driven extreme heat, according to a sobering new report.",
+        "El Ni\u00f1o, a natural climate pattern which typically ramps up global temperature, has now crossed into super-sized territory and is on its way to becoming record-breakingly strong."
+      ],
+      "summary": "Super-sized El Ni\u00f1o could cause more than 450,000 heat deaths",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Super-sized El Ni\u00f1o could cause more than 450,000 heat deaths by February, study suggests",
+        "article_url": "https://abc7ny.com/story/super-sized-el-nio-could-cause-more-450000-heat-deaths-february-study-suggests/19867587/",
+        "published_at": "2026-09-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-25T14:23:19.094681+00:00",
+      "verification": {
+        "article_title": "Super-sized El Ni\u00f1o could cause more than 450,000 heat deaths by February, study suggests",
+        "article_url": "https://abc7ny.com/story/super-sized-el-nio-could-cause-more-450000-heat-deaths-february-study-suggests/19867587/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-25T14:23:16.984001+00:00"
+      }
+    },
+    {
+      "headline": "Connect NYC to the working waterfront",
+      "bullets": [
+        "With the largest Climate Week NYC on record upon us, discussions on climate resilience, adaptation, project finance, and \u201cfrontier tech\u201d are taking center stage in workshops, panels, and fundraising pitches across the city.",
+        "These conversations and plenaries tend to focus on \u201cbig bets\u201d: higher-risk, high-reward moves with potential for global impact."
+      ],
+      "summary": "Connect NYC to the working waterfront",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Connect NYC to the working waterfront",
+        "article_url": "https://www.nydailynews.com/2026/09/24/connect-nyc-to-the-working-waterfront/",
+        "published_at": "2026-09-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-25T14:23:19.213008+00:00",
+      "verification": {
+        "article_title": "Connect NYC to the working waterfront",
+        "article_url": "https://www.nydailynews.com/2026/09/24/connect-nyc-to-the-working-waterfront/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-25T14:23:17.120310+00:00"
+      }
+    },
+    {
+      "headline": "U.S. military lays groundwork for potential action around Cuba",
+      "bullets": [
+        "Washington \u2014 The U.S.",
+        "Army Reserve is examining whether it can provide the military's Southern Command with police forces, medical personnel and other support units within the next four months, according to an internal Army message reviewed by CBS News."
+      ],
+      "summary": "U.S. military lays groundwork for potential action around Cuba",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "U.S. military lays groundwork for potential action around Cuba",
+        "article_url": "https://www.cbsnews.com/newyork/news/u-s-groundwork-potential-action-cuba-trump/",
+        "published_at": "2026-09-25"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-25T14:23:19.344074+00:00",
+      "verification": {
+        "article_title": "U.S. military lays groundwork for potential action around Cuba",
+        "article_url": "https://www.cbsnews.com/newyork/news/u-s-groundwork-potential-action-cuba-trump/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-25T14:23:17.216010+00:00"
+      }
+    },
+    {
+      "headline": "NYC Council releases 'downtown' Staten Island plan, with a dash",
+      "bullets": [
+        "The City Council on Friday released a new plan to build more than 5,000 apartments on Staten Island's North Shore \u2014 with an eye toward the borough\u2019s closest neighbor, New Jersey.",
+        "Councilmember Kamillah Hanks, a Staten Island Democrat, told Gothamist she hoped to emulate the kind of housing development that helped turn moribund, post-industrial waterfronts of Jersey City, Hoboken and Bayonne into denser residential communities."
+      ],
+      "summary": "NYC Council releases 'downtown' Staten Island plan, with a dash",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC Council releases 'downtown' Staten Island plan, with a dash of Jersey envy",
+        "article_url": "https://gothamist.com/news/nyc-council-releases-downtown-staten-island-plan-with-a-dash-of-jersey-envy",
+        "published_at": "2026-09-25T10:30:56+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-25T14:23:19.466295+00:00",
+      "verification": {
+        "article_title": "NYC Council releases 'downtown' Staten Island plan, with a dash of Jersey envy",
+        "article_url": "https://gothamist.com/news/nyc-council-releases-downtown-staten-island-plan-with-a-dash-of-jersey-envy",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-25T14:23:17.372116+00:00"
+      }
+    }
+  ]
+}
