@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-09-29T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-09-29.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "German American Steuben Day Parade Jollifies UES, Jippie!",
+      "bullets": [
+        "German American Steuben Day Parade Jollifies UES, Jippie!",
+        "It was a triple parade weekend in Manhattan: Germans on Fifth Avenue; Mexicans on Madison Avenue and African-Americans on Adam Clayton Powell Boulevard."
+      ],
+      "summary": "German American Steuben Day Parade Jollifies UES, Jippie!",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "German American Steuben Day Parade Jollifies UES, Jippie!",
+        "article_url": "https://www.ourtownny.com/news/german-american-steuben-day-parade-jollifies-ues-jippie-IE6226785",
+        "published_at": "2026-09-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-29T15:18:34.288373+00:00",
+      "verification": {
+        "article_title": "German American Steuben Day Parade Jollifies UES, Jippie!",
+        "article_url": "https://www.ourtownny.com/news/german-american-steuben-day-parade-jollifies-ues-jippie-IE6226785",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-29T15:18:31.913629+00:00"
+      }
+    },
+    {
+      "headline": "Gateway boondoggle costs billions, adding no trains",
+      "bullets": [
+        "The politicians from both sides of the river were cheering yesterday that the custom-built tunnel boring machine (TBM) for the Gateway rail tunnel under the Hudson is getting started, but despite blowing $16 billion in federal funds, commuters will get nothing from it when it\u2019s done in 10 years or so.",
+        "The pols are only looking at their next election, not the long view."
+      ],
+      "summary": "Gateway boondoggle costs billions, adding no trains",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Gateway boondoggle costs billions, adding no trains",
+        "article_url": "https://www.nydailynews.com/2026/09/29/gateway-boondoggle-costs-billions-adding-no-trains/",
+        "published_at": "2026-09-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-29T15:18:34.372525+00:00",
+      "verification": {
+        "article_title": "Gateway boondoggle costs billions, adding no trains",
+        "article_url": "https://www.nydailynews.com/2026/09/29/gateway-boondoggle-costs-billions-adding-no-trains/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-29T15:18:32.052205+00:00"
+      }
+    },
+    {
+      "headline": "The Shame of East 86th Street: A Retail Mishmash at",
+      "bullets": [
+        "The Shame of East 86th Street: A Retail Mishmash at Best Happier Grocery is coming to East 86th Street and our East Side Observer says the last thing the area needs is another grocery store while the corridor lacks a movie theater, cultural venues and good restaurants.",
+        "The East 86th Street corridor is in a shameful condition and doesn\u00e2t look like it\u00e2s getting any better."
+      ],
+      "summary": "The Shame of East 86th Street: A Retail Mishmash at",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "The Shame of East 86th Street: A Retail Mishmash at Best",
+        "article_url": "https://www.ourtownny.com/voices/the-shame-of-east-86th-street-a-retail-mishmash-at-best-MY6230871",
+        "published_at": "2026-09-27"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-29T15:18:34.454403+00:00",
+      "verification": {
+        "article_title": "The Shame of East 86th Street: A Retail Mishmash at Best",
+        "article_url": "https://www.ourtownny.com/voices/the-shame-of-east-86th-street-a-retail-mishmash-at-best-MY6230871",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-29T15:18:32.203938+00:00"
+      }
+    },
+    {
+      "headline": "Harlem, Washington Heights Getting New Public Toilets",
+      "bullets": [
+        "Harlem, Washington Heights Getting New Public Toilets It is the start of a pilot program that the city eventually hopes will double the number of available public toilets.",
+        "The restrooms will come with a 10-minute time limit, however, which has some people with disabilities or other gut conditions expressing dismay."
+      ],
+      "summary": "Harlem, Washington Heights Getting New Public Toilets",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Harlem, Washington Heights Getting New Public Toilets",
+        "article_url": "https://www.ourtownny.com/news/harlem-washington-heights-getting-new-public-toilets-DE6226173",
+        "published_at": "2026-09-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-29T15:18:34.597898+00:00",
+      "verification": {
+        "article_title": "Harlem, Washington Heights Getting New Public Toilets",
+        "article_url": "https://www.ourtownny.com/news/harlem-washington-heights-getting-new-public-toilets-DE6226173",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-29T15:18:32.357624+00:00"
+      }
+    },
+    {
+      "headline": "Queens owners mourn the loss of businesses after large fire",
+      "bullets": [
+        "A devastating fire ripped through a row of stores in Queens, triggering a massive FDNY response early Tuesday morning.",
+        "More than 140 fire and EMS personnel responded to the blaze reported just before 4:30 a.m."
+      ],
+      "summary": "Queens owners mourn the loss of businesses after large fire",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Queens owners mourn the loss of businesses after large fire burns through building",
+        "article_url": "https://www.cbsnews.com/newyork/news/fire-jamaica-queens-store-fdny/",
+        "published_at": "2026-09-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-29T15:18:34.690631+00:00",
+      "verification": {
+        "article_title": "Queens owners mourn the loss of businesses after large fire burns through building",
+        "article_url": "https://www.cbsnews.com/newyork/news/fire-jamaica-queens-store-fdny/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-29T15:18:32.488987+00:00"
+      }
+    },
+    {
+      "headline": "Fight to Save Kips Bay AMC 15 Heats Up As",
+      "bullets": [
+        "Fight to Save Kips Bay AMC 15 Heats Up As Residents Speak Out Residents spoke out at a rally and a local community board meeting over concerns for the future of both the theater and neighborhood after it was revealed that NYU Langone is planning to purchase the site.",
+        "Keep the cameras rolling\u00e2 he fight to keep the Kips Bay AMC 15 open isn\u00e2t over yet."
+      ],
+      "summary": "Fight to Save Kips Bay AMC 15 Heats Up As",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Fight to Save Kips Bay AMC 15 Heats Up As Residents Speak Out",
+        "article_url": "https://www.ourtownny.com/news/fight-to-save-kips-bay-amc-15-heats-up-as-residents-speak-out-DB6232533",
+        "published_at": "2026-09-27"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-29T15:18:34.774433+00:00",
+      "verification": {
+        "article_title": "Fight to Save Kips Bay AMC 15 Heats Up As Residents Speak Out",
+        "article_url": "https://www.ourtownny.com/news/fight-to-save-kips-bay-amc-15-heats-up-as-residents-speak-out-DB6232533",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-29T15:18:32.582334+00:00"
+      }
+    },
+    {
+      "headline": "Plan to modernize NYC's diesel-spewing produce market falls apart under",
+      "bullets": [
+        "For decades, Hunts Point Produce Market in the South Bronx has fed the city while serving as a symbol of environmental injustice.",
+        "Many of the fruits and vegetables New Yorkers eat are first stored in refrigerated trailers that spew diesel fumes into the poorest, most unhealthy neighborhood in the five boroughs."
+      ],
+      "summary": "Plan to modernize NYC's diesel-spewing produce market falls apart under",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Plan to modernize NYC's diesel-spewing produce market falls apart under Mamdani",
+        "article_url": "https://gothamist.com/news/plan-to-modernize-nycs-diesel-spewing-produce-market-falls-apart-under-mamdani",
+        "published_at": "2026-09-29T10:00:52+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-29T15:18:34.904317+00:00",
+      "verification": {
+        "article_title": "Plan to modernize NYC's diesel-spewing produce market falls apart under Mamdani",
+        "article_url": "https://gothamist.com/news/plan-to-modernize-nycs-diesel-spewing-produce-market-falls-apart-under-mamdani",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-29T15:18:32.756385+00:00"
+      }
+    },
+    {
+      "headline": "Tennessee is set to execute a woman for the first",
+      "bullets": [
+        "NASHVILLE -- Christa Pike was 18 when she killed a classmate in a jealous rage and became one of the youngest women to be sent to death row.",
+        "Now 50, she is scheduled to be put to death Wednesday in what would be Tennessee\u2019s first execution of a woman in 200 years."
+      ],
+      "summary": "Tennessee is set to execute a woman for the first",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Tennessee is set to execute a woman for the first time in 200 years",
+        "article_url": "https://abc7ny.com/story/christa-pike-tennessee-is-set-execute-woman-first-time-200-years/19887407/",
+        "published_at": "2026-09-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-29T15:18:34.995239+00:00",
+      "verification": {
+        "article_title": "Tennessee is set to execute a woman for the first time in 200 years",
+        "article_url": "https://abc7ny.com/story/christa-pike-tennessee-is-set-execute-woman-first-time-200-years/19887407/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-29T15:18:32.903490+00:00"
+      }
+    },
+    {
+      "headline": "UK air base 'terrorism' plot probe continues after suspects released",
+      "bullets": [
+        "Five men arrested near the base early on Sunday were bailed on Monday.",
+        "LONDON -- Police roadblocks and a cordon remained in place in the southwestern British village of Whelford on Tuesday morning, as the investigation continued into a possible terrorist plot near a key U.S."
+      ],
+      "summary": "UK air base 'terrorism' plot probe continues after suspects released",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "UK air base 'terrorism' plot probe continues after suspects released on bail",
+        "article_url": "https://abc7ny.com/story/uk-air-base-terrorism-plot-probe-continues-suspects-released-bail/19886796/",
+        "published_at": "2026-09-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-29T15:18:35.083112+00:00",
+      "verification": {
+        "article_title": "UK air base 'terrorism' plot probe continues after suspects released on bail",
+        "article_url": "https://abc7ny.com/story/uk-air-base-terrorism-plot-probe-continues-suspects-released-bail/19886796/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-29T15:18:33.030665+00:00"
+      }
+    },
+    {
+      "headline": "Cyclist killed by dump truck on West 34th Street near",
+      "bullets": [
+        "MIDTOWN, Manhattan (WABC) -- An investigation is underway after a bicyclist was struck and killed by a dump truck in Midtown Manhattan on Monday, according to NYPD officials.",
+        "It happened just after 10:50 a.m."
+      ],
+      "summary": "Cyclist killed by dump truck on West 34th Street near",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Cyclist killed by dump truck on West 34th Street near Macy's in Midtown",
+        "article_url": "https://abc7ny.com/post/manhattan-bicyclist-struck-killed-by-dump-truck-west-34th-street-midtown/19883942/",
+        "published_at": "2026-09-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-29T15:18:35.174690+00:00",
+      "verification": {
+        "article_title": "Cyclist killed by dump truck on West 34th Street near Macy's in Midtown",
+        "article_url": "https://abc7ny.com/post/manhattan-bicyclist-struck-killed-by-dump-truck-west-34th-street-midtown/19883942/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-29T15:18:33.179821+00:00"
+      }
+    },
+    {
+      "headline": "NYC has a plan to stop homeless people from cycling",
+      "bullets": [
+        "Homeless New Yorkers with severe mental illness often cycle between the street, the hospital and the shelter system.",
+        "It\u2019s a revolving door that\u2019s long frustrated homeless advocates, clinical workers and city leaders."
+      ],
+      "summary": "NYC has a plan to stop homeless people from cycling",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC has a plan to stop homeless people from cycling between hospitals and the streets",
+        "article_url": "https://gothamist.com/news/nyc-has-a-plan-to-stop-homeless-people-from-cycling-between-hospitals-and-the-streets",
+        "published_at": "2026-09-29T12:00:57+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-29T15:18:35.273432+00:00",
+      "verification": {
+        "article_title": "NYC has a plan to stop homeless people from cycling between hospitals and the streets",
+        "article_url": "https://gothamist.com/news/nyc-has-a-plan-to-stop-homeless-people-from-cycling-between-hospitals-and-the-streets",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-29T15:18:33.348338+00:00"
+      }
+    },
+    {
+      "headline": "Teresa Giudice daughter in \u2018care of professionals\u2019 after friends\u2019 deaths",
+      "bullets": [
+        "\u201cReal Housewives of New Jersey\u201d star Teresa Giudice pleaded for privacy Monday so her daughter Milania could heal in peace from some recent life upheavals.",
+        "\u201cMilania has experienced tremendous heartbreak and significant psychological trauma after losing two of her best friends,\u201d Giudice said in an Instagram story."
+      ],
+      "summary": "Teresa Giudice daughter in \u2018care of professionals\u2019 after friends\u2019 deaths",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Teresa Giudice daughter in \u2018care of professionals\u2019 after friends\u2019 deaths",
+        "article_url": "https://www.nydailynews.com/2026/09/28/milania-giudice-friend-death-professional-care/",
+        "published_at": "2026-09-28T19:52:19+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-29T15:18:35.353791+00:00",
+      "verification": {
+        "article_title": "Teresa Giudice daughter in \u2018care of professionals\u2019 after friends\u2019 deaths",
+        "article_url": "https://www.nydailynews.com/2026/09/28/milania-giudice-friend-death-professional-care/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-29T15:18:33.478756+00:00"
+      }
+    },
+    {
+      "headline": "DA defends decision not to prosecute alleged Cornell 'gang rape'",
+      "bullets": [
+        "Tompkins County DA Matthew Van Houten announced he was reopening the case.",
+        "Prosecutors in upstate New York are defending their decision not to bring charges in 2024 after an alleged \"gang rape\" at a Cornell University fraternity."
+      ],
+      "summary": "DA defends decision not to prosecute alleged Cornell 'gang rape'",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "DA defends decision not to prosecute alleged Cornell 'gang rape' case in 2024",
+        "article_url": "https://abc7ny.com/story/da-defends-decision-not-prosecute-alleged-cornell-gang-rape-case-2024/19886856/",
+        "published_at": "2026-09-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-29T15:18:35.522525+00:00",
+      "verification": {
+        "article_title": "DA defends decision not to prosecute alleged Cornell 'gang rape' case in 2024",
+        "article_url": "https://abc7ny.com/story/da-defends-decision-not-prosecute-alleged-cornell-gang-rape-case-2024/19886856/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-29T15:18:33.597261+00:00"
+      }
+    },
+    {
+      "headline": "Cornell fraternity rape case will be reopened after woman said",
+      "bullets": [
+        "The investigation into will be reopened, authorities said Monday.",
+        "The move comes after a lawsuit was filed earlier this month by a woman who claimed she was drugged and raped by multiple people at a fraternity house over the course of several hours."
+      ],
+      "summary": "Cornell fraternity rape case will be reopened after woman said",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Cornell fraternity rape case will be reopened after woman said she was raped for hours by multiple students",
+        "article_url": "https://www.cbsnews.com/newyork/news/alleged-cornell-university-fraternity-rape-case-will-be-reopened/",
+        "published_at": "2026-09-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-29T15:18:35.603821+00:00",
+      "verification": {
+        "article_title": "Cornell fraternity rape case will be reopened after woman said she was raped for hours by multiple students",
+        "article_url": "https://www.cbsnews.com/newyork/news/alleged-cornell-university-fraternity-rape-case-will-be-reopened/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-29T15:18:33.683872+00:00"
+      }
+    },
+    {
+      "headline": "Watch: Bear family piles into car after mama bear opens",
+      "bullets": [
+        "A family of bears was caught on camera breaking into a parked car in Tennessee.",
+        "What we know: Kathie Gentry recorded the jaw-dropping encounter and shared the video with Storyful after watching a mother bear open the passenger-side door and climb inside."
+      ],
+      "summary": "Watch: Bear family piles into car after mama bear opens",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Watch: Bear family piles into car after mama bear opens door",
+        "article_url": "https://www.fox5ny.com/news/watch-bear-family-piles-car-after-mama-bear-opens-door",
+        "published_at": "2026-09-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-29T15:18:35.692960+00:00",
+      "verification": {
+        "article_title": "Watch: Bear family piles into car after mama bear opens door",
+        "article_url": "https://www.fox5ny.com/news/watch-bear-family-piles-car-after-mama-bear-opens-door",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-29T15:18:33.770281+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on city tree care, Israel\u2019s origins and",
+      "bullets": [
+        "Lagging tree maintenance is risking lives Long Island City: My heart goes out to the family and friends of Leighton Brown (\u201cNYCHA worker killed by falling tree had just spoken about unpredictability,\u201d Sept.",
+        "28)."
+      ],
+      "summary": "Readers sound off on city tree care, Israel\u2019s origins and",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on city tree care, Israel\u2019s origins and the Kennedy name",
+        "article_url": "https://www.nydailynews.com/2026/09/29/readers-sound-off-on-city-tree-care-israels-origins-and-the-kennedy-name/",
+        "published_at": "2026-09-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-29T15:18:35.778479+00:00",
+      "verification": {
+        "article_title": "Readers sound off on city tree care, Israel\u2019s origins and the Kennedy name",
+        "article_url": "https://www.nydailynews.com/2026/09/29/readers-sound-off-on-city-tree-care-israels-origins-and-the-kennedy-name/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-29T15:18:33.855298+00:00"
+      }
+    },
+    {
+      "headline": "Treat your feet to the best UGG boots",
+      "bullets": [
+        "Which Ugg boots should you buy?",
+        "There\u2019s nothing better than moments where fashion and comfort perfectly align."
+      ],
+      "summary": "Treat your feet to the best UGG boots",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Treat your feet to the best UGG boots",
+        "article_url": "https://www.nydailynews.com/2026/09/29/treat-your-feet-to-the-best-ugg-boots/",
+        "published_at": "2026-09-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-29T15:18:35.866497+00:00",
+      "verification": {
+        "article_title": "Treat your feet to the best UGG boots",
+        "article_url": "https://www.nydailynews.com/2026/09/29/treat-your-feet-to-the-best-ugg-boots/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-29T15:18:33.931867+00:00"
+      }
+    },
+    {
+      "headline": "Best pumpkin patch outfit for babies",
+      "bullets": [
+        "Which pumpkin patch outfits for babies are best?",
+        "Time for the best family outing of the year \u2014 the pumpkin patch!"
+      ],
+      "summary": "Best pumpkin patch outfit for babies",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Best pumpkin patch outfit for babies",
+        "article_url": "https://www.nydailynews.com/2026/09/28/best-pumpkin-patch-outfit-for-babies/",
+        "published_at": "2026-09-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-09-29T15:18:35.952460+00:00",
+      "verification": {
+        "article_title": "Best pumpkin patch outfit for babies",
+        "article_url": "https://www.nydailynews.com/2026/09/28/best-pumpkin-patch-outfit-for-babies/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-09-29T15:18:34.059003+00:00"
+      }
+    }
+  ]
+}
