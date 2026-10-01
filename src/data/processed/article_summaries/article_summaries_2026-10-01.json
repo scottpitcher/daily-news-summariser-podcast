@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-10-01T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-10-01.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "How suburban margins in NY and NJ could swing close",
+      "bullets": [
+        "NEW YORK - Suburbia, home to strip malls, youth football fields and a notable lack of sidewalks was, for many decades following World War II, the bedrock of the Republican Party.",
+        "The backstory: According to long-term voter behavior data from the American National Election Studies, Republican nominees won the national suburban vote in every presidential election year from 1952 to 1988, with the sole exception of the 1964 Democratic landslide."
+      ],
+      "summary": "How suburban margins in NY and NJ could swing close",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "How suburban margins in NY and NJ could swing close contests in the midterms",
+        "article_url": "https://www.fox5ny.com/news/how-suburban-margins-ny-nj-could-swing-close-contests-midterms",
+        "published_at": "2026-10-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-01T15:56:29.087625+00:00",
+      "verification": {
+        "article_title": "How suburban margins in NY and NJ could swing close contests in the midterms",
+        "article_url": "https://www.fox5ny.com/news/how-suburban-margins-ny-nj-could-swing-close-contests-midterms",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-01T15:56:26.620597+00:00"
+      }
+    },
+    {
+      "headline": "Landslide or nailbiter? For House hopefuls, NY Gov. Hochul\u2019s margin",
+      "bullets": [
+        "This column originally appeared in The Politics Brief, our weekly newsletter on the people, power and policies that shape New Yorkers' lives.",
+        "Sign up to get the full version where you can ask questions, share news tips and weigh in on the conversation."
+      ],
+      "summary": "Landslide or nailbiter? For House hopefuls, NY Gov. Hochul\u2019s margin",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Landslide or nailbiter? For House hopefuls, NY Gov. Hochul\u2019s margin matters",
+        "article_url": "https://gothamist.com/news/landslide-or-nailbiter-for-house-hopefuls-ny-gov-hochuls-margin-matters",
+        "published_at": "2026-10-01T15:00:48+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-01T15:56:29.209353+00:00",
+      "verification": {
+        "article_title": "Landslide or nailbiter? For House hopefuls, NY Gov. Hochul\u2019s margin matters",
+        "article_url": "https://gothamist.com/news/landslide-or-nailbiter-for-house-hopefuls-ny-gov-hochuls-margin-matters",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-01T15:56:26.758200+00:00"
+      }
+    },
+    {
+      "headline": "NJ county, towns file lawsuit to stop noisy NYC sightseeing",
+      "bullets": [
+        "Some of the tourist helicopters that circle New York City should be shut down, at least temporarily, according to a new lawsuit filed in New Jersey.",
+        "The town of Kearny on Tuesday sued the helicopter operator FlyNYON along with HHI Heliport and River Terminal Development, which owns the heliport property, over complaints that helicopter operations are consistently violating the conditions of local zoning approvals."
+      ],
+      "summary": "NJ county, towns file lawsuit to stop noisy NYC sightseeing",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NJ county, towns file lawsuit to stop noisy NYC sightseeing helicopters",
+        "article_url": "https://gothamist.com/news/nj-communities-file-lawsuit-to-stop-noisy-sightseeing-helicopters",
+        "published_at": "2026-09-30T19:30:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-01T15:56:29.332224+00:00",
+      "verification": {
+        "article_title": "NJ county, towns file lawsuit to stop noisy NYC sightseeing helicopters",
+        "article_url": "https://gothamist.com/news/nj-communities-file-lawsuit-to-stop-noisy-sightseeing-helicopters",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-01T15:56:26.899187+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on the Pledge of Allegiance, bus shelter",
+      "bullets": [
+        "A better pledge would emphasize \u2018for all\u2019 Brooklyn: While I agree with Voicer F.T.",
+        "Connolly that the current Republican Party is totally corrupt in its loyalty to the most disgusting president in our history, I feel I must clear up some misconceptions about the Pledge of Allegiance."
+      ],
+      "summary": "Readers sound off on the Pledge of Allegiance, bus shelter",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on the Pledge of Allegiance, bus shelter squatters and Hank\u2019s Honeys",
+        "article_url": "https://www.nydailynews.com/2026/10/01/readers-sound-off-on-the-pledge-of-allegiance-bus-shelter-squatters-and-hanks-honeys/",
+        "published_at": "2026-10-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-01T15:56:29.451064+00:00",
+      "verification": {
+        "article_title": "Readers sound off on the Pledge of Allegiance, bus shelter squatters and Hank\u2019s Honeys",
+        "article_url": "https://www.nydailynews.com/2026/10/01/readers-sound-off-on-the-pledge-of-allegiance-bus-shelter-squatters-and-hanks-honeys/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-01T15:56:27.067998+00:00"
+      }
+    },
+    {
+      "headline": "From a Manhattan Apartment, a Mother and Son Grow an",
+      "bullets": [
+        "From a Manhattan Apartment, a Mother and Son Grow an App to Find Farmers\u00e2 Markets Heather Spinelli and her 12-year-old son, Luca, built an app that helps users find farms, farmers markets, local products and agricultural experiences across the country.",
+        "The quiet hum of tractors and sprawling fields were miles away when the idea for FarmScout began to take shape."
+      ],
+      "summary": "From a Manhattan Apartment, a Mother and Son Grow an",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "From a Manhattan Apartment, a Mother and Son Grow an App to Find Farmers\u00e2 Markets",
+        "article_url": "https://www.ourtownny.com/features/healthy-manhattan/from-a-manhattan-apartment-a-mother-and-son-grow-an-app-to-find-farmers-markets-BA6244560",
+        "published_at": "2026-10-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-01T15:56:29.571743+00:00",
+      "verification": {
+        "article_title": "From a Manhattan Apartment, a Mother and Son Grow an App to Find Farmers\u00e2 Markets",
+        "article_url": "https://www.ourtownny.com/features/healthy-manhattan/from-a-manhattan-apartment-a-mother-and-son-grow-an-app-to-find-farmers-markets-BA6244560",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-01T15:56:27.185752+00:00"
+      }
+    },
+    {
+      "headline": "New legislation targets vacant storefront concerns amid closure of Upper",
+      "bullets": [
+        "UPPER WEST SIDE (WABC) -- A growing number of longtime businesses on Manhattan's Upper West Side are facing challenges as neighborhood vacancies persist and business owners cite rising costs and changing consumer habits.",
+        "At Harvest Kitchen, where the restaurant says its guacamole has been voted among the top four in the nation, business remains active."
+      ],
+      "summary": "New legislation targets vacant storefront concerns amid closure of Upper",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "New legislation targets vacant storefront concerns amid closure of Upper West Side mainstays",
+        "article_url": "https://abc7ny.com/post/jakes-dilemma-closes-concerns-grow-upper-west-side-mainstays/19894384/",
+        "published_at": "2026-10-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-01T15:56:29.692042+00:00",
+      "verification": {
+        "article_title": "New legislation targets vacant storefront concerns amid closure of Upper West Side mainstays",
+        "article_url": "https://abc7ny.com/post/jakes-dilemma-closes-concerns-grow-upper-west-side-mainstays/19894384/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-01T15:56:27.306880+00:00"
+      }
+    },
+    {
+      "headline": "What changes in New Jersey on Oct. 1: Health coverage,",
+      "bullets": [
+        "NEW JERSEY - Oct.",
+        "1 brings several changes for New Jersey residents, businesses and state agencies, including new Medicaid eligibility restrictions for some immigrants, independent-contractor regulations and utility-assistance charges."
+      ],
+      "summary": "What changes in New Jersey on Oct. 1: Health coverage,",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "What changes in New Jersey on Oct. 1: Health coverage, utility bills and work rules",
+        "article_url": "https://www.fox5ny.com/news/what-changes-new-jersey-oct-1-medicaid-eligibility-worker-rules-more",
+        "published_at": "2026-10-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-01T15:56:29.814067+00:00",
+      "verification": {
+        "article_title": "What changes in New Jersey on Oct. 1: Health coverage, utility bills and work rules",
+        "article_url": "https://www.fox5ny.com/news/what-changes-new-jersey-oct-1-medicaid-eligibility-worker-rules-more",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-01T15:56:27.446023+00:00"
+      }
+    },
+    {
+      "headline": "October is spooky season at the movies in New York",
+      "bullets": [
+        "The leaves have turned, the weather is gloomy, and spooky season is officially upon us.",
+        "We all love to nest at home with a hot drink and a scary movie on TV during this time of year, but for those brave enough to venture out into the chill of the evening, your local movie theater promises plenty of scares."
+      ],
+      "summary": "October is spooky season at the movies in New York",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "October is spooky season at the movies in New York City",
+        "article_url": "https://gothamist.com/arts-entertainment/october-is-spooky-season-at-the-movies-in-new-york-city",
+        "published_at": "2026-10-01T15:00:45+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-01T15:56:29.953780+00:00",
+      "verification": {
+        "article_title": "October is spooky season at the movies in New York City",
+        "article_url": "https://gothamist.com/arts-entertainment/october-is-spooky-season-at-the-movies-in-new-york-city",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-01T15:56:27.562861+00:00"
+      }
+    },
+    {
+      "headline": "Student dies after 4th-floor fall at Los Angeles high school,",
+      "bullets": [
+        "LOS ANGELES -- A Los Angeles high school student died Wednesday after witnesses said he fell from a fourth-floor balcony.",
+        "Police were called to Benjamin Franklin High School shortly after 1 p.m."
+      ],
+      "summary": "Student dies after 4th-floor fall at Los Angeles high school,",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Student dies after 4th-floor fall at Los Angeles high school, witnesses say",
+        "article_url": "https://abc7ny.com/story/student-dies-4th-floor-fall-los-angeles-high-school-witnesses-say/19896780/",
+        "published_at": "2026-10-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-01T15:56:30.072769+00:00",
+      "verification": {
+        "article_title": "Student dies after 4th-floor fall at Los Angeles high school, witnesses say",
+        "article_url": "https://abc7ny.com/story/student-dies-4th-floor-fall-los-angeles-high-school-witnesses-say/19896780/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-01T15:56:27.680320+00:00"
+      }
+    },
+    {
+      "headline": "Emotionally disturbed subway rider stabs man to death during fight",
+      "bullets": [
+        "A 59-year-old man was stabbed to death aboard a Queens rush-hour subway train during an unprovoked fight with an emotionally disturbed man on Wednesday, cops said.",
+        "Mesias Lojano was stabbed three times in the upper body and once in the neck about 5:20 p.m."
+      ],
+      "summary": "Emotionally disturbed subway rider stabs man to death during fight",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Emotionally disturbed subway rider stabs man to death during fight on Queens train",
+        "article_url": "https://www.nydailynews.com/2026/09/30/emotionally-disturbed-subway-commuter-fatally-stabs-59-year-old-on-queens-train/",
+        "published_at": "2026-09-30"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-01T15:56:30.191140+00:00",
+      "verification": {
+        "article_title": "Emotionally disturbed subway rider stabs man to death during fight on Queens train",
+        "article_url": "https://www.nydailynews.com/2026/09/30/emotionally-disturbed-subway-commuter-fatally-stabs-59-year-old-on-queens-train/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-01T15:56:27.796519+00:00"
+      }
+    },
+    {
+      "headline": "A man who died on Rikers treated as \u2018less than",
+      "bullets": [
+        "The week before John Price died in city Department of Correction custody in March, he told his family he was having to sleep sitting up in his cell \u2014 if he laid down, he felt like he was drowning.",
+        "\u201cHe said, \u2018I don\u2019t feel good, they\u2019re not helping me, they\u2019re just sending me back to my cell,\u2019\u201d Price\u2019s brother, Arnez Price, recalled."
+      ],
+      "summary": "A man who died on Rikers treated as \u2018less than",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "A man who died on Rikers treated as \u2018less than a human\u2019 as family wages $25 million lawsuit",
+        "article_url": "https://gothamist.com/news/a-man-who-died-on-rikers-treated-as-less-than-a-human-as-family-wages-25-million-lawsuit",
+        "published_at": "2026-10-01T11:43:11+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-01T15:56:30.310881+00:00",
+      "verification": {
+        "article_title": "A man who died on Rikers treated as \u2018less than a human\u2019 as family wages $25 million lawsuit",
+        "article_url": "https://gothamist.com/news/a-man-who-died-on-rikers-treated-as-less-than-a-human-as-family-wages-25-million-lawsuit",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-01T15:56:27.937785+00:00"
+      }
+    },
+    {
+      "headline": "South Bronx Legionnaires' disease outbreak declared over, following 2 deaths",
+      "bullets": [
+        "City health officials on Wednesday declared the end of the South Bronx Legionnaires\u2019 disease outbreak, saying residents and visitors to the area are no longer at increased risk of contracting the severe form of pneumonia.",
+        "The officials said in a statement the source of the outbreak had been eliminated, after ordering widespread testing and cleaning of water cooling towers in the Melrose and Morrisania communities."
+      ],
+      "summary": "South Bronx Legionnaires' disease outbreak declared over, following 2 deaths",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "South Bronx Legionnaires' disease outbreak declared over, following 2 deaths",
+        "article_url": "https://gothamist.com/news/south-bronx-legionnaires-disease-outbreak-declared-over-following-2-deaths",
+        "published_at": "2026-09-30T19:32:07+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-01T15:56:30.433225+00:00",
+      "verification": {
+        "article_title": "South Bronx Legionnaires' disease outbreak declared over, following 2 deaths",
+        "article_url": "https://gothamist.com/news/south-bronx-legionnaires-disease-outbreak-declared-over-following-2-deaths",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-01T15:56:28.054881+00:00"
+      }
+    },
+    {
+      "headline": "'I felt like bait,' Jane Doe said at 2025 Cornell",
+      "bullets": [
+        "The university agreed to an outside review of the allegations.",
+        "During a 2025 hearing at Cornell University, an unidentified female former student who alleges she was gang raped at a fraternity house in 2024 described her harrowing night at the house surrounded by multiple men: \"I felt like bait."
+      ],
+      "summary": "'I felt like bait,' Jane Doe said at 2025 Cornell",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "'I felt like bait,' Jane Doe said at 2025 Cornell University hearing investigating allegations of fraternity house sexual assault",
+        "article_url": "https://abc7ny.com/story/jane-doe-said-felt-like-bait-2025-cornell-university-hearing-investigating-allegations-fraternity-house-sexual-assault/19895990/",
+        "published_at": "2026-10-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-01T15:56:30.559857+00:00",
+      "verification": {
+        "article_title": "'I felt like bait,' Jane Doe said at 2025 Cornell University hearing investigating allegations of fraternity house sexual assault",
+        "article_url": "https://abc7ny.com/story/jane-doe-said-felt-like-bait-2025-cornell-university-hearing-investigating-allegations-fraternity-house-sexual-assault/19895990/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-01T15:56:28.196611+00:00"
+      }
+    },
+    {
+      "headline": "NY judge strikes down Mayor Mamdani\u2019s pied-\u00e0-terre tax rollout, forcing",
+      "bullets": [
+        "Striking a blow to Mayor Mamdani\u2019s rollout of his signature pied-\u00e0-terre tax, a New York City judge on Tuesday ruled in favor of owners of pricey second homes and ordered the city to restart the process.",
+        "Staten Island Supreme Court Justice Wayne Ozzi found that notices the city mailed to homeowners informing them that they may be subject to the surcharge were unlawful and had to be canceled and re-sent."
+      ],
+      "summary": "NY judge strikes down Mayor Mamdani\u2019s pied-\u00e0-terre tax rollout, forcing",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NY judge strikes down Mayor Mamdani\u2019s pied-\u00e0-terre tax rollout, forcing city to start over",
+        "article_url": "https://www.nydailynews.com/2026/09/29/ny-judge-strikes-down-mayor-mamdanis-pied-a-terre-tax-rollout-forcing-city-to-start-over/",
+        "published_at": "2026-09-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-01T15:56:30.682928+00:00",
+      "verification": {
+        "article_title": "NY judge strikes down Mayor Mamdani\u2019s pied-\u00e0-terre tax rollout, forcing city to start over",
+        "article_url": "https://www.nydailynews.com/2026/09/29/ny-judge-strikes-down-mayor-mamdanis-pied-a-terre-tax-rollout-forcing-city-to-start-over/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-01T15:56:28.316948+00:00"
+      }
+    },
+    {
+      "headline": "NASA's SpaceX Crew-13 launches as astronaut brings 100-year-old heirloom on",
+      "bullets": [
+        "One of the astronauts is taking a 100-year-old heirloom When Canadian Space Agency astronaut Joshua Kutryk climbed aboard the SpaceX Dragon spacecraft atop the Falcon 9 rocket that is taking him and the other three members of NASA's SpaceX Crew-13 to the International Space Station on Thursday, he brought a more than 100-year-old pocket watch.",
+        "Kutryk, a fourth-generation Ukrainian Canadian, said he was bringing the timepiece because \"I need a watch to tell time,\" but also because it's been a family heirloom that reminds him of how far his family and the world have come."
+      ],
+      "summary": "NASA's SpaceX Crew-13 launches as astronaut brings 100-year-old heirloom on",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "NASA's SpaceX Crew-13 launches as astronaut brings 100-year-old heirloom on trip",
+        "article_url": "https://abc7ny.com/story/nasas-spacex-crew-13-astronaut-bringing-100-year-old-heirloom-space-station-trip/19896203/",
+        "published_at": "2026-10-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-01T15:56:30.807198+00:00",
+      "verification": {
+        "article_title": "NASA's SpaceX Crew-13 launches as astronaut brings 100-year-old heirloom on trip",
+        "article_url": "https://abc7ny.com/story/nasas-spacex-crew-13-astronaut-bringing-100-year-old-heirloom-space-station-trip/19896203/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-01T15:56:28.439733+00:00"
+      }
+    },
+    {
+      "headline": "1st look at 1 of Zoo Atlanta's new giant pandas",
+      "bullets": [
+        "The giant pandas arrived at Zoo Atlanta from China over the weekend.",
+        "Zoo Atlanta is giving panda fans a new look at one of its newest arrivals."
+      ],
+      "summary": "1st look at 1 of Zoo Atlanta's new giant pandas",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "1st look at 1 of Zoo Atlanta's new giant pandas Fu Shuang",
+        "article_url": "https://abc7ny.com/story/1st-look-1-zoo-atlantas-new-giant-pandas-fu-shuang/19896391/",
+        "published_at": "2026-10-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-01T15:56:30.924277+00:00",
+      "verification": {
+        "article_title": "1st look at 1 of Zoo Atlanta's new giant pandas Fu Shuang",
+        "article_url": "https://abc7ny.com/story/1st-look-1-zoo-atlantas-new-giant-pandas-fu-shuang/19896391/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-01T15:56:28.561292+00:00"
+      }
+    },
+    {
+      "headline": "UES Makes Housing Fast-Track List \u2014 Here\u2019s What Changes",
+      "bullets": [
+        "UES Makes Housing Fast-Track List \u2014 Here\u2019s What Changes Starting Jan.",
+        "1, qualifying housing proposals in the district will get a shorter review, with the City Planning Commission deciding."
+      ],
+      "summary": "UES Makes Housing Fast-Track List \u2014 Here\u2019s What Changes",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "UES Makes Housing Fast-Track List \u2014 Here\u2019s What Changes",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/ues-makes-housing-fast-track-list-here-s-what-changes",
+        "published_at": "2026-10-01T04:22:28+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-01T15:56:31.048054+00:00",
+      "verification": {
+        "article_title": "UES Makes Housing Fast-Track List \u2014 Here\u2019s What Changes",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/ues-makes-housing-fast-track-list-here-s-what-changes",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-01T15:56:28.677449+00:00"
+      }
+    },
+    {
+      "headline": "Upper East Side, Bay Ridge among areas slated for fast-tracked",
+      "bullets": [
+        "Neighborhoods, including the Upper East and Upper West Sides, Bay Ridge and Canarsie, will see affordable housing development moving faster starting in 2027, the Mamdani administration announced Thursday as it begins to roll out new housing rules.",
+        "The changes, which apply to the 12 districts that the city found to have produced the least affordable housing in recent years, are expected to speed up the typically monthslong public review process as the city grapples with twin housing and affordability crises."
+      ],
+      "summary": "Upper East Side, Bay Ridge among areas slated for fast-tracked",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Upper East Side, Bay Ridge among areas slated for fast-tracked affordable housing",
+        "article_url": "https://www.nydailynews.com/2026/10/01/upper-east-side-bay-ridge-slated-fast-tracked-affordable-housing/",
+        "published_at": "2026-10-01T10:00:03+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-01T15:56:31.170964+00:00",
+      "verification": {
+        "article_title": "Upper East Side, Bay Ridge among areas slated for fast-tracked affordable housing",
+        "article_url": "https://www.nydailynews.com/2026/10/01/upper-east-side-bay-ridge-slated-fast-tracked-affordable-housing/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-01T15:56:28.799377+00:00"
+      }
+    }
+  ]
+}
