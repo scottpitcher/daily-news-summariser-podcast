@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-10-02T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-10-02.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "How suburban margins in NY and NJ could swing close",
+      "bullets": [
+        "NEW YORK - Suburbia, home to strip malls, youth football fields and a notable lack of sidewalks was, for many decades following World War II, the bedrock of the Republican Party.",
+        "The backstory: According to long-term voter behavior data from the American National Election Studies, Republican nominees won the national suburban vote in every presidential election year from 1952 to 1988, with the sole exception of the 1964 Democratic landslide."
+      ],
+      "summary": "How suburban margins in NY and NJ could swing close",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "How suburban margins in NY and NJ could swing close contests in the midterms",
+        "article_url": "https://www.fox5ny.com/news/how-suburban-margins-ny-nj-could-swing-close-contests-midterms",
+        "published_at": "2026-10-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-02T15:17:51.640120+00:00",
+      "verification": {
+        "article_title": "How suburban margins in NY and NJ could swing close contests in the midterms",
+        "article_url": "https://www.fox5ny.com/news/how-suburban-margins-ny-nj-could-swing-close-contests-midterms",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-02T15:17:50.162899+00:00"
+      }
+    },
+    {
+      "headline": "In the mood for a pastoral autumn experience? Try Queens.",
+      "bullets": [
+        "This column originally appeared in the Looped In NYC newsletter.",
+        "Sign up here."
+      ],
+      "summary": "In the mood for a pastoral autumn experience? Try Queens.",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "In the mood for a pastoral autumn experience? Try Queens.",
+        "article_url": "https://gothamist.com/arts-entertainment/in-the-mood-for-a-pastoral-autumn-experience-try-queens",
+        "published_at": "2026-10-01T17:08:43+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-02T15:17:51.696374+00:00",
+      "verification": {
+        "article_title": "In the mood for a pastoral autumn experience? Try Queens.",
+        "article_url": "https://gothamist.com/arts-entertainment/in-the-mood-for-a-pastoral-autumn-experience-try-queens",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-02T15:17:50.259790+00:00"
+      }
+    },
+    {
+      "headline": "The most expensive congressional race in NJ history? This could",
+      "bullets": [
+        "It\u2019s the kind of record that was bound to be broken.",
+        "In 2024, New Jersey incumbent Republican Rep."
+      ],
+      "summary": "The most expensive congressional race in NJ history? This could",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "The most expensive congressional race in NJ history? This could be the one.",
+        "article_url": "https://gothamist.com/news/the-most-expensive-congressional-race-in-nj-history-this-could-be-the-one",
+        "published_at": "2026-10-01T17:50:19+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-02T15:17:51.795782+00:00",
+      "verification": {
+        "article_title": "The most expensive congressional race in NJ history? This could be the one.",
+        "article_url": "https://gothamist.com/news/the-most-expensive-congressional-race-in-nj-history-this-could-be-the-one",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-02T15:17:50.326885+00:00"
+      }
+    },
+    {
+      "headline": "Christa Pike update: Convicted killer in critical condition after botched",
+      "bullets": [
+        "She appeared to still be breathing when witnesses were escorted out.",
+        "Christa Pike, the only woman on Tennessee's death row, is in critical condition at a hospital and receiving \"life-saving care\" after a botched execution attempt Wednesday night, her attorneys told reporters at an online press conference on Thursday."
+      ],
+      "summary": "Christa Pike update: Convicted killer in critical condition after botched",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Christa Pike update: Convicted killer in critical condition after botched execution in Tennessee, attorneys say",
+        "article_url": "https://abc7ny.com/story/is-christa-pike-alive-convicted-killer-critical-condition-botched-execution-tennessee-attorneys-say/19900009/",
+        "published_at": "2026-10-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-02T15:17:51.854190+00:00",
+      "verification": {
+        "article_title": "Christa Pike update: Convicted killer in critical condition after botched execution in Tennessee, attorneys say",
+        "article_url": "https://abc7ny.com/story/is-christa-pike-alive-convicted-killer-critical-condition-botched-execution-tennessee-attorneys-say/19900009/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-02T15:17:50.414644+00:00"
+      }
+    },
+    {
+      "headline": "Need a challenge? Try the best jigsaw puzzles",
+      "bullets": [
+        "Which jigsaw puzzle is best?",
+        "Jigsaw puzzles are not only great fun but also an excellent way to improve your memory, concentration, attention to detail and ability to solve all kinds of problems."
+      ],
+      "summary": "Need a challenge? Try the best jigsaw puzzles",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Need a challenge? Try the best jigsaw puzzles",
+        "article_url": "https://www.nydailynews.com/2026/10/01/need-a-challenge-try-the-best-jigsaw-puzzles/",
+        "published_at": "2026-10-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-02T15:17:51.944226+00:00",
+      "verification": {
+        "article_title": "Need a challenge? Try the best jigsaw puzzles",
+        "article_url": "https://www.nydailynews.com/2026/10/01/need-a-challenge-try-the-best-jigsaw-puzzles/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-02T15:17:50.484426+00:00"
+      }
+    },
+    {
+      "headline": "How to make a pumpkin spice frappuccino",
+      "bullets": [
+        "Make your own pumpkin spice frappuccino What do you do when you want the autumnal flavors of a pumpkin spice latte but it\u2019s too warm for a hot drink?",
+        "Pumpkin spice frappuccinos help fill the gap \u2014 these icy blended drinks bring you all those fall flavors without warming you up."
+      ],
+      "summary": "How to make a pumpkin spice frappuccino",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "How to make a pumpkin spice frappuccino",
+        "article_url": "https://www.nydailynews.com/2026/10/02/how-to-make-a-pumpkin-spice-frappuccino/",
+        "published_at": "2026-10-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-02T15:17:52.000743+00:00",
+      "verification": {
+        "article_title": "How to make a pumpkin spice frappuccino",
+        "article_url": "https://www.nydailynews.com/2026/10/02/how-to-make-a-pumpkin-spice-frappuccino/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-02T15:17:50.537897+00:00"
+      }
+    },
+    {
+      "headline": "What changes in New Jersey on Oct. 1: Health coverage,",
+      "bullets": [
+        "NEW JERSEY - Oct.",
+        "1 brings several changes for New Jersey residents, businesses and state agencies, including new Medicaid eligibility restrictions for some immigrants, independent-contractor regulations and utility-assistance charges."
+      ],
+      "summary": "What changes in New Jersey on Oct. 1: Health coverage,",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "What changes in New Jersey on Oct. 1: Health coverage, utility bills and work rules",
+        "article_url": "https://www.fox5ny.com/news/what-changes-new-jersey-oct-1-medicaid-eligibility-worker-rules-more",
+        "published_at": "2026-10-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-02T15:17:52.092052+00:00",
+      "verification": {
+        "article_title": "What changes in New Jersey on Oct. 1: Health coverage, utility bills and work rules",
+        "article_url": "https://www.fox5ny.com/news/what-changes-new-jersey-oct-1-medicaid-eligibility-worker-rules-more",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-02T15:17:50.646187+00:00"
+      }
+    },
+    {
+      "headline": "Man arrested for Bronx triple shooting that left one dead",
+      "bullets": [
+        "A 40-year-old man was arrested Thursday for a triple shooting in the Bronx that left one man dead and two women wounded, cops said.",
+        "Render Burns was charged with murder, manslaughter, and criminal possession of a weapon for the deadly shooting that claimed the life of 43-year-old Curtis Quinones on Sept."
+      ],
+      "summary": "Man arrested for Bronx triple shooting that left one dead",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Man arrested for Bronx triple shooting that left one dead and two wounded",
+        "article_url": "https://www.nydailynews.com/2026/10/01/man-arrested-for-bronx-triple-shooting-that-left-one-dead-and-two-wounded/",
+        "published_at": "2026-10-02T02:06:43+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-02T15:17:52.146185+00:00",
+      "verification": {
+        "article_title": "Man arrested for Bronx triple shooting that left one dead and two wounded",
+        "article_url": "https://www.nydailynews.com/2026/10/01/man-arrested-for-bronx-triple-shooting-that-left-one-dead-and-two-wounded/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-02T15:17:50.712458+00:00"
+      }
+    },
+    {
+      "headline": "Man believed to be homeless found dead with burn wounds",
+      "bullets": [
+        "JAMAICA, Queens (WABC) -- An investigation is underway after the body of a man, believed to be homeless, was discovered with burn wounds in an overgrown, trash-filled lot behind a graffitied wall along Hillside Avenue in Jamaica, Queens.",
+        "Police said the man appeared to have been dead for some time."
+      ],
+      "summary": "Man believed to be homeless found dead with burn wounds",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Man believed to be homeless found dead with burn wounds in overgrown lot",
+        "article_url": "https://abc7ny.com/post/queens-burned-body-found-cluttered-lot-jamaica-sources-say/19898901/",
+        "published_at": "2026-10-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-02T15:17:52.198331+00:00",
+      "verification": {
+        "article_title": "Man believed to be homeless found dead with burn wounds in overgrown lot",
+        "article_url": "https://abc7ny.com/post/queens-burned-body-found-cluttered-lot-jamaica-sources-say/19898901/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-02T15:17:50.819167+00:00"
+      }
+    },
+    {
+      "headline": "\u2018I was fighting for my life\u2019: Indian pilot hailed as",
+      "bullets": [
+        "By SHEIKH SAALIQ NEW DELHI (AP) \u2014 The Indian airline captain who helped thwart an apparent attempt to crash a FlyDubai flight described Friday how he fought for his life in the minutes after his co-pilot stabbed him and the plane began a steep descent.",
+        "Capt."
+      ],
+      "summary": "\u2018I was fighting for my life\u2019: Indian pilot hailed as",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "\u2018I was fighting for my life\u2019: Indian pilot hailed as hero recalls FlyDubai cockpit attack",
+        "article_url": "https://www.nydailynews.com/2026/10/02/indian-pilot-recalls-flydubai-cockpit-attack/",
+        "published_at": "2026-10-02T14:45:24+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-02T15:17:52.254456+00:00",
+      "verification": {
+        "article_title": "\u2018I was fighting for my life\u2019: Indian pilot hailed as hero recalls FlyDubai cockpit attack",
+        "article_url": "https://www.nydailynews.com/2026/10/02/indian-pilot-recalls-flydubai-cockpit-attack/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-02T15:17:50.891369+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on nuclear energy, AI warnings and animal",
+      "bullets": [
+        "A clean future doesn\u2019t revert to nuclear Kingston, N.Y.: Gov.",
+        "Hochul wants our utility bills and taxes to subsidize a \u201cnuclear reliability backbone\u201d for New York."
+      ],
+      "summary": "Readers sound off on nuclear energy, AI warnings and animal",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on nuclear energy, AI warnings and animal charities",
+        "article_url": "https://www.nydailynews.com/2026/10/02/readers-sound-off-on-nuclear-energy-ai-warnings-and-animal-charities/",
+        "published_at": "2026-10-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-02T15:17:52.312298+00:00",
+      "verification": {
+        "article_title": "Readers sound off on nuclear energy, AI warnings and animal charities",
+        "article_url": "https://www.nydailynews.com/2026/10/02/readers-sound-off-on-nuclear-energy-ai-warnings-and-animal-charities/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-02T15:17:50.999659+00:00"
+      }
+    },
+    {
+      "headline": "Breakfast: The Most Important Meal of the Day in Many",
+      "bullets": [
+        "Breakfast: The Most Important Meal of the Day in Many Lands The All American breakfast of eggs, whole wheat toast, a glass of juice and maybe a slice of bacon can go a long way to jump starting your system in the morning.",
+        "But around the world, ingredients like rice, fish and dim sum can also fill the bill."
+      ],
+      "summary": "Breakfast: The Most Important Meal of the Day in Many",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Breakfast: The Most Important Meal of the Day in Many Lands",
+        "article_url": "https://www.ourtownny.com/home/breakfast-the-most-important-meal-of-the-day-in-many-lands-BN6249627",
+        "published_at": "2026-10-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-02T15:17:52.366469+00:00",
+      "verification": {
+        "article_title": "Breakfast: The Most Important Meal of the Day in Many Lands",
+        "article_url": "https://www.ourtownny.com/home/breakfast-the-most-important-meal-of-the-day-in-many-lands-BN6249627",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-02T15:17:51.068132+00:00"
+      }
+    },
+    {
+      "headline": "Pressure mounts on Mamdani to detail NYC schools plan after",
+      "bullets": [
+        "A journalist's public reckoning over how to balance giving her own daughter a good education while fighting for a better, more equal public school system in New York City immediately became a hot topic on playgrounds and online forums across the five boroughs.",
+        "It's also put new pressure on Mayor Zohran Mamdani to present a more expansive vision for how to fix the city's schools, which are among the most segregated in the country."
+      ],
+      "summary": "Pressure mounts on Mamdani to detail NYC schools plan after",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Pressure mounts on Mamdani to detail NYC schools plan after Hannah-Jones article",
+        "article_url": "https://gothamist.com/news/pressure-mounts-on-mamdani-to-detail-education-platform-after-article-on-nyc-schools",
+        "published_at": "2026-10-01T17:31:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-02T15:17:52.423580+00:00",
+      "verification": {
+        "article_title": "Pressure mounts on Mamdani to detail NYC schools plan after Hannah-Jones article",
+        "article_url": "https://gothamist.com/news/pressure-mounts-on-mamdani-to-detail-education-platform-after-article-on-nyc-schools",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-02T15:17:51.145339+00:00"
+      }
+    },
+    {
+      "headline": "Cornell 7 shows colleges can\u2019t probe sex assaults",
+      "bullets": [
+        "The case of the Cornell 7 fraternity members who allegedly gang-raped a female sophomore two years ago shows that colleges have no business investigating sex crimes.",
+        "Cornell failed the young woman known as Jane Doe."
+      ],
+      "summary": "Cornell 7 shows colleges can\u2019t probe sex assaults",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Cornell 7 shows colleges can\u2019t probe sex assaults",
+        "article_url": "https://www.nydailynews.com/2026/10/02/cornell-7-shows-colleges-cant-probe-sex-assaults/",
+        "published_at": "2026-10-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-02T15:17:52.512410+00:00",
+      "verification": {
+        "article_title": "Cornell 7 shows colleges can\u2019t probe sex assaults",
+        "article_url": "https://www.nydailynews.com/2026/10/02/cornell-7-shows-colleges-cant-probe-sex-assaults/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-02T15:17:51.215342+00:00"
+      }
+    },
+    {
+      "headline": "Gov. Hochul calls for independent review of Cornell University\u2019s response",
+      "bullets": [
+        "Gov.",
+        "Hochul on Tuesday called for an independent review by outside counsel of Cornell University\u2019s response to gang rape allegations at a college fraternity house."
+      ],
+      "summary": "Gov. Hochul calls for independent review of Cornell University\u2019s response",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Gov. Hochul calls for independent review of Cornell University\u2019s response to gang rape case",
+        "article_url": "https://www.nydailynews.com/2026/09/29/gov-hochul-calls-for-independent-review-of-cornell-universitys-response-to-gang-rape-case/",
+        "published_at": "2026-09-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-02T15:17:52.573570+00:00",
+      "verification": {
+        "article_title": "Gov. Hochul calls for independent review of Cornell University\u2019s response to gang rape case",
+        "article_url": "https://www.nydailynews.com/2026/09/29/gov-hochul-calls-for-independent-review-of-cornell-universitys-response-to-gang-rape-case/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-02T15:17:51.267879+00:00"
+      }
+    },
+    {
+      "headline": "Fall foliage 2026: Where to see peak autumn colors in",
+      "bullets": [
+        "Here's where to find the best fall foliage 2026 across New York, Connecticut and New Jersey, and other parts of the country.",
+        "NEW YORK (WABC) -- The 2026 fall foliage season is underway, with the first signs of the season's colors appearing throughout Upstate New York and the most significant changes expected in the Adirondacks over the next few weeks."
+      ],
+      "summary": "Fall foliage 2026: Where to see peak autumn colors in",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Fall foliage 2026: Where to see peak autumn colors in New York, New Jersey and Connecticut",
+        "article_url": "https://abc7ny.com/post/fall-foliage-map-2026-peak-colors-ny-nj-ct-autumn/19854939/",
+        "published_at": "2026-09-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-02T15:17:52.630189+00:00",
+      "verification": {
+        "article_title": "Fall foliage 2026: Where to see peak autumn colors in New York, New Jersey and Connecticut",
+        "article_url": "https://abc7ny.com/post/fall-foliage-map-2026-peak-colors-ny-nj-ct-autumn/19854939/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-02T15:17:51.335690+00:00"
+      }
+    },
+    {
+      "headline": "'We were the victim': Brooklyn shelter's new CEO speaks after",
+      "bullets": [
+        "The head of a Brooklyn nonprofit at the center of a federal corruption case says the group lacked the basic financial and compliance infrastructure to manage homeless shelters even as its city contracts ballooned during the migrant crisis.",
+        "Still, she said, the care it provided was never in question."
+      ],
+      "summary": "'We were the victim': Brooklyn shelter's new CEO speaks after",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "'We were the victim': Brooklyn shelter's new CEO speaks after corruption scandal",
+        "article_url": "https://gothamist.com/news/we-were-the-victim-brooklyn-shelters-new-ceo-speaks-after-corruption-scandal",
+        "published_at": "2026-10-02T12:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-02T15:17:52.700762+00:00",
+      "verification": {
+        "article_title": "'We were the victim': Brooklyn shelter's new CEO speaks after corruption scandal",
+        "article_url": "https://gothamist.com/news/we-were-the-victim-brooklyn-shelters-new-ceo-speaks-after-corruption-scandal",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-02T15:17:51.458549+00:00"
+      }
+    },
+    {
+      "headline": "NYC subway dragging death highlights an old school MTA failsafe",
+      "bullets": [
+        "This column originally appeared in On The Way, a weekly newsletter covering everything you need to know about NYC-area transportation.",
+        "Sign up to get the full version, which includes answers to reader questions, trivia, service changes and more, in your inbox every Thursday."
+      ],
+      "summary": "NYC subway dragging death highlights an old school MTA failsafe",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC subway dragging death highlights an old school MTA failsafe",
+        "article_url": "https://gothamist.com/news/nyc-subway-dragging-death-highlights-an-old-school-mta-failsafe",
+        "published_at": "2026-10-02T13:00:44+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-02T15:17:52.754964+00:00",
+      "verification": {
+        "article_title": "NYC subway dragging death highlights an old school MTA failsafe",
+        "article_url": "https://gothamist.com/news/nyc-subway-dragging-death-highlights-an-old-school-mta-failsafe",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-02T15:17:51.527555+00:00"
+      }
+    }
+  ]
+}
