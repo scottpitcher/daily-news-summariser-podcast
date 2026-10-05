@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-10-05T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-10-05.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Readers sound off on wedge issues, Trump checks and rent-freeze",
+      "bullets": [
+        "Fear socialists, admire authoritarians?",
+        "Bronx: To Voicer Joan Cocurullo: It seems that right-wing scare tactics (illegal-immigrant caravans moving to the U.S."
+      ],
+      "summary": "Readers sound off on wedge issues, Trump checks and rent-freeze",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on wedge issues, Trump checks and rent-freeze opponents",
+        "article_url": "https://www.nydailynews.com/2026/10/05/readers-sound-off-on-wedge-issues-trump-checks-and-rent-freeze-opponents/",
+        "published_at": "2026-10-05"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-05T17:42:05.171428+00:00",
+      "verification": {
+        "article_title": "Readers sound off on wedge issues, Trump checks and rent-freeze opponents",
+        "article_url": "https://www.nydailynews.com/2026/10/05/readers-sound-off-on-wedge-issues-trump-checks-and-rent-freeze-opponents/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-05T17:42:03.758406+00:00"
+      }
+    },
+    {
+      "headline": "New York state stockpiled abortion pills. Now they're all expired.",
+      "bullets": [
+        "Gov.",
+        "Kathy Hochul was one of a handful of Democratic governors to stockpile pills used in medication abortion amid fears the U.S."
+      ],
+      "summary": "New York state stockpiled abortion pills. Now they're all expired.",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "New York state stockpiled abortion pills. Now they're all expired.",
+        "article_url": "https://gothamist.com/news/new-york-state-stockpiled-abortion-pills-now-theyre-all-expired",
+        "published_at": "2026-10-05T10:00:46+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-05T17:42:05.255068+00:00",
+      "verification": {
+        "article_title": "New York state stockpiled abortion pills. Now they're all expired.",
+        "article_url": "https://gothamist.com/news/new-york-state-stockpiled-abortion-pills-now-theyre-all-expired",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-05T17:42:03.834906+00:00"
+      }
+    },
+    {
+      "headline": "Mamdani will clear 10,000 families off waitlist for low-cost childcare",
+      "bullets": [
+        "The Mamdani administration will move 10,000 low-income families off a ballooning waitlist for subsidized childcare, city officials said Monday.",
+        "The move will bring major relief for parents who can\u2019t afford to pay out of pocket for childcare and providers who are struggling to fill seats in their programs."
+      ],
+      "summary": "Mamdani will clear 10,000 families off waitlist for low-cost childcare",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Mamdani will clear 10,000 families off waitlist for low-cost childcare",
+        "article_url": "https://gothamist.com/news/mamdani-will-clear-10000-families-off-waitlist-for-low-cost-childcare",
+        "published_at": "2026-10-05T15:13:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-05T17:42:05.343316+00:00",
+      "verification": {
+        "article_title": "Mamdani will clear 10,000 families off waitlist for low-cost childcare",
+        "article_url": "https://gothamist.com/news/mamdani-will-clear-10000-families-off-waitlist-for-low-cost-childcare",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-05T17:42:03.926464+00:00"
+      }
+    },
+    {
+      "headline": "Supreme Court must support the Constitution, not Trump",
+      "bullets": [
+        "Having undermined the law and the Constitution with some terrible opinions in deference to Donald Trump, today brings the first day of the new U.S.",
+        "Supreme Court term, and with it the risk that our nation\u2019s highest judicial body will continue to make us a less fair, less moral and less safe society."
+      ],
+      "summary": "Supreme Court must support the Constitution, not Trump",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Supreme Court must support the Constitution, not Trump",
+        "article_url": "https://www.nydailynews.com/2026/10/05/supreme-court-must-support-the-constitution-not-trump/",
+        "published_at": "2026-10-05"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-05T17:42:05.402410+00:00",
+      "verification": {
+        "article_title": "Supreme Court must support the Constitution, not Trump",
+        "article_url": "https://www.nydailynews.com/2026/10/05/supreme-court-must-support-the-constitution-not-trump/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-05T17:42:04.031818+00:00"
+      }
+    },
+    {
+      "headline": "Halloween spending expected to reach $13.5 billion this year: What",
+      "bullets": [
+        "If your wallet feels a bit lighter by October 31st, you aren't alone.",
+        "Halloween is no longer just a single night of trick-or-treating; it has become a weeks-long shopping season."
+      ],
+      "summary": "Halloween spending expected to reach $13.5 billion this year: What",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Halloween spending expected to reach $13.5 billion this year: What it means for your family",
+        "article_url": "https://www.fox5ny.com/news/halloween-spending-expected-reach-13-5-billion-year-what-means-your-family",
+        "published_at": "2026-10-05"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-05T17:42:05.465466+00:00",
+      "verification": {
+        "article_title": "Halloween spending expected to reach $13.5 billion this year: What it means for your family",
+        "article_url": "https://www.fox5ny.com/news/halloween-spending-expected-reach-13-5-billion-year-what-means-your-family",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-05T17:42:04.112685+00:00"
+      }
+    },
+    {
+      "headline": "From a Manhattan Apartment, a Mother and Son Grow an",
+      "bullets": [
+        "From a Manhattan Apartment, a Mother and Son Grow an App to Find Farmers Markets Heather Spinelli and her 12-year-old son, Luca, built an app that helps users find farms, farmers markets, local products and agricultural experiences across the country.",
+        "The quiet hum of tractors and sprawling fields were miles away when the idea for FarmScout began to take shape."
+      ],
+      "summary": "From a Manhattan Apartment, a Mother and Son Grow an",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "From a Manhattan Apartment, a Mother and Son Grow an App to Find Farmers Markets",
+        "article_url": "https://www.ourtownny.com/features/healthy-manhattan/from-a-manhattan-apartment-a-mother-and-son-grow-an-app-to-find-farmers-markets-BA6244560",
+        "published_at": "2026-10-01"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-05T17:42:05.556255+00:00",
+      "verification": {
+        "article_title": "From a Manhattan Apartment, a Mother and Son Grow an App to Find Farmers Markets",
+        "article_url": "https://www.ourtownny.com/features/healthy-manhattan/from-a-manhattan-apartment-a-mother-and-son-grow-an-app-to-find-farmers-markets-BA6244560",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-05T17:42:04.215949+00:00"
+      }
+    },
+    {
+      "headline": "Former Prince Andrew files a legal action to quash warrants",
+      "bullets": [
+        "LONDON -- The former Prince Andrew has filed a legal action challenging the warrants that authorized searches at two of his homes earlier this year as British police investigated allegations related to his links to the late sex offender Jeffrey Epstein.",
+        "A judicial spokesperson confirmed that Andrew Mountbatten-Windsor had filed a claim with the High Court in London and a hearing is scheduled for Thursday."
+      ],
+      "summary": "Former Prince Andrew files a legal action to quash warrants",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Former Prince Andrew files a legal action to quash warrants that led to searches of his residence",
+        "article_url": "https://abc7ny.com/story/former-prince-andrew-files-legal-action-quash-warrants-led-searches-residence/19909775/",
+        "published_at": "2026-10-05"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-05T17:42:05.683286+00:00",
+      "verification": {
+        "article_title": "Former Prince Andrew files a legal action to quash warrants that led to searches of his residence",
+        "article_url": "https://abc7ny.com/story/former-prince-andrew-files-legal-action-quash-warrants-led-searches-residence/19909775/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-05T17:42:04.296001+00:00"
+      }
+    },
+    {
+      "headline": "71-year-old man thrown from bike, killed after hitting dog in",
+      "bullets": [
+        "CENTRAL PARK, Manhattan (WABC) -- A 71-year-old man was killed on Monday morning after he was thrown from his bike after hitting an off-leash dog in Central Park.",
+        "It happened just before 8:30 a.m."
+      ],
+      "summary": "71-year-old man thrown from bike, killed after hitting dog in",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "71-year-old man thrown from bike, killed after hitting dog in Central Park",
+        "article_url": "https://abc7ny.com/post/central-park-biker-killed-man-thrown-bike-hitting-dog-nyc/19910126/",
+        "published_at": "2026-10-05"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-05T17:42:05.738434+00:00",
+      "verification": {
+        "article_title": "71-year-old man thrown from bike, killed after hitting dog in Central Park",
+        "article_url": "https://abc7ny.com/post/central-park-biker-killed-man-thrown-bike-hitting-dog-nyc/19910126/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-05T17:42:04.390369+00:00"
+      }
+    },
+    {
+      "headline": "FlyDubai suspected attacker intended to crash plane into Tel Aviv",
+      "bullets": [
+        "ABC News spoke with two senior U.S.",
+        "officials and an Israeli source."
+      ],
+      "summary": "FlyDubai suspected attacker intended to crash plane into Tel Aviv",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "FlyDubai suspected attacker intended to crash plane into Tel Aviv airport, sources say",
+        "article_url": "https://abc7ny.com/story/flydubai-suspected-attacker-intended-crash-plane-tel-aviv-airport-sources-say/19909980/",
+        "published_at": "2026-10-05"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-05T17:42:05.792250+00:00",
+      "verification": {
+        "article_title": "FlyDubai suspected attacker intended to crash plane into Tel Aviv airport, sources say",
+        "article_url": "https://abc7ny.com/story/flydubai-suspected-attacker-intended-crash-plane-tel-aviv-airport-sources-say/19909980/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-05T17:42:04.447283+00:00"
+      }
+    },
+    {
+      "headline": "'Damage control': Phone calls, records suggest some Cornell frat brothers",
+      "bullets": [
+        "Jane Doe reported the incident to Cornell police, but no charges were brought.",
+        "Some of the fraternity brothers later accused of sexual assault at Cornell University attempted to contain the allegations in the weeks following the incident, apparently worried about what would happen to their own reputations and futures on campus, according to text messages, phone calls, and other records reviewed by ABC News."
+      ],
+      "summary": "'Damage control': Phone calls, records suggest some Cornell frat brothers",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "'Damage control': Phone calls, records suggest some Cornell frat brothers tried to contain 'gang rape' allegations",
+        "article_url": "https://abc7ny.com/story/phone-calls-records-suggest-cornell-frat-brothers-tried-contain-gang-rape-allegations/19909647/",
+        "published_at": "2026-10-05"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-05T17:42:05.851407+00:00",
+      "verification": {
+        "article_title": "'Damage control': Phone calls, records suggest some Cornell frat brothers tried to contain 'gang rape' allegations",
+        "article_url": "https://abc7ny.com/story/phone-calls-records-suggest-cornell-frat-brothers-tried-contain-gang-rape-allegations/19909647/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-05T17:42:04.500276+00:00"
+      }
+    },
+    {
+      "headline": "Russia reports worker at Siberian plague institute got pneumonia from",
+      "bullets": [
+        "Russian authorities have quarantined a hospital and are monitoring contacts of an employee at a plague research institute in Siberia who contracted pneumonia of an \u201cunknown\u201d cause.",
+        "Local state TV said the woman died last week."
+      ],
+      "summary": "Russia reports worker at Siberian plague institute got pneumonia from",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Russia reports worker at Siberian plague institute got pneumonia from unknown cause and died",
+        "article_url": "https://abc7ny.com/story/russia-reports-worker-siberian-plague-institute-got-pneumonia-unknown-cause-died/19910417/",
+        "published_at": "2026-10-05"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-05T17:42:05.966158+00:00",
+      "verification": {
+        "article_title": "Russia reports worker at Siberian plague institute got pneumonia from unknown cause and died",
+        "article_url": "https://abc7ny.com/story/russia-reports-worker-siberian-plague-institute-got-pneumonia-unknown-cause-died/19910417/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-05T17:42:04.569507+00:00"
+      }
+    },
+    {
+      "headline": "Worried fiancee made 911 call that led NYPD to find",
+      "bullets": [
+        "A Bronx stabbing victim\u2019s frantic fiancee made the 911 call that led cops to his apartment to find his body, police sources said.",
+        "Cops found Christopher Osbourne, a 37-year-old musician who performed under the name \u201c1zon3 DFA,\u201d knifed in the chest, back, left arm and left hand inside his Belmont apartment on Adams Place near E."
+      ],
+      "summary": "Worried fiancee made 911 call that led NYPD to find",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Worried fiancee made 911 call that led NYPD to find Bronx musician stabbed dead",
+        "article_url": "https://www.nydailynews.com/2026/10/04/worried-fiancee-made-911-call-that-led-nypd-to-find-bronx-musician-stabbed-dead/",
+        "published_at": "2026-10-05T00:29:28+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-05T17:42:06.034693+00:00",
+      "verification": {
+        "article_title": "Worried fiancee made 911 call that led NYPD to find Bronx musician stabbed dead",
+        "article_url": "https://www.nydailynews.com/2026/10/04/worried-fiancee-made-911-call-that-led-nypd-to-find-bronx-musician-stabbed-dead/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-05T17:42:04.679654+00:00"
+      }
+    },
+    {
+      "headline": "'Damage control': Phone calls, records suggest some Cornell frat brothers",
+      "bullets": [
+        "Jane Doe reported the incident to Cornell police, but no charges were brought.",
+        "Some of the fraternity brothers later accused of sexual assault at Cornell University attempted to contain the allegations in the weeks following the incident, apparently worried about what would happen to their own reputations and futures on campus, according to text messages, phone calls, and other records reviewed by ABC News."
+      ],
+      "summary": "'Damage control': Phone calls, records suggest some Cornell frat brothers",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "'Damage control': Phone calls, records suggest some Cornell frat brothers tried to contain 'gang rape' allegations",
+        "article_url": "https://abc7ny.com/story/phone-calls-records-suggest-cornell-frat-brothers-tried-contain-gang-rape-allegations/19909647/",
+        "published_at": "2026-10-05"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-05T17:42:06.130177+00:00",
+      "verification": {
+        "article_title": "'Damage control': Phone calls, records suggest some Cornell frat brothers tried to contain 'gang rape' allegations",
+        "article_url": "https://abc7ny.com/story/phone-calls-records-suggest-cornell-frat-brothers-tried-contain-gang-rape-allegations/19909647/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-05T17:42:04.745786+00:00"
+      }
+    },
+    {
+      "headline": "Dominican man who shot border patrol officer in NYC sentenced",
+      "bullets": [
+        "A Dominican immigrant who shot and seriously injured an off-duty U.S.",
+        "Customs and Border Patrol officer during a botched robbery in Fort Washington Park in Manhattan last year was sentenced on Monday to 15 years in federal prison."
+      ],
+      "summary": "Dominican man who shot border patrol officer in NYC sentenced",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Dominican man who shot border patrol officer in NYC sentenced to 15 years in prison",
+        "article_url": "https://gothamist.com/news/dominican-man-who-shot-border-patrol-officer-in-nyc-sentenced-to-15-years-in-prison",
+        "published_at": "2026-10-05T17:03:04+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-05T17:42:06.184043+00:00",
+      "verification": {
+        "article_title": "Dominican man who shot border patrol officer in NYC sentenced to 15 years in prison",
+        "article_url": "https://gothamist.com/news/dominican-man-who-shot-border-patrol-officer-in-nyc-sentenced-to-15-years-in-prison",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-05T17:42:04.799395+00:00"
+      }
+    },
+    {
+      "headline": "In wake of Legionnaires' outbreaks, a debate over NYC's water",
+      "bullets": [
+        "A cascade of deadly outbreaks of Legionnaires' disease over the past two years has resurfaced an old question about how New York City manages its water supply.",
+        "Should it build a mammoth, multibillion-dollar filtering plant for the billion gallons of drinking water that slosh into the five boroughs from the Catskill Mountains every day?"
+      ],
+      "summary": "In wake of Legionnaires' outbreaks, a debate over NYC's water",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "In wake of Legionnaires' outbreaks, a debate over NYC's water and industry influence",
+        "article_url": "https://gothamist.com/news/in-wake-of-legionnaires-outbreaks-a-debate-over-nycs-water-and-industry-influence",
+        "published_at": "2026-10-05T10:30:45+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-05T17:42:06.245869+00:00",
+      "verification": {
+        "article_title": "In wake of Legionnaires' outbreaks, a debate over NYC's water and industry influence",
+        "article_url": "https://gothamist.com/news/in-wake-of-legionnaires-outbreaks-a-debate-over-nycs-water-and-industry-influence",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-05T17:42:04.858068+00:00"
+      }
+    },
+    {
+      "headline": "Mamdani faces pressure to forge ahead with plan to fix",
+      "bullets": [
+        "Pressure is mounting on Mayor Zohran Mamdani to revive a $650 million plan to reduce pollution at Hunts Point Produce Market in the South Bronx, where diesel-spewing refrigerated trailers contribute to some of the worst air quality in the city.",
+        "The wholesale produce market, which provides as much as 60% of the city\u2019s fruits and vegetables, relies on as many as 1,000 refrigerated trailers running around the clock to keep food cold."
+      ],
+      "summary": "Mamdani faces pressure to forge ahead with plan to fix",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Mamdani faces pressure to forge ahead with plan to fix polluting South Bronx market",
+        "article_url": "https://gothamist.com/news/mamdani-faces-pressure-to-forge-ahead-with-plan-to-fix-polluting-south-bronx-market",
+        "published_at": "2026-10-05T17:15:59+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-05T17:42:06.318494+00:00",
+      "verification": {
+        "article_title": "Mamdani faces pressure to forge ahead with plan to fix polluting South Bronx market",
+        "article_url": "https://gothamist.com/news/mamdani-faces-pressure-to-forge-ahead-with-plan-to-fix-polluting-south-bronx-market",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-05T17:42:04.917560+00:00"
+      }
+    },
+    {
+      "headline": "In wake of Legionnaires' outbreaks, a debate over NYC's water",
+      "bullets": [
+        "A cascade of deadly outbreaks of Legionnaires' disease over the past two years has resurfaced an old question about how New York City manages its water supply.",
+        "Should it build a mammoth, multibillion-dollar filtering plant for the billion gallons of drinking water that slosh into the five boroughs from the Catskill Mountains every day?"
+      ],
+      "summary": "In wake of Legionnaires' outbreaks, a debate over NYC's water",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "In wake of Legionnaires' outbreaks, a debate over NYC's water and industry influence",
+        "article_url": "https://gothamist.com/news/in-wake-of-legionnaires-outbreaks-a-debate-over-nycs-water-and-industry-influence",
+        "published_at": "2026-10-05T10:30:45+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-05T17:42:06.381243+00:00",
+      "verification": {
+        "article_title": "In wake of Legionnaires' outbreaks, a debate over NYC's water and industry influence",
+        "article_url": "https://gothamist.com/news/in-wake-of-legionnaires-outbreaks-a-debate-over-nycs-water-and-industry-influence",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-05T17:42:04.982643+00:00"
+      }
+    },
+    {
+      "headline": "The MTA is blocking a new Penn Station",
+      "bullets": [
+        "Since taking on the Penn Station Transformation Project, I\u2019ve spoken with thousands of New Yorkers and visitors.",
+        "People are quick to point out the dated station\u2019s obvious shortcomings: the narrow and crowded platforms, the dysfunctional rat maze layout, or the dilapidated amenities."
+      ],
+      "summary": "The MTA is blocking a new Penn Station",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "The MTA is blocking a new Penn Station",
+        "article_url": "https://www.nydailynews.com/2026/10/05/the-mta-is-blocking-a-new-penn-station/",
+        "published_at": "2026-10-05"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-05T17:42:06.445453+00:00",
+      "verification": {
+        "article_title": "The MTA is blocking a new Penn Station",
+        "article_url": "https://www.nydailynews.com/2026/10/05/the-mta-is-blocking-a-new-penn-station/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-05T17:42:05.035459+00:00"
+      }
+    }
+  ]
+}
