@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-10-06T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-10-06.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Trump signs order extending tax-free use of red-dyed diesel during",
+      "bullets": [
+        "GRAND ISLAND, Neb.",
+        "-- President Donald Trump on Monday took his Republican midterm rescue mission to Nebraska, where he signed an executive order to ease limits on the tax-free use of red-dyed diesel, a decision he said would save \u201cmillions\u201d for farmers and drive down the cost of all goods with just four weeks to go until the elections."
+      ],
+      "summary": "Trump signs order extending tax-free use of red-dyed diesel during",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Trump signs order extending tax-free use of red-dyed diesel during midterm stop in Nebraska",
+        "article_url": "https://abc7ny.com/story/trump-signs-order-extending-tax-free-use-red-dyed-diesel-during-midterm-stop-nebraska/19913411/",
+        "published_at": "2026-10-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-06T15:39:46.409854+00:00",
+      "verification": {
+        "article_title": "Trump signs order extending tax-free use of red-dyed diesel during midterm stop in Nebraska",
+        "article_url": "https://abc7ny.com/story/trump-signs-order-extending-tax-free-use-red-dyed-diesel-during-midterm-stop-nebraska/19913411/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-06T15:39:44.288454+00:00"
+      }
+    },
+    {
+      "headline": "Sunshine Protection Act to end daylight saving time change hits",
+      "bullets": [
+        "The push to end daylight saving time has hit a Senate wall, with Sen.",
+        "Tom Cotton, R-Ark., saying approval of the Sunshine Protection Act would leave Arkansas kids attending school in the dark."
+      ],
+      "summary": "Sunshine Protection Act to end daylight saving time change hits",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Sunshine Protection Act to end daylight saving time change hits Senate wall",
+        "article_url": "https://www.fox5ny.com/news/sunshine-protection-act-senate-wall",
+        "published_at": "2026-10-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-06T15:39:46.509096+00:00",
+      "verification": {
+        "article_title": "Sunshine Protection Act to end daylight saving time change hits Senate wall",
+        "article_url": "https://www.fox5ny.com/news/sunshine-protection-act-senate-wall",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-06T15:39:44.432163+00:00"
+      }
+    },
+    {
+      "headline": "AI whistleblowers encourage NYC Council to enforce more regulation",
+      "bullets": [
+        "Artificial intelligence whistleblowers painted a dismal picture about the direction the technology is going at a City Council hearing Monday, warning local lawmakers to put in place regulations to slow its growth \u2014 even as the companies insist they\u2019re operating with caution.",
+        "The rare Committee of the Whole meeting came as public fears around AI have spiked and the Trump administration has taken a lax stance on the rapidly developing technology."
+      ],
+      "summary": "AI whistleblowers encourage NYC Council to enforce more regulation",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "AI whistleblowers encourage NYC Council to enforce more regulation",
+        "article_url": "https://www.nydailynews.com/2026/10/05/ai-whistleblowers-encourage-nyc-council-to-enforce-more-regulation/",
+        "published_at": "2026-10-06T00:34:44+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-06T15:39:46.610752+00:00",
+      "verification": {
+        "article_title": "AI whistleblowers encourage NYC Council to enforce more regulation",
+        "article_url": "https://www.nydailynews.com/2026/10/05/ai-whistleblowers-encourage-nyc-council-to-enforce-more-regulation/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-06T15:39:44.536530+00:00"
+      }
+    },
+    {
+      "headline": "10K low-income NYC families to move off childcare waitlist and",
+      "bullets": [
+        "Thousands of New York City parents on a waitlist for childcare assistance can soon apply for vouchers, the first time enrollment has reopened in more than a year, Mayor Mamdani said Monday.",
+        "More than 10,000 children ages 6 weeks to 13 years (or older for those with disabilities) will be moved off the Child Care Assistance Program waitlist for low-income families and receive the subsidy, thanks to recent state funding from Gov."
+      ],
+      "summary": "10K low-income NYC families to move off childcare waitlist and",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "10K low-income NYC families to move off childcare waitlist and receive vouchers",
+        "article_url": "https://www.nydailynews.com/2026/10/05/10k-low-income-nyc-families-to-move-off-childcare-waitlist-and-receive-vouchers/",
+        "published_at": "2026-10-05"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-06T15:39:46.753339+00:00",
+      "verification": {
+        "article_title": "10K low-income NYC families to move off childcare waitlist and receive vouchers",
+        "article_url": "https://www.nydailynews.com/2026/10/05/10k-low-income-nyc-families-to-move-off-childcare-waitlist-and-receive-vouchers/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-06T15:39:44.657625+00:00"
+      }
+    },
+    {
+      "headline": "Paramount acquires Warner Bros.: What it means for streaming apps",
+      "bullets": [
+        "LOS ANGELES - After several delays, Paramount Skydance has agreed to a deal with Warner Bros.",
+        "Discovery to purchase the Hollywood titan's studio and streaming business for $81 billion."
+      ],
+      "summary": "Paramount acquires Warner Bros.: What it means for streaming apps",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Paramount acquires Warner Bros.: What it means for streaming apps and your wallet",
+        "article_url": "https://www.fox5ny.com/news/paramount-acquires-warner-bros-skydance",
+        "published_at": "2026-10-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-06T15:39:46.868952+00:00",
+      "verification": {
+        "article_title": "Paramount acquires Warner Bros.: What it means for streaming apps and your wallet",
+        "article_url": "https://www.fox5ny.com/news/paramount-acquires-warner-bros-skydance",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-06T15:39:44.776358+00:00"
+      }
+    },
+    {
+      "headline": "Paramount and Warner Bros are now one Hollywood giant: Skydance.",
+      "bullets": [
+        "By WYATTE GRANTHAM-PHILIPS, AP Business Writer CHICAGO (AP) \u2014 It\u2019s official: Skydance-owned Paramount has closed its $81 billion takeover of Warner Bros.",
+        "Discovery."
+      ],
+      "summary": "Paramount and Warner Bros are now one Hollywood giant: Skydance.",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Paramount and Warner Bros are now one Hollywood giant: Skydance. Here\u2019s how we got here",
+        "article_url": "https://www.nydailynews.com/2026/10/06/paramount-warner-bros-skydance/",
+        "published_at": "2026-10-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-06T15:39:46.967479+00:00",
+      "verification": {
+        "article_title": "Paramount and Warner Bros are now one Hollywood giant: Skydance. Here\u2019s how we got here",
+        "article_url": "https://www.nydailynews.com/2026/10/06/paramount-warner-bros-skydance/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-06T15:39:44.900540+00:00"
+      }
+    },
+    {
+      "headline": "3 years after Oct. 7, Israel is building",
+      "bullets": [
+        "Days before tomorrow\u2019s third anniversary of Oct.",
+        "7, the co-pilot of an Israel-bound Flydubai flight attacked the captain as the aircraft began to plunge."
+      ],
+      "summary": "3 years after Oct. 7, Israel is building",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "3 years after Oct. 7, Israel is building",
+        "article_url": "https://www.nydailynews.com/2026/10/06/3-years-after-oct-7-israel-is-building/",
+        "published_at": "2026-10-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-06T15:39:47.073655+00:00",
+      "verification": {
+        "article_title": "3 years after Oct. 7, Israel is building",
+        "article_url": "https://www.nydailynews.com/2026/10/06/3-years-after-oct-7-israel-is-building/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-06T15:39:45.018803+00:00"
+      }
+    },
+    {
+      "headline": "Best Hot Wheels Batmobile",
+      "bullets": [
+        "Which Hot Wheels Batmobile is best?",
+        "Batman\u2019s Batmobile may be the most recognized superhero vehicle of all time."
+      ],
+      "summary": "Best Hot Wheels Batmobile",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Best Hot Wheels Batmobile",
+        "article_url": "https://www.nydailynews.com/2026/10/06/best-hot-wheels-batmobile/",
+        "published_at": "2026-10-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-06T15:39:47.177077+00:00",
+      "verification": {
+        "article_title": "Best Hot Wheels Batmobile",
+        "article_url": "https://www.nydailynews.com/2026/10/06/best-hot-wheels-batmobile/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-06T15:39:45.117584+00:00"
+      }
+    },
+    {
+      "headline": "Students protest Cornell's response to gang rape complaint",
+      "bullets": [
+        "ITHACA, New York -- Cornell students thronged a campus plaza to protest the university's response to allegations of sexual assault at a fraternity house, and the school's main administration building was splashed with graffiti and damaged overnight.",
+        "At a demonstration that overflowed the large space in front of the school's student center, students, faculty members and others wore purple ribbons and held signs with such messages as \"support survivors, expel rapists\" and \"Justice 4 every Jane Doe\" \u2014 the name by which the woman who reported the assault is known in court papers."
+      ],
+      "summary": "Students protest Cornell's response to gang rape complaint",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Students protest Cornell's response to gang rape complaint",
+        "article_url": "https://abc7ny.com/post/crowd-students-protests-cornells-response-gang-rape-complaint/19911814/",
+        "published_at": "2026-10-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-06T15:39:47.283876+00:00",
+      "verification": {
+        "article_title": "Students protest Cornell's response to gang rape complaint",
+        "article_url": "https://abc7ny.com/post/crowd-students-protests-cornells-response-gang-rape-complaint/19911814/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-06T15:39:45.218894+00:00"
+      }
+    },
+    {
+      "headline": "Worker Pinned Under Escalator At Upper East Side Subway Station",
+      "bullets": [
+        "Worker Pinned Under Escalator At Upper East Side Subway Station Firefighters rescued the worker at the 63rd Street station on Monday.",
+        "UPPER EAST SIDE, NY \u2014 A construction worker was pinned under an escalator inside a subway station on the Upper East Side on Monday, New York City Fire Department officials told Patch."
+      ],
+      "summary": "Worker Pinned Under Escalator At Upper East Side Subway Station",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Worker Pinned Under Escalator At Upper East Side Subway Station",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/worker-pinned-under-escalator-upper-east-side-subway-station",
+        "published_at": "2026-10-05T21:09:05+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-06T15:39:47.398863+00:00",
+      "verification": {
+        "article_title": "Worker Pinned Under Escalator At Upper East Side Subway Station",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/worker-pinned-under-escalator-upper-east-side-subway-station",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-06T15:39:45.327089+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on emergency response times, sexual consent and",
+      "bullets": [
+        "A multi-agency effort for faster response Manhattan: Your reporting on the city\u2019s worsening emergency response times highlights a problem that can\u2019t be solved by focusing on ambulance travel time alone.",
+        "As a former executive director of NYC EMS, I believe response time is the product of an entire system \u2014 from 911-call processing and dispatch through staffed ambulance capacity, deployment, workforce recruitment and retention, traffic, and patient transfer at receiving hospitals."
+      ],
+      "summary": "Readers sound off on emergency response times, sexual consent and",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on emergency response times, sexual consent and pension scammers",
+        "article_url": "https://www.nydailynews.com/2026/10/06/readers-sound-off-on-emergency-response-times-sexual-consent-and-pension-scammers/",
+        "published_at": "2026-10-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-06T15:39:47.498052+00:00",
+      "verification": {
+        "article_title": "Readers sound off on emergency response times, sexual consent and pension scammers",
+        "article_url": "https://www.nydailynews.com/2026/10/06/readers-sound-off-on-emergency-response-times-sexual-consent-and-pension-scammers/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-06T15:39:45.425310+00:00"
+      }
+    },
+    {
+      "headline": "E-Bike Violence Victims Rally for Regulation, Vilify Lobbyists",
+      "bullets": [
+        "E-Bike Violence Victims Rally for Regulation, Vilify Lobbyists Before a sprawling City Council hearing on the growing dangers of \u00e2micromobility,\u00e2 dozens of protestors from Electric Vehicle Safety Alliance (EVSA) came to City Hall to shout stop the madness.",
+        "Dozens of angry and frustrated victims of e-bike injuries and their allies stood on the steps of City Hall on Wednesday Sept."
+      ],
+      "summary": "E-Bike Violence Victims Rally for Regulation, Vilify Lobbyists",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "E-Bike Violence Victims Rally for Regulation, Vilify Lobbyists",
+        "article_url": "https://www.ourtownny.com/news/e-bike-violence-victims-rally-for-regulation-vilify-lobbyists-LN6249973",
+        "published_at": "2026-10-05"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-06T15:39:47.607023+00:00",
+      "verification": {
+        "article_title": "E-Bike Violence Victims Rally for Regulation, Vilify Lobbyists",
+        "article_url": "https://www.ourtownny.com/news/e-bike-violence-victims-rally-for-regulation-vilify-lobbyists-LN6249973",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-06T15:39:45.525248+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on emergency response times, sexual consent and",
+      "bullets": [
+        "A multi-agency effort for faster response Manhattan: Your reporting on the city\u2019s worsening emergency response times highlights a problem that can\u2019t be solved by focusing on ambulance travel time alone.",
+        "As a former executive director of NYC EMS, I believe response time is the product of an entire system \u2014 from 911-call processing and dispatch through staffed ambulance capacity, deployment, workforce recruitment and retention, traffic, and patient transfer at receiving hospitals."
+      ],
+      "summary": "Readers sound off on emergency response times, sexual consent and",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on emergency response times, sexual consent and pension scammers",
+        "article_url": "https://www.nydailynews.com/2026/10/06/readers-sound-off-on-emergency-response-times-sexual-consent-and-pension-scammers/",
+        "published_at": "2026-10-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-06T15:39:47.716808+00:00",
+      "verification": {
+        "article_title": "Readers sound off on emergency response times, sexual consent and pension scammers",
+        "article_url": "https://www.nydailynews.com/2026/10/06/readers-sound-off-on-emergency-response-times-sexual-consent-and-pension-scammers/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-06T15:39:45.644665+00:00"
+      }
+    },
+    {
+      "headline": "E-Bike Violence Victims Rally for Regulation, Vilify Lobbyists",
+      "bullets": [
+        "E-Bike Violence Victims Rally for Regulation, Vilify Lobbyists Before a sprawling City Council hearing on the growing dangers of \u00e2micromobility,\u00e2 dozens of protestors from Electric Vehicle Safety Alliance (EVSA) came to City Hall to shout stop the madness.",
+        "Dozens of angry and frustrated victims of e-bike injuries and their allies stood on the steps of City Hall on Wednesday Sept."
+      ],
+      "summary": "E-Bike Violence Victims Rally for Regulation, Vilify Lobbyists",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "E-Bike Violence Victims Rally for Regulation, Vilify Lobbyists",
+        "article_url": "https://www.ourtownny.com/news/e-bike-violence-victims-rally-for-regulation-vilify-lobbyists-LN6249973",
+        "published_at": "2026-10-05"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-06T15:39:47.822499+00:00",
+      "verification": {
+        "article_title": "E-Bike Violence Victims Rally for Regulation, Vilify Lobbyists",
+        "article_url": "https://www.ourtownny.com/news/e-bike-violence-victims-rally-for-regulation-vilify-lobbyists-LN6249973",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-06T15:39:45.745713+00:00"
+      }
+    },
+    {
+      "headline": "Mamdani faces pressure to forge ahead with plan to fix",
+      "bullets": [
+        "Pressure is mounting on Mayor Zohran Mamdani to revive a $650 million plan to reduce pollution at Hunts Point Produce Market in the South Bronx, where diesel-spewing refrigerated trailers contribute to some of the worst air quality in the city.",
+        "The wholesale produce market, which provides as much as 60% of the city\u2019s fruits and vegetables, relies on as many as 1,000 refrigerated trailers running around the clock to keep food cold."
+      ],
+      "summary": "Mamdani faces pressure to forge ahead with plan to fix",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Mamdani faces pressure to forge ahead with plan to fix polluting South Bronx market",
+        "article_url": "https://gothamist.com/news/mamdani-faces-pressure-to-forge-ahead-with-plan-to-fix-polluting-south-bronx-market",
+        "published_at": "2026-10-05T17:15:59+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-06T15:39:47.933769+00:00",
+      "verification": {
+        "article_title": "Mamdani faces pressure to forge ahead with plan to fix polluting South Bronx market",
+        "article_url": "https://gothamist.com/news/mamdani-faces-pressure-to-forge-ahead-with-plan-to-fix-polluting-south-bronx-market",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-06T15:39:45.859686+00:00"
+      }
+    },
+    {
+      "headline": "Fall foliage 2026: Where to see peak autumn colors in",
+      "bullets": [
+        "Here's where to find the best fall foliage 2026 across New York, Connecticut and New Jersey, and other parts of the country.",
+        "NEW YORK (WABC) -- The 2026 fall foliage season is underway, with the first signs of the season's colors appearing throughout Upstate New York and the most significant changes expected in the Adirondacks over the next few weeks."
+      ],
+      "summary": "Fall foliage 2026: Where to see peak autumn colors in",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Fall foliage 2026: Where to see peak autumn colors in New York, New Jersey and Connecticut",
+        "article_url": "https://abc7ny.com/post/fall-foliage-map-2026-peak-colors-ny-nj-ct-autumn/19854939/",
+        "published_at": "2026-09-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-06T15:39:48.037313+00:00",
+      "verification": {
+        "article_title": "Fall foliage 2026: Where to see peak autumn colors in New York, New Jersey and Connecticut",
+        "article_url": "https://abc7ny.com/post/fall-foliage-map-2026-peak-colors-ny-nj-ct-autumn/19854939/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-06T15:39:45.963346+00:00"
+      }
+    },
+    {
+      "headline": "Tunnel to Towers Run Honors 9/11 Victims Despite Nor\u00e2easter Rain",
+      "bullets": [
+        "Tunnel to Towers Run Honors 9/11 Victims Despite Nor\u00e2easter Rain More than 45,000 runners and walkers came to Red Hook, Brooklyn, to honor and follow the footsteps of FDNY Firefighter Stephen Siller through the Battery Tunnel to lower Manhttan, where he met death on Sept.",
+        "11, 2001."
+      ],
+      "summary": "Tunnel to Towers Run Honors 9/11 Victims Despite Nor\u00e2easter Rain",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Tunnel to Towers Run Honors 9/11 Victims Despite Nor\u00e2easter Rain",
+        "article_url": "https://www.ourtownny.com/news/tunnel-to-towers-run-honors-9-11-victims-despite-nor-easter-rain-XB6245707",
+        "published_at": "2026-10-05"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-06T15:39:48.149322+00:00",
+      "verification": {
+        "article_title": "Tunnel to Towers Run Honors 9/11 Victims Despite Nor\u00e2easter Rain",
+        "article_url": "https://www.ourtownny.com/news/tunnel-to-towers-run-honors-9-11-victims-despite-nor-easter-rain-XB6245707",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-06T15:39:46.075109+00:00"
+      }
+    },
+    {
+      "headline": "Mamdani faces pressure to forge ahead with plan to fix",
+      "bullets": [
+        "Pressure is mounting on Mayor Zohran Mamdani to revive a $650 million plan to reduce pollution at Hunts Point Produce Market in the South Bronx, where diesel-spewing refrigerated trailers contribute to some of the worst air quality in the city.",
+        "The wholesale produce market, which provides as much as 60% of the city\u2019s fruits and vegetables, relies on as many as 1,000 refrigerated trailers running around the clock to keep food cold."
+      ],
+      "summary": "Mamdani faces pressure to forge ahead with plan to fix",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Mamdani faces pressure to forge ahead with plan to fix polluting South Bronx market",
+        "article_url": "https://gothamist.com/news/mamdani-faces-pressure-to-forge-ahead-with-plan-to-fix-polluting-south-bronx-market",
+        "published_at": "2026-10-05T17:15:59+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-06T15:39:48.259638+00:00",
+      "verification": {
+        "article_title": "Mamdani faces pressure to forge ahead with plan to fix polluting South Bronx market",
+        "article_url": "https://gothamist.com/news/mamdani-faces-pressure-to-forge-ahead-with-plan-to-fix-polluting-south-bronx-market",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-06T15:39:46.192369+00:00"
+      }
+    }
+  ]
+}
