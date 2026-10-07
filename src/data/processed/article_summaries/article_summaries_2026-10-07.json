@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-10-07T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-10-07.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "President Trump sons' investments have won billions in Pentagon contracts",
+      "bullets": [
+        "The contract for a new plant in Baltimore is the latest linked to the brothers.",
+        "President Donald Trump announced a $6.6 billion investment with AI defense company Anduril Industries on Tuesday -- the most recent government funding agreement into a company with investment ties to the president's sons."
+      ],
+      "summary": "President Trump sons' investments have won billions in Pentagon contracts",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "President Trump sons' investments have won billions in Pentagon contracts since his election",
+        "article_url": "https://abc7ny.com/story/president-trump-sons-investments-have-won-billions-pentagon-contracts-election/19917538/",
+        "published_at": "2026-10-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-07T15:59:15.924153+00:00",
+      "verification": {
+        "article_title": "President Trump sons' investments have won billions in Pentagon contracts since his election",
+        "article_url": "https://abc7ny.com/story/president-trump-sons-investments-have-won-billions-pentagon-contracts-election/19917538/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-07T15:59:13.994407+00:00"
+      }
+    },
+    {
+      "headline": "Nearly 40K and counting: Here\u2019s where ICE arrested immigrants across",
+      "bullets": [
+        "U.S.",
+        "Immigration and Customs Enforcement has conducted more than 19,500 arrests in New York state and nearly 18,000 in New Jersey during President Donald Trump\u2019s second term, according to new government data."
+      ],
+      "summary": "Nearly 40K and counting: Here\u2019s where ICE arrested immigrants across",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Nearly 40K and counting: Here\u2019s where ICE arrested immigrants across NY and NJ",
+        "article_url": "https://gothamist.com/news/nearly-40k-and-counting-heres-where-ice-arrested-immigrants-across-ny-and-nj",
+        "published_at": "2026-10-07T10:00:54+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-07T15:59:16.016104+00:00",
+      "verification": {
+        "article_title": "Nearly 40K and counting: Here\u2019s where ICE arrested immigrants across NY and NJ",
+        "article_url": "https://gothamist.com/news/nearly-40k-and-counting-heres-where-ice-arrested-immigrants-across-ny-and-nj",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-07T15:59:14.122185+00:00"
+      }
+    },
+    {
+      "headline": "After the penny, Congress looks to tackle the cost of",
+      "bullets": [
+        "After Congress moved to eliminate the penny, some lawmakers say the nickel should be next in efforts to make U.S.",
+        "coins more cost-efficient to produce."
+      ],
+      "summary": "After the penny, Congress looks to tackle the cost of",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "After the penny, Congress looks to tackle the cost of the nickel",
+        "article_url": "https://www.fox5ny.com/news/after-penny-congress-looks-tackle-cost-nickel",
+        "published_at": "2026-10-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-07T15:59:16.109906+00:00",
+      "verification": {
+        "article_title": "After the penny, Congress looks to tackle the cost of the nickel",
+        "article_url": "https://www.fox5ny.com/news/after-penny-congress-looks-tackle-cost-nickel",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-07T15:59:14.234531+00:00"
+      }
+    },
+    {
+      "headline": "Hearing set on motion to preserve evidence in Christa Pike's",
+      "bullets": [
+        "Pike remains hospitalized following the execution attempt, her attorneys said.",
+        "A hearing is set for Wednesday on a motion to preserve evidence in the botched execution of Christa Pike."
+      ],
+      "summary": "Hearing set on motion to preserve evidence in Christa Pike's",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Hearing set on motion to preserve evidence in Christa Pike's botched execution",
+        "article_url": "https://abc7ny.com/story/hearing-set-motion-preserve-evidence-christa-pikes-botched-execution/19917467/",
+        "published_at": "2026-10-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-07T15:59:16.205127+00:00",
+      "verification": {
+        "article_title": "Hearing set on motion to preserve evidence in Christa Pike's botched execution",
+        "article_url": "https://abc7ny.com/story/hearing-set-motion-preserve-evidence-christa-pikes-botched-execution/19917467/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-07T15:59:14.323553+00:00"
+      }
+    },
+    {
+      "headline": "Israelis mourn Oct. 7 attack as Palestinians in Gaza languish",
+      "bullets": [
+        "By MELANIE LIDMAN REIM, Israel (AP) \u2014 On a field where music festival revelers were gunned down by Hamas-led militants three years ago, Israelis on Wednesday embraced and wept for those lost in an attack that plunged the Middle East into war.",
+        "Israelis mourned at the site of the Nova Music Festival, as well as at bomb shelters, intersections and in communities targeted on Oct."
+      ],
+      "summary": "Israelis mourn Oct. 7 attack as Palestinians in Gaza languish",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Israelis mourn Oct. 7 attack as Palestinians in Gaza languish in ruins of the war it sparked",
+        "article_url": "https://www.nydailynews.com/2026/10/07/oct-7-anniversary-israel-hamas-war/",
+        "published_at": "2026-10-07T12:39:42+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-07T15:59:16.320002+00:00",
+      "verification": {
+        "article_title": "Israelis mourn Oct. 7 attack as Palestinians in Gaza languish in ruins of the war it sparked",
+        "article_url": "https://www.nydailynews.com/2026/10/07/oct-7-anniversary-israel-hamas-war/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-07T15:59:14.420501+00:00"
+      }
+    },
+    {
+      "headline": "Satellite photos show how Israeli forces have erased Gaza towns",
+      "bullets": [
+        "By LEE KEATH and WAFAA SHURAFA DEIR AL-BALAH, Gaza Strip (AP) \u2014 It\u2019s perhaps the most dramatic wound inflicted on the Gaza Strip by Israel\u2019s military campaign over the past three years: The city of Rafah, once home to a quarter million people, has been erased.",
+        "Satellite imagery shows the Israeli military has systematically razed the southern city and other towns and districts to the ground and in some places plowed away the rubble."
+      ],
+      "summary": "Satellite photos show how Israeli forces have erased Gaza towns",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Satellite photos show how Israeli forces have erased Gaza towns",
+        "article_url": "https://www.nydailynews.com/2026/10/07/satellite-photos-gaza-towns-israel/",
+        "published_at": "2026-10-07T15:11:14+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-07T15:59:16.414458+00:00",
+      "verification": {
+        "article_title": "Satellite photos show how Israeli forces have erased Gaza towns",
+        "article_url": "https://www.nydailynews.com/2026/10/07/satellite-photos-gaza-towns-israel/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-07T15:59:14.515531+00:00"
+      }
+    },
+    {
+      "headline": "What happens when NYC kids take lessons in rock music?",
+      "bullets": [
+        "In the lobby of the School of Rock in Gowanus, a 16-year-old girl sits alone on the couch quietly rehearsing Jimmy Page\u2019s solo in Led Zeppelin\u2019s \u201cHeartbreaker\u201d on her unamplified electric guitar.",
+        "She seems lost in concentration as she learns to nail the notes of this sleazy 1970s rock song."
+      ],
+      "summary": "What happens when NYC kids take lessons in rock music?",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "What happens when NYC kids take lessons in rock music? Really good bands.",
+        "article_url": "https://gothamist.com/arts-entertainment/what-happens-when-nyc-kids-take-lessons-in-rock-music-really-good-bands",
+        "published_at": "2026-10-07T15:10:41+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-07T15:59:16.511127+00:00",
+      "verification": {
+        "article_title": "What happens when NYC kids take lessons in rock music? Really good bands.",
+        "article_url": "https://gothamist.com/arts-entertainment/what-happens-when-nyc-kids-take-lessons-in-rock-music-really-good-bands",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-07T15:59:14.630691+00:00"
+      }
+    },
+    {
+      "headline": "Cornell rape probe updates: Sally Yates review, protests and no-confidence",
+      "bullets": [
+        "ITHACA, N.Y.",
+        "- Under mounting fire over its handling of a civil lawsuit alleging a 2024 fraternity gang rape, Cornell University announced Tuesday, Oct."
+      ],
+      "summary": "Cornell rape probe updates: Sally Yates review, protests and no-confidence",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Cornell rape probe updates: Sally Yates review, protests and no-confidence push",
+        "article_url": "https://www.fox5ny.com/news/cornell-rape-probe-updates-sally-yates-review-protests-no-confidence-push",
+        "published_at": "2026-10-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-07T15:59:16.604702+00:00",
+      "verification": {
+        "article_title": "Cornell rape probe updates: Sally Yates review, protests and no-confidence push",
+        "article_url": "https://www.fox5ny.com/news/cornell-rape-probe-updates-sally-yates-review-protests-no-confidence-push",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-07T15:59:14.725475+00:00"
+      }
+    },
+    {
+      "headline": "Tropical Storm Isaias projected path: Tracker, spaghetti models and more",
+      "bullets": [
+        "NEW YORK - Tropical Storm Isaias has formed in the southern Gulf and is forecast to rapidly intensify into a Category 2 hurricane and charge toward the northern Gulf Coast later this week.",
+        "JUMP TO: LOCATION l PROJECTED PATH l SPAGHETTI MODELS l LOCAL IMPACTS Florida Gov."
+      ],
+      "summary": "Tropical Storm Isaias projected path: Tracker, spaghetti models and more",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Tropical Storm Isaias projected path: Tracker, spaghetti models and more",
+        "article_url": "https://www.fox5ny.com/weather/nyc-tropical-storm-isaias-track-projected-path-spaghetti-models-forecast-nj",
+        "published_at": "2026-10-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-07T15:59:16.697856+00:00",
+      "verification": {
+        "article_title": "Tropical Storm Isaias projected path: Tracker, spaghetti models and more",
+        "article_url": "https://www.fox5ny.com/weather/nyc-tropical-storm-isaias-track-projected-path-spaghetti-models-forecast-nj",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-07T15:59:14.825147+00:00"
+      }
+    },
+    {
+      "headline": "Tropical Storm Isaias forms, expected to become hurricane",
+      "bullets": [
+        "MIAMI, Florida -- Tropical Storm Isaias formed early Wednesday in the warm waters off eastern Mexico and forecasters said it was expected to strengthen into the first hurricane of the Atlantic season before hitting the U.S.",
+        "Gulf Coast later in the week."
+      ],
+      "summary": "Tropical Storm Isaias forms, expected to become hurricane",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Tropical Storm Isaias forms, expected to become hurricane",
+        "article_url": "https://abc7ny.com/post/tropical-storm-isaias-forms-forecast-become-hurricane-hit-us-gulf-coast-week/19916851/",
+        "published_at": "2026-10-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-07T15:59:16.785264+00:00",
+      "verification": {
+        "article_title": "Tropical Storm Isaias forms, expected to become hurricane",
+        "article_url": "https://abc7ny.com/post/tropical-storm-isaias-forms-forecast-become-hurricane-hit-us-gulf-coast-week/19916851/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-07T15:59:14.923390+00:00"
+      }
+    },
+    {
+      "headline": "NY, NJ among most expensive states to have a baby:",
+      "bullets": [
+        "NEW YORK - Welcoming a new baby is one of life\u2019s greatest joys, but if you live in the Tri-State area, it may also be one of the biggest financial commitments you\u2019ll ever make.",
+        "08 February 2024, Bremen: Midwife caring for a baby in the delivery room."
+      ],
+      "summary": "NY, NJ among most expensive states to have a baby:",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "NY, NJ among most expensive states to have a baby: Here's how much it costs",
+        "article_url": "https://www.fox5ny.com/news/ny-nj-among-most-expensive-states-have-baby-is-worth-it",
+        "published_at": "2026-10-06"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-07T15:59:16.877267+00:00",
+      "verification": {
+        "article_title": "NY, NJ among most expensive states to have a baby: Here's how much it costs",
+        "article_url": "https://www.fox5ny.com/news/ny-nj-among-most-expensive-states-have-baby-is-worth-it",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-07T15:59:15.050809+00:00"
+      }
+    },
+    {
+      "headline": "Read NYC Mayor Zohran Mamdani's full statement on Oct. 7",
+      "bullets": [
+        "NEW YORK - Wednesday marks three years since Hamas attacked Israel, killing more than 1,000 people and capturing hundreds more on Oct.",
+        "7, 2023."
+      ],
+      "summary": "Read NYC Mayor Zohran Mamdani's full statement on Oct. 7",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Read NYC Mayor Zohran Mamdani's full statement on Oct. 7 attacks",
+        "article_url": "https://www.fox5ny.com/news/mamdani-statement-oct-7-attacks-israel-hamas",
+        "published_at": "2026-10-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-07T15:59:16.969687+00:00",
+      "verification": {
+        "article_title": "Read NYC Mayor Zohran Mamdani's full statement on Oct. 7 attacks",
+        "article_url": "https://www.fox5ny.com/news/mamdani-statement-oct-7-attacks-israel-hamas",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-07T15:59:15.142727+00:00"
+      }
+    },
+    {
+      "headline": "Drugs and death: The last moments of sex worker Tabitha",
+      "bullets": [
+        "The lonely and lurid last moments of three Washington Heights men plied with lethal doses of fentanyl by Manhattan sex worker Tabitha Bundrick continue to haunt their loved ones, the killer heard at her Tuesday sentencing.",
+        "A half dozen people addressed Bundrick, 39, about the wake of devastation caused by her callous killing campaign before she was sentenced to 27 years in state prison for luring Abrihan Fernandez, Mario Paullan, and Miguel Navez to their deaths between April 2023 and February 2024."
+      ],
+      "summary": "Drugs and death: The last moments of sex worker Tabitha",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Drugs and death: The last moments of sex worker Tabitha Bundrick\u2019s victims laid bare at sentencing",
+        "article_url": "https://www.nydailynews.com/2026/10/06/sex-drugs-and-death-the-last-moments-of-tabitha-bundricks-victims-exposed-at-killers-sentencing/",
+        "published_at": "2026-10-06T19:44:39+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-07T15:59:17.096496+00:00",
+      "verification": {
+        "article_title": "Drugs and death: The last moments of sex worker Tabitha Bundrick\u2019s victims laid bare at sentencing",
+        "article_url": "https://www.nydailynews.com/2026/10/06/sex-drugs-and-death-the-last-moments-of-tabitha-bundricks-victims-exposed-at-killers-sentencing/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-07T15:59:15.250925+00:00"
+      }
+    },
+    {
+      "headline": "What happens when NYC kids take lessons in rock music?",
+      "bullets": [
+        "In the lobby of the School of Rock in Gowanus, a 16-year-old girl sits alone on the couch quietly rehearsing Jimmy Page\u2019s solo in Led Zeppelin\u2019s \u201cHeartbreaker\u201d on her unamplified electric guitar.",
+        "She seems lost in concentration as she learns to nail the notes of this sleazy 1970s rock song."
+      ],
+      "summary": "What happens when NYC kids take lessons in rock music?",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "What happens when NYC kids take lessons in rock music? Really good bands.",
+        "article_url": "https://gothamist.com/arts-entertainment/what-happens-when-nyc-kids-take-lessons-in-rock-music-really-good-bands",
+        "published_at": "2026-10-07T15:10:41+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-07T15:59:17.194081+00:00",
+      "verification": {
+        "article_title": "What happens when NYC kids take lessons in rock music? Really good bands.",
+        "article_url": "https://gothamist.com/arts-entertainment/what-happens-when-nyc-kids-take-lessons-in-rock-music-really-good-bands",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-07T15:59:15.344552+00:00"
+      }
+    },
+    {
+      "headline": "NYC weighs expanding upstate reservoir following drought",
+      "bullets": [
+        "The Cannonsville Reservoir, New York City\u2019s third-largest source of drinking water, could be expanding after a drought two years ago reduced the city\u2019s water supply to worryingly low levels.",
+        "The Delaware River Basin Commission, the federal interstate agency that manages a 13,539 square mile watershed that supplies drinking water to four states, is evaluating the option to increase the 96 billion gallon water supply as it plans for future drought, flooding and saltwater infiltration from projected sea level rise."
+      ],
+      "summary": "NYC weighs expanding upstate reservoir following drought",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC weighs expanding upstate reservoir following drought",
+        "article_url": "https://gothamist.com/news/facing-drought-and-sea-level-rise-authority-looks-at-expanding-major-ny-reservoir",
+        "published_at": "2026-10-06T19:16:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-07T15:59:17.285270+00:00",
+      "verification": {
+        "article_title": "NYC weighs expanding upstate reservoir following drought",
+        "article_url": "https://gothamist.com/news/facing-drought-and-sea-level-rise-authority-looks-at-expanding-major-ny-reservoir",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-07T15:59:15.457106+00:00"
+      }
+    },
+    {
+      "headline": "Fall foliage 2026: Where to see peak autumn colors in",
+      "bullets": [
+        "Here's where to find the best fall foliage 2026 across New York, Connecticut and New Jersey, and other parts of the country.",
+        "NEW YORK (WABC) -- The 2026 fall foliage season is underway, with the first signs of the season's colors appearing throughout Upstate New York and the most significant changes expected in the Adirondacks over the next few weeks."
+      ],
+      "summary": "Fall foliage 2026: Where to see peak autumn colors in",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Fall foliage 2026: Where to see peak autumn colors in New York, New Jersey and Connecticut",
+        "article_url": "https://abc7ny.com/post/fall-foliage-map-2026-peak-colors-ny-nj-ct-autumn/19854939/",
+        "published_at": "2026-09-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-07T15:59:17.377205+00:00",
+      "verification": {
+        "article_title": "Fall foliage 2026: Where to see peak autumn colors in New York, New Jersey and Connecticut",
+        "article_url": "https://abc7ny.com/post/fall-foliage-map-2026-peak-colors-ny-nj-ct-autumn/19854939/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-07T15:59:15.547848+00:00"
+      }
+    },
+    {
+      "headline": "High fuel and turnpike costs weigh on New York and",
+      "bullets": [
+        "NEW YORK - Over the last year, national average retail gas prices increased by approximately 40% to 45% depending on where you live in the United States, according to the U.S.",
+        "Energy Information Administration."
+      ],
+      "summary": "High fuel and turnpike costs weigh on New York and",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "High fuel and turnpike costs weigh on New York and New Jersey voters for 2026",
+        "article_url": "https://www.fox5ny.com/news/high-fuel-turnpike-costs-weigh-new-york-new-jersey-voters-2026",
+        "published_at": "2026-10-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-07T15:59:17.476860+00:00",
+      "verification": {
+        "article_title": "High fuel and turnpike costs weigh on New York and New Jersey voters for 2026",
+        "article_url": "https://www.fox5ny.com/news/high-fuel-turnpike-costs-weigh-new-york-new-jersey-voters-2026",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-07T15:59:15.634924+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on ASPCA partnerships, public housing and Pope",
+      "bullets": [
+        "Animal orgs large and small work together Manhattan: Edwin Sayres\u2019 Sept.",
+        "30 op-ed \u201d \u2018Pet charity paradox\u2019 hurts stray cats & dogs\u201d misleads readers by suggesting that supporting national animal welfare organizations like the ASPCA comes at the expense of local shelters."
+      ],
+      "summary": "Readers sound off on ASPCA partnerships, public housing and Pope",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on ASPCA partnerships, public housing and Pope Leo on AI",
+        "article_url": "https://www.nydailynews.com/2026/10/07/readers-sound-off-on-aspca-partnerships-public-housing-and-pope-leo-on-ai/",
+        "published_at": "2026-10-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-07T15:59:17.571265+00:00",
+      "verification": {
+        "article_title": "Readers sound off on ASPCA partnerships, public housing and Pope Leo on AI",
+        "article_url": "https://www.nydailynews.com/2026/10/07/readers-sound-off-on-aspca-partnerships-public-housing-and-pope-leo-on-ai/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-07T15:59:15.725276+00:00"
+      }
+    }
+  ]
+}
