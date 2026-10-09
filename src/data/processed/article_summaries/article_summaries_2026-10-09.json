@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-10-09T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-10-09.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Mamdani\u00e2s Oct 7.: Mourns Victims but Blasts Israel\u00e2s War in",
+      "bullets": [
+        "Mamdani\u00e2s Oct 7.: Mourns Victims but Blasts Israel\u00e2s War in Gaza as \u00e2Genocide\u00e2 Mayor Mamdani mourned the Israeli victims of the Oct.",
+        "7, 2023, attack by Hamas but then condemned the Israeli response as \u00e2genocide.\u00e2 Despite that, pro-Palestinian activists interrupted a peace vigil at Union Square, accusing the mayor of \u00e2capitulating to Zionist pressure.\u00e2 This story originally appeared in the Forward."
+      ],
+      "summary": "Mamdani\u00e2s Oct 7.: Mourns Victims but Blasts Israel\u00e2s War in",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Mamdani\u00e2s Oct 7.: Mourns Victims but Blasts Israel\u00e2s War in Gaza as \u00e2Genocide\u00e2",
+        "article_url": "https://www.ourtownny.com/news/mamdani-s-oct-7-mourns-victims-but-blasts-israel-s-war-in-gaza-as-genocide-YF6272706",
+        "published_at": "2026-10-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-09T15:45:13.421165+00:00",
+      "verification": {
+        "article_title": "Mamdani\u00e2s Oct 7.: Mourns Victims but Blasts Israel\u00e2s War in Gaza as \u00e2Genocide\u00e2",
+        "article_url": "https://www.ourtownny.com/news/mamdani-s-oct-7-mourns-victims-but-blasts-israel-s-war-in-gaza-as-genocide-YF6272706",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-09T15:45:11.852286+00:00"
+      }
+    },
+    {
+      "headline": "ICE agents shoot man in NYC as 5-year-old boy sits",
+      "bullets": [
+        "Immigration and Customs Enforcement agents shot a man in an SUV on a bustling New York City street Thursday afternoon as a 5-year-old boy sat in the vehicle\u2019s backseat, sparking a heated confrontation between the feds and outraged citizens, officials said.",
+        "One ICE agent fired seven rounds into the silver Honda Civic at about 4 p.m."
+      ],
+      "summary": "ICE agents shoot man in NYC as 5-year-old boy sits",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "ICE agents shoot man in NYC as 5-year-old boy sits in backseat of car",
+        "article_url": "https://www.nydailynews.com/2026/10/08/federal-ice-agents-shoot-man-in-the-bronx/",
+        "published_at": "2026-10-08"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-09T15:45:13.476302+00:00",
+      "verification": {
+        "article_title": "ICE agents shoot man in NYC as 5-year-old boy sits in backseat of car",
+        "article_url": "https://www.nydailynews.com/2026/10/08/federal-ice-agents-shoot-man-in-the-bronx/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-09T15:45:11.946210+00:00"
+      }
+    },
+    {
+      "headline": "ICE agent fires 7 rounds, shoots man in neck in",
+      "bullets": [
+        "At least one U.S.",
+        "Immigration and Customs Enforcement officer fired seven rounds during an immigration enforcement operation in Marble Hill on Thursday afternoon, striking a 28-year-old man in the neck, according to NYPD Commissioner Jessica Tisch."
+      ],
+      "summary": "ICE agent fires 7 rounds, shoots man in neck in",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "ICE agent fires 7 rounds, shoots man in neck in NYC's Marble Hill, NYPD says",
+        "article_url": "https://gothamist.com/news/person-shot-during-encounter-with-federal-agents-in-nycs-marble-hill-nypd-says",
+        "published_at": "2026-10-09T03:48:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-09T15:45:13.531260+00:00",
+      "verification": {
+        "article_title": "ICE agent fires 7 rounds, shoots man in neck in NYC's Marble Hill, NYPD says",
+        "article_url": "https://gothamist.com/news/person-shot-during-encounter-with-federal-agents-in-nycs-marble-hill-nypd-says",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-09T15:45:12.022160+00:00"
+      }
+    },
+    {
+      "headline": "Penn Station\u2019s future could be determined by midterm elections",
+      "bullets": [
+        "This column originally appeared in On The Way, a weekly newsletter covering everything you need to know about NYC-area transportation.",
+        "Sign up to get the full version, which includes answers to reader questions, trivia, service changes and more, in your inbox every Thursday."
+      ],
+      "summary": "Penn Station\u2019s future could be determined by midterm elections",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Penn Station\u2019s future could be determined by midterm elections",
+        "article_url": "https://gothamist.com/news/penn-stations-future-could-be-determined-by-midterm-elections",
+        "published_at": "2026-10-09T15:23:10+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-09T15:45:13.596273+00:00",
+      "verification": {
+        "article_title": "Penn Station\u2019s future could be determined by midterm elections",
+        "article_url": "https://gothamist.com/news/penn-stations-future-could-be-determined-by-midterm-elections",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-09T15:45:12.088558+00:00"
+      }
+    },
+    {
+      "headline": "Former Prince Andrew awarded $400,000 in compensation after surrendering his",
+      "bullets": [
+        "By DANICA KIRKA LONDON (AP) \u2014 The former Prince Andrew has been awarded 302,000 pounds ($400,000) in compensation after he was forced to surrender the lease on his long-time home ahead of schedule due to the public outcry surrounding his relationship with the convicted sex-offender Jeffrey Epstein.",
+        "The Crown Estate released the compensation figure on Friday as it announced that the former prince, now known as Andrew Mountbatten-Windsor, had fully vacated the Royal Lodge, a 30-room stately home surrounded by parkland near Windsor Castle, west of London."
+      ],
+      "summary": "Former Prince Andrew awarded $400,000 in compensation after surrendering his",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Former Prince Andrew awarded $400,000 in compensation after surrendering his lease in Windsor",
+        "article_url": "https://www.nydailynews.com/2026/10/09/former-prince-andrew-windsor-lease/",
+        "published_at": "2026-10-09T13:33:17+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-09T15:45:13.681812+00:00",
+      "verification": {
+        "article_title": "Former Prince Andrew awarded $400,000 in compensation after surrendering his lease in Windsor",
+        "article_url": "https://www.nydailynews.com/2026/10/09/former-prince-andrew-windsor-lease/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-09T15:45:12.178654+00:00"
+      }
+    },
+    {
+      "headline": "Mike Ditka, legendary Bears coach who led Chicago to its",
+      "bullets": [
+        "Mike Ditka, a football legend who went from a star tight end for the Chicago Bears to its most famous coach to this day, has died at the age of 86.",
+        "His family confirmed his death in a statement, writing, \"It is with profound sadness that we announce the passing of our beloved husband, father, grandfather, and friend, Mike Ditka."
+      ],
+      "summary": "Mike Ditka, legendary Bears coach who led Chicago to its",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Mike Ditka, legendary Bears coach who led Chicago to its only Super Bowl title, dies at 86",
+        "article_url": "https://www.cbsnews.com/newyork/news/mike-ditka-former-head-coach-chicago-bears-obit/",
+        "published_at": "2026-10-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-09T15:45:13.735713+00:00",
+      "verification": {
+        "article_title": "Mike Ditka, legendary Bears coach who led Chicago to its only Super Bowl title, dies at 86",
+        "article_url": "https://www.cbsnews.com/newyork/news/mike-ditka-former-head-coach-chicago-bears-obit/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-09T15:45:12.247765+00:00"
+      }
+    },
+    {
+      "headline": "S.E. Cupp: Trump\u2019s obsessions help bury GOP chances",
+      "bullets": [
+        "Maine Sen.",
+        "Susan Collins is facing one of the toughest reelection battles of her lifetime."
+      ],
+      "summary": "S.E. Cupp: Trump\u2019s obsessions help bury GOP chances",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "S.E. Cupp: Trump\u2019s obsessions help bury GOP chances",
+        "article_url": "https://www.nydailynews.com/2026/10/08/s-e-cupp-trumps-obsessions-help-bury-gop-chances/",
+        "published_at": "2026-10-08"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-09T15:45:13.788156+00:00",
+      "verification": {
+        "article_title": "S.E. Cupp: Trump\u2019s obsessions help bury GOP chances",
+        "article_url": "https://www.nydailynews.com/2026/10/08/s-e-cupp-trumps-obsessions-help-bury-gop-chances/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-09T15:45:12.430989+00:00"
+      }
+    },
+    {
+      "headline": "Hurricane Isaias could turn Sunday soggy, stormy across Philadelphia, New",
+      "bullets": [
+        "NEW YORK - Hurricane Isaias is on track to make landfall along the Gulf Coast before its remnants bring a wet and, in some places, stormy end to the weekend across the New York City area.",
+        "The system will no longer be a hurricane when it reaches the region."
+      ],
+      "summary": "Hurricane Isaias could turn Sunday soggy, stormy across Philadelphia, New",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Hurricane Isaias could turn Sunday soggy, stormy across Philadelphia, New Jersey and Delaware",
+        "article_url": "https://www.fox5ny.com/news/hurricane-isaias-remnants-heavy-rain-storms-nyc-nj-forecast",
+        "published_at": "2026-10-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-09T15:45:13.843447+00:00",
+      "verification": {
+        "article_title": "Hurricane Isaias could turn Sunday soggy, stormy across Philadelphia, New Jersey and Delaware",
+        "article_url": "https://www.fox5ny.com/news/hurricane-isaias-remnants-heavy-rain-storms-nyc-nj-forecast",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-09T15:45:12.496407+00:00"
+      }
+    },
+    {
+      "headline": "Blessing of the Animals: What Happened to the Alpacas, Llamas",
+      "bullets": [
+        "Blessing of the Animals: What Happened to the Alpacas, Llamas and Camels?",
+        "There were few exotic animals this year, but the annual Blessing of the Animals on the feast of St."
+      ],
+      "summary": "Blessing of the Animals: What Happened to the Alpacas, Llamas",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Blessing of the Animals: What Happened to the Alpacas, Llamas and Camels?",
+        "article_url": "https://www.ourtownny.com/news/blessing-of-the-animals-what-happened-to-the-alpacas-llamas-and-camels-DC6260140",
+        "published_at": "2026-10-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-09T15:45:13.895642+00:00",
+      "verification": {
+        "article_title": "Blessing of the Animals: What Happened to the Alpacas, Llamas and Camels?",
+        "article_url": "https://www.ourtownny.com/news/blessing-of-the-animals-what-happened-to-the-alpacas-llamas-and-camels-DC6260140",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-09T15:45:12.562882+00:00"
+      }
+    },
+    {
+      "headline": "Nobel Peace Prize goes to Navanethem Pillay for her efforts",
+      "bullets": [
+        "She was born in 1941, and has two daughters.",
+        "LONDON -- The Nobel Peace Prize for 2026 was awarded Friday to Navanethem Pillay \"for her efforts to promote peace and international law.\" Calling her a person \"with exceptional courage and integrity\" and somebody who \"has led the way towards a more comprehensive global legal order,\" the Nobel Institute said that Pillay \"has been instrumental in ensuring that war crimes, crimes against humanity and genocide are prosecuted.\" \"Navi Pillay\u2019s commitment to universal legal principles and her firm moral compass are constants in a long career,\" the Nobel Institute said."
+      ],
+      "summary": "Nobel Peace Prize goes to Navanethem Pillay for her efforts",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Nobel Peace Prize goes to Navanethem Pillay for her efforts to promote peace and international law",
+        "article_url": "https://abc7ny.com/story/nobel-peace-prize-goes-navanethem-pillay-efforts-promote-international-law/19924362/",
+        "published_at": "2026-10-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-09T15:45:13.963731+00:00",
+      "verification": {
+        "article_title": "Nobel Peace Prize goes to Navanethem Pillay for her efforts to promote peace and international law",
+        "article_url": "https://abc7ny.com/story/nobel-peace-prize-goes-navanethem-pillay-efforts-promote-international-law/19924362/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-09T15:45:12.738171+00:00"
+      }
+    },
+    {
+      "headline": "NYC Mayor Mamdani's statement marking 3 years since Oct. 7",
+      "bullets": [
+        "New York City Mayor Zohran Mamdani released a statement Wednesday to mark .",
+        "Mamdani's statement, which calls out the Israeli government's \"ongoing genocide in Gaza,\" \"war crimes,\" \"occupation,\" and \"apartheid,\" immediately drew criticism from the Anti-Defamation League."
+      ],
+      "summary": "NYC Mayor Mamdani's statement marking 3 years since Oct. 7",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "NYC Mayor Mamdani's statement marking 3 years since Oct. 7 attacks calls out Israeli government's \"ongoing genocide\"",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-mayor-zohran-mamdanis-oct-7-statement/",
+        "published_at": "2026-10-07"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-09T15:45:14.025581+00:00",
+      "verification": {
+        "article_title": "NYC Mayor Mamdani's statement marking 3 years since Oct. 7 attacks calls out Israeli government's \"ongoing genocide\"",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-mayor-zohran-mamdanis-oct-7-statement/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-09T15:45:12.842555+00:00"
+      }
+    },
+    {
+      "headline": "Shooting involving ICE agents near the Bronx, Mayor Mamdani says",
+      "bullets": [
+        "UPPER MANHATTAN - Mayor Zohran Mamdani says that an ICE agent reportedly shot a New Yorker in a neighborhood near the Bronx earlier today.",
+        "Shooting involving ICE agents near Bronx What we know: In the post on X, the mayor stated that early reports show ICE agents surrounded the man and a 5-year-old child in his car before firing several rounds."
+      ],
+      "summary": "Shooting involving ICE agents near the Bronx, Mayor Mamdani says",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Shooting involving ICE agents near the Bronx, Mayor Mamdani says 'abolish ICE'",
+        "article_url": "https://www.fox5ny.com/news/nypd-crime-federal-law-enforcement-agents-shooting-marble-hill",
+        "published_at": "2026-10-08"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-09T15:45:14.079560+00:00",
+      "verification": {
+        "article_title": "Shooting involving ICE agents near the Bronx, Mayor Mamdani says 'abolish ICE'",
+        "article_url": "https://www.fox5ny.com/news/nypd-crime-federal-law-enforcement-agents-shooting-marble-hill",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-09T15:45:12.902867+00:00"
+      }
+    },
+    {
+      "headline": "Election Q&A: Meet Upper East Side Candidate Alina Bonsell",
+      "bullets": [
+        "Election Q&A: Meet Upper East Side Candidate Alina Bonsell Patch posed several questions to candidate Alina Bonsell ahead of the Upper East Side election this November.",
+        "UPPER EAST SIDE, NY \u2014 Republican candidate Alina Bonsell is running for State Senate in District 28, which includes the Upper East Side, Roosevelt Island, and a central swath of Manhattan from Midtown down to Union Square, in New York City's general election on Tuesday, Nov."
+      ],
+      "summary": "Election Q&A: Meet Upper East Side Candidate Alina Bonsell",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Election Q&A: Meet Upper East Side Candidate Alina Bonsell",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/election-q-meet-upper-east-side-candidate-alina-bonsell-0",
+        "published_at": "2026-10-08T17:04:04+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-09T15:45:14.141910+00:00",
+      "verification": {
+        "article_title": "Election Q&A: Meet Upper East Side Candidate Alina Bonsell",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/election-q-meet-upper-east-side-candidate-alina-bonsell-0",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-09T15:45:12.957046+00:00"
+      }
+    },
+    {
+      "headline": "NYC college students leave class to rally in support of",
+      "bullets": [
+        "New York City college students walked out of class on Thursday to demand colleges strengthen their responses to sexual assault amid public outcry over an alleged 2024 gang rape at a Cornell University fraternity house.",
+        "The demonstrations were part of a day of protests on college campuses across the country in support of the former Cornell student who made the allegations, known in court documents anonymously as \u201cJane Doe.\u201d At Columbia University, dozens of students, joined by professors and advocates, protested Cornell\u2019s response and called for reforms on their own campus."
+      ],
+      "summary": "NYC college students leave class to rally in support of",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYC college students leave class to rally in support of Cornell University\u2019s \u2018Jane Doe\u2019",
+        "article_url": "https://www.nydailynews.com/2026/10/08/nyc-college-students-leave-class-to-rally-in-support-of-cornell-universitys-jane-doe/",
+        "published_at": "2026-10-08T22:49:03+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-09T15:45:14.196004+00:00",
+      "verification": {
+        "article_title": "NYC college students leave class to rally in support of Cornell University\u2019s \u2018Jane Doe\u2019",
+        "article_url": "https://www.nydailynews.com/2026/10/08/nyc-college-students-leave-class-to-rally-in-support-of-cornell-universitys-jane-doe/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-09T15:45:13.027813+00:00"
+      }
+    },
+    {
+      "headline": "Experience tropical hydration with top-rated Kopari beauty essentials",
+      "bullets": [
+        "Which Kopari product is best?",
+        "Looking for a beauty ingredient that can moisturize dry skin, save damaged hair, remove makeup and even fade scars and stretch marks?"
+      ],
+      "summary": "Experience tropical hydration with top-rated Kopari beauty essentials",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Experience tropical hydration with top-rated Kopari beauty essentials",
+        "article_url": "https://www.nydailynews.com/2026/10/09/experience-tropical-hydration-with-top-rated-kopari-beauty-essentials/",
+        "published_at": "2026-10-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-09T15:45:14.250839+00:00",
+      "verification": {
+        "article_title": "Experience tropical hydration with top-rated Kopari beauty essentials",
+        "article_url": "https://www.nydailynews.com/2026/10/09/experience-tropical-hydration-with-top-rated-kopari-beauty-essentials/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-09T15:45:13.112540+00:00"
+      }
+    },
+    {
+      "headline": "US sees worst Dengue Fever outbreak since the 1930s, experts",
+      "bullets": [
+        "Florida state health officials say more than 200 people have contracted Dengue Fever, making it the largest outbreak of the mosquito-borne disease in about 90 years.",
+        "What we know: People with Dengue can experience flu-like symptoms, but severe cases can cause intense pain and even death."
+      ],
+      "summary": "US sees worst Dengue Fever outbreak since the 1930s, experts",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "US sees worst Dengue Fever outbreak since the 1930s, experts say",
+        "article_url": "https://www.fox5ny.com/news/us-sees-worst-dengue-fever-outbreak-since-1930s-experts-say",
+        "published_at": "2026-10-08"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-09T15:45:14.303844+00:00",
+      "verification": {
+        "article_title": "US sees worst Dengue Fever outbreak since the 1930s, experts say",
+        "article_url": "https://www.fox5ny.com/news/us-sees-worst-dengue-fever-outbreak-since-1930s-experts-say",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-09T15:45:13.178465+00:00"
+      }
+    },
+    {
+      "headline": "This UES Subway Station Will See Major Fare Gate Changes",
+      "bullets": [
+        "This UES Subway Station Will See Major Fare Gate Changes The first test of the new gates produced a 30 percent decline in fare evasion, and more stations are next.",
+        "UPPER EAST SIDE\u2014 Subway riders at 20 more stations will soon encounter wider, touch-free fare gates designed to make it harder to enter without paying and easier for people with wheelchairs, strollers and luggage to get through."
+      ],
+      "summary": "This UES Subway Station Will See Major Fare Gate Changes",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "This UES Subway Station Will See Major Fare Gate Changes",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/upper-east-side-subway-riders-will-see-new-fare-gates-soon",
+        "published_at": "2026-10-08T19:24:33+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-09T15:45:14.370911+00:00",
+      "verification": {
+        "article_title": "This UES Subway Station Will See Major Fare Gate Changes",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/upper-east-side-subway-riders-will-see-new-fare-gates-soon",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-09T15:45:13.232000+00:00"
+      }
+    },
+    {
+      "headline": "Bronx homeowners facing foreclosure are in the market for assistance",
+      "bullets": [
+        "Kimberly Fenelon and her daughter were making snowmen in the front yard of her home in Hunts Point, the Bronx, when she was approached by a woman who handed her a stack of papers.",
+        "She had been served."
+      ],
+      "summary": "Bronx homeowners facing foreclosure are in the market for assistance",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Bronx homeowners facing foreclosure are in the market for assistance",
+        "article_url": "https://gothamist.com/news/bronx-homeowners-facing-foreclosure-are-in-the-market-for-assistance",
+        "published_at": "2026-10-09T10:30:56+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-09T15:45:14.426458+00:00",
+      "verification": {
+        "article_title": "Bronx homeowners facing foreclosure are in the market for assistance",
+        "article_url": "https://gothamist.com/news/bronx-homeowners-facing-foreclosure-are-in-the-market-for-assistance",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-09T15:45:13.298055+00:00"
+      }
+    }
+  ]
+}
