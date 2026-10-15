@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-10-15T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-10-15.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Readers sound off on unethical hunting, death by firing squad",
+      "bullets": [
+        "Stop N.Y.",
+        "raising birds to kill for sport Tuckahoe, N.Y.: The New York State Department of Environmental Conservation takes almost $2 million of our tax dollars to import non-native baby birds for folks to shoot at for \u201cgood training tools,\u201d as the DEC calls them."
+      ],
+      "summary": "Readers sound off on unethical hunting, death by firing squad",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on unethical hunting, death by firing squad and ICE\u2019s shooter",
+        "article_url": "https://www.nydailynews.com/2026/10/15/readers-sound-off-on-unethical-hunting-death-by-firing-squad-and-ices-shooter/",
+        "published_at": "2026-10-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-15T13:53:14.889365+00:00",
+      "verification": {
+        "article_title": "Readers sound off on unethical hunting, death by firing squad and ICE\u2019s shooter",
+        "article_url": "https://www.nydailynews.com/2026/10/15/readers-sound-off-on-unethical-hunting-death-by-firing-squad-and-ices-shooter/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-15T13:53:13.407993+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: Collectors Auction | Fine Jewelry | SIlver |",
+      "bullets": [
+        "New York City, NY|Featured Event Collectors Auction | Fine Jewelry | SIlver | Asian Antiques | Artwork | Furniture | Historical Collectors Auction | Fine Jewelry | SIlver | Artwork | Asian Antiques | Historica | Furniture Collectors Online Auction | Thursday, October 15th, 2026 at 10:00 AM.",
+        "Bid via our free app or online at alderferauction.com."
+      ],
+      "summary": "Local Event: Collectors Auction | Fine Jewelry | SIlver |",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Collectors Auction | Fine Jewelry | SIlver | Asian Antiques | Artwork | Furniture | Historical",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261015/3bdd8ae4-8801-4ef7-a60f-192628ae318a/collectors-auction-fine-jewelry-silver-asian-antiques-artwork-furniture-historical",
+        "published_at": "2026-10-15T14:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-15T13:53:14.970750+00:00",
+      "verification": {
+        "article_title": "Local Event: Collectors Auction | Fine Jewelry | SIlver | Asian Antiques | Artwork | Furniture | Historical",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261015/3bdd8ae4-8801-4ef7-a60f-192628ae318a/collectors-auction-fine-jewelry-silver-asian-antiques-artwork-furniture-historical",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-15T13:53:13.524671+00:00"
+      }
+    },
+    {
+      "headline": "Who is Rebecca Bennett, the Democrat running for Congress in",
+      "bullets": [
+        "SOMERVILLE, N.J.",
+        "- Democrat Rebecca Bennett is challenging Republican U.S."
+      ],
+      "summary": "Who is Rebecca Bennett, the Democrat running for Congress in",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Who is Rebecca Bennett, the Democrat running for Congress in NJ-07?",
+        "article_url": "https://www.fox5ny.com/news/who-is-rebecca-bennett-democrat-running-congress-nj-07",
+        "published_at": "2026-10-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-15T13:53:15.031799+00:00",
+      "verification": {
+        "article_title": "Who is Rebecca Bennett, the Democrat running for Congress in NJ-07?",
+        "article_url": "https://www.fox5ny.com/news/who-is-rebecca-bennett-democrat-running-congress-nj-07",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-15T13:53:13.638837+00:00"
+      }
+    },
+    {
+      "headline": "Hochul, Blakeman clash in debate on Trump, immigration, Cornell investigation,",
+      "bullets": [
+        "NEW YORK - New York Gov.",
+        "Kathy Hochul and Republican challenger Bruce Blakeman wasted no time going on the attack in their one and only debate before Election Day."
+      ],
+      "summary": "Hochul, Blakeman clash in debate on Trump, immigration, Cornell investigation,",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Hochul, Blakeman clash in debate on Trump, immigration, Cornell investigation, and more",
+        "article_url": "https://www.fox5ny.com/news/hochul-blakeman-debate-ny-governor-race",
+        "published_at": "2026-10-14"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-15T13:53:15.095716+00:00",
+      "verification": {
+        "article_title": "Hochul, Blakeman clash in debate on Trump, immigration, Cornell investigation, and more",
+        "article_url": "https://www.fox5ny.com/news/hochul-blakeman-debate-ny-governor-race",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-15T13:53:13.724477+00:00"
+      }
+    },
+    {
+      "headline": "Central Park Carriage Horse Ban Bill to Pass Say Menin,",
+      "bullets": [
+        "Central Park Carriage Horse Ban Bill to Pass Say Menin, Mamdani Romanch\u00e2s Law would phase out the historic industry entirely by 2028, satisfying calls from animal rights groups and others, and promises job-training for displaced workers.",
+        "Representatives for the workers themselves are furious."
+      ],
+      "summary": "Central Park Carriage Horse Ban Bill to Pass Say Menin,",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Central Park Carriage Horse Ban Bill to Pass Say Menin, Mamdani",
+        "article_url": "https://www.ourtownny.com/news/central-park-carriage-horse-ban-bill-to-pass-say-menin-mamdani-BI6291740",
+        "published_at": "2026-10-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-15T13:53:15.154869+00:00",
+      "verification": {
+        "article_title": "Central Park Carriage Horse Ban Bill to Pass Say Menin, Mamdani",
+        "article_url": "https://www.ourtownny.com/news/central-park-carriage-horse-ban-bill-to-pass-say-menin-mamdani-BI6291740",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-15T13:53:13.856749+00:00"
+      }
+    },
+    {
+      "headline": "Remains of second 9/11 victim identified through new forensic technique",
+      "bullets": [
+        "The remains of a woman recovered from Ground Zero following the 9/11 terrorist attacks have been identified through a new DNA forensic technique \u2014 the second time a victim of the 25-year-old terror attacks has been identified with this groundbreaking procedure, officials said Wednesday.",
+        "The woman\u2019s identification brings the total number of identified victims of the World Trade Center attacks to 1,655, according to the city\u2019s Medical Examiner."
+      ],
+      "summary": "Remains of second 9/11 victim identified through new forensic technique",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Remains of second 9/11 victim identified through new forensic technique",
+        "article_url": "https://www.nydailynews.com/2026/10/14/remains-of-second-9-11-victim-identified-through-groundbreaking-forensic-technique/",
+        "published_at": "2026-10-15T02:24:21+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-15T13:53:15.212855+00:00",
+      "verification": {
+        "article_title": "Remains of second 9/11 victim identified through new forensic technique",
+        "article_url": "https://www.nydailynews.com/2026/10/14/remains-of-second-9-11-victim-identified-through-groundbreaking-forensic-technique/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-15T13:53:13.922540+00:00"
+      }
+    },
+    {
+      "headline": "Get young people into cultural seats",
+      "bullets": [
+        "The recent news of free tickets to the opera and, for students, to Broadway shows demonstrate that culture is still important in our city.",
+        "Mayor Mamdani\u2019s support of opera, an art form that many consider elite, is a welcome surprise, especially since support for the arts had not been front and center in his campaign."
+      ],
+      "summary": "Get young people into cultural seats",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Get young people into cultural seats",
+        "article_url": "https://www.nydailynews.com/2026/10/15/get-young-people-into-cultural-seats/",
+        "published_at": "2026-10-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-15T13:53:15.299732+00:00",
+      "verification": {
+        "article_title": "Get young people into cultural seats",
+        "article_url": "https://www.nydailynews.com/2026/10/15/get-young-people-into-cultural-seats/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-15T13:53:13.984701+00:00"
+      }
+    },
+    {
+      "headline": "17-year-old Queens gang member killed 14-year-old with \u2018execution style\u2019 shot",
+      "bullets": [
+        "A 17-year-old reputed gang member out on parole for a prior gun possession conviction ended an ongoing dispute with a younger rival last month by shooting him \u201cexecution style\u201d along a Queens street and then rode off with his victim\u2019s push scooter, prosecutors said Wednesday.",
+        "Malakai Adams, 14, died after he was shot along Beach Channel Drive in the Rockaways on Sept."
+      ],
+      "summary": "17-year-old Queens gang member killed 14-year-old with \u2018execution style\u2019 shot",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "17-year-old Queens gang member killed 14-year-old with \u2018execution style\u2019 shot to the heart: DA",
+        "article_url": "https://www.nydailynews.com/2026/10/14/17-year-old-queens-gang-member-killed-14-year-old-with-execution-style-shot-to-the-heart-da/",
+        "published_at": "2026-10-14"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-15T13:53:15.364547+00:00",
+      "verification": {
+        "article_title": "17-year-old Queens gang member killed 14-year-old with \u2018execution style\u2019 shot to the heart: DA",
+        "article_url": "https://www.nydailynews.com/2026/10/14/17-year-old-queens-gang-member-killed-14-year-old-with-execution-style-shot-to-the-heart-da/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-15T13:53:14.043635+00:00"
+      }
+    },
+    {
+      "headline": "Ex-Venezuelan President Nicol\u00e1s Maduro is returning to federal court to",
+      "bullets": [
+        "NEW YORK -- Former Venezuelan President Nicol\u00e1s Maduro and his wife return Thursday to a New York courtroom to face a rewritten indictment accusing them of leading a state-sponsored campaign of repression that tortured scores of victims, including three Americans.",
+        "Maduro and his wife, Cilia Flores, were expected to plead not guilty in Manhattan federal court to charges added to a drug trafficking indictment brought months earlier against the two."
+      ],
+      "summary": "Ex-Venezuelan President Nicol\u00e1s Maduro is returning to federal court to",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Ex-Venezuelan President Nicol\u00e1s Maduro is returning to federal court to face torture allegations",
+        "article_url": "https://abc7ny.com/post/ex-venezuelan-president-nicols-maduro-is-returning-federal-court-face-torture-allegations/19940073/",
+        "published_at": "2026-10-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-15T13:53:15.427487+00:00",
+      "verification": {
+        "article_title": "Ex-Venezuelan President Nicol\u00e1s Maduro is returning to federal court to face torture allegations",
+        "article_url": "https://abc7ny.com/post/ex-venezuelan-president-nicols-maduro-is-returning-federal-court-face-torture-allegations/19940073/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-15T13:53:14.105052+00:00"
+      }
+    },
+    {
+      "headline": "Police search home following double homicide at Great Wolf Lodge",
+      "bullets": [
+        "Metallica Harrison is accused of killing her husband and 3-year-old son.",
+        "Authorities searched the Pennsylvania home of a family at the center of a double homicide at a Poconos resort as they tried to find a motive for why a woman allegedly killed her husband and 3-year-old son before trying to take her own life, according to court filings."
+      ],
+      "summary": "Police search home following double homicide at Great Wolf Lodge",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Police search home following double homicide at Great Wolf Lodge amid hunt for motive",
+        "article_url": "https://abc7ny.com/story/police-search-home-following-double-homicide-great-wolf-lodge-amid-hunt-motive/19940051/",
+        "published_at": "2026-10-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-15T13:53:15.487117+00:00",
+      "verification": {
+        "article_title": "Police search home following double homicide at Great Wolf Lodge amid hunt for motive",
+        "article_url": "https://abc7ny.com/story/police-search-home-following-double-homicide-great-wolf-lodge-amid-hunt-motive/19940051/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-15T13:53:14.169117+00:00"
+      }
+    },
+    {
+      "headline": "NY measles outbreak more widespread than official count, health officials",
+      "bullets": [
+        "As measles cases continue to tick up on the New York State Department of Health dashboard, public health officials in Otsego and Seneca counties said they believe the outbreak is even bigger than the state\u2019s count shows.",
+        "The county officials told Gothamist they think many more cases are going unreported in their upstate counties, where the disease is spreading rapidly through unvaccinated communities."
+      ],
+      "summary": "NY measles outbreak more widespread than official count, health officials",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NY measles outbreak more widespread than official count, health officials say",
+        "article_url": "https://gothamist.com/news/ny-measles-outbreak-more-widespread-than-official-count-health-officials-say",
+        "published_at": "2026-10-14T18:10:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-15T13:53:15.549807+00:00",
+      "verification": {
+        "article_title": "NY measles outbreak more widespread than official count, health officials say",
+        "article_url": "https://gothamist.com/news/ny-measles-outbreak-more-widespread-than-official-count-health-officials-say",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-15T13:53:14.231187+00:00"
+      }
+    },
+    {
+      "headline": "Mother suspected in death of 25-year-old son with autism in",
+      "bullets": [
+        "WOODSIDE, Queens (WABC) -- A 25-year-old nonverbal man with autism was found dead with slash wounds inside a Woodside, Queens apartment Wednesday morning, and police believe his mother is responsible for his death before later attempting suicide, according to investigators and sources.",
+        "Police responded to the home on 59th Street and discovered the body of Bryan Wong."
+      ],
+      "summary": "Mother suspected in death of 25-year-old son with autism in",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Mother suspected in death of 25-year-old son with autism in Queens: sources",
+        "article_url": "https://abc7ny.com/post/queens-mother-suspected-murdering-son-autism-woodside/19939373/",
+        "published_at": "2026-10-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-15T13:53:15.608338+00:00",
+      "verification": {
+        "article_title": "Mother suspected in death of 25-year-old son with autism in Queens: sources",
+        "article_url": "https://abc7ny.com/post/queens-mother-suspected-murdering-son-autism-woodside/19939373/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-15T13:53:14.346561+00:00"
+      }
+    },
+    {
+      "headline": "Hochul smart to join the IRS education tax credit",
+      "bullets": [
+        "Gov.",
+        "Hochul was spot-on in having New York State join the new federal tax credit providing $3,400 a year for families for K-12 education."
+      ],
+      "summary": "Hochul smart to join the IRS education tax credit",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Hochul smart to join the IRS education tax credit",
+        "article_url": "https://www.nydailynews.com/2026/10/15/hochul-smart-to-join-the-irs-education-tax-credit/",
+        "published_at": "2026-10-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-15T13:53:15.666865+00:00",
+      "verification": {
+        "article_title": "Hochul smart to join the IRS education tax credit",
+        "article_url": "https://www.nydailynews.com/2026/10/15/hochul-smart-to-join-the-irs-education-tax-credit/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-15T13:53:14.425420+00:00"
+      }
+    },
+    {
+      "headline": "New details in text messages between Jane Doe and Cornell",
+      "bullets": [
+        "It was a Monday evening around dinner time when a text popped up on cellphone on Oct.",
+        "21, 2024, less than 48 hours after a night of excessive drinking, drug use and group sex at the Chi Phi fraternity house on the Cornell University campus."
+      ],
+      "summary": "New details in text messages between Jane Doe and Cornell",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "New details in text messages between Jane Doe and Cornell fraternity members",
+        "article_url": "https://www.cbsnews.com/newyork/news/jane-doe-text-messages-cornell-fraternity-member/",
+        "published_at": "2026-10-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-15T13:53:15.728852+00:00",
+      "verification": {
+        "article_title": "New details in text messages between Jane Doe and Cornell fraternity members",
+        "article_url": "https://www.cbsnews.com/newyork/news/jane-doe-text-messages-cornell-fraternity-member/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-15T13:53:14.484609+00:00"
+      }
+    },
+    {
+      "headline": "Hochul, Blakeman offer opposing visions for jobs to stem New",
+      "bullets": [
+        "Kate Ebersbach spent her 20s working with horses in Upstate New York.",
+        "But the pay was never enough to build a livelihood."
+      ],
+      "summary": "Hochul, Blakeman offer opposing visions for jobs to stem New",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Hochul, Blakeman offer opposing visions for jobs to stem New York exodus",
+        "article_url": "https://gothamist.com/news/hochul-blakeman-offer-opposing-visions-for-jobs-to-stem-new-york-exodus",
+        "published_at": "2026-10-15T10:30:47+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-15T13:53:15.795437+00:00",
+      "verification": {
+        "article_title": "Hochul, Blakeman offer opposing visions for jobs to stem New York exodus",
+        "article_url": "https://gothamist.com/news/hochul-blakeman-offer-opposing-visions-for-jobs-to-stem-new-york-exodus",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-15T13:53:14.573125+00:00"
+      }
+    },
+    {
+      "headline": "New Yorkers are paying $300 million for natural gas they",
+      "bullets": [
+        "New Yorkers are losing $300 million a year due to natural gas leaks, according to Columbia University researchers.",
+        "Nearly 2% of the natural gas supplied to and paid for by city customers is escaping into the air and causing climate pollution, a Columbia study found."
+      ],
+      "summary": "New Yorkers are paying $300 million for natural gas they",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "New Yorkers are paying $300 million for natural gas they don't even use",
+        "article_url": "https://gothamist.com/news/new-yorkers-are-paying-300-million-for-natural-gas-they-dont-even-use",
+        "published_at": "2026-10-14T14:00:57+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-15T13:53:15.856871+00:00",
+      "verification": {
+        "article_title": "New Yorkers are paying $300 million for natural gas they don't even use",
+        "article_url": "https://gothamist.com/news/new-yorkers-are-paying-300-million-for-natural-gas-they-dont-even-use",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-15T13:53:14.636033+00:00"
+      }
+    },
+    {
+      "headline": "Election Q&A: Meet Upper East Side Candidate Liz Krueger",
+      "bullets": [
+        "Election Q&A: Meet Upper East Side Candidate Liz Krueger Patch posed several questions to candidate Liz Krueger ahead of the Upper East Side election this November.",
+        "UPPER EAST SIDE, NY \u2014 Democratic candidate Liz Krueger is running for State Senate in District 28, which includes the Upper East Side, Roosevelt Island, and a central swath of Manhattan from Midtown down to Union Square, in New York City's general election on Tuesday, Nov."
+      ],
+      "summary": "Election Q&A: Meet Upper East Side Candidate Liz Krueger",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Election Q&A: Meet Upper East Side Candidate Liz Krueger",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/election-q-meet-upper-east-side-candidate-liz-krueger",
+        "published_at": "2026-10-14T16:48:53+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-15T13:53:15.920973+00:00",
+      "verification": {
+        "article_title": "Election Q&A: Meet Upper East Side Candidate Liz Krueger",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/election-q-meet-upper-east-side-candidate-liz-krueger",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-15T13:53:14.694113+00:00"
+      }
+    },
+    {
+      "headline": "Best marble run toys for hands-on STEM learning",
+      "bullets": [
+        "Which marble run is best?",
+        "Marble runs are rolling ball sculptures you build yourself."
+      ],
+      "summary": "Best marble run toys for hands-on STEM learning",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Best marble run toys for hands-on STEM learning",
+        "article_url": "https://www.nydailynews.com/2026/10/15/best-marble-run-toys-for-hands-on-stem-learning-2/",
+        "published_at": "2026-10-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-15T13:53:15.982974+00:00",
+      "verification": {
+        "article_title": "Best marble run toys for hands-on STEM learning",
+        "article_url": "https://www.nydailynews.com/2026/10/15/best-marble-run-toys-for-hands-on-stem-learning-2/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-15T13:53:14.756321+00:00"
+      }
+    }
+  ]
+}
