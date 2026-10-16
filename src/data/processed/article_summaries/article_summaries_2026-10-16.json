@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-10-16T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-10-16.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Why Mamdani\u2019s name was mostly missing from debate for New",
+      "bullets": [
+        "This column originally appeared in The Politics Brief, our weekly newsletter on the people, power and policies that shape New Yorkers' lives.",
+        "Sign up to get the full version where you can ask questions, share news tips and weigh in on the conversation."
+      ],
+      "summary": "Why Mamdani\u2019s name was mostly missing from debate for New",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Why Mamdani\u2019s name was mostly missing from debate for New York governor",
+        "article_url": "https://gothamist.com/news/why-mamdanis-name-was-mostly-missing-from-debate-for-new-york-governor",
+        "published_at": "2026-10-15T15:50:31+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-16T13:43:11.693270+00:00",
+      "verification": {
+        "article_title": "Why Mamdani\u2019s name was mostly missing from debate for New York governor",
+        "article_url": "https://gothamist.com/news/why-mamdanis-name-was-mostly-missing-from-debate-for-new-york-governor",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-16T13:43:10.203474+00:00"
+      }
+    },
+    {
+      "headline": "The Complete UES Guide To The 2026 Election",
+      "bullets": [
+        "The Complete UES Guide To The 2026 Election Upper East Siders will have the chance to make their voices heard in elections on Nov.",
+        "3."
+      ],
+      "summary": "The Complete UES Guide To The 2026 Election",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "The Complete UES Guide To The 2026 Election",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/complete-ues-guide-2026-election",
+        "published_at": "2026-10-15T20:35:11+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-16T13:43:11.744665+00:00",
+      "verification": {
+        "article_title": "The Complete UES Guide To The 2026 Election",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/complete-ues-guide-2026-election",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-16T13:43:10.277227+00:00"
+      }
+    },
+    {
+      "headline": "Mamdani bashes Blakeman in video supporting Hochul\u2019s re-election",
+      "bullets": [
+        "Mayor Mamdani bashed Republican gubernatorial candidate Bruce Blakeman in a video released Thursday in support of Gov.",
+        "Hochul\u2019s re-election campaign as he ramps up his vocal support of Hochul in the last stretch of the race."
+      ],
+      "summary": "Mamdani bashes Blakeman in video supporting Hochul\u2019s re-election",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Mamdani bashes Blakeman in video supporting Hochul\u2019s re-election",
+        "article_url": "https://www.nydailynews.com/2026/10/15/mamdani-released-video-in-support-of-hochuls-re-election-bashing-blakeman/",
+        "published_at": "2026-10-15T20:54:56+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-16T13:43:11.808779+00:00",
+      "verification": {
+        "article_title": "Mamdani bashes Blakeman in video supporting Hochul\u2019s re-election",
+        "article_url": "https://www.nydailynews.com/2026/10/15/mamdani-released-video-in-support-of-hochuls-re-election-bashing-blakeman/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-16T13:43:10.401290+00:00"
+      }
+    },
+    {
+      "headline": "Who is Rebecca Bennett, the Democrat running for Congress in",
+      "bullets": [
+        "SOMERVILLE, N.J.",
+        "- Democrat Rebecca Bennett is challenging Republican U.S."
+      ],
+      "summary": "Who is Rebecca Bennett, the Democrat running for Congress in",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Who is Rebecca Bennett, the Democrat running for Congress in NJ-07?",
+        "article_url": "https://www.fox5ny.com/news/who-is-rebecca-bennett-democrat-running-congress-nj-07",
+        "published_at": "2026-10-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-16T13:43:11.863311+00:00",
+      "verification": {
+        "article_title": "Who is Rebecca Bennett, the Democrat running for Congress in NJ-07?",
+        "article_url": "https://www.fox5ny.com/news/who-is-rebecca-bennett-democrat-running-congress-nj-07",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-16T13:43:10.484819+00:00"
+      }
+    },
+    {
+      "headline": "The best MCAT prep books of 2026",
+      "bullets": [
+        "MCAT prep books If you want to go to medical school, you need to pass the Medical College Admission Test.",
+        "The Association of American Medical Colleges administers the MCAT, which is used to assess if would-be doctors possess the critical-thinking and problem-solving skills required to succeed in medical school."
+      ],
+      "summary": "The best MCAT prep books of 2026",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "The best MCAT prep books of 2026",
+        "article_url": "https://www.nydailynews.com/2026/10/15/the-best-mcat-prep-books-of-2026/",
+        "published_at": "2026-10-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-16T13:43:11.939099+00:00",
+      "verification": {
+        "article_title": "The best MCAT prep books of 2026",
+        "article_url": "https://www.nydailynews.com/2026/10/15/the-best-mcat-prep-books-of-2026/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-16T13:43:10.572866+00:00"
+      }
+    },
+    {
+      "headline": "Mamdani and Menin horse ban bill is an unworkable mess",
+      "bullets": [
+        "Mayor Mamdani and City Council Speaker Julie Menin are celebrating the end of the historic Central Park carriage horses without doing any of the hard work that would be necessary to unwind a beloved tourist trade that is not only legal, but explicitly licensed by the city.",
+        "It is reminiscent of the Council and then-Mayor Bill de Blasio cheering in 2019 their passing of a law to totally close down Rikers Island as of Dec 31, 2026, which won\u2019t happen even though the date was pushed back eight months to Aug."
+      ],
+      "summary": "Mamdani and Menin horse ban bill is an unworkable mess",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Mamdani and Menin horse ban bill is an unworkable mess",
+        "article_url": "https://www.nydailynews.com/2026/10/16/mamdani-and-menin-horse-ban-bill-is-an-unworkable-mess/",
+        "published_at": "2026-10-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-16T13:43:12.063330+00:00",
+      "verification": {
+        "article_title": "Mamdani and Menin horse ban bill is an unworkable mess",
+        "article_url": "https://www.nydailynews.com/2026/10/16/mamdani-and-menin-horse-ban-bill-is-an-unworkable-mess/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-16T13:43:10.637847+00:00"
+      }
+    },
+    {
+      "headline": "Thanksgiving food forecast: Prices going up, but there are 'bright",
+      "bullets": [
+        "Grocery prices are on the rise with Thanksgiving six weeks away, With Thanksgiving six weeks away, shoppers will see food prices higher than this time last year, according to consulting firm PwC.",
+        "The increase in food prices comes amid higher inflation, which rose to a 4-month high last month as the Iran war continues to drive up gasoline prices."
+      ],
+      "summary": "Thanksgiving food forecast: Prices going up, but there are 'bright",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Thanksgiving food forecast: Prices going up, but there are 'bright spots'",
+        "article_url": "https://abc7ny.com/story/thanksgiving-food-forecast-prices-going-are-bright-spots/19943254/",
+        "published_at": "2026-10-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-16T13:43:12.133012+00:00",
+      "verification": {
+        "article_title": "Thanksgiving food forecast: Prices going up, but there are 'bright spots'",
+        "article_url": "https://abc7ny.com/story/thanksgiving-food-forecast-prices-going-are-bright-spots/19943254/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-16T13:43:10.726032+00:00"
+      }
+    },
+    {
+      "headline": "Police search for suspect accused of repeatedly damaging North Massapequa",
+      "bullets": [
+        "NORTH MASSAPEQUA, New York (WABC) -- Police are searching for a man accused of repeatedly vandalizing the lawn of a North Massapequa home, causing an estimated $5,000 in damage and leaving the homeowner concerned the incidents could escalate.",
+        "John Giurco said his property has been targeted repeatedly by a man who comes to the home early in the morning."
+      ],
+      "summary": "Police search for suspect accused of repeatedly damaging North Massapequa",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Police search for suspect accused of repeatedly damaging North Massapequa lawn by pouring liquid",
+        "article_url": "https://abc7ny.com/post/police-search-suspect-accused-repeatedly-damaging-north-massapequa-lawn/19940845/",
+        "published_at": "2026-10-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-16T13:43:12.189345+00:00",
+      "verification": {
+        "article_title": "Police search for suspect accused of repeatedly damaging North Massapequa lawn by pouring liquid",
+        "article_url": "https://abc7ny.com/post/police-search-suspect-accused-repeatedly-damaging-north-massapequa-lawn/19940845/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-16T13:43:10.813062+00:00"
+      }
+    },
+    {
+      "headline": "Darien Library investigates discrimination allegations from puppet show",
+      "bullets": [
+        "DARIEN, Connecticut (WABC) -- A father's concern over how his 17-month-old son was treated during a puppet show at a Darien community event has led to investigations by both the local NAACP chapter and the Darien Library.",
+        "Micah Whitaker said he began recording and later posted video from an outdoor puppet show at Darien Commons, a residential and retail complex, after noticing what he believed was unequal treatment of his son, Messiah Whitaker."
+      ],
+      "summary": "Darien Library investigates discrimination allegations from puppet show",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Darien Library investigates discrimination allegations from puppet show",
+        "article_url": "https://abc7ny.com/post/darien-library-naacp-investigate-discrimination-allegations-puppet-show/19941875/",
+        "published_at": "2026-10-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-16T13:43:12.331770+00:00",
+      "verification": {
+        "article_title": "Darien Library investigates discrimination allegations from puppet show",
+        "article_url": "https://abc7ny.com/post/darien-library-naacp-investigate-discrimination-allegations-puppet-show/19941875/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-16T13:43:10.880780+00:00"
+      }
+    },
+    {
+      "headline": "Bones found at Philadelphia home at center of missing women",
+      "bullets": [
+        "PHILADELPHIA -- Bones have been recovered from a Philadelphia home at the center of an investigation involving several missing women, sources told our sister station WPVI-TV.",
+        "Sources said the Medical Examiner's Office was called Thursday to recover bones from the home in Philadelphia's Olney section."
+      ],
+      "summary": "Bones found at Philadelphia home at center of missing women",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Bones found at Philadelphia home at center of missing women investigation: Sources",
+        "article_url": "https://abc7ny.com/story/bones-found-philadelphia-home-center-missing-women-investigation-sources/19943573/",
+        "published_at": "2026-10-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-16T13:43:12.388012+00:00",
+      "verification": {
+        "article_title": "Bones found at Philadelphia home at center of missing women investigation: Sources",
+        "article_url": "https://abc7ny.com/story/bones-found-philadelphia-home-center-missing-women-investigation-sources/19943573/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-16T13:43:10.946919+00:00"
+      }
+    },
+    {
+      "headline": "NYC ambulance response times have grown 41% as life-threatening calls",
+      "bullets": [
+        "New York City\u2019s emergency medical response teams are taking longer to get to people in distress, even as life-threatening emergencies are spiking, a report by the city comptroller\u2019s office found.",
+        "The report examined a decade of FDNY data, including information about the calls that the department's emergency medical services responded to between fiscal years 2015 and 2026."
+      ],
+      "summary": "NYC ambulance response times have grown 41% as life-threatening calls",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC ambulance response times have grown 41% as life-threatening calls rise",
+        "article_url": "https://gothamist.com/news/nyc-ambulance-response-times-have-grown-41-as-life-threatening-calls-rise",
+        "published_at": "2026-10-16T10:30:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-16T13:43:12.442820+00:00",
+      "verification": {
+        "article_title": "NYC ambulance response times have grown 41% as life-threatening calls rise",
+        "article_url": "https://gothamist.com/news/nyc-ambulance-response-times-have-grown-41-as-life-threatening-calls-rise",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-16T13:43:11.002334+00:00"
+      }
+    },
+    {
+      "headline": "Mother of dead 5-year-old in Queens confessed in dramatic 911",
+      "bullets": [
+        "The mother of a 5-year-old girl found dead in her Queens home Wednesday confessed in a dramatic 911 call, telling the dispatcher: \u201cI killed my daughter,\u201d a police source told the News.",
+        "Little Fabiana Cabello was found unconscious, bleeding from her mouth and nose inside the 110th St."
+      ],
+      "summary": "Mother of dead 5-year-old in Queens confessed in dramatic 911",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Mother of dead 5-year-old in Queens confessed in dramatic 911 call: \u2018I killed my daughter\u2019",
+        "article_url": "https://www.nydailynews.com/2026/10/14/cops-investigate-death-of-5-year-old-girl-following-assault-in-queens-home/",
+        "published_at": "2026-10-16T01:20:33+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-16T13:43:12.511758+00:00",
+      "verification": {
+        "article_title": "Mother of dead 5-year-old in Queens confessed in dramatic 911 call: \u2018I killed my daughter\u2019",
+        "article_url": "https://www.nydailynews.com/2026/10/14/cops-investigate-death-of-5-year-old-girl-following-assault-in-queens-home/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-16T13:43:11.090462+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on bystander inaction, public punishment and RJ",
+      "bullets": [
+        "A good neighbor knows when to intervene Kearny, N.J.: In the tragic death of Nathaly Ramirez, who was pushed off a 15th-floor balcony with her 8-month-old baby in her arms by her violent ex-boyfriend, we find yet another case of neighbors who heard the yelling and pleading leading up to the tragedy and did absolutely nothing to prevent it from escalating.",
+        "The neighbor above her apartment apparently heard each word and saw them out on the balcony at 3:30 in the morning and thought it was sufficient to, in her own words, \u201cjust (say) a prayer and (go) to sleep.\u201d Has she never heard that \u201cfaith without works is dead\u201d (James 2:26)?"
+      ],
+      "summary": "Readers sound off on bystander inaction, public punishment and RJ",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on bystander inaction, public punishment and RJ Mitte",
+        "article_url": "https://www.nydailynews.com/2026/10/16/readers-sound-off-on-bystander-inaction-public-punishment-and-rj-mitte/",
+        "published_at": "2026-10-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-16T13:43:12.568998+00:00",
+      "verification": {
+        "article_title": "Readers sound off on bystander inaction, public punishment and RJ Mitte",
+        "article_url": "https://www.nydailynews.com/2026/10/16/readers-sound-off-on-bystander-inaction-public-punishment-and-rj-mitte/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-16T13:43:11.144002+00:00"
+      }
+    },
+    {
+      "headline": "Not just more cops will make NYC safer",
+      "bullets": [
+        "This week, Mayor Mamdani rejected the call to remove NYPD Commissioner Jessica Tisch.",
+        "He justified his decision to keep Tisch by pointing to New York City\u2019s historic gains in public safety and crediting her leadership for the progress."
+      ],
+      "summary": "Not just more cops will make NYC safer",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Not just more cops will make NYC safer",
+        "article_url": "https://www.nydailynews.com/2026/10/16/not-just-more-cops-will-make-nyc-safer/",
+        "published_at": "2026-10-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-16T13:43:12.623741+00:00",
+      "verification": {
+        "article_title": "Not just more cops will make NYC safer",
+        "article_url": "https://www.nydailynews.com/2026/10/16/not-just-more-cops-will-make-nyc-safer/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-16T13:43:11.198162+00:00"
+      }
+    },
+    {
+      "headline": "Who is Rebecca Bennett, the Democrat running for Congress in",
+      "bullets": [
+        "SOMERVILLE, N.J.",
+        "- Democrat Rebecca Bennett is challenging Republican U.S."
+      ],
+      "summary": "Who is Rebecca Bennett, the Democrat running for Congress in",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Who is Rebecca Bennett, the Democrat running for Congress in NJ-07?",
+        "article_url": "https://www.fox5ny.com/news/who-is-rebecca-bennett-democrat-running-congress-nj-07",
+        "published_at": "2026-10-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-16T13:43:12.678949+00:00",
+      "verification": {
+        "article_title": "Who is Rebecca Bennett, the Democrat running for Congress in NJ-07?",
+        "article_url": "https://www.fox5ny.com/news/who-is-rebecca-bennett-democrat-running-congress-nj-07",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-16T13:43:11.312813+00:00"
+      }
+    },
+    {
+      "headline": "George Bernard Shaw Classic Plays on Gender Fluidity in Modern",
+      "bullets": [
+        "George Bernard Shaw Classic Plays on Gender Fluidity in Modern World Gingold Theatrical Group presents a reading of \u00e2Village Wooing,\u00e2 George Bernard Shaw\u00e2s classic play about two people determined to remain single.",
+        "From October 22nd to the 25th at The House of the Redeemer, 7 East 95th Street."
+      ],
+      "summary": "George Bernard Shaw Classic Plays on Gender Fluidity in Modern",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "George Bernard Shaw Classic Plays on Gender Fluidity in Modern World",
+        "article_url": "https://www.ourtownny.com/city-arts/george-bernard-shaw-classic-plays-on-gender-fluidity-in-modern-world-BK6268232",
+        "published_at": "2026-10-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-16T13:43:12.744027+00:00",
+      "verification": {
+        "article_title": "George Bernard Shaw Classic Plays on Gender Fluidity in Modern World",
+        "article_url": "https://www.ourtownny.com/city-arts/george-bernard-shaw-classic-plays-on-gender-fluidity-in-modern-world-BK6268232",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-16T13:43:11.398329+00:00"
+      }
+    },
+    {
+      "headline": "A rare family of barn owls moved into Manhattan's Upper",
+      "bullets": [
+        "NEW YORK -- Manhattan's Upper West Side has been reveling in the company of its latest celebrities: A family of barn owls nested in a water tower atop a building near Central Park.",
+        "This is the first documented instance of barn owls nesting in Manhattan in modern history, according to one expert, and the owls have attracted nightly crowds of people in the street eager to get a glimpse of the elusive birds."
+      ],
+      "summary": "A rare family of barn owls moved into Manhattan's Upper",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "A rare family of barn owls moved into Manhattan's Upper West Side",
+        "article_url": "https://abc7ny.com/story/rare-family-barn-owls-moved-manhattans-upper-west-side/19943495/",
+        "published_at": "2026-10-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-16T13:43:12.819513+00:00",
+      "verification": {
+        "article_title": "A rare family of barn owls moved into Manhattan's Upper West Side",
+        "article_url": "https://abc7ny.com/story/rare-family-barn-owls-moved-manhattans-upper-west-side/19943495/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-16T13:43:11.449876+00:00"
+      }
+    },
+    {
+      "headline": "Can eligible NYC singles find love with 30 minutes and",
+      "bullets": [
+        "This column originally appeared in the Looped In NYC newsletter.",
+        "Sign up here."
+      ],
+      "summary": "Can eligible NYC singles find love with 30 minutes and",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Can eligible NYC singles find love with 30 minutes and some really spicy food?",
+        "article_url": "https://gothamist.com/arts-entertainment/can-eligible-nyc-singles-find-love-with-30-minutes-and-some-really-spicy-food",
+        "published_at": "2026-10-15T14:56:48+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-16T13:43:12.872439+00:00",
+      "verification": {
+        "article_title": "Can eligible NYC singles find love with 30 minutes and some really spicy food?",
+        "article_url": "https://gothamist.com/arts-entertainment/can-eligible-nyc-singles-find-love-with-30-minutes-and-some-really-spicy-food",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-16T13:43:11.519119+00:00"
+      }
+    }
+  ]
+}
