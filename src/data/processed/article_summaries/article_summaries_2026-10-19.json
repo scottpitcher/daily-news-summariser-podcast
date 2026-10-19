@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-10-19T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-10-19.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Lawsuit claims NYPD cops violated policy, caused moped crash that",
+      "bullets": [
+        "A federal lawsuit accuses NYPD officers in Queens of veering into the path of a moped, \u201cdeliberately\u201d striking it with a 14-year-old aboard, alleging the crash violates longstanding NYPD policy.",
+        "Officers then cuffed the youngster as he was loaded into an ambulance and hospitalized for a fractured femur and a nasty bruise on his head, according to the lawsuit, which was filed by the teen\u2019s dad, Mahmoud Saleh, in Brooklyn Federal Court."
+      ],
+      "summary": "Lawsuit claims NYPD cops violated policy, caused moped crash that",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Lawsuit claims NYPD cops violated policy, caused moped crash that injured 14-year-old",
+        "article_url": "https://www.nydailynews.com/2026/10/18/lawsuit-claims-nypd-cops-violated-policy-caused-moped-crash-that-injured-14-year-old/",
+        "published_at": "2026-10-18"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-19T16:06:54.006432+00:00",
+      "verification": {
+        "article_title": "Lawsuit claims NYPD cops violated policy, caused moped crash that injured 14-year-old",
+        "article_url": "https://www.nydailynews.com/2026/10/18/lawsuit-claims-nypd-cops-violated-policy-caused-moped-crash-that-injured-14-year-old/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-19T16:06:50.264699+00:00"
+      }
+    },
+    {
+      "headline": "NYC Mayor Mamdani expands 2-K program with 10,000 more seats",
+      "bullets": [
+        "New York City's 2-K program is expanding with 10,000 more seats being added across every borough.",
+        "Mayor Zohran Mamdani and Gov."
+      ],
+      "summary": "NYC Mayor Mamdani expands 2-K program with 10,000 more seats",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "NYC Mayor Mamdani expands 2-K program with 10,000 more seats across every borough",
+        "article_url": "https://www.cbsnews.com/newyork/news/2k-expansion-childcare-zohran-mamdani-kathy-hochul/",
+        "published_at": "2026-10-19"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-19T16:06:54.144541+00:00",
+      "verification": {
+        "article_title": "NYC Mayor Mamdani expands 2-K program with 10,000 more seats across every borough",
+        "article_url": "https://www.cbsnews.com/newyork/news/2k-expansion-childcare-zohran-mamdani-kathy-hochul/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-19T16:06:50.456173+00:00"
+      }
+    },
+    {
+      "headline": "These are the NYC neighborhoods that will get free 2-K",
+      "bullets": [
+        "Every school district in the Bronx and Staten Island will offer free preschool seats for 2-year-olds next fall, the city announced Monday, as part of the planned expansion of the city\u2019s 2-K program, which also includes more slots in Crown Heights, East Harlem and Corona.",
+        "The city will add another 10,000 seats across the boroughs and increase the number of seats in school districts that debuted 2-K this year to 12,000 total by the start of the next school year."
+      ],
+      "summary": "These are the NYC neighborhoods that will get free 2-K",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "These are the NYC neighborhoods that will get free 2-K next fall",
+        "article_url": "https://gothamist.com/news/these-are-the-nyc-neighborhoods-that-will-get-free-2-k-next-fall",
+        "published_at": "2026-10-19T15:00:52+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-19T16:06:54.281549+00:00",
+      "verification": {
+        "article_title": "These are the NYC neighborhoods that will get free 2-K next fall",
+        "article_url": "https://gothamist.com/news/these-are-the-nyc-neighborhoods-that-will-get-free-2-k-next-fall",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-19T16:06:50.592998+00:00"
+      }
+    },
+    {
+      "headline": "Haym Salomon helped win the Revolution",
+      "bullets": [
+        "New Yorkers, like all Americans, celebrate July 4 as the birthday of American independence.",
+        "But October marks the anniversary of the victory that made it possible."
+      ],
+      "summary": "Haym Salomon helped win the Revolution",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Haym Salomon helped win the Revolution",
+        "article_url": "https://www.nydailynews.com/2026/10/19/haym-salomon-helped-win-the-revolution/",
+        "published_at": "2026-10-19"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-19T16:06:54.454318+00:00",
+      "verification": {
+        "article_title": "Haym Salomon helped win the Revolution",
+        "article_url": "https://www.nydailynews.com/2026/10/19/haym-salomon-helped-win-the-revolution/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-19T16:06:50.731768+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on Mid-Hudson midterm races, spox ouster and",
+      "bullets": [
+        "Trump\u2019s enablers are on the ballot Nov.",
+        "3 Fishkill, N.Y.: President Trump could not have done all this damage by himself!"
+      ],
+      "summary": "Readers sound off on Mid-Hudson midterm races, spox ouster and",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on Mid-Hudson midterm races, spox ouster and Marble Hill",
+        "article_url": "https://www.nydailynews.com/2026/10/19/readers-sound-off-on-mid-hudson-midterm-races-spox-ouster-and-marble-hill/",
+        "published_at": "2026-10-19"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-19T16:06:54.593333+00:00",
+      "verification": {
+        "article_title": "Readers sound off on Mid-Hudson midterm races, spox ouster and Marble Hill",
+        "article_url": "https://www.nydailynews.com/2026/10/19/readers-sound-off-on-mid-hudson-midterm-races-spox-ouster-and-marble-hill/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-19T16:06:50.925437+00:00"
+      }
+    },
+    {
+      "headline": "It took 3 months to get inside this massive Texas",
+      "bullets": [
+        "EXCLUSIVE: As massive data centers rise across the country to power America's artificial intelligence boom, one of the industry's biggest builders is making the case that the benefits extend far beyond the technology inside.",
+        "During an exclusive tour of Compass Datacenters' sprawling campus in Red Oak, Texas, Fox News Digital got a rare look inside the infrastructure behind the nation's growing appetite for computing."
+      ],
+      "summary": "It took 3 months to get inside this massive Texas",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "It took 3 months to get inside this massive Texas data center \u2014 here\u2019s what we saw",
+        "article_url": "https://www.fox5ny.com/news/took-3-months-get-inside-massive-texas-data-center-heres-what-we-saw",
+        "published_at": "2026-10-19"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-19T16:06:54.730319+00:00",
+      "verification": {
+        "article_title": "It took 3 months to get inside this massive Texas data center \u2014 here\u2019s what we saw",
+        "article_url": "https://www.fox5ny.com/news/took-3-months-get-inside-massive-texas-data-center-heres-what-we-saw",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-19T16:06:51.134046+00:00"
+      }
+    },
+    {
+      "headline": "Assembly District 74 Race: Powers vs Gonzalez",
+      "bullets": [
+        "Assembly District 74 Race: Powers vs Gonzalez Keith Powers, a member of the Democratic Party who first secured the East Side seat in a special election this February, is hoping to secure the rest of his term on November 3.",
+        "He faces Republican Party candidate Veronica Gonzalez."
+      ],
+      "summary": "Assembly District 74 Race: Powers vs Gonzalez",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Assembly District 74 Race: Powers vs Gonzalez",
+        "article_url": "https://www.ourtownny.com/news/assembly-district-74-race-powers-vs-gonzalez-FL6296007",
+        "published_at": "2026-10-18"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-19T16:06:54.866789+00:00",
+      "verification": {
+        "article_title": "Assembly District 74 Race: Powers vs Gonzalez",
+        "article_url": "https://www.ourtownny.com/news/assembly-district-74-race-powers-vs-gonzalez-FL6296007",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-19T16:06:51.323699+00:00"
+      }
+    },
+    {
+      "headline": "Tricks, Treats and a Little Halloween Magic from Uptown to",
+      "bullets": [
+        "Tricks, Treats and a Little Halloween Magic from Uptown to Downtown From neighborhood trick-or-treating to spooky performances, Manhattan has something for everyone this Halloween.",
+        "Events range from a ship board scavenger hunt at the South Street Seaport to streets closed for trick-or-treaters."
+      ],
+      "summary": "Tricks, Treats and a Little Halloween Magic from Uptown to",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Tricks, Treats and a Little Halloween Magic from Uptown to Downtown",
+        "article_url": "https://www.ourtownny.com/news/tricks-treats-and-a-little-halloween-magic-from-uptown-to-downtown-XM6295213",
+        "published_at": "2026-10-18"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-19T16:06:55.006565+00:00",
+      "verification": {
+        "article_title": "Tricks, Treats and a Little Halloween Magic from Uptown to Downtown",
+        "article_url": "https://www.ourtownny.com/news/tricks-treats-and-a-little-halloween-magic-from-uptown-to-downtown-XM6295213",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-19T16:06:51.564112+00:00"
+      }
+    },
+    {
+      "headline": "Beloved son with \u2018unwavering resolve\u2019 dies in Hells Kitchen apartment",
+      "bullets": [
+        "A 36-year-old man with a self-described love of learning and self-improvement died in a weekend blaze in his Hells Kitchen apartment, his devastated family told the Daily News.",
+        "Danny Parache died after firefighters removed him from his fifth-floor apartment on W."
+      ],
+      "summary": "Beloved son with \u2018unwavering resolve\u2019 dies in Hells Kitchen apartment",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Beloved son with \u2018unwavering resolve\u2019 dies in Hells Kitchen apartment fire: family",
+        "article_url": "https://www.nydailynews.com/2026/10/18/beloved-son-danny-parache-unwavering-resolve-dies-in-hells-kitchen-apartment-fire-family/",
+        "published_at": "2026-10-19T02:07:40+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-19T16:06:55.140876+00:00",
+      "verification": {
+        "article_title": "Beloved son with \u2018unwavering resolve\u2019 dies in Hells Kitchen apartment fire: family",
+        "article_url": "https://www.nydailynews.com/2026/10/18/beloved-son-danny-parache-unwavering-resolve-dies-in-hells-kitchen-apartment-fire-family/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-19T16:06:51.705302+00:00"
+      }
+    },
+    {
+      "headline": "NYC ambulance response times jump 41% as emergency calls increase",
+      "bullets": [
+        "NEW YORK - New York City ambulance response times for life-threatening emergencies have increased by 41% over the past decade, according to a report released by the NYC Comptroller\u2019s Office.",
+        "The report states that the increase is driven by rising call volumes, traffic congestion and severe staffing shortages within the Fire Department of New York's Emergency Medical Services."
+      ],
+      "summary": "NYC ambulance response times jump 41% as emergency calls increase",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "NYC ambulance response times jump 41% as emergency calls increase",
+        "article_url": "https://www.fox5ny.com/news/nyc-ambulance-response-times-jump-41-emergency-calls-increase",
+        "published_at": "2026-10-18"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-19T16:06:55.334949+00:00",
+      "verification": {
+        "article_title": "NYC ambulance response times jump 41% as emergency calls increase",
+        "article_url": "https://www.fox5ny.com/news/nyc-ambulance-response-times-jump-41-emergency-calls-increase",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-19T16:06:51.907758+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: Girlhood, Translated: A Conversation with Suzanne Garfinkle-Crowell",
+      "bullets": [
+        "Is \u201cTherapy Speak\u201d Getting in the Way of Talking with Your Daughter?",
+        "ADHD."
+      ],
+      "summary": "Local Event: Girlhood, Translated: A Conversation with Suzanne Garfinkle-Crowell",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Girlhood, Translated: A Conversation with Suzanne Garfinkle-Crowell",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261022/f769f068-37bf-47bd-91e2-8a442d5697b4/girlhood-translated-a-conversation-with-suzanne-garfinkle-crowell",
+        "published_at": "2026-10-22T22:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-19T16:06:55.472540+00:00",
+      "verification": {
+        "article_title": "Local Event: Girlhood, Translated: A Conversation with Suzanne Garfinkle-Crowell",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261022/f769f068-37bf-47bd-91e2-8a442d5697b4/girlhood-translated-a-conversation-with-suzanne-garfinkle-crowell",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-19T16:06:52.045982+00:00"
+      }
+    },
+    {
+      "headline": "NYC Council to consider earlier Legionella reporting after deadly outbreaks",
+      "bullets": [
+        "After two deadly Legionnaires' disease outbreaks this summer on the Upper East Side and in the Bronx, New York City lawmakers are considering a new requirement that would alert health officials to potentially dangerous bacteria in cooling towers much earlier.",
+        "The bill, set for a hearing before the City Council's health committee Monday, would lower the level of Legionella bacteria at which building owners must report test results to the city's health department."
+      ],
+      "summary": "NYC Council to consider earlier Legionella reporting after deadly outbreaks",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC Council to consider earlier Legionella reporting after deadly outbreaks",
+        "article_url": "https://gothamist.com/news/nyc-council-to-consider-earlier-legionella-reporting-after-deadly-outbreaks",
+        "published_at": "2026-10-18T23:36:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-19T16:06:55.663894+00:00",
+      "verification": {
+        "article_title": "NYC Council to consider earlier Legionella reporting after deadly outbreaks",
+        "article_url": "https://gothamist.com/news/nyc-council-to-consider-earlier-legionella-reporting-after-deadly-outbreaks",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-19T16:06:52.181805+00:00"
+      }
+    },
+    {
+      "headline": "Mayor Mamdani announces next phase of 2-K in NYC: Here",
+      "bullets": [
+        "Mayor Mamdani is announcing an expansion of free childcare for 2-year-olds Monday with an additional 10,000 seats, bringing the \u201c2-K\u201d program to a majority of all New York City school districts in 2027, including all of Staten Island and the Bronx.",
+        "Mamdani, with a boost of $425 million in state money set aside in January by Gov."
+      ],
+      "summary": "Mayor Mamdani announces next phase of 2-K in NYC: Here",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Mayor Mamdani announces next phase of 2-K in NYC: Here are the school districts on the list",
+        "article_url": "https://www.nydailynews.com/2026/10/19/mayor-mamdani-announces-next-phase-of-2-k-in-nyc-here-are-the-school-districts-on-the-list/",
+        "published_at": "2026-10-19"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-19T16:06:55.797906+00:00",
+      "verification": {
+        "article_title": "Mayor Mamdani announces next phase of 2-K in NYC: Here are the school districts on the list",
+        "article_url": "https://www.nydailynews.com/2026/10/19/mayor-mamdani-announces-next-phase-of-2-k-in-nyc-here-are-the-school-districts-on-the-list/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-19T16:06:52.372567+00:00"
+      }
+    },
+    {
+      "headline": "Governor Hochul, Bruce Blakeman hit campaign trail before early voting",
+      "bullets": [
+        "NEW YORK (WABC) -- Governor Kathy Hochul and Republican challenger Bruce Blakeman campaigned in separate appearances Sunday, offering sharply different visions for New York as voters prepare for early voting and Election Day.",
+        "Hochul visited Concourse Village in the Bronx, where she highlighted policies including a ban on cell phones in schools and expanded access to community college and child care."
+      ],
+      "summary": "Governor Hochul, Bruce Blakeman hit campaign trail before early voting",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Governor Hochul, Bruce Blakeman hit campaign trail before early voting underway next weekend",
+        "article_url": "https://abc7ny.com/post/governor-hochul-challenger-bruce-blakeman-hit-campaign-trail-before-early-voting-underway-weekend/19953046/",
+        "published_at": "2026-10-19"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-19T16:06:56.010363+00:00",
+      "verification": {
+        "article_title": "Governor Hochul, Bruce Blakeman hit campaign trail before early voting underway next weekend",
+        "article_url": "https://abc7ny.com/post/governor-hochul-challenger-bruce-blakeman-hit-campaign-trail-before-early-voting-underway-weekend/19953046/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-19T16:06:52.567300+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on Mid-Hudson midterm races, spox ouster and",
+      "bullets": [
+        "Trump\u2019s enablers are on the ballot Nov.",
+        "3 Fishkill, N.Y.: President Trump could not have done all this damage by himself!"
+      ],
+      "summary": "Readers sound off on Mid-Hudson midterm races, spox ouster and",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on Mid-Hudson midterm races, spox ouster and Marble Hill",
+        "article_url": "https://www.nydailynews.com/2026/10/19/readers-sound-off-on-mid-hudson-midterm-races-spox-ouster-and-marble-hill/",
+        "published_at": "2026-10-19"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-19T16:06:56.206286+00:00",
+      "verification": {
+        "article_title": "Readers sound off on Mid-Hudson midterm races, spox ouster and Marble Hill",
+        "article_url": "https://www.nydailynews.com/2026/10/19/readers-sound-off-on-mid-hudson-midterm-races-spox-ouster-and-marble-hill/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-19T16:06:52.707724+00:00"
+      }
+    },
+    {
+      "headline": "It took 3 months to get inside this massive Texas",
+      "bullets": [
+        "EXCLUSIVE: As massive data centers rise across the country to power America's artificial intelligence boom, one of the industry's biggest builders is making the case that the benefits extend far beyond the technology inside.",
+        "During an exclusive tour of Compass Datacenters' sprawling campus in Red Oak, Texas, Fox News Digital got a rare look inside the infrastructure behind the nation's growing appetite for computing."
+      ],
+      "summary": "It took 3 months to get inside this massive Texas",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "It took 3 months to get inside this massive Texas data center \u2014 here\u2019s what we saw",
+        "article_url": "https://www.fox5ny.com/news/took-3-months-get-inside-massive-texas-data-center-heres-what-we-saw",
+        "published_at": "2026-10-19"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-19T16:06:56.343104+00:00",
+      "verification": {
+        "article_title": "It took 3 months to get inside this massive Texas data center \u2014 here\u2019s what we saw",
+        "article_url": "https://www.fox5ny.com/news/took-3-months-get-inside-massive-texas-data-center-heres-what-we-saw",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-19T16:06:53.314157+00:00"
+      }
+    },
+    {
+      "headline": "How to Celebrate 50 Years with the Ukrainian Museum",
+      "bullets": [
+        "How to Celebrate 50 Years with the Ukrainian Museum The museum kicked off celebrations already, which included workshops and gatherings, and will continue into next month, concluding with a $500 a plate fundraising dinner Nov.",
+        "8."
+      ],
+      "summary": "How to Celebrate 50 Years with the Ukrainian Museum",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "How to Celebrate 50 Years with the Ukrainian Museum",
+        "article_url": "https://www.ourtownny.com/news/how-to-celebrate-50-years-with-the-ukrainian-museum-IB6298965",
+        "published_at": "2026-10-18"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-19T16:06:56.482126+00:00",
+      "verification": {
+        "article_title": "How to Celebrate 50 Years with the Ukrainian Museum",
+        "article_url": "https://www.ourtownny.com/news/how-to-celebrate-50-years-with-the-ukrainian-museum-IB6298965",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-19T16:06:53.532534+00:00"
+      }
+    },
+    {
+      "headline": "E-bike ER visits skyrocket 760% with child injuries up over",
+      "bullets": [
+        "NEW YORK CITY - If you've spent any time navigating the streets of almost any major city lately, you already know e-bikes have transformed the flow of traffic, often zipping past faster than the cars alongside them.",
+        "Now, newly released medical data reveals just how dangerous that surge in popularity has become."
+      ],
+      "summary": "E-bike ER visits skyrocket 760% with child injuries up over",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "E-bike ER visits skyrocket 760% with child injuries up over 1,800%",
+        "article_url": "https://www.fox5ny.com/news/e-bike-er-visits-skyrocket-760-child-injuries-up-over-1800",
+        "published_at": "2026-10-19"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-19T16:06:56.614867+00:00",
+      "verification": {
+        "article_title": "E-bike ER visits skyrocket 760% with child injuries up over 1,800%",
+        "article_url": "https://www.fox5ny.com/news/e-bike-er-visits-skyrocket-760-child-injuries-up-over-1800",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-19T16:06:53.729690+00:00"
+      }
+    }
+  ]
+}
