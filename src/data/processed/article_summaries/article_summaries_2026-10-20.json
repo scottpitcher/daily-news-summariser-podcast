@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-10-20T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-10-20.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Abuse of power, gain and betrayal alleged as disgraced Adams\u2019",
+      "bullets": [
+        "In the company of cash-hungry cronies and the grips of a grinding gambling habit, the tenure of former Mayor Eric Adams\u2019 Buildings chief Eric Ulrich was marked by \u201cpublic power, private gain, and the betrayal of the city\u2019s trust,\u201d a prosecutor charged Monday as Ulrich\u2019s bribery trial got underway in Manhattan.",
+        "Assistant District Attorney Guy Tardanico said that as a Republican city councilman, senior adviser to Adams, and ultimately, head of the city Department of Buildings, Ulrich, 41, gave his friends easy access to the highest levels of government, \u201cincluding the mayor.\u201d \u201cThey say politics is the art of the possible, but, for these defendants, public office was nothing more than an office for personal gain,\u201d Tardanico said in his opening statement."
+      ],
+      "summary": "Abuse of power, gain and betrayal alleged as disgraced Adams\u2019",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Abuse of power, gain and betrayal alleged as disgraced Adams\u2019 aide Eric Ulrich\u2019s corruption trial begins",
+        "article_url": "https://www.nydailynews.com/2026/10/19/power-gain-and-betrayal-alleged-as-disgraced-adams-aide-eric-ulrichs-corruption-trial-begins/",
+        "published_at": "2026-10-19T23:47:31+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-20T14:03:06.438709+00:00",
+      "verification": {
+        "article_title": "Abuse of power, gain and betrayal alleged as disgraced Adams\u2019 aide Eric Ulrich\u2019s corruption trial begins",
+        "article_url": "https://www.nydailynews.com/2026/10/19/power-gain-and-betrayal-alleged-as-disgraced-adams-aide-eric-ulrichs-corruption-trial-begins/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-20T14:03:04.047362+00:00"
+      }
+    },
+    {
+      "headline": "High-ranking NYC officials to testify in ex-buildings boss Eric Ulrich's",
+      "bullets": [
+        "New York City\u2019s former buildings commissioner and other high-ranking officials will testify against her successor Eric Ulrich in a bribery case spanning the early months of the Adams administration, a Manhattan prosecutor said on the first day of the embattled politician's corruption trial Monday.",
+        "Assistant District Attorney Guy Tardanico told a judge that multiple former top officials will take the witness stand to build the case against Ulrich, including ex-Department of Buildings Commissioner Melanie La Rocca."
+      ],
+      "summary": "High-ranking NYC officials to testify in ex-buildings boss Eric Ulrich's",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "High-ranking NYC officials to testify in ex-buildings boss Eric Ulrich's corruption trial",
+        "article_url": "https://gothamist.com/news/high-ranking-nyc-officials-to-testify-in-ex-buildings-boss-eric-ulrichs-corruption-trial",
+        "published_at": "2026-10-19T19:47:03+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-20T14:03:06.549385+00:00",
+      "verification": {
+        "article_title": "High-ranking NYC officials to testify in ex-buildings boss Eric Ulrich's corruption trial",
+        "article_url": "https://gothamist.com/news/high-ranking-nyc-officials-to-testify-in-ex-buildings-boss-eric-ulrichs-corruption-trial",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-20T14:03:04.203704+00:00"
+      }
+    },
+    {
+      "headline": "No reason to fill out government forms",
+      "bullets": [
+        "Lower-income New Yorkers are all too familiar with the burden of filling out endless reams of paperwork.",
+        "Worried you won\u2019t be able to feed your family?"
+      ],
+      "summary": "No reason to fill out government forms",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "No reason to fill out government forms",
+        "article_url": "https://www.nydailynews.com/2026/10/20/no-reason-to-fill-out-government-forms/",
+        "published_at": "2026-10-20"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-20T14:03:06.753262+00:00",
+      "verification": {
+        "article_title": "No reason to fill out government forms",
+        "article_url": "https://www.nydailynews.com/2026/10/20/no-reason-to-fill-out-government-forms/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-20T14:03:04.318357+00:00"
+      }
+    },
+    {
+      "headline": "These are the NYC neighborhoods that will get free 2-K",
+      "bullets": [
+        "Every school district in the Bronx and Staten Island will offer free preschool seats for 2-year-olds next fall, the city announced Monday, as part of the planned expansion of the city\u2019s 2-K program, which also includes more slots in Crown Heights, East Harlem and Corona.",
+        "The city will add another 10,000 seats across the boroughs and increase the number of seats in school districts that debuted 2-K this year to 12,000 total by the start of the next school year."
+      ],
+      "summary": "These are the NYC neighborhoods that will get free 2-K",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "These are the NYC neighborhoods that will get free 2-K next fall",
+        "article_url": "https://gothamist.com/news/these-are-the-nyc-neighborhoods-that-will-get-free-2-k-next-fall",
+        "published_at": "2026-10-19T16:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-20T14:03:06.879195+00:00",
+      "verification": {
+        "article_title": "These are the NYC neighborhoods that will get free 2-K next fall",
+        "article_url": "https://gothamist.com/news/these-are-the-nyc-neighborhoods-that-will-get-free-2-k-next-fall",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-20T14:03:04.421721+00:00"
+      }
+    },
+    {
+      "headline": "In testimony, Brooklyn woman accused of being trained by ISIS",
+      "bullets": [
+        "In a day of emotional testimony, a Brooklyn woman accused of getting military training from ISIS told jurors about how her controlling father spirited her and her family into ISIS-controlled territory in Syria at age 17, and forced her into a subservient arranged marriage at age 18.",
+        "Dressed in a blue hijab, her face uncovered, and a bright pink hoodie, Halima Salman, 27, described a life under the thumb of the oppressive terrorist state as a young, confused woman with no option except to follow ISIS\u2019s strict rules on how women should dress and act."
+      ],
+      "summary": "In testimony, Brooklyn woman accused of being trained by ISIS",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "In testimony, Brooklyn woman accused of being trained by ISIS describes oppressive life in Syria",
+        "article_url": "https://www.nydailynews.com/2026/10/19/in-testimony-brooklyn-woman-accused-of-being-trained-by-isis-describes-oppressive-life-in-syria/",
+        "published_at": "2026-10-20T00:21:39+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-20T14:03:07.027134+00:00",
+      "verification": {
+        "article_title": "In testimony, Brooklyn woman accused of being trained by ISIS describes oppressive life in Syria",
+        "article_url": "https://www.nydailynews.com/2026/10/19/in-testimony-brooklyn-woman-accused-of-being-trained-by-isis-describes-oppressive-life-in-syria/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-20T14:03:04.529880+00:00"
+      }
+    },
+    {
+      "headline": "Across America Patch - Breaking News, Local News, Schools, Weather,",
+      "bullets": [
+        "Across America|News| Cars that may come to a dead stop at high speeds among three auto recalls; Amazon painkillers recalled; baby bath seat a drowning hazard.",
+        "New openings include stores discounting designer clothing up to 60 percent off and budget-friendly sister stores offering deeper price cuts."
+      ],
+      "summary": "Across America Patch - Breaking News, Local News, Schools, Weather,",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Across America Patch - Breaking News, Local News, Schools, Weather, Sports and Shopping",
+        "article_url": "https://patch.com/us/across-america",
+        "published_at": "2026-10-19T15:08:14+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-20T14:03:07.132408+00:00",
+      "verification": {
+        "article_title": "Across America Patch - Breaking News, Local News, Schools, Weather, Sports and Shopping",
+        "article_url": "https://patch.com/us/across-america",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-20T14:03:04.640282+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on moderate voters, the carriage industry and",
+      "bullets": [
+        "A new silent majority tires of the chaos Lewisburg, Pa.: I\u2019ve been a Republican since Barry Goldwater\u2019s faltering 1964 run.",
+        "I was 13."
+      ],
+      "summary": "Readers sound off on moderate voters, the carriage industry and",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on moderate voters, the carriage industry and daylight savings",
+        "article_url": "https://www.nydailynews.com/2026/10/20/readers-sound-off-on-moderate-voters-the-carriage-industry-and-daylight-savings/",
+        "published_at": "2026-10-20"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-20T14:03:07.244393+00:00",
+      "verification": {
+        "article_title": "Readers sound off on moderate voters, the carriage industry and daylight savings",
+        "article_url": "https://www.nydailynews.com/2026/10/20/readers-sound-off-on-moderate-voters-the-carriage-industry-and-daylight-savings/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-20T14:03:04.748263+00:00"
+      }
+    },
+    {
+      "headline": "Tricks, Treats and a Little Halloween Magic from Uptown to",
+      "bullets": [
+        "Tricks, Treats and a Little Halloween Magic from Uptown to Downtown From neighborhood trick-or-treating to spooky performances, Manhattan has something for everyone this Halloween.",
+        "Events range from a ship board scavenger hunt at the South Street Seaport to streets closed for trick-or-treaters."
+      ],
+      "summary": "Tricks, Treats and a Little Halloween Magic from Uptown to",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Tricks, Treats and a Little Halloween Magic from Uptown to Downtown",
+        "article_url": "https://www.ourtownny.com/news/tricks-treats-and-a-little-halloween-magic-from-uptown-to-downtown-XM6295213",
+        "published_at": "2026-10-19"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-20T14:03:07.352304+00:00",
+      "verification": {
+        "article_title": "Tricks, Treats and a Little Halloween Magic from Uptown to Downtown",
+        "article_url": "https://www.ourtownny.com/news/tricks-treats-and-a-little-halloween-magic-from-uptown-to-downtown-XM6295213",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-20T14:03:04.886171+00:00"
+      }
+    },
+    {
+      "headline": "Massive marijuana grow operation uncovered in Bronx apartment during eviction",
+      "bullets": [
+        "FORDHAM, The Bronx (WABC) -- A suspected illegal cannabis grow house containing 30 marijuana plants was discovered in a Marion Avenue apartment in the Bronx when a city marshal was carrying out an eviction, according to the New York City Sheriff's Office.",
+        "Residents of the building said the odor coming from the apartment had been overwhelming for months, with some fearing it posed a safety risk."
+      ],
+      "summary": "Massive marijuana grow operation uncovered in Bronx apartment during eviction",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Massive marijuana grow operation uncovered in Bronx apartment during eviction",
+        "article_url": "https://abc7ny.com/post/bronx-marijuana-grow-house-uncovered-during-eviction-fordham/19957660/",
+        "published_at": "2026-10-20"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-20T14:03:07.481498+00:00",
+      "verification": {
+        "article_title": "Massive marijuana grow operation uncovered in Bronx apartment during eviction",
+        "article_url": "https://abc7ny.com/post/bronx-marijuana-grow-house-uncovered-during-eviction-fordham/19957660/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-20T14:03:05.013990+00:00"
+      }
+    },
+    {
+      "headline": "Good Samaritan helps rescue driver after wrong-way crash on Henry",
+      "bullets": [
+        "WASHINGTON HEIGHTS, Manhattan (WABC) -- A good Samaritan and NYPD officers worked to rescue an injured driver from a burning car after a wrong-way crash on the Henry Hudson Parkway in Washington Heights.",
+        "The crash happened around 1:30 a.m."
+      ],
+      "summary": "Good Samaritan helps rescue driver after wrong-way crash on Henry",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Good Samaritan helps rescue driver after wrong-way crash on Henry Hudson Parkway",
+        "article_url": "https://abc7ny.com/post/good-samaritan-helps-nypd-rescue-driver-wrong-crash-henry-hudson/19956195/",
+        "published_at": "2026-10-19"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-20T14:03:07.588627+00:00",
+      "verification": {
+        "article_title": "Good Samaritan helps rescue driver after wrong-way crash on Henry Hudson Parkway",
+        "article_url": "https://abc7ny.com/post/good-samaritan-helps-nypd-rescue-driver-wrong-crash-henry-hudson/19956195/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-20T14:03:05.120437+00:00"
+      }
+    },
+    {
+      "headline": "NYC Council to consider earlier Legionella reporting after deadly outbreaks",
+      "bullets": [
+        "After two deadly Legionnaires' disease outbreaks this summer on the Upper East Side and in the Bronx, New York City lawmakers are considering a new requirement that would alert health officials to potentially dangerous bacteria in cooling towers much earlier.",
+        "The bill, set for a hearing before the City Council's health committee Monday, would lower the level of Legionella bacteria at which building owners must report test results to the city's health department."
+      ],
+      "summary": "NYC Council to consider earlier Legionella reporting after deadly outbreaks",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC Council to consider earlier Legionella reporting after deadly outbreaks",
+        "article_url": "https://gothamist.com/news/nyc-council-to-consider-earlier-legionella-reporting-after-deadly-outbreaks",
+        "published_at": "2026-10-19T18:03:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-20T14:03:07.710184+00:00",
+      "verification": {
+        "article_title": "NYC Council to consider earlier Legionella reporting after deadly outbreaks",
+        "article_url": "https://gothamist.com/news/nyc-council-to-consider-earlier-legionella-reporting-after-deadly-outbreaks",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-20T14:03:05.225682+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: Girlhood, Translated: A Conversation with Suzanne Garfinkle-Crowell",
+      "bullets": [
+        "Is \u201cTherapy Speak\u201d Getting in the Way of Talking with Your Daughter?",
+        "ADHD."
+      ],
+      "summary": "Local Event: Girlhood, Translated: A Conversation with Suzanne Garfinkle-Crowell",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Girlhood, Translated: A Conversation with Suzanne Garfinkle-Crowell",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261022/f769f068-37bf-47bd-91e2-8a442d5697b4/girlhood-translated-a-conversation-with-suzanne-garfinkle-crowell",
+        "published_at": "2026-10-22T22:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-20T14:03:07.818569+00:00",
+      "verification": {
+        "article_title": "Local Event: Girlhood, Translated: A Conversation with Suzanne Garfinkle-Crowell",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261022/f769f068-37bf-47bd-91e2-8a442d5697b4/girlhood-translated-a-conversation-with-suzanne-garfinkle-crowell",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-20T14:03:05.399024+00:00"
+      }
+    },
+    {
+      "headline": "Lung cancer can grow silently for years, here\u2019s who qualifies",
+      "bullets": [
+        "Cancer can strike at any age, often without symptoms.",
+        "For many cancers, routine screening remains the best way to detect the disease early and reduce the risk of death."
+      ],
+      "summary": "Lung cancer can grow silently for years, here\u2019s who qualifies",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Lung cancer can grow silently for years, here\u2019s who qualifies for screening",
+        "article_url": "https://www.fox5ny.com/news/lung-cancer-can-grow-silently-years-heres-who-qualifies-screening",
+        "published_at": "2026-10-20"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-20T14:03:07.927989+00:00",
+      "verification": {
+        "article_title": "Lung cancer can grow silently for years, here\u2019s who qualifies for screening",
+        "article_url": "https://www.fox5ny.com/news/lung-cancer-can-grow-silently-years-heres-who-qualifies-screening",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-20T14:03:05.502245+00:00"
+      }
+    },
+    {
+      "headline": "NYC school integration debate exposes tensions between Black parents and",
+      "bullets": [
+        "The event was meant to tout an advancement in Mayor Zohran Mamdani\u2019s signature campaign promise of universal childcare: Toddlers \u2014 whom Mamdani called \u201cNew York\u2019s cutest\u201d \u2014 spoke at a pint-sized podium, adorably interrupting remarks.",
+        "But to many viewers of the livestreamed press conference, the made-for-social-media moment was missing something critical."
+      ],
+      "summary": "NYC school integration debate exposes tensions between Black parents and",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC school integration debate exposes tensions between Black parents and Mamdani",
+        "article_url": "https://gothamist.com/news/nyc-school-integration-debate-exposes-tensions-between-black-parents-and-mamdani",
+        "published_at": "2026-10-20T10:00:52+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-20T14:03:08.061772+00:00",
+      "verification": {
+        "article_title": "NYC school integration debate exposes tensions between Black parents and Mamdani",
+        "article_url": "https://gothamist.com/news/nyc-school-integration-debate-exposes-tensions-between-black-parents-and-mamdani",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-20T14:03:05.632399+00:00"
+      }
+    },
+    {
+      "headline": "France protests cool after overnight curfews in Paris, major cities,",
+      "bullets": [
+        "More than 2,500 people have been arrested in the unrest, French officials said.",
+        "French Prime Minister Sebastien Lecornu credited localized overnight curfews in Paris and other major cities for providing a measure of calm after intense nationwide protests that have seen thousands arrested and sustained violent clashes between demonstrators and police."
+      ],
+      "summary": "France protests cool after overnight curfews in Paris, major cities,",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "France protests cool after overnight curfews in Paris, major cities, PM says",
+        "article_url": "https://abc7ny.com/story/france-protests-cool-overnight-curfews-paris-major-cities-pm-says/19959210/",
+        "published_at": "2026-10-20"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-20T14:03:08.177738+00:00",
+      "verification": {
+        "article_title": "France protests cool after overnight curfews in Paris, major cities, PM says",
+        "article_url": "https://abc7ny.com/story/france-protests-cool-overnight-curfews-paris-major-cities-pm-says/19959210/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-20T14:03:05.768740+00:00"
+      }
+    },
+    {
+      "headline": "Fall foliage 2026: Where to see peak autumn colors in",
+      "bullets": [
+        "Here's where to find the best fall foliage 2026 across New York, Connecticut and New Jersey, and other parts of the country.",
+        "NEW YORK (WABC) -- The 2026 fall foliage season is underway, with the first signs of the season's colors appearing throughout Upstate New York and the most significant changes expected in the Adirondacks over the next few weeks."
+      ],
+      "summary": "Fall foliage 2026: Where to see peak autumn colors in",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Fall foliage 2026: Where to see peak autumn colors in New York, New Jersey and Connecticut",
+        "article_url": "https://abc7ny.com/post/fall-foliage-map-2026-peak-colors-ny-nj-ct-autumn/19854939/",
+        "published_at": "2026-09-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-20T14:03:08.327440+00:00",
+      "verification": {
+        "article_title": "Fall foliage 2026: Where to see peak autumn colors in New York, New Jersey and Connecticut",
+        "article_url": "https://abc7ny.com/post/fall-foliage-map-2026-peak-colors-ny-nj-ct-autumn/19854939/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-20T14:03:05.957170+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on moderate voters, the carriage industry and",
+      "bullets": [
+        "A new silent majority tires of the chaos Lewisburg, Pa.: I\u2019ve been a Republican since Barry Goldwater\u2019s faltering 1964 run.",
+        "I was 13."
+      ],
+      "summary": "Readers sound off on moderate voters, the carriage industry and",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on moderate voters, the carriage industry and daylight savings",
+        "article_url": "https://www.nydailynews.com/2026/10/20/readers-sound-off-on-moderate-voters-the-carriage-industry-and-daylight-savings/",
+        "published_at": "2026-10-20"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-20T14:03:08.435295+00:00",
+      "verification": {
+        "article_title": "Readers sound off on moderate voters, the carriage industry and daylight savings",
+        "article_url": "https://www.nydailynews.com/2026/10/20/readers-sound-off-on-moderate-voters-the-carriage-industry-and-daylight-savings/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-20T14:03:06.063905+00:00"
+      }
+    },
+    {
+      "headline": "Eagles quarterback Jalen Hurts joins list of athletes diagnosed with",
+      "bullets": [
+        "PHILADELPHIA -- Jalen Hurts of the Philadelphia Eagles is the latest professional athlete to endure blood clots, joining Victor Wembanyama, Chris Bosh, Damian Lillard and others.",
+        "The one-time Super Bowl MVP is expected to miss the rest of the season because of blood clots in his lungs, a person familiar with the situation told The Associated Press on Monday."
+      ],
+      "summary": "Eagles quarterback Jalen Hurts joins list of athletes diagnosed with",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Eagles quarterback Jalen Hurts joins list of athletes diagnosed with blood clots",
+        "article_url": "https://abc7ny.com/post/philadelphia-eagles-quarterback-jalen-hurts-joins-list-athletes-diagnosed-blood-clots/19959647/",
+        "published_at": "2026-10-20"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-20T14:03:08.562146+00:00",
+      "verification": {
+        "article_title": "Eagles quarterback Jalen Hurts joins list of athletes diagnosed with blood clots",
+        "article_url": "https://abc7ny.com/post/philadelphia-eagles-quarterback-jalen-hurts-joins-list-athletes-diagnosed-blood-clots/19959647/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-20T14:03:06.168827+00:00"
+      }
+    }
+  ]
+}
