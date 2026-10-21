@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-10-21T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-10-21.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Readers sound off on buying Russian diesel, carriages\u2019 future and",
+      "bullets": [
+        "Our commander in chief betrays our nation San Francisco: The immorality of President Trump overriding the Ending Importation of Russian Oil Act, enacted by Congress in March 2022 following Russia\u2019s invasion of Ukraine, is staggering.",
+        "Trump made a unilateral decision Oct."
+      ],
+      "summary": "Readers sound off on buying Russian diesel, carriages\u2019 future and",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on buying Russian diesel, carriages\u2019 future and balcony solar",
+        "article_url": "https://www.nydailynews.com/2026/10/21/readers-sound-off-on-buying-russian-diesel-carriages-future-and-balcony-solar/",
+        "published_at": "2026-10-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-21T14:19:27.673670+00:00",
+      "verification": {
+        "article_title": "Readers sound off on buying Russian diesel, carriages\u2019 future and balcony solar",
+        "article_url": "https://www.nydailynews.com/2026/10/21/readers-sound-off-on-buying-russian-diesel-carriages-future-and-balcony-solar/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-21T14:19:26.407580+00:00"
+      }
+    },
+    {
+      "headline": "NYC\u2019s horse carriage drivers feel betrayed as lawmakers set to",
+      "bullets": [
+        "Central Park\u2019s horse carriage drivers are preparing to make their last stand.",
+        "The City Council is poised to pass legislation on Thursday that will shut down the industry after more than 160 years in operation."
+      ],
+      "summary": "NYC\u2019s horse carriage drivers feel betrayed as lawmakers set to",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC\u2019s horse carriage drivers feel betrayed as lawmakers set to abolish industry",
+        "article_url": "https://gothamist.com/news/nycs-horse-carriage-drivers-feel-betrayed-as-lawmakers-set-to-abolish-industry",
+        "published_at": "2026-10-21T10:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-21T14:19:27.745162+00:00",
+      "verification": {
+        "article_title": "NYC\u2019s horse carriage drivers feel betrayed as lawmakers set to abolish industry",
+        "article_url": "https://gothamist.com/news/nycs-horse-carriage-drivers-feel-betrayed-as-lawmakers-set-to-abolish-industry",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-21T14:19:26.522727+00:00"
+      }
+    },
+    {
+      "headline": "Chase/Robin Hood conference is wrong",
+      "bullets": [
+        "JPMorganChase is the biggest bank in America.",
+        "The Robin Hood Foundation seems to have convened the largest constellation of billionaire donors and board members that New York has ever seen."
+      ],
+      "summary": "Chase/Robin Hood conference is wrong",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Chase/Robin Hood conference is wrong",
+        "article_url": "https://www.nydailynews.com/2026/10/21/chase-robin-hood-conference-is-wrong/",
+        "published_at": "2026-10-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-21T14:19:27.795448+00:00",
+      "verification": {
+        "article_title": "Chase/Robin Hood conference is wrong",
+        "article_url": "https://www.nydailynews.com/2026/10/21/chase-robin-hood-conference-is-wrong/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-21T14:19:26.609804+00:00"
+      }
+    },
+    {
+      "headline": "Mayor Mamdani announces next phase of 2-K in NYC: Here",
+      "bullets": [
+        "Mayor Mamdani and Gov.",
+        "Hochul on Monday announced the expansion of free childcare for 2-year-olds with an additional 10,000 seats, bringing the \u201c2-K\u201d program to a majority of all New York City school districts next school year \u2014 including all of Staten Island and the Bronx."
+      ],
+      "summary": "Mayor Mamdani announces next phase of 2-K in NYC: Here",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Mayor Mamdani announces next phase of 2-K in NYC: Here are the school districts on the list",
+        "article_url": "https://www.nydailynews.com/2026/10/19/mayor-mamdani-announces-next-phase-of-2-k-in-nyc-here-are-the-school-districts-on-the-list/",
+        "published_at": "2026-10-19"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-21T14:19:27.847801+00:00",
+      "verification": {
+        "article_title": "Mayor Mamdani announces next phase of 2-K in NYC: Here are the school districts on the list",
+        "article_url": "https://www.nydailynews.com/2026/10/19/mayor-mamdani-announces-next-phase-of-2-k-in-nyc-here-are-the-school-districts-on-the-list/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-21T14:19:26.661212+00:00"
+      }
+    },
+    {
+      "headline": "How to stop pumpkin rot: 5 tips to make your",
+      "bullets": [
+        "With less than two weeks to go until Halloween, the time is ripe to start thinking about the pumpkin-headed face that will greet trick-or-treaters on All Hallows\u2019 Eve.",
+        "Unfortunately, all that work of scooping out the seeds and cutting out the jack-o\u2019-lantern design can start to feel like a waste in just a matter of days as it starts to go bad."
+      ],
+      "summary": "How to stop pumpkin rot: 5 tips to make your",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "How to stop pumpkin rot: 5 tips to make your jack-o'-lantern last longer",
+        "article_url": "https://www.fox5ny.com/news/how-stop-pumpkin-rot-5-tips-make-your-jack-o-lantern-last-longer",
+        "published_at": "2026-10-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-21T14:19:27.893599+00:00",
+      "verification": {
+        "article_title": "How to stop pumpkin rot: 5 tips to make your jack-o'-lantern last longer",
+        "article_url": "https://www.fox5ny.com/news/how-stop-pumpkin-rot-5-tips-make-your-jack-o-lantern-last-longer",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-21T14:19:26.771691+00:00"
+      }
+    },
+    {
+      "headline": "Most Americans say AI is bad for society, oppose more",
+      "bullets": [
+        "Majorities see risks in AI and fewer see benefits.",
+        "A majority of Americans say artificial intelligence is a bad thing for society and about two-thirds oppose the construction of new data centers in the U.S., with opposition even higher to building data centers in people's own communities, according to an ABC News/Washington Post/Ipsos poll conducted using Ipsos\u2019 KnowledgePanel."
+      ],
+      "summary": "Most Americans say AI is bad for society, oppose more",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Most Americans say AI is bad for society, oppose more data centers: ABC/Post/Ipsos poll",
+        "article_url": "https://abc7ny.com/story/most-americans-say-ai-is-bad-society-oppose-more-data-centers-abcpostipsos-poll/19964027/",
+        "published_at": "2026-10-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-21T14:19:27.941195+00:00",
+      "verification": {
+        "article_title": "Most Americans say AI is bad for society, oppose more data centers: ABC/Post/Ipsos poll",
+        "article_url": "https://abc7ny.com/story/most-americans-say-ai-is-bad-society-oppose-more-data-centers-abcpostipsos-poll/19964027/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-21T14:19:26.839559+00:00"
+      }
+    },
+    {
+      "headline": "Mamdani expands anti-gun violence program to Harlem, Bushwick, Washington Heights",
+      "bullets": [
+        "Mayor Mamdani on Tuesday announced the expansion of a gun violence prevention initiative \u2014 an effort that\u2019s been shown to drive down shootings over time \u2014 into Harlem, Washington Heights and Bushwick.",
+        "The mayor\u2019s approach to public safety has recently been subject of much scrutiny, with frustration mounting around his lack of action on some of the public safety priorities he campaigned on."
+      ],
+      "summary": "Mamdani expands anti-gun violence program to Harlem, Bushwick, Washington Heights",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Mamdani expands anti-gun violence program to Harlem, Bushwick, Washington Heights",
+        "article_url": "https://www.nydailynews.com/2026/10/20/mamdani-announces-expansion-anti-gun-violence-program-harlem-bushwick/",
+        "published_at": "2026-10-20T21:16:19+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-21T14:19:27.988215+00:00",
+      "verification": {
+        "article_title": "Mamdani expands anti-gun violence program to Harlem, Bushwick, Washington Heights",
+        "article_url": "https://www.nydailynews.com/2026/10/20/mamdani-announces-expansion-anti-gun-violence-program-harlem-bushwick/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-21T14:19:26.949508+00:00"
+      }
+    },
+    {
+      "headline": "Tricks, Treats and a Little Halloween Magic from Uptown to",
+      "bullets": [
+        "Tricks, Treats and a Little Halloween Magic from Uptown to Downtown From neighborhood trick-or-treating to spooky performances, Manhattan has something for everyone this Halloween.",
+        "Events range from a ship board scavenger hunt at the South Street Seaport to streets closed for trick-or-treaters."
+      ],
+      "summary": "Tricks, Treats and a Little Halloween Magic from Uptown to",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Tricks, Treats and a Little Halloween Magic from Uptown to Downtown",
+        "article_url": "https://www.ourtownny.com/news/tricks-treats-and-a-little-halloween-magic-from-uptown-to-downtown-XM6295213",
+        "published_at": "2026-10-19"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-21T14:19:28.032518+00:00",
+      "verification": {
+        "article_title": "Tricks, Treats and a Little Halloween Magic from Uptown to Downtown",
+        "article_url": "https://www.ourtownny.com/news/tricks-treats-and-a-little-halloween-magic-from-uptown-to-downtown-XM6295213",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-21T14:19:26.991626+00:00"
+      }
+    },
+    {
+      "headline": "Woman cyclist beaten and robbed of her AirPods in Central",
+      "bullets": [
+        "A school janitor who was beaten and robbed of her AirPods by three men as she bicycled through Central Park feared she\u2019d die and never see her parents again as she frantically fought off her attackers with a Stanley tumbler, she told the Daily News Tuesday as she spoke out about the horrific mugging.",
+        "Her recounting of the brutal robbery came as police released images of her masked attackers in the hope someone recognizes them."
+      ],
+      "summary": "Woman cyclist beaten and robbed of her AirPods in Central",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Woman cyclist beaten and robbed of her AirPods in Central Park speaks out about brutal mugging",
+        "article_url": "https://www.nydailynews.com/2026/10/20/woman-cyclist-beaten-and-robbed-of-her-airpods-in-central-park-speaks-out-about-brutal-mugging/",
+        "published_at": "2026-10-20T21:22:24+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-21T14:19:28.076378+00:00",
+      "verification": {
+        "article_title": "Woman cyclist beaten and robbed of her AirPods in Central Park speaks out about brutal mugging",
+        "article_url": "https://www.nydailynews.com/2026/10/20/woman-cyclist-beaten-and-robbed-of-her-airpods-in-central-park-speaks-out-about-brutal-mugging/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-21T14:19:27.034776+00:00"
+      }
+    },
+    {
+      "headline": "New findings emerge in Philadelphia home investigation linked to unidentified,",
+      "bullets": [
+        "PHILADELPHIA -- Investigators searching a property in Philadelphia's Olney neighborhood have determined that bones found last week were animal bones, according to sources.",
+        "Sources also said that adipocere, a wax-like substance that can form during decomposition, was discovered during the ongoing excavation of the property."
+      ],
+      "summary": "New findings emerge in Philadelphia home investigation linked to unidentified,",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "New findings emerge in Philadelphia home investigation linked to unidentified, missing women",
+        "article_url": "https://abc7ny.com/story/new-findings-emerge-philadelphia-home-investigation-linked-missing-unidentified-women-bones-found-were-animal/19964600/",
+        "published_at": "2026-10-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-21T14:19:28.123294+00:00",
+      "verification": {
+        "article_title": "New findings emerge in Philadelphia home investigation linked to unidentified, missing women",
+        "article_url": "https://abc7ny.com/story/new-findings-emerge-philadelphia-home-investigation-linked-missing-unidentified-women-bones-found-were-animal/19964600/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-21T14:19:27.077365+00:00"
+      }
+    },
+    {
+      "headline": "UES Teen Waited 30+ Minutes For Ambulance; Family Seeks Answers",
+      "bullets": [
+        "UES Teen Waited 30+ Minutes For Ambulance; Family Seeks Answers The injured teen's father called a private ambulance after five calls to 911.",
+        "UPPER EAST SIDE, NY \u2014 A 16-year-old boy with a badly broken leg waited more than 30 minutes for an ambulance after being injured at an Upper East Side middle school earlier this month."
+      ],
+      "summary": "UES Teen Waited 30+ Minutes For Ambulance; Family Seeks Answers",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "UES Teen Waited 30+ Minutes For Ambulance; Family Seeks Answers",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/ues-teen-waited-30-minutes-ambulance-family-officials-seek-answers",
+        "published_at": "2026-10-20T18:36:44+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-21T14:19:28.312193+00:00",
+      "verification": {
+        "article_title": "UES Teen Waited 30+ Minutes For Ambulance; Family Seeks Answers",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/ues-teen-waited-30-minutes-ambulance-family-officials-seek-answers",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-21T14:19:27.194434+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: Girlhood, Translated: A Conversation with Suzanne Garfinkle-Crowell",
+      "bullets": [
+        "Is \u201cTherapy Speak\u201d Getting in the Way of Talking with Your Daughter?",
+        "ADHD."
+      ],
+      "summary": "Local Event: Girlhood, Translated: A Conversation with Suzanne Garfinkle-Crowell",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Girlhood, Translated: A Conversation with Suzanne Garfinkle-Crowell",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261022/f769f068-37bf-47bd-91e2-8a442d5697b4/girlhood-translated-a-conversation-with-suzanne-garfinkle-crowell",
+        "published_at": "2026-10-22T22:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-21T14:19:28.355553+00:00",
+      "verification": {
+        "article_title": "Local Event: Girlhood, Translated: A Conversation with Suzanne Garfinkle-Crowell",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261022/f769f068-37bf-47bd-91e2-8a442d5697b4/girlhood-translated-a-conversation-with-suzanne-garfinkle-crowell",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-21T14:19:27.240486+00:00"
+      }
+    },
+    {
+      "headline": "NYC high school students walk out of class to demand",
+      "bullets": [
+        "Nearly 100 students at LaGuardia High School, the Manhattan arts school that inspired the movie \u201cFame,\u201d walked out of class on Tuesday to demand a freeze on artificial intelligence, driven by concerns that the new technology could threaten their future careers.",
+        "The walkout was part of a day of anti-AI high school and college protests across the country, including at Fordham University, SUNY Purchase and Stony Brook in New York."
+      ],
+      "summary": "NYC high school students walk out of class to demand",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYC high school students walk out of class to demand a freeze on AI",
+        "article_url": "https://www.nydailynews.com/2026/10/20/nyc-high-school-students-walk-out-of-class-to-demand-a-freeze-on-ai/",
+        "published_at": "2026-10-21T03:13:24+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-21T14:19:28.397258+00:00",
+      "verification": {
+        "article_title": "NYC high school students walk out of class to demand a freeze on AI",
+        "article_url": "https://www.nydailynews.com/2026/10/20/nyc-high-school-students-walk-out-of-class-to-demand-a-freeze-on-ai/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-21T14:19:27.304695+00:00"
+      }
+    },
+    {
+      "headline": "Inside Luigi Mangione's legal strategy before his federal guilty plea",
+      "bullets": [
+        "As Luigi Mangione\u2019s state murder trial approached, his attorneys had decisions to make.",
+        "One of the most consequential was whether he should argue he killed UnitedHealthcare CEO Brian Thompson because of an \u201cextreme emotional disturbance.\u201d That strategy, if successful, could have spared the 28-year-old Ivy League graduate from the lengthiest possible sentence in state prison."
+      ],
+      "summary": "Inside Luigi Mangione's legal strategy before his federal guilty plea",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Inside Luigi Mangione's legal strategy before his federal guilty plea",
+        "article_url": "https://gothamist.com/news/inside-luigi-mangiones-legal-strategy-before-his-federal-guilty-plea",
+        "published_at": "2026-10-20T16:37:33+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-21T14:19:28.511679+00:00",
+      "verification": {
+        "article_title": "Inside Luigi Mangione's legal strategy before his federal guilty plea",
+        "article_url": "https://gothamist.com/news/inside-luigi-mangiones-legal-strategy-before-his-federal-guilty-plea",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-21T14:19:27.362400+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on buying Russian diesel, carriages\u2019 future and",
+      "bullets": [
+        "Our commander in chief betrays our nation San Francisco: The immorality of President Trump overriding the Ending Importation of Russian Oil Act, enacted by Congress in March 2022 following Russia\u2019s invasion of Ukraine, is staggering.",
+        "Trump made a unilateral decision Oct."
+      ],
+      "summary": "Readers sound off on buying Russian diesel, carriages\u2019 future and",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on buying Russian diesel, carriages\u2019 future and balcony solar",
+        "article_url": "https://www.nydailynews.com/2026/10/21/readers-sound-off-on-buying-russian-diesel-carriages-future-and-balcony-solar/",
+        "published_at": "2026-10-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-21T14:19:28.559677+00:00",
+      "verification": {
+        "article_title": "Readers sound off on buying Russian diesel, carriages\u2019 future and balcony solar",
+        "article_url": "https://www.nydailynews.com/2026/10/21/readers-sound-off-on-buying-russian-diesel-carriages-future-and-balcony-solar/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-21T14:19:27.403504+00:00"
+      }
+    },
+    {
+      "headline": "Chase/Robin Hood conference is wrong",
+      "bullets": [
+        "JPMorganChase is the biggest bank in America.",
+        "The Robin Hood Foundation seems to have convened the largest constellation of billionaire donors and board members that New York has ever seen."
+      ],
+      "summary": "Chase/Robin Hood conference is wrong",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Chase/Robin Hood conference is wrong",
+        "article_url": "https://www.nydailynews.com/2026/10/21/chase-robin-hood-conference-is-wrong/",
+        "published_at": "2026-10-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-21T14:19:28.608725+00:00",
+      "verification": {
+        "article_title": "Chase/Robin Hood conference is wrong",
+        "article_url": "https://www.nydailynews.com/2026/10/21/chase-robin-hood-conference-is-wrong/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-21T14:19:27.445550+00:00"
+      }
+    },
+    {
+      "headline": "A New Reopening Date Is Set For The UES Esplanade",
+      "bullets": [
+        "A New Reopening Date Is Set For The UES Esplanade The walkway will reopen to the public nearly a month behind schedule.",
+        "UPPER EAST SIDE, NY \u2014 After a sinkhole set back the completion of a seven-block portion of the East River Esplanade, a new construction timeline has been revealed."
+      ],
+      "summary": "A New Reopening Date Is Set For The UES Esplanade",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "A New Reopening Date Is Set For The UES Esplanade",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/new-reopening-date-set-ues-esplanade",
+        "published_at": "2026-10-20T20:45:28+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-21T14:19:28.655109+00:00",
+      "verification": {
+        "article_title": "A New Reopening Date Is Set For The UES Esplanade",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/new-reopening-date-set-ues-esplanade",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-21T14:19:27.513515+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on buying Russian diesel, carriages\u2019 future and",
+      "bullets": [
+        "Our commander in chief betrays our nation San Francisco: The immorality of President Trump overriding the Ending Importation of Russian Oil Act, enacted by Congress in March 2022 following Russia\u2019s invasion of Ukraine, is staggering.",
+        "Trump made a unilateral decision Oct."
+      ],
+      "summary": "Readers sound off on buying Russian diesel, carriages\u2019 future and",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on buying Russian diesel, carriages\u2019 future and balcony solar",
+        "article_url": "https://www.nydailynews.com/2026/10/21/readers-sound-off-on-buying-russian-diesel-carriages-future-and-balcony-solar/",
+        "published_at": "2026-10-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-21T14:19:28.697596+00:00",
+      "verification": {
+        "article_title": "Readers sound off on buying Russian diesel, carriages\u2019 future and balcony solar",
+        "article_url": "https://www.nydailynews.com/2026/10/21/readers-sound-off-on-buying-russian-diesel-carriages-future-and-balcony-solar/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-21T14:19:27.579240+00:00"
+      }
+    }
+  ]
+}
