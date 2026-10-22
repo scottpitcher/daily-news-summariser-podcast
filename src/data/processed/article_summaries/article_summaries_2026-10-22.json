@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-10-22T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-10-22.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Ballot questions ask NYC voters whether to cut red tape",
+      "bullets": [
+        "As New Yorkers head to the polls to vote for their governor and congressmembers, they\u2019ll also be asked to weigh in on a series of ballot questions that could expand outdoor dining and speed up the development of new bike and bus lanes.",
+        "The November ballot features five proposed amendments to the city charter, New York City\u2019s municipal constitution."
+      ],
+      "summary": "Ballot questions ask NYC voters whether to cut red tape",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Ballot questions ask NYC voters whether to cut red tape on outdoor dining, bike lanes",
+        "article_url": "https://gothamist.com/news/ballot-questions-ask-nyc-voters-whether-to-cut-red-tape-on-outdoor-dining-bike-lanes",
+        "published_at": "2026-10-22T10:30:55+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-22T14:18:38.114226+00:00",
+      "verification": {
+        "article_title": "Ballot questions ask NYC voters whether to cut red tape on outdoor dining, bike lanes",
+        "article_url": "https://gothamist.com/news/ballot-questions-ask-nyc-voters-whether-to-cut-red-tape-on-outdoor-dining-bike-lanes",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-22T14:18:35.385270+00:00"
+      }
+    },
+    {
+      "headline": "Elon Musk drops $500K on NY Rep. Mike Lawler's re-election",
+      "bullets": [
+        "Elon Musk has spent more than $500,000 so far on efforts to re-elect Rep.",
+        "Mike Lawler, the Hudson Valley Republican locked in a competitive race that could determine which party controls the U.S."
+      ],
+      "summary": "Elon Musk drops $500K on NY Rep. Mike Lawler's re-election",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Elon Musk drops $500K on NY Rep. Mike Lawler's re-election bid",
+        "article_url": "https://gothamist.com/news/elon-musk-drops-500k-on-ny-rep-mike-lawlers-reelection-bid",
+        "published_at": "2026-10-21T14:21:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-22T14:18:38.240414+00:00",
+      "verification": {
+        "article_title": "Elon Musk drops $500K on NY Rep. Mike Lawler's re-election bid",
+        "article_url": "https://gothamist.com/news/elon-musk-drops-500k-on-ny-rep-mike-lawlers-reelection-bid",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-22T14:18:35.552988+00:00"
+      }
+    },
+    {
+      "headline": "Suburbs turn against Trump, GOP ahead of midterms: Hofstra poll",
+      "bullets": [
+        "Suburban voters have turned decisively against President Trump and his Republican allies in Congress ahead of the midterms, a poll carried out by Hofstra University shows.",
+        "Democrats hold an 8% lead on the generic congressional ballot in suburban congressional districts nationwide and Trump is stuck at a rock-bottom 33% approval rating, according to the poll released Thursday of 1,500 voters overseen by the Long Island university."
+      ],
+      "summary": "Suburbs turn against Trump, GOP ahead of midterms: Hofstra poll",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Suburbs turn against Trump, GOP ahead of midterms: Hofstra poll",
+        "article_url": "https://www.nydailynews.com/2026/10/22/hofstra-poll-suburban-voters-trump-republicans-midterms/",
+        "published_at": "2026-10-22T13:00:23+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-22T14:18:38.363360+00:00",
+      "verification": {
+        "article_title": "Suburbs turn against Trump, GOP ahead of midterms: Hofstra poll",
+        "article_url": "https://www.nydailynews.com/2026/10/22/hofstra-poll-suburban-voters-trump-republicans-midterms/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-22T14:18:35.719144+00:00"
+      }
+    },
+    {
+      "headline": "Mamdani-backed housing bill will give nonprofits head start on buying",
+      "bullets": [
+        "The New York City Council is poised to approve a measure giving nonprofit groups a chance to buy dilapidated apartment buildings before they hit the open market, after years of false starts and failed attempts to pass previous versions of the legislation.",
+        "The Council\u2019s housing committee is scheduled to vote Thursday on the Community Opportunity to Purchase Act before sending it to the entire body for a final decision later in the day \u2013 all but assuring its approval under a Council tradition of not calling a measure to the floor unless it has the votes to pass."
+      ],
+      "summary": "Mamdani-backed housing bill will give nonprofits head start on buying",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Mamdani-backed housing bill will give nonprofits head start on buying NYC apartments",
+        "article_url": "https://gothamist.com/news/mamdani-backed-housing-bill-will-give-nonprofits-head-start-on-buying-nyc-apartments",
+        "published_at": "2026-10-22T12:00:58+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-22T14:18:38.483202+00:00",
+      "verification": {
+        "article_title": "Mamdani-backed housing bill will give nonprofits head start on buying NYC apartments",
+        "article_url": "https://gothamist.com/news/mamdani-backed-housing-bill-will-give-nonprofits-head-start-on-buying-nyc-apartments",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-22T14:18:35.885704+00:00"
+      }
+    },
+    {
+      "headline": "Across America Patch - Breaking News, Local News, Schools, Weather,",
+      "bullets": [
+        "Across America|News| New CDC data reveal stark differences in breast cancer deaths nationwide, even as diagnoses rise and treatments improve.",
+        "A local mother is searching for a living organ donor to help her 25-year-old son, who was diagnosed with stage 4 kidney disease in 2025."
+      ],
+      "summary": "Across America Patch - Breaking News, Local News, Schools, Weather,",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Across America Patch - Breaking News, Local News, Schools, Weather, Sports and Shopping",
+        "article_url": "https://patch.com/us/across-america",
+        "published_at": "2026-10-21T14:27:46+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-22T14:18:38.604554+00:00",
+      "verification": {
+        "article_title": "Across America Patch - Breaking News, Local News, Schools, Weather, Sports and Shopping",
+        "article_url": "https://patch.com/us/across-america",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-22T14:18:36.005746+00:00"
+      }
+    },
+    {
+      "headline": "City Council mustn\u2019t steal horse carriage medallions",
+      "bullets": [
+        "Today, the City Council is planning to vote to steal millions of dollars from dozens of New Yorkers engaged in a legal trade.",
+        "This blatant robbery is the pending bill to ban the 68 Central Park horse carriages."
+      ],
+      "summary": "City Council mustn\u2019t steal horse carriage medallions",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "City Council mustn\u2019t steal horse carriage medallions",
+        "article_url": "https://www.nydailynews.com/2026/10/22/city-council-mustnt-steal-horse-carriage-medallions/",
+        "published_at": "2026-10-22"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-22T14:18:38.723655+00:00",
+      "verification": {
+        "article_title": "City Council mustn\u2019t steal horse carriage medallions",
+        "article_url": "https://www.nydailynews.com/2026/10/22/city-council-mustnt-steal-horse-carriage-medallions/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-22T14:18:36.174728+00:00"
+      }
+    },
+    {
+      "headline": "TWU planning lawsuit to block NYC\u2019s planned Central Park horse",
+      "bullets": [
+        "The union representing the roughly 200 owners and drivers in the city\u2019s embattled Central Park carriage horse industry threatened Wednesday to sue should the City Council vote to end the industry, as is expected, on Thursday.",
+        "The legislation \u2014 which would immediately end the issuance of carriage horse licenses and outlaw carriage horse rides entirely by the summer of 2028 \u2014 is expected to pass with a veto-proof majority."
+      ],
+      "summary": "TWU planning lawsuit to block NYC\u2019s planned Central Park horse",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "TWU planning lawsuit to block NYC\u2019s planned Central Park horse carriage ban",
+        "article_url": "https://www.nydailynews.com/2026/10/21/twu-planning-lawsuit-to-block-nycs-planned-central-park-horse-carriage-ban/",
+        "published_at": "2026-10-21T21:34:32+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-22T14:18:38.845193+00:00",
+      "verification": {
+        "article_title": "TWU planning lawsuit to block NYC\u2019s planned Central Park horse carriage ban",
+        "article_url": "https://www.nydailynews.com/2026/10/21/twu-planning-lawsuit-to-block-nycs-planned-central-park-horse-carriage-ban/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-22T14:18:36.296684+00:00"
+      }
+    },
+    {
+      "headline": "Retired NYPD detective charged with murder for road rage shooting",
+      "bullets": [
+        "A retired NYPD narcotics detective who left the department 25 years ago after he was wounded in an off-duty shooting was charged with murder Wednesday in the shooting death of a Con Ed worker during a road rage clash on the George Washington Bridge, police officials said.",
+        "Victor Romero, 62, who retired from the NYPD in 2001, has been identified as the driver of a black Range Rover involved in the slaying on the New Jersey-bound upper level of the Hudson River span about 7:10 p.m."
+      ],
+      "summary": "Retired NYPD detective charged with murder for road rage shooting",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Retired NYPD detective charged with murder for road rage shooting slay on NYC George Washington Bridge",
+        "article_url": "https://www.nydailynews.com/2026/10/21/suspect-surrenders-in-road-rage-shooting-slay-on-nyc-george-washington-bridge/",
+        "published_at": "2026-10-22T14:03:29+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-22T14:18:38.969699+00:00",
+      "verification": {
+        "article_title": "Retired NYPD detective charged with murder for road rage shooting slay on NYC George Washington Bridge",
+        "article_url": "https://www.nydailynews.com/2026/10/21/suspect-surrenders-in-road-rage-shooting-slay-on-nyc-george-washington-bridge/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-22T14:18:36.417950+00:00"
+      }
+    },
+    {
+      "headline": "Retired veteran NYPD detective arrested, charged with murder in fatal",
+      "bullets": [
+        "NEW YORK CITY (WABC) -- A retired veteran NYPD detective was arrested and charged with murder on Wednesday in connection to the fatal shooting of a 46-year-old Rockland County man during an apparent road rage incident on the George Washington Bridge.",
+        "Police arrested 62-year-old Victor Romero of Haverstraw after officials say the former narcotics detective voluntarily came in for questioning on Wednesday to be interviewed about a possible role in the shooting."
+      ],
+      "summary": "Retired veteran NYPD detective arrested, charged with murder in fatal",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Retired veteran NYPD detective arrested, charged with murder in fatal GWB shooting",
+        "article_url": "https://abc7ny.com/post/rockland-man-killed-possible-road-rage-shooting-george-washington-bridge/19963674/",
+        "published_at": "2026-10-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-22T14:18:39.090336+00:00",
+      "verification": {
+        "article_title": "Retired veteran NYPD detective arrested, charged with murder in fatal GWB shooting",
+        "article_url": "https://abc7ny.com/post/rockland-man-killed-possible-road-rage-shooting-george-washington-bridge/19963674/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-22T14:18:36.578966+00:00"
+      }
+    },
+    {
+      "headline": "The NYPD arrested a mom and took her kids' Christmas",
+      "bullets": [
+        "On Christmas Eve 2024, Andrea Smith-Taylor went shopping for presents for her five children.",
+        "The single mom was staying with her kids at a domestic violence shelter at the time, and felt a sense of accomplishment as she bought her kids clothing, boots, jewelry and a PlayStation \u2014 enough to fill two heaping shopping bags."
+      ],
+      "summary": "The NYPD arrested a mom and took her kids' Christmas",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "The NYPD arrested a mom and took her kids' Christmas gifts. She never got them back.",
+        "article_url": "https://gothamist.com/news/the-nypd-arrested-a-mom-and-took-her-kids-christmas-gifts-she-never-got-them-back",
+        "published_at": "2026-10-22T10:00:58+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-22T14:18:39.210806+00:00",
+      "verification": {
+        "article_title": "The NYPD arrested a mom and took her kids' Christmas gifts. She never got them back.",
+        "article_url": "https://gothamist.com/news/the-nypd-arrested-a-mom-and-took-her-kids-christmas-gifts-she-never-got-them-back",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-22T14:18:36.718141+00:00"
+      }
+    },
+    {
+      "headline": "FBI raids NYC adult care centers in $2.4B Medicaid fraud",
+      "bullets": [
+        "NEW YORK - The FBI and New York state authorities raided dozens of adult care centers across New York City in a major investigation into Medicaid fraud.",
+        "Gov."
+      ],
+      "summary": "FBI raids NYC adult care centers in $2.4B Medicaid fraud",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "FBI raids NYC adult care centers in $2.4B Medicaid fraud probe: What we know",
+        "article_url": "https://www.fox5ny.com/news/fbi-raids-nyc-adult-daycare-centers-dr-oz-medicaid-fraud",
+        "published_at": "2026-10-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-22T14:18:39.332110+00:00",
+      "verification": {
+        "article_title": "FBI raids NYC adult care centers in $2.4B Medicaid fraud probe: What we know",
+        "article_url": "https://www.fox5ny.com/news/fbi-raids-nyc-adult-daycare-centers-dr-oz-medicaid-fraud",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-22T14:18:36.922027+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: Girlhood, Translated: A Conversation with Suzanne Garfinkle-Crowell",
+      "bullets": [
+        "Is \u201cTherapy Speak\u201d Getting in the Way of Talking with Your Daughter?",
+        "ADHD."
+      ],
+      "summary": "Local Event: Girlhood, Translated: A Conversation with Suzanne Garfinkle-Crowell",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Girlhood, Translated: A Conversation with Suzanne Garfinkle-Crowell",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261022/f769f068-37bf-47bd-91e2-8a442d5697b4/girlhood-translated-a-conversation-with-suzanne-garfinkle-crowell",
+        "published_at": "2026-10-22T22:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-22T14:18:39.453280+00:00",
+      "verification": {
+        "article_title": "Local Event: Girlhood, Translated: A Conversation with Suzanne Garfinkle-Crowell",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261022/f769f068-37bf-47bd-91e2-8a442d5697b4/girlhood-translated-a-conversation-with-suzanne-garfinkle-crowell",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-22T14:18:37.045815+00:00"
+      }
+    },
+    {
+      "headline": "Common disorder linked to 70% higher death rate, but medication",
+      "bullets": [
+        "People diagnosed with attention-deficit/hyperactivity disorder (ADHD) face a roughly 71% higher overall risk of early death compared to those without the condition, according to a new review published in JAMA Network Open.",
+        "However, taking prescription ADHD medication may offer a protective benefit, lowering overall risk of death, the review found."
+      ],
+      "summary": "Common disorder linked to 70% higher death rate, but medication",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Common disorder linked to 70% higher death rate, but medication may offer protection",
+        "article_url": "https://www.fox5ny.com/news/common-disorder-linked-70-higher-death-rate-medication-may-offer-protection",
+        "published_at": "2026-10-22"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-22T14:18:39.574290+00:00",
+      "verification": {
+        "article_title": "Common disorder linked to 70% higher death rate, but medication may offer protection",
+        "article_url": "https://www.fox5ny.com/news/common-disorder-linked-70-higher-death-rate-medication-may-offer-protection",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-22T14:18:37.182302+00:00"
+      }
+    },
+    {
+      "headline": "2 Staten Island adult day care operators charged in Medicaid",
+      "bullets": [
+        "A mother and daughter who operate a Staten Island adult day care center were arrested Tuesday and charged with allegedly defrauding Medicaid and long-term care providers, authorities said.",
+        "The arrests came as federal and state investigators executed search warrants at Officials said Yangsim Oum and Juyoung Choe were taken into custody at their adult day care center on Forest Avenue."
+      ],
+      "summary": "2 Staten Island adult day care operators charged in Medicaid",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "2 Staten Island adult day care operators charged in Medicaid fraud probe",
+        "article_url": "https://www.cbsnews.com/newyork/news/staten-island-adult-day-care-medicaid-fraud/",
+        "published_at": "2026-10-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-22T14:18:39.696953+00:00",
+      "verification": {
+        "article_title": "2 Staten Island adult day care operators charged in Medicaid fraud probe",
+        "article_url": "https://www.cbsnews.com/newyork/news/staten-island-adult-day-care-medicaid-fraud/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-22T14:18:37.307392+00:00"
+      }
+    },
+    {
+      "headline": "A new film invites you to eavesdrop on one of",
+      "bullets": [
+        "A new film invites you to eavesdrop on one of the greatest conversations in New York City history.",
+        "In 1972, legendary documentarian William Greaves filmed a party he threw for Harlem Renaissance luminaries."
+      ],
+      "summary": "A new film invites you to eavesdrop on one of",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "A new film invites you to eavesdrop on one of the greatest conversations in NYC history",
+        "article_url": "https://gothamist.com/arts-entertainment/a-new-film-invites-you-to-eavesdrop-on-one-of-the-greatest-conversations-in-nyc-history",
+        "published_at": "2026-10-21T17:07:28+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-22T14:18:39.819181+00:00",
+      "verification": {
+        "article_title": "A new film invites you to eavesdrop on one of the greatest conversations in NYC history",
+        "article_url": "https://gothamist.com/arts-entertainment/a-new-film-invites-you-to-eavesdrop-on-one-of-the-greatest-conversations-in-nyc-history",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-22T14:18:37.430821+00:00"
+      }
+    },
+    {
+      "headline": "\u2018Billions\u2019 star looking for hospitality work amid acting gig drought",
+      "bullets": [
+        "\u201cBillions\u201d star Asia Kate Dillon is looking for hospitality industry work to pay the bills.",
+        "The nonbinary actor, who appeared on more than 70 episodes of the hit Showtime series about high-rolling investors from 2017 to 2023, posted a cover letter of sorts on Instagram Tuesday."
+      ],
+      "summary": "\u2018Billions\u2019 star looking for hospitality work amid acting gig drought",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "\u2018Billions\u2019 star looking for hospitality work amid acting gig drought",
+        "article_url": "https://www.nydailynews.com/2026/10/21/billions-asia-kate-dillon-resume-restaurant-work/",
+        "published_at": "2026-10-21T17:53:57+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-22T14:18:39.940282+00:00",
+      "verification": {
+        "article_title": "\u2018Billions\u2019 star looking for hospitality work amid acting gig drought",
+        "article_url": "https://www.nydailynews.com/2026/10/21/billions-asia-kate-dillon-resume-restaurant-work/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-22T14:18:37.555016+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on amending the pied-\u00e0-terre tax, working horses",
+      "bullets": [
+        "A wealth tax should only tax the wealthy Bronx: While I support the administration\u2019s pied-\u00e0-terre tax to generate essential revenue to fund public transit, schools and city infrastructure, the recent court ruling striking down the initial implementation highlights a critical structural flaw in the current policy: the $1 million threshold for condominiums and cooperatives.",
+        "Setting the Phase One cutoff at $1 million does not target the ultra-wealthy or the international real estate speculators holding \u201csafe-deposit boxes in the sky.\u201d It penalizes middle-class families, retired civil servants and highly productive local professionals who have worked for decades to afford a home in our city."
+      ],
+      "summary": "Readers sound off on amending the pied-\u00e0-terre tax, working horses",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on amending the pied-\u00e0-terre tax, working horses and MAGA voters",
+        "article_url": "https://www.nydailynews.com/2026/10/22/readers-sound-off-on-amending-the-pied-a-terre-tax-working-horses-and-maga-voters/",
+        "published_at": "2026-10-22"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-22T14:18:40.059787+00:00",
+      "verification": {
+        "article_title": "Readers sound off on amending the pied-\u00e0-terre tax, working horses and MAGA voters",
+        "article_url": "https://www.nydailynews.com/2026/10/22/readers-sound-off-on-amending-the-pied-a-terre-tax-working-horses-and-maga-voters/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-22T14:18:37.678951+00:00"
+      }
+    },
+    {
+      "headline": "3 Long Island spots to try NYC's rib-eye 'slap' taco",
+      "bullets": [
+        "I will always be a carne asada evangelist, but a trendy new style of tacos has had me questioning my allegiance to fiery charred beef on a flour tortilla.",
+        "This style of steak taco has been taking over New York City this year, but it comes via Mexico City with a little northeastern Mexico mixed in."
+      ],
+      "summary": "3 Long Island spots to try NYC's rib-eye 'slap' taco",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Newsday",
+        "source_level": "local",
+        "article_title": "3 Long Island spots to try NYC's rib-eye 'slap' taco trend",
+        "article_url": "https://www.newsday.com/lifestyle/restaurants/rib-eye-slap-taco-trend-on-long-island-atjpko98",
+        "published_at": "2026-10-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-22T14:18:40.180966+00:00",
+      "verification": {
+        "article_title": "3 Long Island spots to try NYC's rib-eye 'slap' taco trend",
+        "article_url": "https://www.newsday.com/lifestyle/restaurants/rib-eye-slap-taco-trend-on-long-island-atjpko98",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-22T14:18:37.804346+00:00"
+      }
+    }
+  ]
+}
