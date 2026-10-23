@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-10-23T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-10-23.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Readers sound off on utility property taxes, school tax credit",
+      "bullets": [
+        "Overtaxing utilities passes costs to us Manhattan: Debate over New York City\u2019s exceptionally high electric bills largely overlooks a major contributor to Con Edison\u2019s bills: New York\u2019s unusual property-tax treatment of utility infrastructure.",
+        "Under a law dating back to 1899, property taxes for utility companies cover not only the physical infrastructure, but the \u201cspecial franchise\u201d tax component for the right-of-way allowing utilities to operate under public streets."
+      ],
+      "summary": "Readers sound off on utility property taxes, school tax credit",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on utility property taxes, school tax credit and Halloween curfews",
+        "article_url": "https://www.nydailynews.com/2026/10/23/readers-sound-off-on-utility-property-taxes-school-tax-credit-and-halloween-curfews/",
+        "published_at": "2026-10-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-23T14:01:58.630232+00:00",
+      "verification": {
+        "article_title": "Readers sound off on utility property taxes, school tax credit and Halloween curfews",
+        "article_url": "https://www.nydailynews.com/2026/10/23/readers-sound-off-on-utility-property-taxes-school-tax-credit-and-halloween-curfews/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-23T14:01:57.056987+00:00"
+      }
+    },
+    {
+      "headline": "Why are rising costs weighing so heavily on New Jersey",
+      "bullets": [
+        "NEW YORK - Do you feel like you can't leave your house these days without spending at least $100?",
+        "You're not imagining it."
+      ],
+      "summary": "Why are rising costs weighing so heavily on New Jersey",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Why are rising costs weighing so heavily on New Jersey voters?",
+        "article_url": "https://www.fox5ny.com/news/why-rising-costs-weighing-so-heavily-new-jersey-voters",
+        "published_at": "2026-10-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-23T14:01:58.722296+00:00",
+      "verification": {
+        "article_title": "Why are rising costs weighing so heavily on New Jersey voters?",
+        "article_url": "https://www.fox5ny.com/news/why-rising-costs-weighing-so-heavily-new-jersey-voters",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-23T14:01:57.170419+00:00"
+      }
+    },
+    {
+      "headline": "Your guide to voting in New York's 2026 elections for",
+      "bullets": [
+        "Election Day is Nov.",
+        "3, and it\u2019s time to choose New York\u2019s next governor, attorney general, and congressmembers."
+      ],
+      "summary": "Your guide to voting in New York's 2026 elections for",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Your guide to voting in New York's 2026 elections for governor and Congress",
+        "article_url": "https://gothamist.com/news/your-guide-to-voting-in-new-yorks-2026-elections-for-governor-and-congress",
+        "published_at": "2026-10-23T10:30:43+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-23T14:01:58.782761+00:00",
+      "verification": {
+        "article_title": "Your guide to voting in New York's 2026 elections for governor and Congress",
+        "article_url": "https://gothamist.com/news/your-guide-to-voting-in-new-yorks-2026-elections-for-governor-and-congress",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-23T14:01:57.262483+00:00"
+      }
+    },
+    {
+      "headline": "How NY Gov. Hochul, Bruce Blakeman would tackle rising electric,",
+      "bullets": [
+        "Around 50 people gathered late last month at a small theater in Lockport, a small city 20 miles east of Niagara Falls.",
+        "They were looking for an answer to one vexing question: How did my electric and gas bills get so high?"
+      ],
+      "summary": "How NY Gov. Hochul, Bruce Blakeman would tackle rising electric,",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "How NY Gov. Hochul, Bruce Blakeman would tackle rising electric, heat bills",
+        "article_url": "https://gothamist.com/news/how-ny-gov-hochul-bruce-blakeman-would-tackle-rising-electric-heat-bills",
+        "published_at": "2026-10-22T14:39:57+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-23T14:01:58.849738+00:00",
+      "verification": {
+        "article_title": "How NY Gov. Hochul, Bruce Blakeman would tackle rising electric, heat bills",
+        "article_url": "https://gothamist.com/news/how-ny-gov-hochul-bruce-blakeman-would-tackle-rising-electric-heat-bills",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-23T14:01:57.374623+00:00"
+      }
+    },
+    {
+      "headline": "NYC Council to grill Mamdani officials on collapsed Hunts Point",
+      "bullets": [
+        "The New York City Council plans to hold a hearing on why a highly anticipated $650 million deal to modernize and fix pollution at the Hunts Point Produce Market in the South Bronx fell apart over the summer.",
+        "\"We\u2019re having a hearing on it because we believe this project is mission critical,\u201d Council Speaker Julie Menin said Thursday on WNYC\u2019s \"The Brian Lehrer Show.\" \u201cWe want the parties to come together \u2014 the administration, the federal government, Hunts Point \u2014 to work out a solution.\u201d Gothamist exclusively reported details of the agreement\u2019s collapse in September."
+      ],
+      "summary": "NYC Council to grill Mamdani officials on collapsed Hunts Point",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC Council to grill Mamdani officials on collapsed Hunts Point Produce Market deal",
+        "article_url": "https://gothamist.com/news/nyc-council-to-grill-mamdani-officials-on-collapsed-hunts-point-produce-market-deal",
+        "published_at": "2026-10-22T18:16:06+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-23T14:01:58.909109+00:00",
+      "verification": {
+        "article_title": "NYC Council to grill Mamdani officials on collapsed Hunts Point Produce Market deal",
+        "article_url": "https://gothamist.com/news/nyc-council-to-grill-mamdani-officials-on-collapsed-hunts-point-produce-market-deal",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-23T14:01:57.512747+00:00"
+      }
+    },
+    {
+      "headline": "Foley's opens second location, in Massapequa Park",
+      "bullets": [
+        "Foley\u2019s, the sports bar in Smithtown, now has a sibling.",
+        "The second Foley\u2019s \u2014 this one a joint project for Massapequa couple Stacy Phillips and Tom Foley, for which the original spot is named \u2014 opened earlier this month in Massapequa Park."
+      ],
+      "summary": "Foley's opens second location, in Massapequa Park",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Newsday",
+        "source_level": "local",
+        "article_title": "Foley's opens second location, in Massapequa Park",
+        "article_url": "https://www.newsday.com/lifestyle/restaurants/foleys-massapequa-park-lclob5a9",
+        "published_at": "2026-10-22"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-23T14:01:58.991058+00:00",
+      "verification": {
+        "article_title": "Foley's opens second location, in Massapequa Park",
+        "article_url": "https://www.newsday.com/lifestyle/restaurants/foleys-massapequa-park-lclob5a9",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-23T14:01:57.575400+00:00"
+      }
+    },
+    {
+      "headline": "Mamdani rallies with last-mile Amazon delivery workers, putting pressure on",
+      "bullets": [
+        "Mayor Mamdani increased pressure on Council Speaker Julie Menin on Thursday by rallying in support of a bill that would block Amazon and other major retailers from using third-party contractors for customer deliveries.",
+        "Although the bill, called the Delivery Protection Act, had a hearing in April and has earned supermajority support with 34 sponsors, Menin has not yet brought it to the floor for a vote."
+      ],
+      "summary": "Mamdani rallies with last-mile Amazon delivery workers, putting pressure on",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Mamdani rallies with last-mile Amazon delivery workers, putting pressure on Speaker Menin",
+        "article_url": "https://www.nydailynews.com/2026/10/22/mamdani-rallies-with-last-mile-amazon-delivery-workers-putting-pressure-on-speaker-menin/",
+        "published_at": "2026-10-22T21:39:41+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-23T14:01:59.052553+00:00",
+      "verification": {
+        "article_title": "Mamdani rallies with last-mile Amazon delivery workers, putting pressure on Speaker Menin",
+        "article_url": "https://www.nydailynews.com/2026/10/22/mamdani-rallies-with-last-mile-amazon-delivery-workers-putting-pressure-on-speaker-menin/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-23T14:01:57.636906+00:00"
+      }
+    },
+    {
+      "headline": "Body-camera footage released in police shooting of Mississippi 1-year-old as",
+      "bullets": [
+        "The state AG said the actions of police were \"justified.\" The Mississippi Bureau of Investigation has released the body camera footage of the officer-involved shooting of 1-year-old Kohen Wiley, who was fatally shot in a Walmart parking lot on June 14 during an alleged shoplifting pursuit.",
+        "The release of the video on Thursday came after the Mississippi Attorney General's Office announced on Monday the findings of its investigation, concluding that the use of force by the Senatobia Police Department was \"justified.\" The probe was conducted by the Mississippi Bureau of Investigation (MBI)."
+      ],
+      "summary": "Body-camera footage released in police shooting of Mississippi 1-year-old as",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Body-camera footage released in police shooting of Mississippi 1-year-old as family speaks out",
+        "article_url": "https://abc7ny.com/story/body-camera-footage-released-police-shooting-miss-1-year-old-kohen-wiley-family-speaks/19971972/",
+        "published_at": "2026-10-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-23T14:01:59.110945+00:00",
+      "verification": {
+        "article_title": "Body-camera footage released in police shooting of Mississippi 1-year-old as family speaks out",
+        "article_url": "https://abc7ny.com/story/body-camera-footage-released-police-shooting-miss-1-year-old-kohen-wiley-family-speaks/19971972/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-23T14:01:57.739792+00:00"
+      }
+    },
+    {
+      "headline": "Mother of toddler found breathing in hospital morgue after being",
+      "bullets": [
+        "Vincent Fiordilino was declared dead \"in error,\" the police report said.",
+        "The mother of a toddler who was found breathing in a hospital morgue hours after being pronounced dead is speaking out about the shocking incident."
+      ],
+      "summary": "Mother of toddler found breathing in hospital morgue after being",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Mother of toddler found breathing in hospital morgue after being declared dead speaks out",
+        "article_url": "https://abc7ny.com/story/mother-toddler-found-breathing-hospital-morgue-being-declared-dead-speaks/19970327/",
+        "published_at": "2026-10-22"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-23T14:01:59.172101+00:00",
+      "verification": {
+        "article_title": "Mother of toddler found breathing in hospital morgue after being declared dead speaks out",
+        "article_url": "https://abc7ny.com/story/mother-toddler-found-breathing-hospital-morgue-being-declared-dead-speaks/19970327/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-23T14:01:57.835796+00:00"
+      }
+    },
+    {
+      "headline": "Disturbing details of Christa Pike's failed execution revealed in new",
+      "bullets": [
+        "The Tennessee execution team members tasked with putting working IV lines in Christa Pike\u2019s arms warned that some of her veins had likely \"blown\" before she was injected with two lethal doses of pentobarbital.",
+        "The disturbing new details of Pike\u2019s botched execution were revealed in new court documents filed by Pike\u2019s attorney this week."
+      ],
+      "summary": "Disturbing details of Christa Pike's failed execution revealed in new",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Disturbing details of Christa Pike's failed execution revealed in new court filings",
+        "article_url": "https://www.fox5ny.com/news/disturbing-details-christa-pikes-failed-execution-revealed-new-court-filings",
+        "published_at": "2026-10-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-23T14:01:59.233109+00:00",
+      "verification": {
+        "article_title": "Disturbing details of Christa Pike's failed execution revealed in new court filings",
+        "article_url": "https://www.fox5ny.com/news/disturbing-details-christa-pikes-failed-execution-revealed-new-court-filings",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-23T14:01:57.961283+00:00"
+      }
+    },
+    {
+      "headline": "If you missed the attorney general debate",
+      "bullets": [
+        "Most New Yorkers didn\u2019t watch the attorney general debate on NY1 this month.",
+        "You were working a double, getting the kids fed, or waiting on a platform for a train that wasn\u2019t coming."
+      ],
+      "summary": "If you missed the attorney general debate",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "If you missed the attorney general debate",
+        "article_url": "https://www.nydailynews.com/2026/10/23/if-you-missed-the-attorney-general-debate/",
+        "published_at": "2026-10-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-23T14:01:59.289209+00:00",
+      "verification": {
+        "article_title": "If you missed the attorney general debate",
+        "article_url": "https://www.nydailynews.com/2026/10/23/if-you-missed-the-attorney-general-debate/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-23T14:01:58.026313+00:00"
+      }
+    },
+    {
+      "headline": "New study reveals why dangerous fungus is so difficult to",
+      "bullets": [
+        "Researchers have discovered a previously unknown mechanism that allows the potentially deadly fungus Candida auris to survive antifungal treatment, potentially opening the door to new ways of tackling drug-resistant infections.",
+        "The study, led by the University of Exeter and City St George\u2019s, University of London, found that the fungus can create multiple copies of its entire genome and may increase its chances of developing mutations that help it evade drugs."
+      ],
+      "summary": "New study reveals why dangerous fungus is so difficult to",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "New study reveals why dangerous fungus is so difficult to treat",
+        "article_url": "https://www.fox5ny.com/news/study-candida-auris-dangerous-fungus-difficult-treat",
+        "published_at": "2026-10-22"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-23T14:01:59.357005+00:00",
+      "verification": {
+        "article_title": "New study reveals why dangerous fungus is so difficult to treat",
+        "article_url": "https://www.fox5ny.com/news/study-candida-auris-dangerous-fungus-difficult-treat",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-23T14:01:58.090691+00:00"
+      }
+    },
+    {
+      "headline": "Family of GWB shooting victim blasts \"miscarriage of justice\" after",
+      "bullets": [
+        "Victor Romero, a retired NYPD detective accused in a , appeared in court Thursday to face a manslaughter charge.",
+        "A judge set $1 million bail."
+      ],
+      "summary": "Family of GWB shooting victim blasts \"miscarriage of justice\" after",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Family of GWB shooting victim blasts \"miscarriage of justice\" after alleged gunman faces manslaughter charge, granted bail",
+        "article_url": "https://www.cbsnews.com/newyork/news/suspect-in-deadly-george-washington-bridge-shooting-appears-in-court/",
+        "published_at": "2026-10-22"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-23T14:01:59.412798+00:00",
+      "verification": {
+        "article_title": "Family of GWB shooting victim blasts \"miscarriage of justice\" after alleged gunman faces manslaughter charge, granted bail",
+        "article_url": "https://www.cbsnews.com/newyork/news/suspect-in-deadly-george-washington-bridge-shooting-appears-in-court/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-23T14:01:58.149251+00:00"
+      }
+    },
+    {
+      "headline": "In the algorithm age, NYC college radio DJs are still",
+      "bullets": [
+        "This column originally appeared in the Looped In NYC newsletter.",
+        "Sign up here."
+      ],
+      "summary": "In the algorithm age, NYC college radio DJs are still",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "In the algorithm age, NYC college radio DJs are still broadcasting the funky stuff",
+        "article_url": "https://gothamist.com/arts-entertainment/in-the-algorithm-age-nyc-college-radio-djs-are-still-broadcasting-the-funky-stuff",
+        "published_at": "2026-10-22T15:18:09+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-23T14:01:59.470961+00:00",
+      "verification": {
+        "article_title": "In the algorithm age, NYC college radio DJs are still broadcasting the funky stuff",
+        "article_url": "https://gothamist.com/arts-entertainment/in-the-algorithm-age-nyc-college-radio-djs-are-still-broadcasting-the-funky-stuff",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-23T14:01:58.241749+00:00"
+      }
+    },
+    {
+      "headline": "Why are rising costs weighing so heavily on New Jersey",
+      "bullets": [
+        "NEW YORK - Do you feel like you can't leave your house these days without spending at least $100?",
+        "You're not imagining it."
+      ],
+      "summary": "Why are rising costs weighing so heavily on New Jersey",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Why are rising costs weighing so heavily on New Jersey voters?",
+        "article_url": "https://www.fox5ny.com/news/why-rising-costs-weighing-so-heavily-new-jersey-voters",
+        "published_at": "2026-10-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-23T14:01:59.533247+00:00",
+      "verification": {
+        "article_title": "Why are rising costs weighing so heavily on New Jersey voters?",
+        "article_url": "https://www.fox5ny.com/news/why-rising-costs-weighing-so-heavily-new-jersey-voters",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-23T14:01:58.314659+00:00"
+      }
+    },
+    {
+      "headline": "Your guide to voting in New York's 2026 elections for",
+      "bullets": [
+        "Election Day is Nov.",
+        "3, and it\u2019s time to choose New York\u2019s next governor, attorney general, and congressmembers."
+      ],
+      "summary": "Your guide to voting in New York's 2026 elections for",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Your guide to voting in New York's 2026 elections for governor and Congress",
+        "article_url": "https://gothamist.com/news/your-guide-to-voting-in-new-yorks-2026-elections-for-governor-and-congress",
+        "published_at": "2026-10-23T10:30:43+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-23T14:01:59.598974+00:00",
+      "verification": {
+        "article_title": "Your guide to voting in New York's 2026 elections for governor and Congress",
+        "article_url": "https://gothamist.com/news/your-guide-to-voting-in-new-yorks-2026-elections-for-governor-and-congress",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-23T14:01:58.373152+00:00"
+      }
+    },
+    {
+      "headline": "Boy, 17, arrested for shooting man to death in Midtown",
+      "bullets": [
+        "A 17-year-old boy has been arrested for shooting a man to death as they quarreled at a Midtown Manhattan subway station, police said Thursday.",
+        "The teen, Xavian Collins, who has no criminal history, surrendered with his lawyer early Thursday, police said."
+      ],
+      "summary": "Boy, 17, arrested for shooting man to death in Midtown",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Boy, 17, arrested for shooting man to death in Midtown Manhattan subway station",
+        "article_url": "https://www.nydailynews.com/2026/10/22/boy-17-arrested-for-shooting-darrel-rodriguez-to-death-in-manhattan-subway-station/",
+        "published_at": "2026-10-22T23:19:08+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-23T14:01:59.666388+00:00",
+      "verification": {
+        "article_title": "Boy, 17, arrested for shooting man to death in Midtown Manhattan subway station",
+        "article_url": "https://www.nydailynews.com/2026/10/22/boy-17-arrested-for-shooting-darrel-rodriguez-to-death-in-manhattan-subway-station/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-23T14:01:58.432891+00:00"
+      }
+    },
+    {
+      "headline": "Jersey City housing development deal expected to send money to",
+      "bullets": [
+        "Work is underway on a Jersey City housing development that promises to boost affordable housing options and transform a vacant, contaminated tract of land into a hub of urban renewal.",
+        "The project\u2019s developers will receive major incentives for the project, including the first city tax abatement approved under Mayor James Solomon."
+      ],
+      "summary": "Jersey City housing development deal expected to send money to",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Jersey City housing development deal expected to send money to schools, city government",
+        "article_url": "https://gothamist.com/news/jersey-city-housing-development-deal-expected-to-send-money-to-schools-city-government",
+        "published_at": "2026-10-22T15:30:56+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-23T14:01:59.729599+00:00",
+      "verification": {
+        "article_title": "Jersey City housing development deal expected to send money to schools, city government",
+        "article_url": "https://gothamist.com/news/jersey-city-housing-development-deal-expected-to-send-money-to-schools-city-government",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-23T14:01:58.506755+00:00"
+      }
+    }
+  ]
+}
