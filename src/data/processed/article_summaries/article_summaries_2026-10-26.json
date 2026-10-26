@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-10-26T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-10-26.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Lula\u2019s win in Brazil bucks a regional shift to the",
+      "bullets": [
+        "BUENOS AIRES, Argentina -- Brazilian voters have denied Latin America\u2019s resurgent right its ultimate prize, snapping a streak of seven straight conservative presidential victories in 18 months.",
+        "The stunning triumph of leftist incumbent President Luiz In\u00e1cio Lula da Silva over Fl\u00e1vio Bolsonaro on Sunday, with 51.8% of the vote to 48.2%, limits U.S."
+      ],
+      "summary": "Lula\u2019s win in Brazil bucks a regional shift to the",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Lula\u2019s win in Brazil bucks a regional shift to the right and denies Trump a powerful ally",
+        "article_url": "https://abc7ny.com/story/lulas-win-brazil-bucks-regional-shift-denies-trump-powerful-ally/19980593/",
+        "published_at": "2026-10-26"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-26T15:43:25.416047+00:00",
+      "verification": {
+        "article_title": "Lula\u2019s win in Brazil bucks a regional shift to the right and denies Trump a powerful ally",
+        "article_url": "https://abc7ny.com/story/lulas-win-brazil-bucks-regional-shift-denies-trump-powerful-ally/19980593/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-26T15:43:23.935959+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on the specter of AI, subway signals",
+      "bullets": [
+        "Trump calling it a hoax marks it as true Bronx: In his speech before the UN on Sept.",
+        "22, President Trump referred for the umpteenth time to what he has for the past decade labeled the \u201cRussia hoax.\u201d But there\u2019s no doubt that Russia interfered with the 2016 presidential election."
+      ],
+      "summary": "Readers sound off on the specter of AI, subway signals",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on the specter of AI, subway signals and psychology of violence",
+        "article_url": "https://www.nydailynews.com/2026/10/26/readers-sound-off-on-the-specter-of-ai-subway-signals-and-psychology-of-violence/",
+        "published_at": "2026-10-26"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-26T15:43:25.475717+00:00",
+      "verification": {
+        "article_title": "Readers sound off on the specter of AI, subway signals and psychology of violence",
+        "article_url": "https://www.nydailynews.com/2026/10/26/readers-sound-off-on-the-specter-of-ai-subway-signals-and-psychology-of-violence/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-26T15:43:24.051728+00:00"
+      }
+    },
+    {
+      "headline": "Stepping forward to govern New York IRL",
+      "bullets": [
+        "New York City has always had a strong mayor system.",
+        "Usually, it works well \u2014 one person is responsible and accountable for results."
+      ],
+      "summary": "Stepping forward to govern New York IRL",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Stepping forward to govern New York IRL",
+        "article_url": "https://www.nydailynews.com/2026/10/26/stepping-forward-to-govern-new-york-irl/",
+        "published_at": "2026-10-26"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-26T15:43:25.535680+00:00",
+      "verification": {
+        "article_title": "Stepping forward to govern New York IRL",
+        "article_url": "https://www.nydailynews.com/2026/10/26/stepping-forward-to-govern-new-york-irl/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-26T15:43:24.146232+00:00"
+      }
+    },
+    {
+      "headline": "Congressional District 12 Election: Caroline Shinkle vs. Micah Lasher",
+      "bullets": [
+        "Congressional District 12 Election: Caroline Shinkle vs.",
+        "Micah Lasher The contest to succeed Jerry Nadler pits a finance expert and corporate attorney, Shinkle, against Lasher, currently an Assembly member representing the UWS but with a long background as a Demoratic aide and strategist."
+      ],
+      "summary": "Congressional District 12 Election: Caroline Shinkle vs. Micah Lasher",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Congressional District 12 Election: Caroline Shinkle vs. Micah Lasher",
+        "article_url": "https://www.ourtownny.com/news/congressional-district-12-election-caroline-shinkle-vs-micah-lasher-AF6315046",
+        "published_at": "2026-10-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-26T15:43:25.714943+00:00",
+      "verification": {
+        "article_title": "Congressional District 12 Election: Caroline Shinkle vs. Micah Lasher",
+        "article_url": "https://www.ourtownny.com/news/congressional-district-12-election-caroline-shinkle-vs-micah-lasher-AF6315046",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-26T15:43:24.219993+00:00"
+      }
+    },
+    {
+      "headline": "Still Setting the Table: Il Gattopardo Celebrates 25 Years",
+      "bullets": [
+        "Still Setting the Table: Il Gattopardo Celebrates 25 Years Opening just days after the September 11 attacks, the Midtown Italian restaurant has weathered economic crises, personal loss and a pandemic while preserving its commitment to family, tradition and hospitality.",
+        "At Il Gattopardo, freshly prepared pasta arrives beneath a delicate layer of grated cheese, while rustic bread and golden olive oil grace white-clothed tables."
+      ],
+      "summary": "Still Setting the Table: Il Gattopardo Celebrates 25 Years",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Still Setting the Table: Il Gattopardo Celebrates 25 Years",
+        "article_url": "https://www.ourtownny.com/food-drink/still-setting-the-table-il-gattopardo-celebrates-25-years-KC6316509",
+        "published_at": "2026-10-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-26T15:43:25.798376+00:00",
+      "verification": {
+        "article_title": "Still Setting the Table: Il Gattopardo Celebrates 25 Years",
+        "article_url": "https://www.ourtownny.com/food-drink/still-setting-the-table-il-gattopardo-celebrates-25-years-KC6316509",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-26T15:43:24.323742+00:00"
+      }
+    },
+    {
+      "headline": "Women's wellness experiences: What's behind their popularity",
+      "bullets": [
+        "People participate in 510 Society's Trap Yoga event.",
+        "Photo: Joey Trinh ALAMEDA, Calif."
+      ],
+      "summary": "Women's wellness experiences: What's behind their popularity",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Women's wellness experiences: What's behind their popularity",
+        "article_url": "https://www.fox5ny.com/news/womens-wellness-experiences-popularity",
+        "published_at": "2026-10-23"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-26T15:43:25.858117+00:00",
+      "verification": {
+        "article_title": "Women's wellness experiences: What's behind their popularity",
+        "article_url": "https://www.fox5ny.com/news/womens-wellness-experiences-popularity",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-26T15:43:24.416144+00:00"
+      }
+    },
+    {
+      "headline": "Anthropic set to make stock market debut as questions swirl",
+      "bullets": [
+        "SAN FRANCISCO -- Anthropic filed for an initial public offering Monday in what could become one of the largest stock market debuts in history \u2014 even as its CEO has warned that the advanced AI that the company and its competitors create poses an existential risk to humanity.",
+        "Anthropic, the US-based company behind the Claude chatbot, did not disclose in its filing with the Securities and Exchange Commission how many shares it intends to sell nor at what price."
+      ],
+      "summary": "Anthropic set to make stock market debut as questions swirl",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Anthropic set to make stock market debut as questions swirl about safety of AI",
+        "article_url": "https://abc7ny.com/post/anthropic-set-make-stock-market-debut-questions-swirl-safety-ai/19980936/",
+        "published_at": "2026-10-26"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-26T15:43:25.916542+00:00",
+      "verification": {
+        "article_title": "Anthropic set to make stock market debut as questions swirl about safety of AI",
+        "article_url": "https://abc7ny.com/post/anthropic-set-make-stock-market-debut-questions-swirl-safety-ai/19980936/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-26T15:43:24.480916+00:00"
+      }
+    },
+    {
+      "headline": "America's most famous real-life haunted places \u2014 10 frightening locations",
+      "bullets": [
+        "Every October, crowds pack pumpkin patches and costume aisles to seek out a good low-stakes fright for the seasonal theme.",
+        "However, for many places around the country it is not all fun and games."
+      ],
+      "summary": "America's most famous real-life haunted places \u2014 10 frightening locations",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "America's most famous real-life haunted places \u2014 10 frightening locations",
+        "article_url": "https://www.fox5ny.com/news/10-americas-real-life-most-haunted-houses",
+        "published_at": "2026-10-26"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-26T15:43:26.033398+00:00",
+      "verification": {
+        "article_title": "America's most famous real-life haunted places \u2014 10 frightening locations",
+        "article_url": "https://www.fox5ny.com/news/10-americas-real-life-most-haunted-houses",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-26T15:43:24.599047+00:00"
+      }
+    },
+    {
+      "headline": "AI robocars are a threat to public safety",
+      "bullets": [
+        "This past July, the National Highway Traffic Safety Administration warned autonomous vehicle developers about \u201ca clear pattern\u201d of driverless cars interfering with police officers, firefighters and other first responders, urging companies to address the problem immediately.",
+        "The warning comes after a growing series of real-world incidents that raise serious questions about the tendency for these vehicles to make complex emergency situations worse."
+      ],
+      "summary": "AI robocars are a threat to public safety",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "AI robocars are a threat to public safety",
+        "article_url": "https://www.nydailynews.com/2026/10/26/ai-robocars-are-a-threat-to-public-safety/",
+        "published_at": "2026-10-26"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-26T15:43:26.098726+00:00",
+      "verification": {
+        "article_title": "AI robocars are a threat to public safety",
+        "article_url": "https://www.nydailynews.com/2026/10/26/ai-robocars-are-a-threat-to-public-safety/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-26T15:43:24.663437+00:00"
+      }
+    },
+    {
+      "headline": "15-year-old arrested in Florida shooting that injured 12 near FAMU",
+      "bullets": [
+        "TALLAHASSEE, Fla.",
+        "- A 15-year-old boy has been arrested in connection with a shooting in Tallahassee that injured 12 people, including six minors, near Florida A&M University's football stadium, according to the Tallahassee Police Department."
+      ],
+      "summary": "15-year-old arrested in Florida shooting that injured 12 near FAMU",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "15-year-old arrested in Florida shooting that injured 12 near FAMU stadium: Police",
+        "article_url": "https://www.fox5ny.com/news/15-year-old-arrested-florida-shooting-injured-12-near-famu-stadium-police",
+        "published_at": "2026-10-26"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-26T15:43:26.157169+00:00",
+      "verification": {
+        "article_title": "15-year-old arrested in Florida shooting that injured 12 near FAMU stadium: Police",
+        "article_url": "https://www.fox5ny.com/news/15-year-old-arrested-florida-shooting-injured-12-near-famu-stadium-police",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-26T15:43:24.728208+00:00"
+      }
+    },
+    {
+      "headline": "What NYers can expect as open enrollment for health insurance",
+      "bullets": [
+        "Many New Yorkers will face higher health insurance costs for the coming year as open enrollment gets underway.",
+        "New Yorkers not covered by employer-based insurance can shop for health insurance for 2027 on the state marketplace starting on Nov."
+      ],
+      "summary": "What NYers can expect as open enrollment for health insurance",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "What NYers can expect as open enrollment for health insurance begins",
+        "article_url": "https://gothamist.com/news/what-nyers-can-expect-as-open-enrollment-for-health-insurance-begins",
+        "published_at": "2026-10-26T10:00:56+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-26T15:43:26.252853+00:00",
+      "verification": {
+        "article_title": "What NYers can expect as open enrollment for health insurance begins",
+        "article_url": "https://gothamist.com/news/what-nyers-can-expect-as-open-enrollment-for-health-insurance-begins",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-26T15:43:24.789604+00:00"
+      }
+    },
+    {
+      "headline": "NYPD officer shoots armed woman inside Queens home during response",
+      "bullets": [
+        "NEW YORK - An NYPD officer shot an armed woman inside a Queens home late Friday night after officers responding to a reported home invasion and stabbing encountered a chaotic scene with multiple injured people, according to authorities.",
+        "What Happened: Officers arrived at a residence on 149th Street within the 113th Precinct at approximately 9:44 p.m."
+      ],
+      "summary": "NYPD officer shoots armed woman inside Queens home during response",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "NYPD officer shoots armed woman inside Queens home during response to stabbing, home invasion",
+        "article_url": "https://www.fox5ny.com/news/nypd-officer-shoots-armed-woman-inside-queens-home-during-response-stabbing-home-invasion",
+        "published_at": "2026-10-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-26T15:43:26.314519+00:00",
+      "verification": {
+        "article_title": "NYPD officer shoots armed woman inside Queens home during response to stabbing, home invasion",
+        "article_url": "https://www.fox5ny.com/news/nypd-officer-shoots-armed-woman-inside-queens-home-during-response-stabbing-home-invasion",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-26T15:43:24.854940+00:00"
+      }
+    },
+    {
+      "headline": "Suspect detained after fire devastates Hitler's mountaintop Eagle's Nest retreat",
+      "bullets": [
+        "Authorities said Saturday that a man was arrested on suspicion of arson.",
+        "A fire swept through the mountaintop retreat built for Adolf Hitler and known as the Eagle's Nest as emergency services struggled to tackle the blaze in snow and wind, and a man was arrested on suspicion of arson, authorities said Saturday."
+      ],
+      "summary": "Suspect detained after fire devastates Hitler's mountaintop Eagle's Nest retreat",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Suspect detained after fire devastates Hitler's mountaintop Eagle's Nest retreat in Germany",
+        "article_url": "https://abc7ny.com/story/suspect-detained-fire-devastates-adolf-hitlers-mountaintop-eagles-nest-retreat-bavarian-alps-germany/19980647/",
+        "published_at": "2026-10-26"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-26T15:43:26.372139+00:00",
+      "verification": {
+        "article_title": "Suspect detained after fire devastates Hitler's mountaintop Eagle's Nest retreat in Germany",
+        "article_url": "https://abc7ny.com/story/suspect-detained-fire-devastates-adolf-hitlers-mountaintop-eagles-nest-retreat-bavarian-alps-germany/19980647/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-26T15:43:24.927491+00:00"
+      }
+    },
+    {
+      "headline": "Rick Pitino: St. John\u2019s still has \u2018long way to go\u2019",
+      "bullets": [
+        "No.",
+        "13 St."
+      ],
+      "summary": "Rick Pitino: St. John\u2019s still has \u2018long way to go\u2019",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Rick Pitino: St. John\u2019s still has \u2018long way to go\u2019 after undefeated preseason, win over No. 7 Texas",
+        "article_url": "https://www.nydailynews.com/2026/10/25/rick-pitino-st-johns-preseason-win-texas/",
+        "published_at": "2026-10-25"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-26T15:43:26.432752+00:00",
+      "verification": {
+        "article_title": "Rick Pitino: St. John\u2019s still has \u2018long way to go\u2019 after undefeated preseason, win over No. 7 Texas",
+        "article_url": "https://www.nydailynews.com/2026/10/25/rick-pitino-st-johns-preseason-win-texas/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-26T15:43:25.011326+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on the specter of AI, subway signals",
+      "bullets": [
+        "Trump calling it a hoax marks it as true Bronx: In his speech before the UN on Sept.",
+        "22, President Trump referred for the umpteenth time to what he has for the past decade labeled the \u201cRussia hoax.\u201d But there\u2019s no doubt that Russia interfered with the 2016 presidential election."
+      ],
+      "summary": "Readers sound off on the specter of AI, subway signals",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on the specter of AI, subway signals and psychology of violence",
+        "article_url": "https://www.nydailynews.com/2026/10/26/readers-sound-off-on-the-specter-of-ai-subway-signals-and-psychology-of-violence/",
+        "published_at": "2026-10-26"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-26T15:43:26.490512+00:00",
+      "verification": {
+        "article_title": "Readers sound off on the specter of AI, subway signals and psychology of violence",
+        "article_url": "https://www.nydailynews.com/2026/10/26/readers-sound-off-on-the-specter-of-ai-subway-signals-and-psychology-of-violence/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-26T15:43:25.071620+00:00"
+      }
+    },
+    {
+      "headline": "Fall foliage 2026: Where to see peak autumn colors in",
+      "bullets": [
+        "Here's where to find the best fall foliage 2026 across New York, Connecticut and New Jersey, and other parts of the country.",
+        "NEW YORK (WABC) -- The 2026 fall foliage season is here."
+      ],
+      "summary": "Fall foliage 2026: Where to see peak autumn colors in",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Fall foliage 2026: Where to see peak autumn colors in New York, New Jersey and Connecticut",
+        "article_url": "https://abc7ny.com/post/fall-foliage-map-2026-peak-colors-ny-nj-ct-autumn/19854939/",
+        "published_at": "2026-09-21"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-26T15:43:26.554681+00:00",
+      "verification": {
+        "article_title": "Fall foliage 2026: Where to see peak autumn colors in New York, New Jersey and Connecticut",
+        "article_url": "https://abc7ny.com/post/fall-foliage-map-2026-peak-colors-ny-nj-ct-autumn/19854939/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-26T15:43:25.169700+00:00"
+      }
+    },
+    {
+      "headline": "Anthropic files for potentially the biggest IPO ever even as",
+      "bullets": [
+        "By BARBARA ORTUTAY and BERNARD CONDON SAN FRANCISCO (AP) \u2014 Artificial intelligence giant Anthropic filed papers Monday for what could be the biggest initial public offering of stock ever even as its top executive warns that advanced AI could pose an existential threat to humanity.",
+        "The filing sets up the San Francisco company for a Wall Street debut next month, potentially eclipsing the SpaceX initial public offering in June that raised a record $86 billion."
+      ],
+      "summary": "Anthropic files for potentially the biggest IPO ever even as",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Anthropic files for potentially the biggest IPO ever even as CEO warns of risk to humanity from AI",
+        "article_url": "https://www.nydailynews.com/2026/10/26/anthropic-stock-ipo-prepare-wall-street/",
+        "published_at": "2026-10-26T15:32:53+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-26T15:43:26.616060+00:00",
+      "verification": {
+        "article_title": "Anthropic files for potentially the biggest IPO ever even as CEO warns of risk to humanity from AI",
+        "article_url": "https://www.nydailynews.com/2026/10/26/anthropic-stock-ipo-prepare-wall-street/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-26T15:43:25.229320+00:00"
+      }
+    },
+    {
+      "headline": "AMC wants to keep Kips Bay movie theater but NYU",
+      "bullets": [
+        "The owner of the AMC movie theater in Kips Bay is pleading to keep the curtain from falling on the beloved Manhattan cinema \u2014 but says NYU just wants them gone.",
+        "The 15-screen movie house, located in a two-story retail strip at Second Ave."
+      ],
+      "summary": "AMC wants to keep Kips Bay movie theater but NYU",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "AMC wants to keep Kips Bay movie theater but NYU wants them out",
+        "article_url": "https://www.nydailynews.com/2026/10/25/ceo-amc-wants-keep-kips-bay-movie-theater-nyu-wants-gone/",
+        "published_at": "2026-10-26T13:25:33+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-26T15:43:26.685670+00:00",
+      "verification": {
+        "article_title": "AMC wants to keep Kips Bay movie theater but NYU wants them out",
+        "article_url": "https://www.nydailynews.com/2026/10/25/ceo-amc-wants-keep-kips-bay-movie-theater-nyu-wants-gone/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-26T15:43:25.289436+00:00"
+      }
+    }
+  ]
+}
