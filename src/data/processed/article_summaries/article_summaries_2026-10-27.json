@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-10-27T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-10-27.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Election Q&A: Meet NY-12 Candidate Micah Lasher",
+      "bullets": [
+        "Election Q&A: Meet NY-12 Candidate Micah Lasher Patch posed several questions to congressional candidate Micah Lasher ahead of the District 12 election this November.",
+        "UPPER EAST SIDE, NY \u2014 Democratic candidate Micah Lasher is running for Congress in District 12, which includes the Upper West Side, Upper East Side, Roosevelt Island, Hell's Kitchen, Midtown, Chelsea, NoMad, Flatiron and Union Square, in New York City's general election on Tuesday, Nov."
+      ],
+      "summary": "Election Q&A: Meet NY-12 Candidate Micah Lasher",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Election Q&A: Meet NY-12 Candidate Micah Lasher",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/election-q-meet-ny-12-candidate-micah-lasher",
+        "published_at": "2026-10-26T20:09:55+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-27T15:06:07.870759+00:00",
+      "verification": {
+        "article_title": "Election Q&A: Meet NY-12 Candidate Micah Lasher",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/election-q-meet-ny-12-candidate-micah-lasher",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-27T15:06:06.869160+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on nepotism hypocrisy, bus fare enforcers and",
+      "bullets": [
+        "The grifters\u2019 accusations are confessions Saratoga Springs, N.Y.: It never ceases to amaze me how clever President Voldemort\u2019s handlers appear to be.",
+        "It seems that they are pulling out all the stops in a mad rush to distract the public and help GOP candidates."
+      ],
+      "summary": "Readers sound off on nepotism hypocrisy, bus fare enforcers and",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on nepotism hypocrisy, bus fare enforcers and West Bank terror",
+        "article_url": "https://www.nydailynews.com/2026/10/27/readers-sound-off-on-nepotism-hypocrisy-bus-fare-enforcers-and-west-bank-terror/",
+        "published_at": "2026-10-27"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-27T15:06:07.912471+00:00",
+      "verification": {
+        "article_title": "Readers sound off on nepotism hypocrisy, bus fare enforcers and West Bank terror",
+        "article_url": "https://www.nydailynews.com/2026/10/27/readers-sound-off-on-nepotism-hypocrisy-bus-fare-enforcers-and-west-bank-terror/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-27T15:06:06.935006+00:00"
+      }
+    },
+    {
+      "headline": "NYC Council to weigh changes to juvenile jails as assaults",
+      "bullets": [
+        "Laqasia Tatum has gotten used to feeling helpless since her teenage son entered juvenile detention in March.",
+        "Around 4 a.m."
+      ],
+      "summary": "NYC Council to weigh changes to juvenile jails as assaults",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC Council to weigh changes to juvenile jails as assaults and overcrowding rise",
+        "article_url": "https://gothamist.com/news/nyc-council-to-weigh-changes-to-juvenile-jails-as-assaults-and-overcrowding-rise",
+        "published_at": "2026-10-26T16:10:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-27T15:06:07.954329+00:00",
+      "verification": {
+        "article_title": "NYC Council to weigh changes to juvenile jails as assaults and overcrowding rise",
+        "article_url": "https://gothamist.com/news/nyc-council-to-weigh-changes-to-juvenile-jails-as-assaults-and-overcrowding-rise",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-27T15:06:07.019033+00:00"
+      }
+    },
+    {
+      "headline": "Maurene Comey win proves Trump is not all powerful",
+      "bullets": [
+        "Thank you to fired Manhattan federal prosecutor Maurene Comey for fighting back and winning her lawsuit yesterday that last year\u2019s termination ordered by an angry Donald Trump was not legal and violated the Constitution.",
+        "But, this being the vindictive Trump administration, hours later, the Department of Justice filed clearly phony criminal charges against her dad, former FBI Director Jim Comey, for the third time, after the first two specious cases collapsed."
+      ],
+      "summary": "Maurene Comey win proves Trump is not all powerful",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Maurene Comey win proves Trump is not all powerful",
+        "article_url": "https://www.nydailynews.com/2026/10/27/maurene-comey-win-proves-trump-is-not-all-powerful/",
+        "published_at": "2026-10-27"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-27T15:06:07.998281+00:00",
+      "verification": {
+        "article_title": "Maurene Comey win proves Trump is not all powerful",
+        "article_url": "https://www.nydailynews.com/2026/10/27/maurene-comey-win-proves-trump-is-not-all-powerful/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-27T15:06:07.063395+00:00"
+      }
+    },
+    {
+      "headline": "Risks spelled out for Anthropic investors include possible harms from",
+      "bullets": [
+        "Any time a company looks to start selling shares on Wall Street, it\u2019s required to disclose potential risks for investors.",
+        "In the case of artificial intelligence giant Anthropic, that has included the possibility that its products could threaten nothing less than humanity itself."
+      ],
+      "summary": "Risks spelled out for Anthropic investors include possible harms from",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Risks spelled out for Anthropic investors include possible harms from runaway AI",
+        "article_url": "https://abc7ny.com/story/risks-spelled-anthropic-investors-include-possible-harms-runaway-ai/19984698/",
+        "published_at": "2026-10-27"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-27T15:06:08.046163+00:00",
+      "verification": {
+        "article_title": "Risks spelled out for Anthropic investors include possible harms from runaway AI",
+        "article_url": "https://abc7ny.com/story/risks-spelled-anthropic-investors-include-possible-harms-runaway-ai/19984698/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-27T15:06:07.106331+00:00"
+      }
+    },
+    {
+      "headline": "J.J. McCarthy\u2019s win over Texans opens door to intriguing Giant",
+      "bullets": [
+        "J.J.",
+        "McCarthy\u2019s winning performance in Houston opened the door to the possibility that the Giants may have found something in the former Minnesota Vikings first-round pick."
+      ],
+      "summary": "J.J. McCarthy\u2019s win over Texans opens door to intriguing Giant",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "J.J. McCarthy\u2019s win over Texans opens door to intriguing Giant possibilities",
+        "article_url": "https://www.nydailynews.com/2026/10/26/j-j-mccarthys-win-over-texans-opens-door-to-intriguing-giant-possibilities/",
+        "published_at": "2026-10-26"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-27T15:06:08.090037+00:00",
+      "verification": {
+        "article_title": "J.J. McCarthy\u2019s win over Texans opens door to intriguing Giant possibilities",
+        "article_url": "https://www.nydailynews.com/2026/10/26/j-j-mccarthys-win-over-texans-opens-door-to-intriguing-giant-possibilities/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-27T15:06:07.151327+00:00"
+      }
+    },
+    {
+      "headline": "NJ among 20 states suing Dollar General for millions of",
+      "bullets": [
+        "NEW JERSEY - Ever grab a deal off the shelf at Dollar General, only to realize you paid more at the register?",
+        "You aren't alone."
+      ],
+      "summary": "NJ among 20 states suing Dollar General for millions of",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "NJ among 20 states suing Dollar General for millions of hidden register markups: FTC",
+        "article_url": "https://www.fox5ny.com/news/nj-among-20-states-suing-dollar-general-millions-hidden-register-markups-ftc",
+        "published_at": "2026-10-27"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-27T15:06:08.156882+00:00",
+      "verification": {
+        "article_title": "NJ among 20 states suing Dollar General for millions of hidden register markups: FTC",
+        "article_url": "https://www.fox5ny.com/news/nj-among-20-states-suing-dollar-general-millions-hidden-register-markups-ftc",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-27T15:06:07.259061+00:00"
+      }
+    },
+    {
+      "headline": "3 Firefighters Hurt In 2 UES Fires Hours Apart",
+      "bullets": [
+        "3 Firefighters Hurt In 2 UES Fires Hours Apart Both fires are under investigation, officials said.",
+        "UPPER EAST SIDE, NY \u2014 Three firefighters were injured in two separate fires on the Upper East Side Sunday night through Monday morning, FDNY officials told Patch."
+      ],
+      "summary": "3 Firefighters Hurt In 2 UES Fires Hours Apart",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "3 Firefighters Hurt In 2 UES Fires Hours Apart",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/3-firefighters-hurt-2-ues-fires-hours-apart",
+        "published_at": "2026-10-26T21:05:07+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-27T15:06:08.198778+00:00",
+      "verification": {
+        "article_title": "3 Firefighters Hurt In 2 UES Fires Hours Apart",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/3-firefighters-hurt-2-ues-fires-hours-apart",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-27T15:06:07.303439+00:00"
+      }
+    },
+    {
+      "headline": "Convicted murderer escapes Tennessee prison: Authorities",
+      "bullets": [
+        "Jacob Morley, 28, was serving a life sentence for first-degree murder.",
+        "Authorities are searching for 28-year-old Jacob Morley, a convicted murderer who escaped from a Tennessee prison, the Tennessee Department of Correction (TDOC) announced Monday."
+      ],
+      "summary": "Convicted murderer escapes Tennessee prison: Authorities",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Convicted murderer escapes Tennessee prison: Authorities",
+        "article_url": "https://abc7ny.com/story/convicted-murderer-escapes-tennessee-prison-authorities/19981623/",
+        "published_at": "2026-10-26"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-27T15:06:08.237671+00:00",
+      "verification": {
+        "article_title": "Convicted murderer escapes Tennessee prison: Authorities",
+        "article_url": "https://abc7ny.com/story/convicted-murderer-escapes-tennessee-prison-authorities/19981623/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-27T15:06:07.344098+00:00"
+      }
+    },
+    {
+      "headline": "Crips member who terrorized Brooklyn housing project convicted of killing",
+      "bullets": [
+        "A Brooklyn Crips member who executed the leader of his own gang to avenge his best friend\u2019s death and then wrote about it in an unpublished memoir was found guilty Monday of murder.",
+        "Jason \u201cTwin\u201d Soto, 37, a top member of the Cypress Gangsta Crips, faces a mandatory life sentence after a Brooklyn Federal Court jury found him guilty Monday of murder in-aid-of racketeering, causing the 2015 firearm death of gang leader Shakim \u201cStacks\u201d Rivera, and possession with intent to distribute cocaine."
+      ],
+      "summary": "Crips member who terrorized Brooklyn housing project convicted of killing",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Crips member who terrorized Brooklyn housing project convicted of killing gang leader",
+        "article_url": "https://www.nydailynews.com/2026/10/26/crips-member-who-terrorized-brooklyn-housing-project-convicted-of-killing-gang-leader/",
+        "published_at": "2026-10-26T20:50:14+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-27T15:06:08.279457+00:00",
+      "verification": {
+        "article_title": "Crips member who terrorized Brooklyn housing project convicted of killing gang leader",
+        "article_url": "https://www.nydailynews.com/2026/10/26/crips-member-who-terrorized-brooklyn-housing-project-convicted-of-killing-gang-leader/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-27T15:06:07.386697+00:00"
+      }
+    },
+    {
+      "headline": "Suicides decline in NYC, but inequities persist across groups",
+      "bullets": [
+        "Newly released data on suicides in New York City shows an overall decline in deaths, according to the city health department, but also inequities persist across gender, age, race and ethnicity.",
+        "Suicide deaths fell from a peak of 601 in 2022 to 535 in 2024, according to the data."
+      ],
+      "summary": "Suicides decline in NYC, but inequities persist across groups",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Suicides decline in NYC, but inequities persist across groups",
+        "article_url": "https://gothamist.com/news/suicides-decline-in-nyc-but-inequities-persist-across-groups",
+        "published_at": "2026-10-27T13:44:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-27T15:06:08.326090+00:00",
+      "verification": {
+        "article_title": "Suicides decline in NYC, but inequities persist across groups",
+        "article_url": "https://gothamist.com/news/suicides-decline-in-nyc-but-inequities-persist-across-groups",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-27T15:06:07.429900+00:00"
+      }
+    },
+    {
+      "headline": "Election Q&A: Meet NY-12 Candidate Micah Lasher",
+      "bullets": [
+        "Election Q&A: Meet NY-12 Candidate Micah Lasher Patch posed several questions to congressional candidate Micah Lasher ahead of the District 12 election this November.",
+        "UPPER EAST SIDE, NY \u2014 Democratic candidate Micah Lasher is running for Congress in District 12, which includes the Upper West Side, Upper East Side, Roosevelt Island, Hell's Kitchen, Midtown, Chelsea, NoMad, Flatiron and Union Square, in New York City's general election on Tuesday, Nov."
+      ],
+      "summary": "Election Q&A: Meet NY-12 Candidate Micah Lasher",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Election Q&A: Meet NY-12 Candidate Micah Lasher",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/election-q-meet-ny-12-candidate-micah-lasher",
+        "published_at": "2026-10-26T20:09:55+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-27T15:06:08.368897+00:00",
+      "verification": {
+        "article_title": "Election Q&A: Meet NY-12 Candidate Micah Lasher",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/election-q-meet-ny-12-candidate-micah-lasher",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-27T15:06:07.469989+00:00"
+      }
+    },
+    {
+      "headline": "Mamdani has no plan for NYC\u2019s schools",
+      "bullets": [
+        "The school year started out with a barrage of bad news for public school parents.",
+        "Just as classes were set to begin, we learned that citywide test scores had plummeted and that enrollment was down more than 100,000 students since COVID."
+      ],
+      "summary": "Mamdani has no plan for NYC\u2019s schools",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Mamdani has no plan for NYC\u2019s schools",
+        "article_url": "https://www.nydailynews.com/2026/10/27/mamdani-has-no-plan-for-nycs-schools/",
+        "published_at": "2026-10-27"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-27T15:06:08.410140+00:00",
+      "verification": {
+        "article_title": "Mamdani has no plan for NYC\u2019s schools",
+        "article_url": "https://www.nydailynews.com/2026/10/27/mamdani-has-no-plan-for-nycs-schools/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-27T15:06:07.532961+00:00"
+      }
+    },
+    {
+      "headline": "New York Attorney General Election Pits Komariteddy Against James",
+      "bullets": [
+        "New York Attorney General Election Pits Komariteddy Against James Two women want to be the Empire State\u00e2s top prosecutor.",
+        "The Republican challenger is an Indian-American Harvard Law School grad and former Brooklyn federal prosecutor, Saritha Komariteddy."
+      ],
+      "summary": "New York Attorney General Election Pits Komariteddy Against James",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "New York Attorney General Election Pits Komariteddy Against James",
+        "article_url": "https://www.ourtownny.com/news/new-york-attorney-general-election-pits-komariteddy-against-james-DA6323476",
+        "published_at": "2026-10-26"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-27T15:06:08.468197+00:00",
+      "verification": {
+        "article_title": "New York Attorney General Election Pits Komariteddy Against James",
+        "article_url": "https://www.ourtownny.com/news/new-york-attorney-general-election-pits-komariteddy-against-james-DA6323476",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-27T15:06:07.580415+00:00"
+      }
+    },
+    {
+      "headline": "Seawright Touts \u00e2HEAP\u00e2 Heating Bill Relief For UES Residents",
+      "bullets": [
+        "Seawright Touts \u00e2HEAP\u00e2 Heating Bill Relief For UES Residents Applications for the overlooked Home Energy Assistance Program will be accepted starting on November 2, with benefits ranging from $41 to more than $400.",
+        "The state program would be particularly helpful for some older New Yorkers, she told Our Town."
+      ],
+      "summary": "Seawright Touts \u00e2HEAP\u00e2 Heating Bill Relief For UES Residents",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Seawright Touts \u00e2HEAP\u00e2 Heating Bill Relief For UES Residents",
+        "article_url": "https://www.ourtownny.com/news/seawright-touts-heap-heating-bill-relief-for-ues-residents-BA6323113",
+        "published_at": "2026-10-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-27T15:06:08.512335+00:00",
+      "verification": {
+        "article_title": "Seawright Touts \u00e2HEAP\u00e2 Heating Bill Relief For UES Residents",
+        "article_url": "https://www.ourtownny.com/news/seawright-touts-heap-heating-bill-relief-for-ues-residents-BA6323113",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-27T15:06:07.625341+00:00"
+      }
+    },
+    {
+      "headline": "AccuWeather: Bright but cooler",
+      "bullets": [
+        "AccuWeather forecast for NYC, New York, New Jersey and Connecticut NEW YORK (WABC) -- A brief cooldown arrives Tuesday and Wednesday, though temperatures will stay close to late-October norms.",
+        "Highs will settle into the lower 60s Tuesday before dipping into the upper 50s Wednesday."
+      ],
+      "summary": "AccuWeather: Bright but cooler",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "AccuWeather: Bright but cooler",
+        "article_url": "https://abc7ny.com/nyc-weather-forecast-7-day-temperatures/27410/",
+        "published_at": "2020-02-12"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-27T15:06:08.582786+00:00",
+      "verification": {
+        "article_title": "AccuWeather: Bright but cooler",
+        "article_url": "https://abc7ny.com/nyc-weather-forecast-7-day-temperatures/27410/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-27T15:06:07.670705+00:00"
+      }
+    },
+    {
+      "headline": "Jaw Tension or Looking More Tired? Meet the 20-Minute, Needle-Free",
+      "bullets": [
+        "Jaw Tension or Looking More Tired?",
+        "Meet the 20-Minute, Needle-Free Technology Now on the Upper East Side Two 20-minute, needle-free EMFACE treatments for jaw function or natural-looking facial rejuvenation on the Upper East Side."
+      ],
+      "summary": "Jaw Tension or Looking More Tired? Meet the 20-Minute, Needle-Free",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Jaw Tension or Looking More Tired? Meet the 20-Minute, Needle-Free Technology Now on the Upper East Side",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/jaw-tension-or-looking-more-tired-meet-20-minute-needle-free-technology",
+        "published_at": "2026-10-27T09:52:07+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-27T15:06:08.626279+00:00",
+      "verification": {
+        "article_title": "Jaw Tension or Looking More Tired? Meet the 20-Minute, Needle-Free Technology Now on the Upper East Side",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/jaw-tension-or-looking-more-tired-meet-20-minute-needle-free-technology",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-27T15:06:07.739955+00:00"
+      }
+    },
+    {
+      "headline": "Election Q&A: Meet NY-12 Candidate Karen Ortiz",
+      "bullets": [
+        "Election Q&A: Meet NY-12 Candidate Karen Ortiz Patch posed several questions to congressional candidate Karen Ortiz ahead of the District 12 election this November.",
+        "UPPER EAST SIDE, NY \u2014 Independent candidate Karen Ortiz is running for Congress in District 12, which includes the Upper West Side, Upper East Side, Roosevelt Island, Hell's Kitchen, Midtown, Chelsea, NoMad, Flatiron and Union Square, in New York City's general election on Tuesday, Nov."
+      ],
+      "summary": "Election Q&A: Meet NY-12 Candidate Karen Ortiz",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Election Q&A: Meet NY-12 Candidate Karen Ortiz",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/election-q-meet-ny-12-candidate-karen-ortiz",
+        "published_at": "2026-10-26T20:10:52+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-27T15:06:08.667538+00:00",
+      "verification": {
+        "article_title": "Election Q&A: Meet NY-12 Candidate Karen Ortiz",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/election-q-meet-ny-12-candidate-karen-ortiz",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-27T15:06:07.781432+00:00"
+      }
+    }
+  ]
+}
