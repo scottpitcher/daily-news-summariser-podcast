@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-10-28T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-10-28.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "GOP candidates in NY face a changed landscape on immigration",
+      "bullets": [
+        "Four years ago, as public opinion on immigration plunged and a surge of immigrants crossing the southern border moved to New York, Republican candidates for public office seized on the issue.",
+        "It helped flip four House seats red and narrowed Democrat Gov."
+      ],
+      "summary": "GOP candidates in NY face a changed landscape on immigration",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "GOP candidates in NY face a changed landscape on immigration",
+        "article_url": "https://gothamist.com/news/gop-candidates-in-ny-face-a-changed-landscape-on-immigration",
+        "published_at": "2026-10-28T13:47:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-28T15:41:34.236673+00:00",
+      "verification": {
+        "article_title": "GOP candidates in NY face a changed landscape on immigration",
+        "article_url": "https://gothamist.com/news/gop-candidates-in-ny-face-a-changed-landscape-on-immigration",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-28T15:41:32.027665+00:00"
+      }
+    },
+    {
+      "headline": "PS5 games on Amazon that the whole family can enjoy",
+      "bullets": [
+        "What are the best PS5 games on Amazon for families?",
+        "The PS5 has some of the best console graphics out there and a vast selection of games."
+      ],
+      "summary": "PS5 games on Amazon that the whole family can enjoy",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "PS5 games on Amazon that the whole family can enjoy",
+        "article_url": "https://www.nydailynews.com/2026/10/28/ps5-games-on-amazon-that-the-whole-family-can-enjoy/",
+        "published_at": "2026-10-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-28T15:41:34.323813+00:00",
+      "verification": {
+        "article_title": "PS5 games on Amazon that the whole family can enjoy",
+        "article_url": "https://www.nydailynews.com/2026/10/28/ps5-games-on-amazon-that-the-whole-family-can-enjoy/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-28T15:41:32.172054+00:00"
+      }
+    },
+    {
+      "headline": "NYPD walks back contract negotiations with AI-driven cellphone surveillance company",
+      "bullets": [
+        "The NYPD is backing away from a $750,000 no-bid contract with a company accused of treading on people\u2019s civil rights for a new technology that can quickly pinpoint a suspect\u2019s cellphone after Mayor Mamdani faced heat over the city using tech from the controversial firm, the Daily News has learned.",
+        "The department confirmed it is restarting the procurement process and accepting competing bids for similar technologies."
+      ],
+      "summary": "NYPD walks back contract negotiations with AI-driven cellphone surveillance company",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYPD walks back contract negotiations with AI-driven cellphone surveillance company amid backlash",
+        "article_url": "https://www.nydailynews.com/2026/10/27/nypd-walks-back-contract-negotiations-with-ai-driven-cellphone-surveillance-company-amid-backlash/",
+        "published_at": "2026-10-27"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-28T15:41:34.415989+00:00",
+      "verification": {
+        "article_title": "NYPD walks back contract negotiations with AI-driven cellphone surveillance company amid backlash",
+        "article_url": "https://www.nydailynews.com/2026/10/27/nypd-walks-back-contract-negotiations-with-ai-driven-cellphone-surveillance-company-amid-backlash/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-28T15:41:32.271329+00:00"
+      }
+    },
+    {
+      "headline": "NJ Gov. Sherrill: Election is secure, noncitizens taken off voter",
+      "bullets": [
+        "New Jersey\u2019s voting system is secure and ready for this year\u2019s election, according to Gov.",
+        "Mikie Sherrill."
+      ],
+      "summary": "NJ Gov. Sherrill: Election is secure, noncitizens taken off voter",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NJ Gov. Sherrill: Election is secure, noncitizens taken off voter rolls",
+        "article_url": "https://gothamist.com/news/nj-gov-sherrill-election-is-secure-noncitizens-taken-off-voter-rolls",
+        "published_at": "2026-10-28T03:14:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-28T15:41:34.500156+00:00",
+      "verification": {
+        "article_title": "NJ Gov. Sherrill: Election is secure, noncitizens taken off voter rolls",
+        "article_url": "https://gothamist.com/news/nj-gov-sherrill-election-is-secure-noncitizens-taken-off-voter-rolls",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-28T15:41:32.355377+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on biased crime reporting, subway elevators and",
+      "bullets": [
+        "Treat all suspects as you do Black ones Bronx: I\u2019ve been reading the Daily News since I could read \u2014 age 5 or so.",
+        "I\u2019m 76 now."
+      ],
+      "summary": "Readers sound off on biased crime reporting, subway elevators and",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on biased crime reporting, subway elevators and election ads",
+        "article_url": "https://www.nydailynews.com/2026/10/28/readers-sound-off-on-biased-crime-reporting-subway-elevators-and-election-ads/",
+        "published_at": "2026-10-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-28T15:41:34.592276+00:00",
+      "verification": {
+        "article_title": "Readers sound off on biased crime reporting, subway elevators and election ads",
+        "article_url": "https://www.nydailynews.com/2026/10/28/readers-sound-off-on-biased-crime-reporting-subway-elevators-and-election-ads/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-28T15:41:32.488463+00:00"
+      }
+    },
+    {
+      "headline": "Former NYC buildings boss helped reopen mayor's favored restaurant despite",
+      "bullets": [
+        "It was Valentine\u2019s Day 2022 and the owners of Queens pizzeria Aldo\u2019s had a problem.",
+        "A city health inspector had just shut the Ozone Park restaurant down during the evening rush after discovering hundreds of mouse droppings, unrefrigerated calamari and other violations."
+      ],
+      "summary": "Former NYC buildings boss helped reopen mayor's favored restaurant despite",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Former NYC buildings boss helped reopen mayor's favored restaurant despite health violations",
+        "article_url": "https://gothamist.com/news/former-nyc-buildings-boss-kept-adams-favored-restaurant-open-despite-health-violations",
+        "published_at": "2026-10-27T20:24:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-28T15:41:34.681364+00:00",
+      "verification": {
+        "article_title": "Former NYC buildings boss helped reopen mayor's favored restaurant despite health violations",
+        "article_url": "https://gothamist.com/news/former-nyc-buildings-boss-kept-adams-favored-restaurant-open-despite-health-violations",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-28T15:41:32.625803+00:00"
+      }
+    },
+    {
+      "headline": "9/11 Memorial in NYC vandalized, suspect facing charges, police say",
+      "bullets": [
+        "A man is facing charges after allegedly vandalizing the 9/11 Memorial in Lower Manhattan on Monday evening.",
+        "Words in red paint were sprayed across the engraved names on the panels of the North Pool."
+      ],
+      "summary": "9/11 Memorial in NYC vandalized, suspect facing charges, police say",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "9/11 Memorial in NYC vandalized, suspect facing charges, police say",
+        "article_url": "https://www.cbsnews.com/newyork/news/september-11th-memorial-vandalized/",
+        "published_at": "2026-10-27"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-28T15:41:34.764543+00:00",
+      "verification": {
+        "article_title": "9/11 Memorial in NYC vandalized, suspect facing charges, police say",
+        "article_url": "https://www.cbsnews.com/newyork/news/september-11th-memorial-vandalized/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-28T15:41:32.733385+00:00"
+      }
+    },
+    {
+      "headline": "Once high-flying Alexander brothers hit with 30-year terms for sex",
+      "bullets": [
+        "Once among the most successful realtors in America \u2014 counting the likes of Kim Kardashian on their client roster \u2014 the multimillionaire Alexander brothers were each hit with 30 years in prison in Manhattan on Tuesday for drugging, gang raping, and humiliating scores of women over more than a decade of \u201csadistic sexual predation.\u201d The terms were handed down to 39-year-old twins Oren and Alon Alexander, and their brother, Tal Alexander, 40, by Manhattan Federal Court Judge Valerie Caproni, following a day-long proceeding marked by powerful statements from a number of their victims and remarks from the brothers, who insisted they\u2019d evolved into kind and caring men.",
+        "\u201cIt\u2019s difficult for me to believe that defendants changed their spots, just like that."
+      ],
+      "summary": "Once high-flying Alexander brothers hit with 30-year terms for sex",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Once high-flying Alexander brothers hit with 30-year terms for sex trafficking",
+        "article_url": "https://www.nydailynews.com/2026/10/27/once-high-flying-alexander-brothers-hit-with-30-year-terms-for-sex-trafficking/",
+        "published_at": "2026-10-27"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-28T15:41:34.892704+00:00",
+      "verification": {
+        "article_title": "Once high-flying Alexander brothers hit with 30-year terms for sex trafficking",
+        "article_url": "https://www.nydailynews.com/2026/10/27/once-high-flying-alexander-brothers-hit-with-30-year-terms-for-sex-trafficking/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-28T15:41:32.844315+00:00"
+      }
+    },
+    {
+      "headline": "NYPD disciplinary judge doesn\u2019t buy cop\u2019s claim that caught-on-video kick",
+      "bullets": [
+        "An NYPD lieutenant has been docked 20 days\u2019 pay for kicking a motorist in the head following a 100 mph car chase in Manhattan \u2014 even though the cop at his disciplinary trial described the kick as a \u201ctap,\u201d court papers reveal.",
+        "Lt."
+      ],
+      "summary": "NYPD disciplinary judge doesn\u2019t buy cop\u2019s claim that caught-on-video kick",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYPD disciplinary judge doesn\u2019t buy cop\u2019s claim that caught-on-video kick to suspect\u2019s head was a \u2018tap\u2019",
+        "article_url": "https://www.nydailynews.com/2026/10/27/nypd-disciplinary-judge-doesnt-buy-cops-claim-that-caught-on-video-kick-to-suspects-head-was-a-tap/",
+        "published_at": "2026-10-27"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-28T15:41:35.029372+00:00",
+      "verification": {
+        "article_title": "NYPD disciplinary judge doesn\u2019t buy cop\u2019s claim that caught-on-video kick to suspect\u2019s head was a \u2018tap\u2019",
+        "article_url": "https://www.nydailynews.com/2026/10/27/nypd-disciplinary-judge-doesnt-buy-cops-claim-that-caught-on-video-kick-to-suspects-head-was-a-tap/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-28T15:41:32.970075+00:00"
+      }
+    },
+    {
+      "headline": "At least 68 killed in train collision on high-speed line",
+      "bullets": [
+        "The collision occurred near the towns of Mora, Orgaz and Urda.",
+        "LONDON -- At least 68 people were killed after two trains collided on Spain's Madrid-Seville high-speed line, and the death toll is expected to rise, a spokesperson for the Castilla-La Mancha region told ABC News."
+      ],
+      "summary": "At least 68 killed in train collision on high-speed line",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "At least 68 killed in train collision on high-speed line in Spain",
+        "article_url": "https://abc7ny.com/story/least-30-killed-train-collision-high-speed-line-spain/19989209/",
+        "published_at": "2026-10-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-28T15:41:35.109676+00:00",
+      "verification": {
+        "article_title": "At least 68 killed in train collision on high-speed line in Spain",
+        "article_url": "https://abc7ny.com/story/least-30-killed-train-collision-high-speed-line-spain/19989209/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-28T15:41:33.092925+00:00"
+      }
+    },
+    {
+      "headline": "11-year-old boy killed by e-bike battery fire in Bronx NYCHA",
+      "bullets": [
+        "An e-bike\u2019s lithium-ion battery fire trapped a Bronx family in their NYCHA apartment Wednesday, killing an 11-year-old boy and leaving four relatives critically hurt, FDNY officials said.",
+        "The blaze broke out in the kitchen of the 11th-floor apartment in the Patterson Houses on Morris Ave."
+      ],
+      "summary": "11-year-old boy killed by e-bike battery fire in Bronx NYCHA",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "11-year-old boy killed by e-bike battery fire in Bronx NYCHA apartment, 4 relatives critically hurt",
+        "article_url": "https://www.nydailynews.com/2026/10/28/bronx-ebike-battery-fatal-fire-lithium-ion-dead-nycha-patterson-houses/",
+        "published_at": "2026-10-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-28T15:41:35.208013+00:00",
+      "verification": {
+        "article_title": "11-year-old boy killed by e-bike battery fire in Bronx NYCHA apartment, 4 relatives critically hurt",
+        "article_url": "https://www.nydailynews.com/2026/10/28/bronx-ebike-battery-fatal-fire-lithium-ion-dead-nycha-patterson-houses/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-28T15:41:33.181877+00:00"
+      }
+    },
+    {
+      "headline": "EXCLUSIVE: AG James on reelection, public safety, Cornell case",
+      "bullets": [
+        "EXCLUSIVE: AG James on reelection, public safety, Cornell case In this exclusive interview, Attorney General Letitia James sits down with FOX 5 NY's political reporter Morgan McKay to discuss her bid for reelection, as well as how her views of the attorney general's office differ from that of her opponent's, Saritha Komatireddy.",
+        "Also, conversations regarding both the alleged rape case at Cornell University, which James is the special prosecutor of, and how her office is investigating Medicaid fraud."
+      ],
+      "summary": "EXCLUSIVE: AG James on reelection, public safety, Cornell case",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "EXCLUSIVE: AG James on reelection, public safety, Cornell case",
+        "article_url": "https://www.fox5ny.com/video/fmc-a44tgukt4koy0s6j",
+        "published_at": "2026-10-27"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-28T15:41:35.317557+00:00",
+      "verification": {
+        "article_title": "EXCLUSIVE: AG James on reelection, public safety, Cornell case",
+        "article_url": "https://www.fox5ny.com/video/fmc-a44tgukt4koy0s6j",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-28T15:41:33.284406+00:00"
+      }
+    },
+    {
+      "headline": "Alexander brothers each get 30 years in prison for sex",
+      "bullets": [
+        "Brothers exploited their wealth, proximity to celebrities NEW YORK -- Three brothers convicted of exploiting their wealth and access to luxury real estate to drug and rape dozens of women were sentenced Tuesday to 30 years in prison.",
+        "U.S."
+      ],
+      "summary": "Alexander brothers each get 30 years in prison for sex",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Alexander brothers each get 30 years in prison for sex trafficking after testimony from women they drugged, raped",
+        "article_url": "https://abc7ny.com/story/women-accused-alexander-brothers-rape-speak-sentencing/19985044/",
+        "published_at": "2026-10-27"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-28T15:41:35.405538+00:00",
+      "verification": {
+        "article_title": "Alexander brothers each get 30 years in prison for sex trafficking after testimony from women they drugged, raped",
+        "article_url": "https://abc7ny.com/story/women-accused-alexander-brothers-rape-speak-sentencing/19985044/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-28T15:41:33.419172+00:00"
+      }
+    },
+    {
+      "headline": "New York Attorney General Election Pits Komatireddy Against James",
+      "bullets": [
+        "New York Attorney General Election Pits Komatireddy Against James Two women want to be the Empire State\u00e2s top prosecutor.",
+        "The Republican challenger is an Indian-American Harvard Law School grad and former Brooklyn federal prosecutor, Saritha Komariteddy."
+      ],
+      "summary": "New York Attorney General Election Pits Komatireddy Against James",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "New York Attorney General Election Pits Komatireddy Against James",
+        "article_url": "https://www.ourtownny.com/news/new-york-attorney-general-election-pits-komatireddy-against-james-DA6323476",
+        "published_at": "2026-10-27"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-28T15:41:35.486421+00:00",
+      "verification": {
+        "article_title": "New York Attorney General Election Pits Komatireddy Against James",
+        "article_url": "https://www.ourtownny.com/news/new-york-attorney-general-election-pits-komatireddy-against-james-DA6323476",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-28T15:41:33.507644+00:00"
+      }
+    },
+    {
+      "headline": "Seawright Touts \u00e2HEAP\u00e2 Heating Bill Relief For UES Residents",
+      "bullets": [
+        "Seawright Touts \u00e2HEAP\u00e2 Heating Bill Relief For UES Residents Applications for the overlooked Home Energy Assistance Program will be accepted starting on November 2, with benefits ranging from $41 to more than $400.",
+        "The state program would be particularly helpful for some older New Yorkers, she told Our Town."
+      ],
+      "summary": "Seawright Touts \u00e2HEAP\u00e2 Heating Bill Relief For UES Residents",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Seawright Touts \u00e2HEAP\u00e2 Heating Bill Relief For UES Residents",
+        "article_url": "https://www.ourtownny.com/news/seawright-touts-heap-heating-bill-relief-for-ues-residents-BA6323113",
+        "published_at": "2026-10-24"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-28T15:41:35.627057+00:00",
+      "verification": {
+        "article_title": "Seawright Touts \u00e2HEAP\u00e2 Heating Bill Relief For UES Residents",
+        "article_url": "https://www.ourtownny.com/news/seawright-touts-heap-heating-bill-relief-for-ues-residents-BA6323113",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-28T15:41:33.612427+00:00"
+      }
+    },
+    {
+      "headline": "AccuWeather: Stays cool, high clouds",
+      "bullets": [
+        "AccuWeather forecast for NYC, New York, New Jersey and Connecticut NEW YORK (WABC) -- After an impressive stretch of dry weather, the region is on track to reach at least 15 consecutive rain-free days, with sunshine and comfortable conditions continuing through the upcoming weekend.",
+        "Wednesday marks day 11 of the dry streak, although high clouds will periodically filter the sun and keep temperatures on the cooler side."
+      ],
+      "summary": "AccuWeather: Stays cool, high clouds",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "AccuWeather: Stays cool, high clouds",
+        "article_url": "https://abc7ny.com/nyc-weather-forecast-7-day-temperatures/27410/",
+        "published_at": "2020-02-12"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-28T15:41:35.709222+00:00",
+      "verification": {
+        "article_title": "AccuWeather: Stays cool, high clouds",
+        "article_url": "https://abc7ny.com/nyc-weather-forecast-7-day-temperatures/27410/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-28T15:41:33.699045+00:00"
+      }
+    },
+    {
+      "headline": "U.S. woman who became ISIS teen bride convicted of getting",
+      "bullets": [
+        "A New York woman whose father took her to Syria as a teenager and arranged her marriage to an Islamic State fighter was convicted Tuesday of receiving weapons training from the militant group.",
+        "Prosecutors said Halima Salman, a U.S."
+      ],
+      "summary": "U.S. woman who became ISIS teen bride convicted of getting",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "U.S. woman who became ISIS teen bride convicted of getting weapons training from terror group",
+        "article_url": "https://www.cbsnews.com/newyork/news/us-woman-isis-teen-bride-convicted-weapons-training-new-york/",
+        "published_at": "2026-10-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-28T15:41:35.863438+00:00",
+      "verification": {
+        "article_title": "U.S. woman who became ISIS teen bride convicted of getting weapons training from terror group",
+        "article_url": "https://www.cbsnews.com/newyork/news/us-woman-isis-teen-bride-convicted-weapons-training-new-york/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-28T15:41:33.852575+00:00"
+      }
+    },
+    {
+      "headline": "NYC Marathon 2026 guide: New Bronx route, wave times, bridge",
+      "bullets": [
+        "NEW YORK - More than 50,000 runners from across the globe will hit the pavement on Sunday, Nov.",
+        "1, for the 55th running of the TCS New York City Marathon."
+      ],
+      "summary": "NYC Marathon 2026 guide: New Bronx route, wave times, bridge",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "NYC Marathon 2026 guide: New Bronx route, wave times, bridge closures, full course map",
+        "article_url": "https://www.fox5ny.com/news/nyc-marathon-2026-guide-new-bronx-route-wave-times-bridge-closures-full-course-map",
+        "published_at": "2026-10-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-28T15:41:35.969687+00:00",
+      "verification": {
+        "article_title": "NYC Marathon 2026 guide: New Bronx route, wave times, bridge closures, full course map",
+        "article_url": "https://www.fox5ny.com/news/nyc-marathon-2026-guide-new-bronx-route-wave-times-bridge-closures-full-course-map",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-28T15:41:33.940964+00:00"
+      }
+    }
+  ]
+}
