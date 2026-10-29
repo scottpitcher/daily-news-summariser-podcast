@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-10-29T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-10-29.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Readers sound off on capital\u2019s control, Flavio Bolsonaro and Bob",
+      "bullets": [
+        "A government-finance pact always prevails Bronx: To Voicer Ed Temple: The roots of the \u201cstagnant economy that causes the poverty of American young people\u201d actually emanate from the government\u2019s response to the Great Recession of 2008.",
+        "Under President Barack Obama, the Federal Reserve employed \u201cquantitative easing,\u201d essentially a scheme where the middle and working class bailed out the big banks and wealthy elitists who caused the crisis to the tune of about $4 trillion."
+      ],
+      "summary": "Readers sound off on capital\u2019s control, Flavio Bolsonaro and Bob",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on capital\u2019s control, Flavio Bolsonaro and Bob Woodward",
+        "article_url": "https://www.nydailynews.com/2026/10/29/readers-sound-off-on-capitals-control-flavio-bolsonaro-and-bob-woodward/",
+        "published_at": "2026-10-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-29T15:48:33.037190+00:00",
+      "verification": {
+        "article_title": "Readers sound off on capital\u2019s control, Flavio Bolsonaro and Bob Woodward",
+        "article_url": "https://www.nydailynews.com/2026/10/29/readers-sound-off-on-capitals-control-flavio-bolsonaro-and-bob-woodward/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-29T15:48:29.871747+00:00"
+      }
+    },
+    {
+      "headline": "What to know about the impact of Fl\u00e1vio Bolsonaro\u2019s arrival",
+      "bullets": [
+        "By EL\u00c9ONORE HUGHES RIO DE JANEIRO (AP) \u2014 Fl\u00e1vio Bolsonaro is now in Miami after fleeing to the U.S.",
+        "following his stunning defeat to Luiz In\u00e1cio Lula da Silva in Brazil\u2019s presidential elections."
+      ],
+      "summary": "What to know about the impact of Fl\u00e1vio Bolsonaro\u2019s arrival",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "What to know about the impact of Fl\u00e1vio Bolsonaro\u2019s arrival in the US",
+        "article_url": "https://www.nydailynews.com/2026/10/29/flavio-bolsonaro-us-arrival-impact/",
+        "published_at": "2026-10-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-29T15:48:33.171577+00:00",
+      "verification": {
+        "article_title": "What to know about the impact of Fl\u00e1vio Bolsonaro\u2019s arrival in the US",
+        "article_url": "https://www.nydailynews.com/2026/10/29/flavio-bolsonaro-us-arrival-impact/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-29T15:48:30.090386+00:00"
+      }
+    },
+    {
+      "headline": "How NYC voters could determine outcome of race for governor",
+      "bullets": [
+        "This column originally appeared in The Politics Brief, our weekly newsletter on the people, power and policies that shape New Yorkers' lives.",
+        "Sign up to get the full version where you can ask questions, share news tips and weigh in on the conversation."
+      ],
+      "summary": "How NYC voters could determine outcome of race for governor",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "How NYC voters could determine outcome of race for governor",
+        "article_url": "https://gothamist.com/news/how-nyc-voters-could-determine-outcome-of-race-for-governor",
+        "published_at": "2026-10-29T15:00:57+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-29T15:48:33.346619+00:00",
+      "verification": {
+        "article_title": "How NYC voters could determine outcome of race for governor",
+        "article_url": "https://gothamist.com/news/how-nyc-voters-could-determine-outcome-of-race-for-governor",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-29T15:48:30.221369+00:00"
+      }
+    },
+    {
+      "headline": "Billionaire tax, transgender rights and voter access among key midterm",
+      "bullets": [
+        "Voters will weigh in on several key ballot measures in the midterm elections.",
+        "While the spotlight on the upcoming midterm elections has been on the balance of power in Congress, several states and cities around the country have ballot measures under consideration that could have ripple effects for years."
+      ],
+      "summary": "Billionaire tax, transgender rights and voter access among key midterm",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Billionaire tax, transgender rights and voter access among key midterm ballot measures",
+        "article_url": "https://abc7ny.com/story/midterm-elections-billionaire-tax-transgender-rights-voter-access-among-key-ballot-measures/19994098/",
+        "published_at": "2026-10-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-29T15:48:33.475710+00:00",
+      "verification": {
+        "article_title": "Billionaire tax, transgender rights and voter access among key midterm ballot measures",
+        "article_url": "https://abc7ny.com/story/midterm-elections-billionaire-tax-transgender-rights-voter-access-among-key-ballot-measures/19994098/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-29T15:48:30.387496+00:00"
+      }
+    },
+    {
+      "headline": "New Historical Fiction Tome Set in Manhattan\u00e2s Diamond District",
+      "bullets": [
+        "New Historical Fiction Tome Set in Manhattan\u00e2s Diamond District \u00e2The Cursed Diamond\u00e2 by author/gemologist Anna Rasche ricochets between New York\u00e2s Gilded Age and Manhattan in 2010, with a blue diamond connecting two very different women who will do anything to own it.",
+        "Talk about writing what you know."
+      ],
+      "summary": "New Historical Fiction Tome Set in Manhattan\u00e2s Diamond District",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "New Historical Fiction Tome Set in Manhattan\u00e2s Diamond District",
+        "article_url": "https://www.ourtownny.com/city-arts/new-historical-fiction-tome-set-in-manhattan-s-diamond-district-FD6335412",
+        "published_at": "2026-10-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-29T15:48:33.609087+00:00",
+      "verification": {
+        "article_title": "New Historical Fiction Tome Set in Manhattan\u00e2s Diamond District",
+        "article_url": "https://www.ourtownny.com/city-arts/new-historical-fiction-tome-set-in-manhattan-s-diamond-district-FD6335412",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-29T15:48:30.572487+00:00"
+      }
+    },
+    {
+      "headline": "A potentially historic drop for Alphabet\u2019s stock drags the US",
+      "bullets": [
+        "By STAN CHOE, AP Business Writer NEW YORK (AP) \u2014 A potentially historic drop for Alphabet\u2019s stock is dragging the U.S.",
+        "market lower Thursday after the company behind Google and YouTube reported weaker growth for the summer than analysts expected."
+      ],
+      "summary": "A potentially historic drop for Alphabet\u2019s stock drags the US",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "A potentially historic drop for Alphabet\u2019s stock drags the US market lower",
+        "article_url": "https://www.nydailynews.com/2026/10/29/alphabet-us-stocks/",
+        "published_at": "2026-10-29T15:31:24+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-29T15:48:33.739745+00:00",
+      "verification": {
+        "article_title": "A potentially historic drop for Alphabet\u2019s stock drags the US market lower",
+        "article_url": "https://www.nydailynews.com/2026/10/29/alphabet-us-stocks/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-29T15:48:30.709200+00:00"
+      }
+    },
+    {
+      "headline": "Utah files criminal charges against Kalshi over illegal gambling",
+      "bullets": [
+        "The state of Utah is formally filing criminal charges against online prediction market platform Kalshi, accusing them and two of their executives of promoting illegal gambling.",
+        "What we know: Attorney General Derek Brown of Utah, filed the charges against the site and two of its co-founders, Tarek Mansour and Luana Lopes Lara."
+      ],
+      "summary": "Utah files criminal charges against Kalshi over illegal gambling",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Utah files criminal charges against Kalshi over illegal gambling",
+        "article_url": "https://www.fox5ny.com/news/utah-files-criminal-charges-against-kalshi-over-illegal-gambling",
+        "published_at": "2026-10-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-29T15:48:33.871773+00:00",
+      "verification": {
+        "article_title": "Utah files criminal charges against Kalshi over illegal gambling",
+        "article_url": "https://www.fox5ny.com/news/utah-files-criminal-charges-against-kalshi-over-illegal-gambling",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-29T15:48:30.889690+00:00"
+      }
+    },
+    {
+      "headline": "What caused the deadly train crash in Spain? What we",
+      "bullets": [
+        "It marks the third deadly rail incident in Spain this year Scores of people were killed after two trains collided in Spain on Wednesday, in a crash that authorities say was caused by both computer system failure and apparent human error.",
+        "At least 69 people were killed and more than 100 injured after one train rear-ended another train near the town of Urda, in Toledo province, on the high-speed line that connects Madrid and Seville."
+      ],
+      "summary": "What caused the deadly train crash in Spain? What we",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "What caused the deadly train crash in Spain? What we know so far",
+        "article_url": "https://abc7ny.com/story/what-caused-deadly-train-crash-spain-know-far/19994245/",
+        "published_at": "2026-10-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-29T15:48:34.003996+00:00",
+      "verification": {
+        "article_title": "What caused the deadly train crash in Spain? What we know so far",
+        "article_url": "https://abc7ny.com/story/what-caused-deadly-train-crash-spain-know-far/19994245/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-29T15:48:31.087781+00:00"
+      }
+    },
+    {
+      "headline": "Sentence for NYPD sergeant who killed doorman in drunken wrong-way",
+      "bullets": [
+        "A former NYPD sergeant who killed beloved Manhattan doorman Manuel Boitel in a wrong-way, drunk driving crash on the Taconic parkway in Westchester earlier this year was sentenced Wednesday to four to 12 years in prison, a punishment blasted by the family as being far too light.",
+        "With the anguished family of the victim looking on in a White Plains courtroom, former Sgt."
+      ],
+      "summary": "Sentence for NYPD sergeant who killed doorman in drunken wrong-way",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Sentence for NYPD sergeant who killed doorman in drunken wrong-way crash blasted by family",
+        "article_url": "https://www.nydailynews.com/2026/10/28/sentence-for-nypd-sergeant-who-killed-doorman-in-drunken-wrong-way-crash-blasted-by-family/",
+        "published_at": "2026-10-28T21:17:18+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-29T15:48:34.202132+00:00",
+      "verification": {
+        "article_title": "Sentence for NYPD sergeant who killed doorman in drunken wrong-way crash blasted by family",
+        "article_url": "https://www.nydailynews.com/2026/10/28/sentence-for-nypd-sergeant-who-killed-doorman-in-drunken-wrong-way-crash-blasted-by-family/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-29T15:48:31.267034+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: Children in New Religious Movements: How Adults' Beliefs",
+      "bullets": [
+        "New York City, NY|Featured Event Children in New Religious Movements: How Adults' Beliefs Shape Their Lives What is a child?",
+        "The answer may seem obvious\u2014until we step inside the world of alternative spiritual communities, where children may be revered as enlightened masters, treated as spiritually unformed subordinates, or embraced as equal souls in small bodies."
+      ],
+      "summary": "Local Event: Children in New Religious Movements: How Adults' Beliefs",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Children in New Religious Movements: How Adults' Beliefs Shape Their Lives",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261104/a02bc74e-6f1c-41e8-a43a-b04eefc90975/children-in-new-religious-movements-how-adults-beliefs-shape-their-lives",
+        "published_at": "2026-11-04T23:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-29T15:48:34.336302+00:00",
+      "verification": {
+        "article_title": "Local Event: Children in New Religious Movements: How Adults' Beliefs Shape Their Lives",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261104/a02bc74e-6f1c-41e8-a43a-b04eefc90975/children-in-new-religious-movements-how-adults-beliefs-shape-their-lives",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-29T15:48:31.444126+00:00"
+      }
+    },
+    {
+      "headline": "'Inexplicable' order probed as cause of train crash that killed",
+      "bullets": [
+        "The collision occurred near the towns of Mora, Orgaz and Urda.",
+        "LONDON -- At least 69 people were killed after two trains collided on Spain's Madrid-Seville high-speed line, and the death toll is expected to rise, a spokesperson for the Castilla-La Mancha region told ABC News."
+      ],
+      "summary": "'Inexplicable' order probed as cause of train crash that killed",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "'Inexplicable' order probed as cause of train crash that killed at least 69: Official",
+        "article_url": "https://abc7ny.com/story/least-30-killed-train-collision-high-speed-line-spain/19989209/",
+        "published_at": "2026-10-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-29T15:48:34.462250+00:00",
+      "verification": {
+        "article_title": "'Inexplicable' order probed as cause of train crash that killed at least 69: Official",
+        "article_url": "https://abc7ny.com/story/least-30-killed-train-collision-high-speed-line-spain/19989209/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-29T15:48:31.578390+00:00"
+      }
+    },
+    {
+      "headline": "Experts warn of wider spread as Ebola outbreak reaches plateau",
+      "bullets": [
+        "By MIKE STOBBE, AP Medical Writer NEW YORK (AP) \u2014 The Ebola outbreak in Congo passed a grim milestone this week \u2014 10,000 confirmed cases \u2014 and spurred questions about whether health authorities are losing their ability to contain it.",
+        "Nearly half the infected people in this outbreak have died, and some experts say there are reasons to worry this could grow into the worst Ebola outbreak in history."
+      ],
+      "summary": "Experts warn of wider spread as Ebola outbreak reaches plateau",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Experts warn of wider spread as Ebola outbreak reaches plateau",
+        "article_url": "https://www.nydailynews.com/2026/10/29/ebola-outbreak-containment/",
+        "published_at": "2026-10-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-29T15:48:34.603063+00:00",
+      "verification": {
+        "article_title": "Experts warn of wider spread as Ebola outbreak reaches plateau",
+        "article_url": "https://www.nydailynews.com/2026/10/29/ebola-outbreak-containment/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-29T15:48:31.709467+00:00"
+      }
+    },
+    {
+      "headline": "Judge Alvin Hellerstein, who oversaw 9/11, Trump, Maduro cases, dies",
+      "bullets": [
+        "Manhattan Federal Court Judge Alvin Hellerstein, the veteran jurist who presided over sprawling cases involving 9/11, President Donald Trump, and the recent prosecution of deposed Venezuelan leader Nicol\u00e1s Maduro, died Wednesday.",
+        "He was 92."
+      ],
+      "summary": "Judge Alvin Hellerstein, who oversaw 9/11, Trump, Maduro cases, dies",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Judge Alvin Hellerstein, who oversaw 9/11, Trump, Maduro cases, dies at 92",
+        "article_url": "https://www.nydailynews.com/2026/10/28/judge-alvin-hellerstein-dead-92-trump-maduro/",
+        "published_at": "2026-10-28T23:01:26+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-29T15:48:34.752226+00:00",
+      "verification": {
+        "article_title": "Judge Alvin Hellerstein, who oversaw 9/11, Trump, Maduro cases, dies at 92",
+        "article_url": "https://www.nydailynews.com/2026/10/28/judge-alvin-hellerstein-dead-92-trump-maduro/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-29T15:48:31.848375+00:00"
+      }
+    },
+    {
+      "headline": "NYC education panel to deny school bus contract extensions until",
+      "bullets": [
+        "New York City\u2019s education panel said in a resolution passed unanimously Wednesday night that it will not rubber-stamp any more extensions of \u201coutdated\u201d school bus contracts as they called on Mayor Mamdani and his schools chief to commit to a \u201cfull-scale overhaul\u201d of the system.",
+        "Mamdani and Chancellor Kamar Samuels need the Panel for Educational Policy\u2019s approval to renew the 1970s-era contracts, which have been blamed for increasingly poor transportation services, particularly for students with disabilities."
+      ],
+      "summary": "NYC education panel to deny school bus contract extensions until",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYC education panel to deny school bus contract extensions until they see fixes in service",
+        "article_url": "https://www.nydailynews.com/2026/10/29/nyc-education-panel-to-deny-school-bus-contract-extensions-until-they-see-fixes-in-service/",
+        "published_at": "2026-10-29T12:00:43+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-29T15:48:34.882665+00:00",
+      "verification": {
+        "article_title": "NYC education panel to deny school bus contract extensions until they see fixes in service",
+        "article_url": "https://www.nydailynews.com/2026/10/29/nyc-education-panel-to-deny-school-bus-contract-extensions-until-they-see-fixes-in-service/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-29T15:48:32.050628+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on capital\u2019s control, Flavio Bolsonaro and Bob",
+      "bullets": [
+        "A government-finance pact always prevails Bronx: To Voicer Ed Temple: The roots of the \u201cstagnant economy that causes the poverty of American young people\u201d actually emanate from the government\u2019s response to the Great Recession of 2008.",
+        "Under President Barack Obama, the Federal Reserve employed \u201cquantitative easing,\u201d essentially a scheme where the middle and working class bailed out the big banks and wealthy elitists who caused the crisis to the tune of about $4 trillion."
+      ],
+      "summary": "Readers sound off on capital\u2019s control, Flavio Bolsonaro and Bob",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on capital\u2019s control, Flavio Bolsonaro and Bob Woodward",
+        "article_url": "https://www.nydailynews.com/2026/10/29/readers-sound-off-on-capitals-control-flavio-bolsonaro-and-bob-woodward/",
+        "published_at": "2026-10-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-29T15:48:35.075587+00:00",
+      "verification": {
+        "article_title": "Readers sound off on capital\u2019s control, Flavio Bolsonaro and Bob Woodward",
+        "article_url": "https://www.nydailynews.com/2026/10/29/readers-sound-off-on-capitals-control-flavio-bolsonaro-and-bob-woodward/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-29T15:48:32.252007+00:00"
+      }
+    },
+    {
+      "headline": "2026 Lincoln Navigator moves people in American style",
+      "bullets": [
+        "While the Blue Oval continues to produce mass-market trucks and SUVs for the everyday consumer, Ford\u2019s upscale Lincoln brand is focused on delivering an experience to consumers that is unforgettable.",
+        "Whether it be from technology to styling or even ride quality, Lincoln is here to prove one thing and one thing only; that they are the upscale American luxury brand that all consumers deserve to experience."
+      ],
+      "summary": "2026 Lincoln Navigator moves people in American style",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "2026 Lincoln Navigator moves people in American style",
+        "article_url": "https://www.nydailynews.com/2026/10/29/2026-lincoln-navigator-moves-people-in-american-style/",
+        "published_at": "2026-10-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-29T15:48:35.209859+00:00",
+      "verification": {
+        "article_title": "2026 Lincoln Navigator moves people in American style",
+        "article_url": "https://www.nydailynews.com/2026/10/29/2026-lincoln-navigator-moves-people-in-american-style/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-29T15:48:32.388122+00:00"
+      }
+    },
+    {
+      "headline": "NY's housing crisis is on the ballot. Here's what the",
+      "bullets": [
+        "Taylor Rivers remembers scrolling through real estate listings on her phone as a high schooler in Brooklyn, dreaming of the apartments she would rent or the homes she could buy once she started working.",
+        "Now, at 24, she says those teenage dreams feel like fantasies."
+      ],
+      "summary": "NY's housing crisis is on the ballot. Here's what the",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NY's housing crisis is on the ballot. Here's what the candidates say they'll do about it.",
+        "article_url": "https://gothamist.com/news/nys-housing-crisis-is-on-the-ballot-heres-what-the-candidates-say-theyll-do-about-it",
+        "published_at": "2026-10-29T10:30:56+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-29T15:48:35.341668+00:00",
+      "verification": {
+        "article_title": "NY's housing crisis is on the ballot. Here's what the candidates say they'll do about it.",
+        "article_url": "https://gothamist.com/news/nys-housing-crisis-is-on-the-ballot-heres-what-the-candidates-say-theyll-do-about-it",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-29T15:48:32.570386+00:00"
+      }
+    },
+    {
+      "headline": "How the Village Halloween Parade keeps its soul",
+      "bullets": [
+        "It is a logistical fact that events tend to lose their soul as they scale up.",
+        "More people means more problems, more expenses, more liability and higher expectations."
+      ],
+      "summary": "How the Village Halloween Parade keeps its soul",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "How the Village Halloween Parade keeps its soul",
+        "article_url": "https://gothamist.com/arts-entertainment/how-the-village-halloween-parade-keeps-its-soul",
+        "published_at": "2026-10-28T16:38:06+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-29T15:48:35.535121+00:00",
+      "verification": {
+        "article_title": "How the Village Halloween Parade keeps its soul",
+        "article_url": "https://gothamist.com/arts-entertainment/how-the-village-halloween-parade-keeps-its-soul",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-29T15:48:32.773728+00:00"
+      }
+    }
+  ]
+}
