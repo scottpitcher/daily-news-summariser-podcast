@@ -1,0 +1,133 @@
+## Economy and Business
+
+**Elke Sommer, German-born actress known for 'A Shot in the**
+- Elke Sommer, the striking blonde bombshell of German descent who was a mainstay of 1960s Hollywood comedies and espionage movies including "The Prize" and "A Shot in the Dark," has died.
+- She was 85.
+
+**So what?** Relevant to NYC economy business — check the full article for specific local implications.
+
+Source: [Elke Sommer, German-born actress known for 'A Shot in the Dark' and 'The Prize,' dies at 85](https://abc7ny.com/post/elke-sommer-german-born-actress-shot-dark-prize-dies-85/19999353/) — ABC7 New York
+
+**Why LCD Soundsystem's 'New York, I Love You' is still**
+- Nearly 20 years ago, LCD Soundsystem vocalist James Murphy bemoaned the state of New York City over a slow-moving piano: “Like a rat in a cage/ Pulling minimum wage / New York, I love you / But you’re bringing me down,” he sings in a spoken-word cadence.
+- He laments the city’s power-hungry leaders and its general unaffordability crescendo.
+
+**So what?** Relevant to NYC economy business — check the full article for specific local implications.
+
+Source: [Why LCD Soundsystem's 'New York, I Love You' is still the city's most honest anthem](https://gothamist.com/arts-entertainment/why-lcd-soundsystems-new-york-i-love-you-is-still-the-citys-most-honest-anthem) — Gothamist
+
+**Mom of Brooklyn woman, 30, killed by Sanitation truck wants**
+- The devastated mother of a 30-year-old Brooklyn woman who was fatally struck by a city Sanitation Department garbage truck said she was furious to learn the driver wasn’t taken away in handcuffs.
+- Siobhan Lynch was crossing Bay Parkway in Bath Beach when a sanitation driver heading east on Cropsey Ave.
+
+**So what?** Relevant to NYC economy business — check the full article for specific local implications.
+
+Source: [Mom of Brooklyn woman, 30, killed by Sanitation truck wants driver arrested](https://www.nydailynews.com/2026/10/29/woman-30-siobhan-lynch-fatally-struck-by-city-sanitation-department-garbage-truck-in-brooklyn/) — New York Daily News
+
+## Politics and Government
+
+**Why over 1/3 of New Jersey voters now belong to**
+- NEW BRUNSWICK, N.J.
+- - Across the Mid-Atlantic and Northeast, traditional party loyalty is experiencing a systemic test heading into the midterm elections.
+
+**So what?** Relevant to NYC politics government — check the full article for specific local implications.
+
+Source: [Why over 1/3 of New Jersey voters now belong to no party](https://www.fox5ny.com/news/why-over-1-3-new-jersey-voters-now-belong-no-party) — FOX 5 New York
+
+**Democrats' early voting lead in NJ keeps growing ahead of**
+- Early voting turnout in New Jersey’s 7th Congressional District has swamped 2024 totals ahead of next week’s midterm election, giving Democrats a key advantage in their attempt to take the seat back from Republicans.
+- And unlike previous years, high Democratic turnout over Republicans has been sustained throughout the early voting period.
+
+**So what?** Relevant to NYC politics government — check the full article for specific local implications.
+
+Source: [Democrats' early voting lead in NJ keeps growing ahead of Election Day](https://gothamist.com/news/democrats-early-voting-lead-in-nj-keeps-growing-ahead-of-election-day) — Gothamist
+
+**Readers sound off on misplaced loyalty, Dolores Huerta’s life and**
+- None who serve should lend Trump support Whitestone: The worst cowards and morons in the nation are those in the military and police officers (and retired) who support that dirtbag (a cop’s word for a real a-hole) President Trump.
+- How could anyone in the military support a repulsive, draft-dodging coward who called dead soldiers suckers and losers?
+
+**So what?** Relevant to NYC politics government — check the full article for specific local implications.
+
+Source: [Readers sound off on misplaced loyalty, Dolores Huerta’s life and athlete protests](https://www.nydailynews.com/2026/10/30/readers-sound-off-on-misplaced-loyalty-dolores-huertas-life-and-athlete-protests/) — New York Daily News
+
+**Halloween: Where to Celebrate from Times Sq. to Greenwich Village**
+- Halloween: Where to Celebrate from Times Sq.
+- to Greenwich Village Parade to City Streets Thereâs a wide assortment of last options available to celebrate the day of ghosts and goblins.
+
+**So what?** Relevant to NYC politics government — check the full article for specific local implications.
+
+Source: [Halloween: Where to Celebrate from Times Sq. to Greenwich Village Parade to City Streets](https://www.ourtownny.com/news/halloween-where-to-celebrate-from-times-sq-to-greenwich-village-parade-to-city-streets-KH6339972) — Our Town
+
+## Public Safety
+
+**Tracy Morgan named 2026 TCS New York City Marathon Grand**
+- Watch the 2026 TCS NYC Marathon on Sunday starting with the pre-show at 7:00 a.m.
+- on Channel 7 NEW YORK CITY (WABC) -- Native New Yorker, sports superfan, and multi-hyphenate entertainer Tracy Morgan has been named Grand Marshal of the 2026 TCS New York City Marathon.
+
+**So what?** Relevant to NYC public safety — check the full article for specific local implications.
+
+Source: [Tracy Morgan named 2026 TCS New York City Marathon Grand Marshal](https://abc7ny.com/post/nyc-marathon-tracy-morgan-serve-grand-marshal/19999831/) — ABC7 New York
+
+**Boy, 15, killed in ambush near Bronx home was from**
+- A 15-year-old boy from Ghana with dreams of being a physician was fatally shot in the Bronx Thursday morning just steps from his home, police said.
+- Teenager Javits Frimpong was struck in the abdomen around 9:24 a.m.
+
+**So what?** Relevant to NYC public safety — check the full article for specific local implications.
+
+Source: [Boy, 15, killed in ambush near Bronx home was from Ghana, dreamed of being doctor](https://www.nydailynews.com/2026/10/29/teenager-wounded-broad-daylight-shooting-bronx/) — New York Daily News
+
+**Local Event: Children in New Religious Movements: How Adults' Beliefs**
+- New York City, NY|Featured Event Children in New Religious Movements: How Adults' Beliefs Shape Their Lives What is a child?
+- The answer may seem obvious—until we step inside the world of alternative spiritual communities, where children may be revered as enlightened masters, treated as spiritually unformed subordinates, or embraced as equal souls in small bodies.
+
+**So what?** Relevant to NYC public safety — check the full article for specific local implications.
+
+Source: [Local Event: Children in New Religious Movements: How Adults' Beliefs Shape Their Lives](https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261104/a02bc74e-6f1c-41e8-a43a-b04eefc90975/children-in-new-religious-movements-how-adults-beliefs-shape-their-lives) — Patch Upper East Side
+
+## Climate and Energy
+
+**Dockworkers stage international strikes to denounce arms shipments and demand**
+- By SYLVIE CORBET PARIS (AP) — Dockworkers in Europe and beyond were staging strikes on Friday as part of an international campaign against arms shipments and to demand better working conditions, unions said.
+- Unions in France, Italy, Greece, Spain, Turkey and Morocco issued a joint call to demand an end to the wars in the Middle East, including the war in Gaza, and “an end to the militarization of ports.” “Ports must not be used for the transport of weapons, ammunition, military equipment and troops,” the statement said.
+
+**So what?** Relevant to NYC climate energy — check the full article for specific local implications.
+
+Source: [Dockworkers stage international strikes to denounce arms shipments and demand better conditions](https://www.nydailynews.com/2026/10/30/dockworkers-international-strikes/) — New York Daily News
+
+**States need the FEMA grants that Trump wants to block**
+- It was 14 years ago, right before Halloween, when Superstorm Sandy slammed New York, causing billions in damage and it was FEMA that brought the needed aid and assistance, yet Donald Trump’s FEMA Administrator Cameron Hamilton has been hinting of no longer providing states with disaster relief funding, deprive states and localities of the tens of billions of dollars often needed to rebuild after even routine storms and other disasters.
+- Just three days ago, Gov.
+
+**So what?** Relevant to NYC climate energy — check the full article for specific local implications.
+
+Source: [States need the FEMA grants that Trump wants to block](https://www.nydailynews.com/2026/10/30/states-need-the-fema-grants-that-trump-wants-to-block/) — New York Daily News
+
+## Education
+
+**NYC K-12 enrollment fell 19% over decade, raising resource concerns**
+- New York City’s public schools lost 187,000 students in kindergarten through 12th grade in over a decade, according to a new report by the city comptroller — while enrollment is projected to keep falling.
+- Thursday’s report analyzed K-12 enrollment declines between the 2013-14 to 2025-26 school years, finding a 19% decrease when more recent universal preschool programs are removed from the equation, which can mask the extent of the declines with the addition of new grade levels.
+
+**So what?** Relevant to NYC education — check the full article for specific local implications.
+
+Source: [NYC K-12 enrollment fell 19% over decade, raising resource concerns](https://www.nydailynews.com/2026/10/29/nyc-public-schools-enrollment-decline/) — New York Daily News
+
+**Archdiocese Nears $800 Million Settlement with 1,300 Sex Abuse Victims**
+- Archdiocese Nears $800 Million Settlement with 1,300 Sex Abuse Victims The deal means the Archdiocese will avoid bankruptcy.
+- As part of the settlement, the Archdiocese will have to maintain an ongoing database of all priests and lay personnel credibly accused of sex abuse.
+
+**So what?** Relevant to NYC education — check the full article for specific local implications.
+
+Source: [Archdiocese Nears $800 Million Settlement with 1,300 Sex Abuse Victims](https://www.ourtownny.com/news/archdiocese-nears-800-million-settlement-with-1300-sex-abuse-victims-BD6324663) — Our Town
+
+## Health
+
+**'Inexplicable' order probed as cause of train crash that killed**
+- The collision occurred near the towns of Mora, Orgaz and Urda.
+- LONDON -- At least 69 people were killed after two trains collided on Spain's Madrid-Seville high-speed line on Wednesday, officials said.
+
+**So what?** Relevant to NYC health — check the full article for specific local implications.
+
+Source: ['Inexplicable' order probed as cause of train crash that killed at least 69: Official](https://abc7ny.com/story/least-30-killed-train-collision-high-speed-line-spain/19989209/) — ABC7 New York
+
+That concludes today's briefing.

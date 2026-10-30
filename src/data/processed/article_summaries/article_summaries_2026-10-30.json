@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-10-30T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-10-30.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Why over 1/3 of New Jersey voters now belong to",
+      "bullets": [
+        "NEW BRUNSWICK, N.J.",
+        "- Across the Mid-Atlantic and Northeast, traditional party loyalty is experiencing a systemic test heading into the midterm elections."
+      ],
+      "summary": "Why over 1/3 of New Jersey voters now belong to",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Why over 1/3 of New Jersey voters now belong to no party",
+        "article_url": "https://www.fox5ny.com/news/why-over-1-3-new-jersey-voters-now-belong-no-party",
+        "published_at": "2026-10-30"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-30T15:30:53.340314+00:00",
+      "verification": {
+        "article_title": "Why over 1/3 of New Jersey voters now belong to no party",
+        "article_url": "https://www.fox5ny.com/news/why-over-1-3-new-jersey-voters-now-belong-no-party",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-30T15:30:51.837530+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on misplaced loyalty, Dolores Huerta\u2019s life and",
+      "bullets": [
+        "None who serve should lend Trump support Whitestone: The worst cowards and morons in the nation are those in the military and police officers (and retired) who support that dirtbag (a cop\u2019s word for a real a-hole) President Trump.",
+        "How could anyone in the military support a repulsive, draft-dodging coward who called dead soldiers suckers and losers?"
+      ],
+      "summary": "Readers sound off on misplaced loyalty, Dolores Huerta\u2019s life and",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on misplaced loyalty, Dolores Huerta\u2019s life and athlete protests",
+        "article_url": "https://www.nydailynews.com/2026/10/30/readers-sound-off-on-misplaced-loyalty-dolores-huertas-life-and-athlete-protests/",
+        "published_at": "2026-10-30"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-30T15:30:53.388269+00:00",
+      "verification": {
+        "article_title": "Readers sound off on misplaced loyalty, Dolores Huerta\u2019s life and athlete protests",
+        "article_url": "https://www.nydailynews.com/2026/10/30/readers-sound-off-on-misplaced-loyalty-dolores-huertas-life-and-athlete-protests/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-30T15:30:51.977214+00:00"
+      }
+    },
+    {
+      "headline": "Democrats' early voting lead in NJ keeps growing ahead of",
+      "bullets": [
+        "Early voting turnout in New Jersey\u2019s 7th Congressional District has swamped 2024 totals ahead of next week\u2019s midterm election, giving Democrats a key advantage in their attempt to take the seat back from Republicans.",
+        "And unlike previous years, high Democratic turnout over Republicans has been sustained throughout the early voting period."
+      ],
+      "summary": "Democrats' early voting lead in NJ keeps growing ahead of",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Democrats' early voting lead in NJ keeps growing ahead of Election Day",
+        "article_url": "https://gothamist.com/news/democrats-early-voting-lead-in-nj-keeps-growing-ahead-of-election-day",
+        "published_at": "2026-10-30T15:17:55+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-30T15:30:53.433451+00:00",
+      "verification": {
+        "article_title": "Democrats' early voting lead in NJ keeps growing ahead of Election Day",
+        "article_url": "https://gothamist.com/news/democrats-early-voting-lead-in-nj-keeps-growing-ahead-of-election-day",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-30T15:30:52.044910+00:00"
+      }
+    },
+    {
+      "headline": "Halloween: Where to Celebrate from Times Sq. to Greenwich Village",
+      "bullets": [
+        "Halloween: Where to Celebrate from Times Sq.",
+        "to Greenwich Village Parade to City Streets There\u00e2s a wide assortment of last options available to celebrate the day of ghosts and goblins."
+      ],
+      "summary": "Halloween: Where to Celebrate from Times Sq. to Greenwich Village",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Halloween: Where to Celebrate from Times Sq. to Greenwich Village Parade to City Streets",
+        "article_url": "https://www.ourtownny.com/news/halloween-where-to-celebrate-from-times-sq-to-greenwich-village-parade-to-city-streets-KH6339972",
+        "published_at": "2026-10-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-30T15:30:53.502719+00:00",
+      "verification": {
+        "article_title": "Halloween: Where to Celebrate from Times Sq. to Greenwich Village Parade to City Streets",
+        "article_url": "https://www.ourtownny.com/news/halloween-where-to-celebrate-from-times-sq-to-greenwich-village-parade-to-city-streets-KH6339972",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-30T15:30:52.113867+00:00"
+      }
+    },
+    {
+      "headline": "Elke Sommer, German-born actress known for 'A Shot in the",
+      "bullets": [
+        "Elke Sommer, the striking blonde bombshell of German descent who was a mainstay of 1960s Hollywood comedies and espionage movies including \"The Prize\" and \"A Shot in the Dark,\" has died.",
+        "She was 85."
+      ],
+      "summary": "Elke Sommer, German-born actress known for 'A Shot in the",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Elke Sommer, German-born actress known for 'A Shot in the Dark' and 'The Prize,' dies at 85",
+        "article_url": "https://abc7ny.com/post/elke-sommer-german-born-actress-shot-dark-prize-dies-85/19999353/",
+        "published_at": "2026-10-30"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-30T15:30:53.576619+00:00",
+      "verification": {
+        "article_title": "Elke Sommer, German-born actress known for 'A Shot in the Dark' and 'The Prize,' dies at 85",
+        "article_url": "https://abc7ny.com/post/elke-sommer-german-born-actress-shot-dark-prize-dies-85/19999353/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-30T15:30:52.155846+00:00"
+      }
+    },
+    {
+      "headline": "Why LCD Soundsystem's 'New York, I Love You' is still",
+      "bullets": [
+        "Nearly 20 years ago, LCD Soundsystem vocalist James Murphy bemoaned the state of New York City over a slow-moving piano: \u201cLike a rat in a cage/ Pulling minimum wage / New York, I love you / But you\u2019re bringing me down,\u201d he sings in a spoken-word cadence.",
+        "He laments the city\u2019s power-hungry leaders and its general unaffordability crescendo."
+      ],
+      "summary": "Why LCD Soundsystem's 'New York, I Love You' is still",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Why LCD Soundsystem's 'New York, I Love You' is still the city's most honest anthem",
+        "article_url": "https://gothamist.com/arts-entertainment/why-lcd-soundsystems-new-york-i-love-you-is-still-the-citys-most-honest-anthem",
+        "published_at": "2026-10-30T13:30:58+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-30T15:30:53.645941+00:00",
+      "verification": {
+        "article_title": "Why LCD Soundsystem's 'New York, I Love You' is still the city's most honest anthem",
+        "article_url": "https://gothamist.com/arts-entertainment/why-lcd-soundsystems-new-york-i-love-you-is-still-the-citys-most-honest-anthem",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-30T15:30:52.196570+00:00"
+      }
+    },
+    {
+      "headline": "Mom of Brooklyn woman, 30, killed by Sanitation truck wants",
+      "bullets": [
+        "The devastated mother of a 30-year-old Brooklyn woman who was fatally struck by a city Sanitation Department garbage truck said she was furious to learn the driver wasn\u2019t taken away in handcuffs.",
+        "Siobhan Lynch was crossing Bay Parkway in Bath Beach when a sanitation driver heading east on Cropsey Ave."
+      ],
+      "summary": "Mom of Brooklyn woman, 30, killed by Sanitation truck wants",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Mom of Brooklyn woman, 30, killed by Sanitation truck wants driver arrested",
+        "article_url": "https://www.nydailynews.com/2026/10/29/woman-30-siobhan-lynch-fatally-struck-by-city-sanitation-department-garbage-truck-in-brooklyn/",
+        "published_at": "2026-10-30T01:28:54+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-30T15:30:53.696725+00:00",
+      "verification": {
+        "article_title": "Mom of Brooklyn woman, 30, killed by Sanitation truck wants driver arrested",
+        "article_url": "https://www.nydailynews.com/2026/10/29/woman-30-siobhan-lynch-fatally-struck-by-city-sanitation-department-garbage-truck-in-brooklyn/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-30T15:30:52.245751+00:00"
+      }
+    },
+    {
+      "headline": "Tracy Morgan named 2026 TCS New York City Marathon Grand",
+      "bullets": [
+        "Watch the 2026 TCS NYC Marathon on Sunday starting with the pre-show at 7:00 a.m.",
+        "on Channel 7 NEW YORK CITY (WABC) -- Native New Yorker, sports superfan, and multi-hyphenate entertainer Tracy Morgan has been named Grand Marshal of the 2026 TCS New York City Marathon."
+      ],
+      "summary": "Tracy Morgan named 2026 TCS New York City Marathon Grand",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Tracy Morgan named 2026 TCS New York City Marathon Grand Marshal",
+        "article_url": "https://abc7ny.com/post/nyc-marathon-tracy-morgan-serve-grand-marshal/19999831/",
+        "published_at": "2026-10-30"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-30T15:30:53.739189+00:00",
+      "verification": {
+        "article_title": "Tracy Morgan named 2026 TCS New York City Marathon Grand Marshal",
+        "article_url": "https://abc7ny.com/post/nyc-marathon-tracy-morgan-serve-grand-marshal/19999831/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-30T15:30:52.334127+00:00"
+      }
+    },
+    {
+      "headline": "Boy, 15, killed in ambush near Bronx home was from",
+      "bullets": [
+        "A 15-year-old boy from Ghana with dreams of being a physician was fatally shot in the Bronx Thursday morning just steps from his home, police said.",
+        "Teenager Javits Frimpong was struck in the abdomen around 9:24 a.m."
+      ],
+      "summary": "Boy, 15, killed in ambush near Bronx home was from",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Boy, 15, killed in ambush near Bronx home was from Ghana, dreamed of being doctor",
+        "article_url": "https://www.nydailynews.com/2026/10/29/teenager-wounded-broad-daylight-shooting-bronx/",
+        "published_at": "2026-10-30T01:54:57+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-30T15:30:53.783039+00:00",
+      "verification": {
+        "article_title": "Boy, 15, killed in ambush near Bronx home was from Ghana, dreamed of being doctor",
+        "article_url": "https://www.nydailynews.com/2026/10/29/teenager-wounded-broad-daylight-shooting-bronx/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-30T15:30:52.399750+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: Children in New Religious Movements: How Adults' Beliefs",
+      "bullets": [
+        "New York City, NY|Featured Event Children in New Religious Movements: How Adults' Beliefs Shape Their Lives What is a child?",
+        "The answer may seem obvious\u2014until we step inside the world of alternative spiritual communities, where children may be revered as enlightened masters, treated as spiritually unformed subordinates, or embraced as equal souls in small bodies."
+      ],
+      "summary": "Local Event: Children in New Religious Movements: How Adults' Beliefs",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Children in New Religious Movements: How Adults' Beliefs Shape Their Lives",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261104/a02bc74e-6f1c-41e8-a43a-b04eefc90975/children-in-new-religious-movements-how-adults-beliefs-shape-their-lives",
+        "published_at": "2026-11-04T23:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-30T15:30:53.870758+00:00",
+      "verification": {
+        "article_title": "Local Event: Children in New Religious Movements: How Adults' Beliefs Shape Their Lives",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261104/a02bc74e-6f1c-41e8-a43a-b04eefc90975/children-in-new-religious-movements-how-adults-beliefs-shape-their-lives",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-30T15:30:52.469130+00:00"
+      }
+    },
+    {
+      "headline": "'Inexplicable' order probed as cause of train crash that killed",
+      "bullets": [
+        "The collision occurred near the towns of Mora, Orgaz and Urda.",
+        "LONDON -- At least 69 people were killed after two trains collided on Spain's Madrid-Seville high-speed line on Wednesday, officials said."
+      ],
+      "summary": "'Inexplicable' order probed as cause of train crash that killed",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "'Inexplicable' order probed as cause of train crash that killed at least 69: Official",
+        "article_url": "https://abc7ny.com/story/least-30-killed-train-collision-high-speed-line-spain/19989209/",
+        "published_at": "2026-10-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-30T15:30:53.912410+00:00",
+      "verification": {
+        "article_title": "'Inexplicable' order probed as cause of train crash that killed at least 69: Official",
+        "article_url": "https://abc7ny.com/story/least-30-killed-train-collision-high-speed-line-spain/19989209/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-30T15:30:52.651298+00:00"
+      }
+    },
+    {
+      "headline": "Dad just got e-bike for work that sparked Bronx fire",
+      "bullets": [
+        "The e-bike that sparked the ferocious fire that killed an 11-year-old Bronx boy and left the rest of his family clinging to life was gifted to the child\u2019s father by a friend so he could find more work and provide a better life for his family, heartbroken relatives said.",
+        "But the gracious gift proved to be a deadly hazard that killed Zion Maine and left his father, two teen brothers and stepmom critically hurt."
+      ],
+      "summary": "Dad just got e-bike for work that sparked Bronx fire",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Dad just got e-bike for work that sparked Bronx fire and killed young son, heartbroken family says",
+        "article_url": "https://www.nydailynews.com/2026/10/29/bronx-nycha-e-bike-lithium-ion-battery-fire-killed-zion-maine-nycha-patterson-houses/",
+        "published_at": "2026-10-29"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-30T15:30:53.957584+00:00",
+      "verification": {
+        "article_title": "Dad just got e-bike for work that sparked Bronx fire and killed young son, heartbroken family says",
+        "article_url": "https://www.nydailynews.com/2026/10/29/bronx-nycha-e-bike-lithium-ion-battery-fire-killed-zion-maine-nycha-patterson-houses/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-30T15:30:52.700171+00:00"
+      }
+    },
+    {
+      "headline": "NYC K-12 enrollment fell 19% over decade, raising resource concerns",
+      "bullets": [
+        "New York City\u2019s public schools lost 187,000 students in kindergarten through 12th grade in over a decade, according to a new report by the city comptroller \u2014 while enrollment is projected to keep falling.",
+        "Thursday\u2019s report analyzed K-12 enrollment declines between the 2013-14 to 2025-26 school years, finding a 19% decrease when more recent universal preschool programs are removed from the equation, which can mask the extent of the declines with the addition of new grade levels."
+      ],
+      "summary": "NYC K-12 enrollment fell 19% over decade, raising resource concerns",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYC K-12 enrollment fell 19% over decade, raising resource concerns",
+        "article_url": "https://www.nydailynews.com/2026/10/29/nyc-public-schools-enrollment-decline/",
+        "published_at": "2026-10-29T20:51:31+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-30T15:30:54.004016+00:00",
+      "verification": {
+        "article_title": "NYC K-12 enrollment fell 19% over decade, raising resource concerns",
+        "article_url": "https://www.nydailynews.com/2026/10/29/nyc-public-schools-enrollment-decline/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-30T15:30:52.873834+00:00"
+      }
+    },
+    {
+      "headline": "Archdiocese Nears $800 Million Settlement with 1,300 Sex Abuse Victims",
+      "bullets": [
+        "Archdiocese Nears $800 Million Settlement with 1,300 Sex Abuse Victims The deal means the Archdiocese will avoid bankruptcy.",
+        "As part of the settlement, the Archdiocese will have to maintain an ongoing database of all priests and lay personnel credibly accused of sex abuse."
+      ],
+      "summary": "Archdiocese Nears $800 Million Settlement with 1,300 Sex Abuse Victims",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Archdiocese Nears $800 Million Settlement with 1,300 Sex Abuse Victims",
+        "article_url": "https://www.ourtownny.com/news/archdiocese-nears-800-million-settlement-with-1300-sex-abuse-victims-BD6324663",
+        "published_at": "2026-10-28"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-30T15:30:54.048582+00:00",
+      "verification": {
+        "article_title": "Archdiocese Nears $800 Million Settlement with 1,300 Sex Abuse Victims",
+        "article_url": "https://www.ourtownny.com/news/archdiocese-nears-800-million-settlement-with-1300-sex-abuse-victims-BD6324663",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-30T15:30:52.948588+00:00"
+      }
+    },
+    {
+      "headline": "Dockworkers stage international strikes to denounce arms shipments and demand",
+      "bullets": [
+        "By SYLVIE CORBET PARIS (AP) \u2014 Dockworkers in Europe and beyond were staging strikes on Friday as part of an international campaign against arms shipments and to demand better working conditions, unions said.",
+        "Unions in France, Italy, Greece, Spain, Turkey and Morocco issued a joint call to demand an end to the wars in the Middle East, including the war in Gaza, and \u201can end to the militarization of ports.\u201d \u201cPorts must not be used for the transport of weapons, ammunition, military equipment and troops,\u201d the statement said."
+      ],
+      "summary": "Dockworkers stage international strikes to denounce arms shipments and demand",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Dockworkers stage international strikes to denounce arms shipments and demand better conditions",
+        "article_url": "https://www.nydailynews.com/2026/10/30/dockworkers-international-strikes/",
+        "published_at": "2026-10-30"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-30T15:30:54.098065+00:00",
+      "verification": {
+        "article_title": "Dockworkers stage international strikes to denounce arms shipments and demand better conditions",
+        "article_url": "https://www.nydailynews.com/2026/10/30/dockworkers-international-strikes/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-30T15:30:53.034950+00:00"
+      }
+    },
+    {
+      "headline": "States need the FEMA grants that Trump wants to block",
+      "bullets": [
+        "It was 14 years ago, right before Halloween, when Superstorm Sandy slammed New York, causing billions in damage and it was FEMA that brought the needed aid and assistance, yet Donald Trump\u2019s FEMA Administrator Cameron Hamilton has been hinting of no longer providing states with disaster relief funding, deprive states and localities of the tens of billions of dollars often needed to rebuild after even routine storms and other disasters.",
+        "Just three days ago, Gov."
+      ],
+      "summary": "States need the FEMA grants that Trump wants to block",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "States need the FEMA grants that Trump wants to block",
+        "article_url": "https://www.nydailynews.com/2026/10/30/states-need-the-fema-grants-that-trump-wants-to-block/",
+        "published_at": "2026-10-30"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-30T15:30:54.171826+00:00",
+      "verification": {
+        "article_title": "States need the FEMA grants that Trump wants to block",
+        "article_url": "https://www.nydailynews.com/2026/10/30/states-need-the-fema-grants-that-trump-wants-to-block/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-30T15:30:53.078543+00:00"
+      }
+    },
+    {
+      "headline": "Who pays for a $1B riot? Europe looks past rioters",
+      "bullets": [
+        "By THOMAS ADAMSON PARIS (AP) \u2014 In France, the bill for a riot could soon be paid from a family\u2019s housing aid.",
+        "Some people in a violent crowd could be made to pay for windows they never broke."
+      ],
+      "summary": "Who pays for a $1B riot? Europe looks past rioters",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Who pays for a $1B riot? Europe looks past rioters to their parents and the apps in their pockets",
+        "article_url": "https://www.nydailynews.com/2026/10/30/europe-riots-who-pays/",
+        "published_at": "2026-10-30"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-30T15:30:54.217231+00:00",
+      "verification": {
+        "article_title": "Who pays for a $1B riot? Europe looks past rioters to their parents and the apps in their pockets",
+        "article_url": "https://www.nydailynews.com/2026/10/30/europe-riots-who-pays/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-30T15:30:53.173138+00:00"
+      }
+    },
+    {
+      "headline": "NYPD won't enforce NYC's bus fare while MTA security force",
+      "bullets": [
+        "This column originally appeared in On The Way, a weekly newsletter covering everything you need to know about NYC-area transportation.",
+        "Sign up to get the full version, which includes answers to reader questions, trivia, service changes and more, in your inbox every Thursday."
+      ],
+      "summary": "NYPD won't enforce NYC's bus fare while MTA security force",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYPD won't enforce NYC's bus fare while MTA security force is suspended",
+        "article_url": "https://gothamist.com/news/who-is-enforcing-the-mtas-3-bus-fare-for-the-moment-no-one",
+        "published_at": "2026-10-29T17:13:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-10-30T15:30:54.262833+00:00",
+      "verification": {
+        "article_title": "NYPD won't enforce NYC's bus fare while MTA security force is suspended",
+        "article_url": "https://gothamist.com/news/who-is-enforcing-the-mtas-3-bus-fare-for-the-moment-no-one",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-10-30T15:30:53.216769+00:00"
+      }
+    }
+  ]
+}
