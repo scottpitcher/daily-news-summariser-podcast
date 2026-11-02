@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-11-02T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-11-02.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "El-Sayed\u2019s primary opponent stuns Democrats by endorsing Republican opponent in",
+      "bullets": [
+        "By JOEY CAPPELLETTI, COREY WILLIAMS and MIKE HOUSEHOLDER DETROIT (AP) \u2014 Michigan Democrat Abdul El-Sayed\u2019s former opponent in the U.S.",
+        "Senate primary, Haley Stevens, stunned party officials Sunday by endorsing Republican Mike Rogers as Democratic tensions boiled over days before the election that could determine the balance of power on Capitol Hill."
+      ],
+      "summary": "El-Sayed\u2019s primary opponent stuns Democrats by endorsing Republican opponent in",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "El-Sayed\u2019s primary opponent stuns Democrats by endorsing Republican opponent in Michigan Senate race",
+        "article_url": "https://www.nydailynews.com/2026/11/02/haley-stevens-mike-rogers-endorsement-michigan/",
+        "published_at": "2026-11-02T13:15:24+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-02T19:03:19.652555+00:00",
+      "verification": {
+        "article_title": "El-Sayed\u2019s primary opponent stuns Democrats by endorsing Republican opponent in Michigan Senate race",
+        "article_url": "https://www.nydailynews.com/2026/11/02/haley-stevens-mike-rogers-endorsement-michigan/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-02T19:03:16.543621+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on Trump\u2019s policies, anti-bully tech and released",
+      "bullets": [
+        "Trump cracks jokes as he breaks our banks Fairfield, Conn.: President Trump states at rallies that we should vote as if he\u2019s on the ballot, and I agree.",
+        "Let\u2019s take a look at his accomplishments."
+      ],
+      "summary": "Readers sound off on Trump\u2019s policies, anti-bully tech and released",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on Trump\u2019s policies, anti-bully tech and released balloons",
+        "article_url": "https://www.nydailynews.com/2026/11/02/readers-sound-off-on-trumps-policies-anti-bully-tech-and-released-balloons/",
+        "published_at": "2026-11-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-02T19:03:19.790710+00:00",
+      "verification": {
+        "article_title": "Readers sound off on Trump\u2019s policies, anti-bully tech and released balloons",
+        "article_url": "https://www.nydailynews.com/2026/11/02/readers-sound-off-on-trumps-policies-anti-bully-tech-and-released-balloons/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-02T19:03:16.742925+00:00"
+      }
+    },
+    {
+      "headline": "What's on the ballot in NYC for the 2026 midterm",
+      "bullets": [
+        "When voters in New York City cast their ballots in the 2026 midterm elections, they won't just be voting for candidates.",
+        "There are five ballot proposals New Yorkers will have to consider involving proposed charter amendments."
+      ],
+      "summary": "What's on the ballot in NYC for the 2026 midterm",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "What's on the ballot in NYC for the 2026 midterm elections?",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-2026-midterm-election-ballot-proposals/",
+        "published_at": "2026-11-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-02T19:03:19.933235+00:00",
+      "verification": {
+        "article_title": "What's on the ballot in NYC for the 2026 midterm elections?",
+        "article_url": "https://www.cbsnews.com/newyork/news/nyc-2026-midterm-election-ballot-proposals/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-02T19:03:16.937295+00:00"
+      }
+    },
+    {
+      "headline": "Russia bombs aid center and shelter in southern Ukraine, killing",
+      "bullets": [
+        "By DEREK GATOPOULOS and SUSIE BLANN KYIV, Ukraine (AP) \u2014 Russia bombed an aid distribution center and neighboring shelter in southern Ukraine on Monday, killing 24 people, Ukraine\u2019s emergency services agency said.",
+        "Ukrainian President Volodymyr Zelenskyy said in a post on X that 10 guided bombs targeted an area that included a school building used to distribute humanitarian aid and a nearby shelter."
+      ],
+      "summary": "Russia bombs aid center and shelter in southern Ukraine, killing",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Russia bombs aid center and shelter in southern Ukraine, killing 24, authorities say",
+        "article_url": "https://www.nydailynews.com/2026/11/02/ukraine-and-russia-report-fake-emergency-alerts-after-cyberattack-targets-apps/",
+        "published_at": "2026-11-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-02T19:03:20.067009+00:00",
+      "verification": {
+        "article_title": "Russia bombs aid center and shelter in southern Ukraine, killing 24, authorities say",
+        "article_url": "https://www.nydailynews.com/2026/11/02/ukraine-and-russia-report-fake-emergency-alerts-after-cyberattack-targets-apps/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-02T19:03:17.125986+00:00"
+      }
+    },
+    {
+      "headline": "America\u2019s promise for all newcomers",
+      "bullets": [
+        "Twenty-five years ago today, Nov.",
+        "2, 2001, I became a United States citizen in the first wave of naturalization ceremonies conducted in New York City after the horrors of 9/11."
+      ],
+      "summary": "America\u2019s promise for all newcomers",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "America\u2019s promise for all newcomers",
+        "article_url": "https://www.nydailynews.com/2026/11/02/americas-promise-for-all-newcomers/",
+        "published_at": "2026-11-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-02T19:03:20.194721+00:00",
+      "verification": {
+        "article_title": "America\u2019s promise for all newcomers",
+        "article_url": "https://www.nydailynews.com/2026/11/02/americas-promise-for-all-newcomers/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-02T19:03:17.260035+00:00"
+      }
+    },
+    {
+      "headline": "Supermarket freezers in several European countries hit by apparent cyberattacks",
+      "bullets": [
+        "STOCKHOLM (AP) \u2014 Supermarkets in Sweden, Belgium, Luxembourg, Ireland and Estonia were hit Monday by problems with freezers and fridges that apparently were caused by cyberattacks, forcing some to dispose of ruined food.",
+        "The problems follow a case last month in which attackers remotely took control of refrigeration systems in hundreds of supermarkets and independent stores across France, sending temperatures soaring."
+      ],
+      "summary": "Supermarket freezers in several European countries hit by apparent cyberattacks",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Supermarket freezers in several European countries hit by apparent cyberattacks",
+        "article_url": "https://www.nydailynews.com/2026/11/02/supermarket-freezers-cyberattacks-europe/",
+        "published_at": "2026-11-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-02T19:03:20.334369+00:00",
+      "verification": {
+        "article_title": "Supermarket freezers in several European countries hit by apparent cyberattacks",
+        "article_url": "https://www.nydailynews.com/2026/11/02/supermarket-freezers-cyberattacks-europe/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-02T19:03:17.482568+00:00"
+      }
+    },
+    {
+      "headline": "New Historical Fiction Tome Set in Manhattan\u00e2s Diamond District",
+      "bullets": [
+        "New Historical Fiction Tome Set in Manhattan\u00e2s Diamond District \u00e2The Cursed Diamond\u00e2 by author/gemologist Anna Rasche ricochets between New York\u00e2s Gilded Age and Manhattan in 2010, with a blue diamond connecting two very different women who will do anything to own it.",
+        "Talk about writing what you know."
+      ],
+      "summary": "New Historical Fiction Tome Set in Manhattan\u00e2s Diamond District",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "New Historical Fiction Tome Set in Manhattan\u00e2s Diamond District",
+        "article_url": "https://www.ourtownny.com/city-arts/new-historical-fiction-tome-set-in-manhattan-s-diamond-district-FD6335412",
+        "published_at": "2026-10-30"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-02T19:03:20.527583+00:00",
+      "verification": {
+        "article_title": "New Historical Fiction Tome Set in Manhattan\u00e2s Diamond District",
+        "article_url": "https://www.ourtownny.com/city-arts/new-historical-fiction-tome-set-in-manhattan-s-diamond-district-FD6335412",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-02T19:03:17.696275+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: Children in New Religious Movements: How Adults' Beliefs",
+      "bullets": [
+        "New York City, NY|Featured Event Children in New Religious Movements: How Adults' Beliefs Shape Their Lives What is a child?",
+        "The answer may seem obvious\u2014until we step inside the world of alternative spiritual communities, where children may be revered as enlightened masters, treated as spiritually unformed subordinates, or embraced as equal souls in small bodies."
+      ],
+      "summary": "Local Event: Children in New Religious Movements: How Adults' Beliefs",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Children in New Religious Movements: How Adults' Beliefs Shape Their Lives",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261104/a02bc74e-6f1c-41e8-a43a-b04eefc90975/children-in-new-religious-movements-how-adults-beliefs-shape-their-lives",
+        "published_at": "2026-11-04T23:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-02T19:03:20.659778+00:00",
+      "verification": {
+        "article_title": "Local Event: Children in New Religious Movements: How Adults' Beliefs Shape Their Lives",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261104/a02bc74e-6f1c-41e8-a43a-b04eefc90975/children-in-new-religious-movements-how-adults-beliefs-shape-their-lives",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-02T19:03:17.881595+00:00"
+      }
+    },
+    {
+      "headline": "Homeless sex offender arrested for murder of Italian art dealer",
+      "bullets": [
+        "A 60-year-old homeless sex offender has been arrested for the murder of an Italian art dealer inside the victim\u2019s SoHo apartment, police said Monday.",
+        "Larry Powlis was caught shoplifting at a TJ Maxx in Midtown Sunday \u2014 and when police ran his name they realized he was wanted for strangling Egizio Panetti, 67, inside the victim\u2019s Spring St."
+      ],
+      "summary": "Homeless sex offender arrested for murder of Italian art dealer",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Homeless sex offender arrested for murder of Italian art dealer in victim\u2019s SoHo home",
+        "article_url": "https://www.nydailynews.com/2026/11/02/homeless-sex-offender-larry-powlis-arrested-murder-italian-art-dealer-egizio-panetti-soho-home/",
+        "published_at": "2026-11-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-02T19:03:20.791634+00:00",
+      "verification": {
+        "article_title": "Homeless sex offender arrested for murder of Italian art dealer in victim\u2019s SoHo home",
+        "article_url": "https://www.nydailynews.com/2026/11/02/homeless-sex-offender-larry-powlis-arrested-murder-italian-art-dealer-egizio-panetti-soho-home/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-02T19:03:18.014824+00:00"
+      }
+    },
+    {
+      "headline": "Bronx students stage walkout after murder of 15-year-old Javits Frimpong",
+      "bullets": [
+        "CROTONA PARK, Bronx (WABC) -- Students at the Dream Yard Preparatory School in the Bronx walked out Monday to denounce bullying and gun violence following the shooting death of 15-year-old Javits Frimpong.",
+        "The walkout took place just blocks from where Frimpong was shot and killed."
+      ],
+      "summary": "Bronx students stage walkout after murder of 15-year-old Javits Frimpong",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Bronx students stage walkout after murder of 15-year-old Javits Frimpong",
+        "article_url": "https://abc7ny.com/post/bronx-students-stage-walkout-murder-15-year-old-javits-frimpong/20008446/",
+        "published_at": "2026-11-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-02T19:03:20.929908+00:00",
+      "verification": {
+        "article_title": "Bronx students stage walkout after murder of 15-year-old Javits Frimpong",
+        "article_url": "https://abc7ny.com/post/bronx-students-stage-walkout-murder-15-year-old-javits-frimpong/20008446/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-02T19:03:18.156516+00:00"
+      }
+    },
+    {
+      "headline": "El-Sayed\u2019s primary opponent stuns Democrats by endorsing Republican opponent in",
+      "bullets": [
+        "By JOEY CAPPELLETTI, COREY WILLIAMS and MIKE HOUSEHOLDER DETROIT (AP) \u2014 Michigan Democrat Abdul El-Sayed\u2019s former opponent in the U.S.",
+        "Senate primary, Haley Stevens, stunned party officials Sunday by endorsing Republican Mike Rogers as Democratic tensions boiled over days before the election that could determine the balance of power on Capitol Hill."
+      ],
+      "summary": "El-Sayed\u2019s primary opponent stuns Democrats by endorsing Republican opponent in",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "El-Sayed\u2019s primary opponent stuns Democrats by endorsing Republican opponent in Michigan Senate race",
+        "article_url": "https://www.nydailynews.com/2026/11/02/haley-stevens-mike-rogers-endorsement-michigan/",
+        "published_at": "2026-11-02T13:15:24+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-02T19:03:21.109764+00:00",
+      "verification": {
+        "article_title": "El-Sayed\u2019s primary opponent stuns Democrats by endorsing Republican opponent in Michigan Senate race",
+        "article_url": "https://www.nydailynews.com/2026/11/02/haley-stevens-mike-rogers-endorsement-michigan/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-02T19:03:18.343901+00:00"
+      }
+    },
+    {
+      "headline": "A Long Island family says a medic advised against sending",
+      "bullets": [
+        "A Long Island family is seeking answers after their sick mother died less than 24 hours after they say a police medic advised against sending her to the hospital.",
+        "CBS News New York obtained records showing the state closed an investigation into the incident without pursuing administrative charges against the medic despite a state health investigator documenting what's described as a \"pattern of negligence and misconduct.\" \"She instilled fear in me\" On Dec."
+      ],
+      "summary": "A Long Island family says a medic advised against sending",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "A Long Island family says a medic advised against sending their mom to the hospital. She died the next day.",
+        "article_url": "https://www.cbsnews.com/newyork/news/long-island-mom-dies-ambulance-transport/",
+        "published_at": "2026-10-30"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-02T19:03:21.253197+00:00",
+      "verification": {
+        "article_title": "A Long Island family says a medic advised against sending their mom to the hospital. She died the next day.",
+        "article_url": "https://www.cbsnews.com/newyork/news/long-island-mom-dies-ambulance-transport/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-02T19:03:18.487392+00:00"
+      }
+    },
+    {
+      "headline": "NYC's school PTA fundraising gap is growing, mirroring broader racial",
+      "bullets": [
+        "Parent teacher associations may conjure images of read-a-thons and fun runs, where grandparents and relatives pledge to pay their grade schooler for every page they read or lap they jog.",
+        "And of course, there\u2019s the iconic PTA bake sale."
+      ],
+      "summary": "NYC's school PTA fundraising gap is growing, mirroring broader racial",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC's school PTA fundraising gap is growing, mirroring broader racial disparities",
+        "article_url": "https://gothamist.com/news/nycs-school-pta-fundraising-gap-is-growing-mirroring-broader-racial-disparities",
+        "published_at": "2026-11-02T11:00:55+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-02T19:03:21.409841+00:00",
+      "verification": {
+        "article_title": "NYC's school PTA fundraising gap is growing, mirroring broader racial disparities",
+        "article_url": "https://gothamist.com/news/nycs-school-pta-fundraising-gap-is-growing-mirroring-broader-racial-disparities",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-02T19:03:18.677973+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: Building Community at the 21st-Century University",
+      "bullets": [
+        "Vanderbilt University Chancellor Daniel Diermeier and Columbia University President Jennifer Mnookin What does it mean to build a university community at a moment when the very idea of community feels fraught?",
+        "Join Vanderbilt University Chancellor Daniel Diermeier and Columbia University President Jennifer Mnookin for a conversation about the future of campus life."
+      ],
+      "summary": "Local Event: Building Community at the 21st-Century University",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Building Community at the 21st-Century University",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261105/2d4c0e2c-9289-4d8f-9d3f-d6d0cdfb8bfc/building-community-at-the-21st-century-university",
+        "published_at": "2026-11-06T01:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-02T19:03:21.544007+00:00",
+      "verification": {
+        "article_title": "Local Event: Building Community at the 21st-Century University",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261105/2d4c0e2c-9289-4d8f-9d3f-d6d0cdfb8bfc/building-community-at-the-21st-century-university",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-02T19:03:18.820401+00:00"
+      }
+    },
+    {
+      "headline": "Cory Booker, Justin Murphy make final pitch to New Jersey",
+      "bullets": [
+        "NEWARK, New Jersey (WABC) -- New Jersey voters will choose between incumbent Sen.",
+        "Cory Booker and Republican challenger Justin Murphy in Tuesday's U.S."
+      ],
+      "summary": "Cory Booker, Justin Murphy make final pitch to New Jersey",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Cory Booker, Justin Murphy make final pitch to New Jersey voters in Senate race",
+        "article_url": "https://abc7ny.com/post/nj-senate-election-2026-booker-murphy-make-final-pitch-new-jersey-voters/20008234/",
+        "published_at": "2026-11-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-02T19:03:21.669161+00:00",
+      "verification": {
+        "article_title": "Cory Booker, Justin Murphy make final pitch to New Jersey voters in Senate race",
+        "article_url": "https://abc7ny.com/post/nj-senate-election-2026-booker-murphy-make-final-pitch-new-jersey-voters/20008234/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-02T19:03:18.956768+00:00"
+      }
+    },
+    {
+      "headline": "Karen\u00e2s Quirky New York Takes You to an Underwater World",
+      "bullets": [
+        "Karen\u00e2s Quirky New York Takes You to an Underwater World ARTECHOUSE\u00e2s spectacular Twilight Zone: Hidden Wonders of the Ocean exhibit is a trip into the unknown depths of the sea\u00e2deep, dark, alive, and magical!",
+        "ARTECHOUSE\u00e2s Twilight Zone: Hidden Wonders of the Ocean exhibit is a hidden art bomb: an explosion of light, color, and sound in a 100-year-old boiler room turned digital art hub in the basement of Chelsea Market."
+      ],
+      "summary": "Karen\u00e2s Quirky New York Takes You to an Underwater World",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Karen\u00e2s Quirky New York Takes You to an Underwater World",
+        "article_url": "https://www.ourtownny.com/news/karen-s-quirky-new-york-takes-you-to-an-underwater-world-FH6328502",
+        "published_at": "2026-10-26"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-02T19:03:21.805012+00:00",
+      "verification": {
+        "article_title": "Karen\u00e2s Quirky New York Takes You to an Underwater World",
+        "article_url": "https://www.ourtownny.com/news/karen-s-quirky-new-york-takes-you-to-an-underwater-world-FH6328502",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-02T19:03:19.113462+00:00"
+      }
+    },
+    {
+      "headline": "AMC CEO Blasts Health Care Giant: NYU Langone \u00e2Wants Us",
+      "bullets": [
+        "AMC CEO Blasts Health Care Giant: NYU Langone \u00e2Wants Us Gone\u00e2 AMC CEO Adam Aron says the cinema chain wants to keep its East Side location in Kips Bay but the health care giant wants to give the IMAX movie theater the boot.",
+        "AMC CEO Adam Aron has spoken out against the planned closure of the AMC Kips Bay 15."
+      ],
+      "summary": "AMC CEO Blasts Health Care Giant: NYU Langone \u00e2Wants Us",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "AMC CEO Blasts Health Care Giant: NYU Langone \u00e2Wants Us Gone\u00e2",
+        "article_url": "https://www.ourtownny.com/news/amc-ceo-blasts-health-care-giant-nyu-langone-wants-us-gone-EX6347006",
+        "published_at": "2026-11-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-02T19:03:21.969112+00:00",
+      "verification": {
+        "article_title": "AMC CEO Blasts Health Care Giant: NYU Langone \u00e2Wants Us Gone\u00e2",
+        "article_url": "https://www.ourtownny.com/news/amc-ceo-blasts-health-care-giant-nyu-langone-wants-us-gone-EX6347006",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-02T19:03:19.240069+00:00"
+      }
+    },
+    {
+      "headline": "Achieve the best brew with these top Keurig coffee makers",
+      "bullets": [
+        "When Keurig introduced the first single-cup coffee pods, it filled a niche many devoted caffeine fans didn\u2019t realize existed.",
+        "These pods allowed individual coffee drinkers to choose a specific blend at a specific serving size."
+      ],
+      "summary": "Achieve the best brew with these top Keurig coffee makers",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Achieve the best brew with these top Keurig coffee makers",
+        "article_url": "https://www.nydailynews.com/2026/11/01/achieve-the-best-brew-with-these-top-keurig-coffee-makers/",
+        "published_at": "2026-11-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-02T19:03:22.136589+00:00",
+      "verification": {
+        "article_title": "Achieve the best brew with these top Keurig coffee makers",
+        "article_url": "https://www.nydailynews.com/2026/11/01/achieve-the-best-brew-with-these-top-keurig-coffee-makers/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-02T19:03:19.373948+00:00"
+      }
+    }
+  ]
+}
