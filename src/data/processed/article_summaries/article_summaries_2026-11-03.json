@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-11-03T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-11-03.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Readers sound off on Christian nationalists, a historic Met and",
+      "bullets": [
+        "Bible-thumpers\u2019 votes reveal their values Valhalla, N.Y.: The propensity for enigmatic contradiction in thought and ideation is alive and well in the Republican Party in Texas.",
+        "It\u2019s astounding to me that some of the Texas voices I see, hear and read either don\u2019t realize or don\u2019t care that their support and defense of candidates (and their ads, ideas and policies) are contradictory to what they profess to believe."
+      ],
+      "summary": "Readers sound off on Christian nationalists, a historic Met and",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on Christian nationalists, a historic Met and FM radio stations",
+        "article_url": "https://www.nydailynews.com/2026/11/03/readers-sound-off-on-christian-nationalists-a-historic-met-and-fm-radio-stations/",
+        "published_at": "2026-11-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-03T16:47:02.541495+00:00",
+      "verification": {
+        "article_title": "Readers sound off on Christian nationalists, a historic Met and FM radio stations",
+        "article_url": "https://www.nydailynews.com/2026/11/03/readers-sound-off-on-christian-nationalists-a-historic-met-and-fm-radio-stations/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-03T16:47:00.459471+00:00"
+      }
+    },
+    {
+      "headline": "US has conducted defensive strikes on some Iranian targets in",
+      "bullets": [
+        "WASHINGTON -- The United States has conducted defensive strikes on some Iranian targets in the Strait of Hormuz, a U.S.",
+        "official said Monday, on the eve of crucial midterm elections."
+      ],
+      "summary": "US has conducted defensive strikes on some Iranian targets in",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "US has conducted defensive strikes on some Iranian targets in the Strait of Hormuz, US official says",
+        "article_url": "https://abc7ny.com/post/us-iran-war-news-israels-benjamin-netanyahu-wants-donald-trump-administration-carry-new-strikes-officials-tell-ap/20009648/",
+        "published_at": "2026-11-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-03T16:47:02.638899+00:00",
+      "verification": {
+        "article_title": "US has conducted defensive strikes on some Iranian targets in the Strait of Hormuz, US official says",
+        "article_url": "https://abc7ny.com/post/us-iran-war-news-israels-benjamin-netanyahu-wants-donald-trump-administration-carry-new-strikes-officials-tell-ap/20009648/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-03T16:47:00.562192+00:00"
+      }
+    },
+    {
+      "headline": "Hochul, Blakeman make final campaign push in New York governor's",
+      "bullets": [
+        "New York Gov.",
+        "Kathy Hochul and Republican challenger Bruce Blakeman to voters Monday, just ahead of the midterm elections."
+      ],
+      "summary": "Hochul, Blakeman make final campaign push in New York governor's",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Hochul, Blakeman make final campaign push in New York governor's race",
+        "article_url": "https://www.cbsnews.com/newyork/news/midterm-election-kathy-hochul-bruce-blakeman-new-york-governor-race/",
+        "published_at": "2026-11-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-03T16:47:02.752135+00:00",
+      "verification": {
+        "article_title": "Hochul, Blakeman make final campaign push in New York governor's race",
+        "article_url": "https://www.cbsnews.com/newyork/news/midterm-election-kathy-hochul-bruce-blakeman-new-york-governor-race/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-03T16:47:00.713842+00:00"
+      }
+    },
+    {
+      "headline": "Who are the NYC congressional candidates endorsed by Mamdani?",
+      "bullets": [
+        "NEW YORK - Mayor Zohran Mamdani endorsed three candidates for Congress during the Democratic primary \u2013 all are heavy favorites to win their races in deep blue New York City districts.",
+        "FOX 5 NY is your home on Election Night."
+      ],
+      "summary": "Who are the NYC congressional candidates endorsed by Mamdani?",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Who are the NYC congressional candidates endorsed by Mamdani?",
+        "article_url": "https://www.fox5ny.com/news/nyc-zohran-mamdani-candidates-endorsed-congress-politics-midterm-elections",
+        "published_at": "2026-11-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-03T16:47:02.845431+00:00",
+      "verification": {
+        "article_title": "Who are the NYC congressional candidates endorsed by Mamdani?",
+        "article_url": "https://www.fox5ny.com/news/nyc-zohran-mamdani-candidates-endorsed-congress-politics-midterm-elections",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-03T16:47:00.805902+00:00"
+      }
+    },
+    {
+      "headline": "NYC restaurants are the key to fighting hunger",
+      "bullets": [
+        "Celebrity chef and restaurateur Marcus Samuelsson recently called New York City restaurants \u201cthe beating heart of life\u201d in the city, which provide \u201cpathways to careers and livelihoods.\u201d They can also be key to combating the city\u2019s hunger epidemic.",
+        "Samuelsson\u2019s comments came with Mayor Mamdani\u2019s Aug."
+      ],
+      "summary": "NYC restaurants are the key to fighting hunger",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYC restaurants are the key to fighting hunger",
+        "article_url": "https://www.nydailynews.com/2026/11/03/nyc-restaurants-are-the-key-to-fighting-hunger/",
+        "published_at": "2026-11-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-03T16:47:02.938970+00:00",
+      "verification": {
+        "article_title": "NYC restaurants are the key to fighting hunger",
+        "article_url": "https://www.nydailynews.com/2026/11/03/nyc-restaurants-are-the-key-to-fighting-hunger/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-03T16:47:00.906057+00:00"
+      }
+    },
+    {
+      "headline": "NYPD cops shoot armed suspect who exchanges gunfire outside Bronx",
+      "bullets": [
+        "Police shot an armed suspect who\u2019d been feuding with workers at a Bronx deli after the man refused to drop his weapon and exchanged gunfire with officers Monday, cops said.",
+        "Officers on patrol spotted Victor Soto, 49, violently slam a firearm into the glass storefront of Sammy Gourmet Deli at the corner of E."
+      ],
+      "summary": "NYPD cops shoot armed suspect who exchanges gunfire outside Bronx",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYPD cops shoot armed suspect who exchanges gunfire outside Bronx deli",
+        "article_url": "https://www.nydailynews.com/2026/11/02/nypd-cops-shoot-armed-suspect-in-bronx-after-he-opens-fire-on-them/",
+        "published_at": "2026-11-03T02:08:19+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-03T16:47:03.028277+00:00",
+      "verification": {
+        "article_title": "NYPD cops shoot armed suspect who exchanges gunfire outside Bronx deli",
+        "article_url": "https://www.nydailynews.com/2026/11/02/nypd-cops-shoot-armed-suspect-in-bronx-after-he-opens-fire-on-them/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-03T16:47:01.045735+00:00"
+      }
+    },
+    {
+      "headline": "At Ruppert Park Groundbreaking, Spirits High for Reconstruction",
+      "bullets": [
+        "At Ruppert Park Groundbreaking, Spirits High for Reconstruction Decades in the making, the $13.4 million project will will reopen in two phases, with the first part scheduled for September 2027.",
+        "Once upon a time in the dirt-filled construction site that is Ruppert Park, there was a lesson in pronunciation."
+      ],
+      "summary": "At Ruppert Park Groundbreaking, Spirits High for Reconstruction",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "At Ruppert Park Groundbreaking, Spirits High for Reconstruction",
+        "article_url": "https://www.ourtownny.com/news/at-ruppert-park-groundbreaking-spirits-high-for-reconstruction-CB6333523",
+        "published_at": "2026-11-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-03T16:47:03.135430+00:00",
+      "verification": {
+        "article_title": "At Ruppert Park Groundbreaking, Spirits High for Reconstruction",
+        "article_url": "https://www.ourtownny.com/news/at-ruppert-park-groundbreaking-spirits-high-for-reconstruction-CB6333523",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-03T16:47:01.144631+00:00"
+      }
+    },
+    {
+      "headline": "Parents and 2 young children among victims of Learjet crash",
+      "bullets": [
+        "The crash in Palm Beach County killed all nine people aboard the aircraft.",
+        "A family of four, including two young children, were among those killed when a Learjet slammed into a Florida roadway, according to a relative."
+      ],
+      "summary": "Parents and 2 young children among victims of Learjet crash",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Parents and 2 young children among victims of Learjet crash in Florida, family says",
+        "article_url": "https://abc7ny.com/story/parents-2-young-children-among-victims-learjet-crash-florida-family-says/20009588/",
+        "published_at": "2026-11-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-03T16:47:03.230153+00:00",
+      "verification": {
+        "article_title": "Parents and 2 young children among victims of Learjet crash in Florida, family says",
+        "article_url": "https://abc7ny.com/story/parents-2-young-children-among-victims-learjet-crash-florida-family-says/20009588/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-03T16:47:01.254318+00:00"
+      }
+    },
+    {
+      "headline": "NYPD has no witnesses to stabbing of Brooklyn jogger Katie",
+      "bullets": [
+        "Three days after the vicious stabbing of Brooklyn jogger Katie Suarez, cops still have no witnesses and no helpful video evidence as they press their search for the mystery attacker.",
+        "Investigators believe Suarez, 28, was likely the victim of a random attack when she was stabbed in the neck on a bike trail along the Shore Parkway Greenway promenade off the Belt Parkway near Canton Ave."
+      ],
+      "summary": "NYPD has no witnesses to stabbing of Brooklyn jogger Katie",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYPD has no witnesses to stabbing of Brooklyn jogger Katie Saurez, asking drivers for dashcam vids",
+        "article_url": "https://www.nydailynews.com/2026/11/02/nypd-has-no-witnesses-to-stabbing-of-brooklyn-jogger-katie-saurez-asking-drivers-for-dashcam-vids/",
+        "published_at": "2026-11-02T22:50:18+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-03T16:47:03.333854+00:00",
+      "verification": {
+        "article_title": "NYPD has no witnesses to stabbing of Brooklyn jogger Katie Saurez, asking drivers for dashcam vids",
+        "article_url": "https://www.nydailynews.com/2026/11/02/nypd-has-no-witnesses-to-stabbing-of-brooklyn-jogger-katie-saurez-asking-drivers-for-dashcam-vids/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-03T16:47:01.397603+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: Children in New Religious Movements: How Adults' Beliefs",
+      "bullets": [
+        "New York City, NY|Featured Event Children in New Religious Movements: How Adults' Beliefs Shape Their Lives What is a child?",
+        "The answer may seem obvious\u2014until we step inside the world of alternative spiritual communities, where children may be revered as enlightened masters, treated as spiritually unformed subordinates, or embraced as equal souls in small bodies."
+      ],
+      "summary": "Local Event: Children in New Religious Movements: How Adults' Beliefs",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Children in New Religious Movements: How Adults' Beliefs Shape Their Lives",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261104/a02bc74e-6f1c-41e8-a43a-b04eefc90975/children-in-new-religious-movements-how-adults-beliefs-shape-their-lives",
+        "published_at": "2026-11-04T23:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-03T16:47:03.425115+00:00",
+      "verification": {
+        "article_title": "Local Event: Children in New Religious Movements: How Adults' Beliefs Shape Their Lives",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261104/a02bc74e-6f1c-41e8-a43a-b04eefc90975/children-in-new-religious-movements-how-adults-beliefs-shape-their-lives",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-03T16:47:01.490721+00:00"
+      }
+    },
+    {
+      "headline": "Child dies in NY\u2019s first measles-associated death in over 30",
+      "bullets": [
+        "NEW YORK - A child in Lewis County has died from complications related to measles, marking the first known measles-associated death in New York State in more than three decades.",
+        "A dose of the measles vaccine is seen on a table at a health center in Lubbock, Texas, on February 27, 2025."
+      ],
+      "summary": "Child dies in NY\u2019s first measles-associated death in over 30",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Child dies in NY\u2019s first measles-associated death in over 30 years amid ongoing outbreak",
+        "article_url": "https://www.fox5ny.com/news/child-dies-nys-first-measles-associated-death-over-30-years-amid-ongoing-outbreak",
+        "published_at": "2026-11-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-03T16:47:03.563740+00:00",
+      "verification": {
+        "article_title": "Child dies in NY\u2019s first measles-associated death in over 30 years amid ongoing outbreak",
+        "article_url": "https://www.fox5ny.com/news/child-dies-nys-first-measles-associated-death-over-30-years-amid-ongoing-outbreak",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-03T16:47:01.606859+00:00"
+      }
+    },
+    {
+      "headline": "New York reports 1st measles-associated death in state in over",
+      "bullets": [
+        "A child died in Lewis County amid the ongoing measles outbreak, officials said.",
+        "NEW YORK -- New York state health officials reported a measles-associated death in a child on Monday amid an ongoing outbreak."
+      ],
+      "summary": "New York reports 1st measles-associated death in state in over",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "New York reports 1st measles-associated death in state in over 30 years",
+        "article_url": "https://abc7ny.com/post/new-york-state-reports-1st-measles-associated-death-30-years/20009758/",
+        "published_at": "2026-11-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-03T16:47:03.659443+00:00",
+      "verification": {
+        "article_title": "New York reports 1st measles-associated death in state in over 30 years",
+        "article_url": "https://abc7ny.com/post/new-york-state-reports-1st-measles-associated-death-30-years/20009758/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-03T16:47:01.694165+00:00"
+      }
+    },
+    {
+      "headline": "Texas family of 4 among 9 killed in horrific Florida",
+      "bullets": [
+        "AUSTIN - A family of four from Texas were among the nine people who were killed when a plane crashed in Greenacres, Florida, on Sunday.",
+        "TMZ reported that tech entrepreneur Adam Robinson, his wife Helen, their two children and their nanny were on the plane."
+      ],
+      "summary": "Texas family of 4 among 9 killed in horrific Florida",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Texas family of 4 among 9 killed in horrific Florida plane crash",
+        "article_url": "https://www.fox5ny.com/news/family-identifies-20-year-old-co-pilot-nathalia-gadelha-among-nine-killed-florida-learjet-crash",
+        "published_at": "2026-11-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-03T16:47:03.756012+00:00",
+      "verification": {
+        "article_title": "Texas family of 4 among 9 killed in horrific Florida plane crash",
+        "article_url": "https://www.fox5ny.com/news/family-identifies-20-year-old-co-pilot-nathalia-gadelha-among-nine-killed-florida-learjet-crash",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-03T16:47:01.787258+00:00"
+      }
+    },
+    {
+      "headline": "'The Muppets Take Manhattan' in Queens and more November films",
+      "bullets": [
+        "It\u2019s a dark and misty night and one man prowls the streets dressed in a creepy mask and a swirling cape.",
+        "It\u2019s Hugo Weaving from \u201cV for Vendetta!\u201d And he\u2019s ushering in the month of November with a classic action movie that reminds us all of the power of a cool monologue and an even cooler sword."
+      ],
+      "summary": "'The Muppets Take Manhattan' in Queens and more November films",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "'The Muppets Take Manhattan' in Queens and more November films in NYC",
+        "article_url": "https://gothamist.com/arts-entertainment/the-muppets-take-manhattan-in-queens-and-more-november-films-in-nyc",
+        "published_at": "2026-11-03T15:00:55+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-03T16:47:03.853353+00:00",
+      "verification": {
+        "article_title": "'The Muppets Take Manhattan' in Queens and more November films in NYC",
+        "article_url": "https://gothamist.com/arts-entertainment/the-muppets-take-manhattan-in-queens-and-more-november-films-in-nyc",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-03T16:47:01.919984+00:00"
+      }
+    },
+    {
+      "headline": "NYC early voting dips compared to 2025, but spikes in",
+      "bullets": [
+        "The Mamdani bump did not extend into 2026.",
+        "A year ago, a record number of New Yorkers turned out for early voting, fueled by an uptick in young and first-time voters energized by Zohran Mamdani\u2019s campaign for mayor."
+      ],
+      "summary": "NYC early voting dips compared to 2025, but spikes in",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC early voting dips compared to 2025, but spikes in majority-Black districts",
+        "article_url": "https://gothamist.com/news/nyc-early-voting-dips-compared-to-2025-but-spikes-in-majority-black-districts",
+        "published_at": "2026-11-02T23:06:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-03T16:47:03.952794+00:00",
+      "verification": {
+        "article_title": "NYC early voting dips compared to 2025, but spikes in majority-Black districts",
+        "article_url": "https://gothamist.com/news/nyc-early-voting-dips-compared-to-2025-but-spikes-in-majority-black-districts",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-03T16:47:02.028909+00:00"
+      }
+    },
+    {
+      "headline": "AccuWeather: Pleasant at the polls",
+      "bullets": [
+        "AccuWeather forecast for NYC, New York, New Jersey and Connecticut NEW YORK (WABC) -- After a record stretch of dry weather to close out October, the pleasant pattern is continuing into the first half of the week.",
+        "Monday marked the 16th consecutive dry day, and sunshine mixed with some high clouds will keep conditions comfortable through Election Day on Tuesday."
+      ],
+      "summary": "AccuWeather: Pleasant at the polls",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "AccuWeather: Pleasant at the polls",
+        "article_url": "https://abc7ny.com/nyc-weather-forecast-7-day-temperatures/27410/",
+        "published_at": "2020-02-12"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-03T16:47:04.048178+00:00",
+      "verification": {
+        "article_title": "AccuWeather: Pleasant at the polls",
+        "article_url": "https://abc7ny.com/nyc-weather-forecast-7-day-temperatures/27410/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-03T16:47:02.130560+00:00"
+      }
+    },
+    {
+      "headline": "At Ruppert Park Groundbreaking, Spirits High for Reconstruction",
+      "bullets": [
+        "At Ruppert Park Groundbreaking, Spirits High for Reconstruction Decades in the making, the $13.4 million project will will reopen in two phases, with the first part scheduled for September 2027.",
+        "Once upon a time in the dirt-filled construction site that is Ruppert Park, there was a lesson in pronunciation."
+      ],
+      "summary": "At Ruppert Park Groundbreaking, Spirits High for Reconstruction",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "At Ruppert Park Groundbreaking, Spirits High for Reconstruction",
+        "article_url": "https://www.ourtownny.com/news/at-ruppert-park-groundbreaking-spirits-high-for-reconstruction-CB6333523",
+        "published_at": "2026-11-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-03T16:47:04.146282+00:00",
+      "verification": {
+        "article_title": "At Ruppert Park Groundbreaking, Spirits High for Reconstruction",
+        "article_url": "https://www.ourtownny.com/news/at-ruppert-park-groundbreaking-spirits-high-for-reconstruction-CB6333523",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-03T16:47:02.225716+00:00"
+      }
+    },
+    {
+      "headline": "A typo. A missing screw. These are the small snags",
+      "bullets": [
+        "Roxy Shweky\u2019s job is to make sure New York City apartments pass their inspections.",
+        "Once they do, families living in city shelters can use housing vouchers to move into them."
+      ],
+      "summary": "A typo. A missing screw. These are the small snags",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "A typo. A missing screw. These are the small snags keeping NYC families in shelters.",
+        "article_url": "https://gothamist.com/news/a-typo-a-missing-screw-these-are-the-small-snags-keeping-nyc-families-in-shelters",
+        "published_at": "2026-11-03T16:00:55+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-03T16:47:04.239366+00:00",
+      "verification": {
+        "article_title": "A typo. A missing screw. These are the small snags keeping NYC families in shelters.",
+        "article_url": "https://gothamist.com/news/a-typo-a-missing-screw-these-are-the-small-snags-keeping-nyc-families-in-shelters",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-03T16:47:02.324667+00:00"
+      }
+    }
+  ]
+}
