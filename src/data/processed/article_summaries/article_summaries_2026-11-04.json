@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-11-04T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-11-04.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Democrats projected to take Congress in blue wave fueled by",
+      "bullets": [
+        "Democrats secured key victories in battleground and red state races.",
+        "Democrats will win enough seats in the U.S."
+      ],
+      "summary": "Democrats projected to take Congress in blue wave fueled by",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Democrats projected to take Congress in blue wave fueled by Trump, economy discontent",
+        "article_url": "https://abc7ny.com/story/democrats-projected-take-congress-blue-wave-fueled-trump-economy-discontent/20014173/",
+        "published_at": "2026-11-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-04T16:45:09.507032+00:00",
+      "verification": {
+        "article_title": "Democrats projected to take Congress in blue wave fueled by Trump, economy discontent",
+        "article_url": "https://abc7ny.com/story/democrats-projected-take-congress-blue-wave-fueled-trump-economy-discontent/20014173/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-04T16:45:06.856718+00:00"
+      }
+    },
+    {
+      "headline": "Democrats take the House. Here\u2019s what they plan to investigate",
+      "bullets": [
+        "\"Lawyer up,\" the top Democrat on the House Oversight Committee said.",
+        "Democrats will take control of the House of Representatives, according to an ABC News projection, putting Minority Leader Hakeem Jeffries on track to make history as the first Black Speaker of the House when the new Congress is seated in January."
+      ],
+      "summary": "Democrats take the House. Here\u2019s what they plan to investigate",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Democrats take the House. Here\u2019s what they plan to investigate and their legislative agenda",
+        "article_url": "https://abc7ny.com/story/democrats-take-house-heres-what-plan-investigate-legislative-agenda/20014347/",
+        "published_at": "2026-11-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-04T16:45:09.612104+00:00",
+      "verification": {
+        "article_title": "Democrats take the House. Here\u2019s what they plan to investigate and their legislative agenda",
+        "article_url": "https://abc7ny.com/story/democrats-take-house-heres-what-plan-investigate-legislative-agenda/20014347/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-04T16:45:07.051141+00:00"
+      }
+    },
+    {
+      "headline": "Georgia's new era: Women take charge of top state offices",
+      "bullets": [
+        "ATLANTA - Keisha Lance Bottoms shattered one of the nation's longest-standing political barriers Tuesday, Nov.",
+        "3, becoming the first Black woman elected governor of a U.S."
+      ],
+      "summary": "Georgia's new era: Women take charge of top state offices",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Georgia's new era: Women take charge of top state offices",
+        "article_url": "https://www.fox5ny.com/news/georgias-new-era-women-take-charge-top-state-offices",
+        "published_at": "2026-11-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-04T16:45:09.737230+00:00",
+      "verification": {
+        "article_title": "Georgia's new era: Women take charge of top state offices",
+        "article_url": "https://www.fox5ny.com/news/georgias-new-era-women-take-charge-top-state-offices",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-04T16:45:07.228943+00:00"
+      }
+    },
+    {
+      "headline": "Veterans Day 2026 deals: Where veterans can get free meals",
+      "bullets": [
+        "Veterans Day is celebrated each year to honor the men and women who have served in the U.S.",
+        "Armed Forces."
+      ],
+      "summary": "Veterans Day 2026 deals: Where veterans can get free meals",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Veterans Day 2026 deals: Where veterans can get free meals and discounts",
+        "article_url": "https://www.fox5ny.com/news/veterans-day-2026-deals",
+        "published_at": "2026-11-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-04T16:45:09.860174+00:00",
+      "verification": {
+        "article_title": "Veterans Day 2026 deals: Where veterans can get free meals and discounts",
+        "article_url": "https://www.fox5ny.com/news/veterans-day-2026-deals",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-04T16:45:07.399374+00:00"
+      }
+    },
+    {
+      "headline": "Democrats projected to take Congress in blue wave fueled by",
+      "bullets": [
+        "Democrats secured key victories in battleground and red state races.",
+        "Democrats will win enough seats in the U.S."
+      ],
+      "summary": "Democrats projected to take Congress in blue wave fueled by",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Democrats projected to take Congress in blue wave fueled by Trump, economy discontent",
+        "article_url": "https://abc7ny.com/story/democrats-projected-take-congress-blue-wave-fueled-trump-economy-discontent/20014173/",
+        "published_at": "2026-11-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-04T16:45:09.961663+00:00",
+      "verification": {
+        "article_title": "Democrats projected to take Congress in blue wave fueled by Trump, economy discontent",
+        "article_url": "https://abc7ny.com/story/democrats-projected-take-congress-blue-wave-fueled-trump-economy-discontent/20014173/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-04T16:45:07.524507+00:00"
+      }
+    },
+    {
+      "headline": "Disney planning to lay off thousands: Report",
+      "bullets": [
+        "The Walt Disney Co.",
+        "is planning to cut thousands of jobs with a goal of targeting 20% in annual cost savings, according to a report."
+      ],
+      "summary": "Disney planning to lay off thousands: Report",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Disney planning to lay off thousands: Report",
+        "article_url": "https://www.fox5ny.com/news/disney-planning-lay-off-thousands-report",
+        "published_at": "2026-11-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-04T16:45:10.069828+00:00",
+      "verification": {
+        "article_title": "Disney planning to lay off thousands: Report",
+        "article_url": "https://www.fox5ny.com/news/disney-planning-lay-off-thousands-report",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-04T16:45:07.706297+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: Daddy Rabbit Birthday Bash",
+      "bullets": [
+        "Address: 20 W 29th St, New York, NY, 10001 TICKETS: daddy-rabbit.turntabletickets.com/ 'The Most Electrifying Party In Town' FORBES 'This new underground jazz speakeasy is the epitome of cool' TIMEOUT On November 14 it's the birthday bash of Daddy Rabbit founder and virtuoso pianist Misha Piatigorsky.",
+        "This is a carousel that never stops turning \u2014 a rotating cast of world-class musicians playing original compositions alongside daring reinventions of Soul, Jazz, Rock, Funk, and RnB classics you thought you knew."
+      ],
+      "summary": "Local Event: Daddy Rabbit Birthday Bash",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Daddy Rabbit Birthday Bash",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261114/e6d3a103-842e-4dd9-a5ca-961f1b8814b1/daddy-rabbit-birthday-bash",
+        "published_at": "2026-11-15T00:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-04T16:45:10.171413+00:00",
+      "verification": {
+        "article_title": "Local Event: Daddy Rabbit Birthday Bash",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261114/e6d3a103-842e-4dd9-a5ca-961f1b8814b1/daddy-rabbit-birthday-bash",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-04T16:45:07.814472+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: Children in New Religious Movements: How Adults' Beliefs",
+      "bullets": [
+        "New York City, NY|Featured Event Children in New Religious Movements: How Adults' Beliefs Shape Their Lives What is a child?",
+        "The answer may seem obvious\u2014until we step inside the world of alternative spiritual communities, where children may be revered as enlightened masters, treated as spiritually unformed subordinates, or embraced as equal souls in small bodies."
+      ],
+      "summary": "Local Event: Children in New Religious Movements: How Adults' Beliefs",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Children in New Religious Movements: How Adults' Beliefs Shape Their Lives",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261104/a02bc74e-6f1c-41e8-a43a-b04eefc90975/children-in-new-religious-movements-how-adults-beliefs-shape-their-lives",
+        "published_at": "2026-11-04T23:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-04T16:45:10.282783+00:00",
+      "verification": {
+        "article_title": "Local Event: Children in New Religious Movements: How Adults' Beliefs Shape Their Lives",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261104/a02bc74e-6f1c-41e8-a43a-b04eefc90975/children-in-new-religious-movements-how-adults-beliefs-shape-their-lives",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-04T16:45:07.972525+00:00"
+      }
+    },
+    {
+      "headline": "Woman, 24, Collapses And Dies Miles From Finish Line Of",
+      "bullets": [
+        "Woman, 24, Collapses And Dies Miles From Finish Line Of NYC Marathon She collapsed in Central Park near mile marker 24.",
+        "UPPER EAST SIDE, NY \u2014 A 24-year-old woman running her first marathon collapsed just two miles from the finish line in New York City on Sunday and died later that night, the NYPD told Patch."
+      ],
+      "summary": "Woman, 24, Collapses And Dies Miles From Finish Line Of",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Woman, 24, Collapses And Dies Miles From Finish Line Of NYC Marathon",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/woman-24-collapses-dies-miles-finish-line-nyc-marathon",
+        "published_at": "2026-11-03T17:26:08+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-04T16:45:10.382122+00:00",
+      "verification": {
+        "article_title": "Woman, 24, Collapses And Dies Miles From Finish Line Of NYC Marathon",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/woman-24-collapses-dies-miles-finish-line-nyc-marathon",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-04T16:45:08.072094+00:00"
+      }
+    },
+    {
+      "headline": "Russian attacks disrupt power in Kyiv, while the death toll",
+      "bullets": [
+        "By SUSIE BLANN and MIKE CORDER KYIV, Ukraine (AP) \u2014 Russian attacks triggered power and water outages for hours Wednesday across Kyiv and surrounding regions while President Volodymyr Zelenskyy said the death toll in a stricken village in southern Ukraine rose to 40 in one of the deadliest strikes there in nearly five years of war.",
+        "On Monday, multiple Russian guided bombs slammed into a former school and nearby shelter in the village of Komyshuvakha, near the front line in the Zaporizhzhia region, as residents waited for humanitarian aid."
+      ],
+      "summary": "Russian attacks disrupt power in Kyiv, while the death toll",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Russian attacks disrupt power in Kyiv, while the death toll in a stricken village rises to 40",
+        "article_url": "https://www.nydailynews.com/2026/11/04/russian-attacks-kyiv-power/",
+        "published_at": "2026-11-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-04T16:45:10.539790+00:00",
+      "verification": {
+        "article_title": "Russian attacks disrupt power in Kyiv, while the death toll in a stricken village rises to 40",
+        "article_url": "https://www.nydailynews.com/2026/11/04/russian-attacks-kyiv-power/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-04T16:45:08.171458+00:00"
+      }
+    },
+    {
+      "headline": "New York must help chronic illnesses",
+      "bullets": [
+        "The disaster that New York City faces in the upcoming months as a potential 1.2 million people on Medicaid and Obamacare lose their health insurance will first be felt in emergency rooms.",
+        "Even those who have secure insurance for now, in a medical crisis will have to use the same emergency rooms which the displaced and low-income will more and more crowd for basically all their care."
+      ],
+      "summary": "New York must help chronic illnesses",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "New York must help chronic illnesses",
+        "article_url": "https://www.nydailynews.com/2026/11/04/new-york-must-help-chronic-illnesses/",
+        "published_at": "2026-11-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-04T16:45:10.638160+00:00",
+      "verification": {
+        "article_title": "New York must help chronic illnesses",
+        "article_url": "https://www.nydailynews.com/2026/11/04/new-york-must-help-chronic-illnesses/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-04T16:45:08.325926+00:00"
+      }
+    },
+    {
+      "headline": "Democrats take the House. Here\u2019s what they plan to investigate",
+      "bullets": [
+        "\"Lawyer up,\" the top Democrat on the House Oversight Committee said.",
+        "Democrats will take control of the House of Representatives, according to an ABC News projection, putting Minority Leader Hakeem Jeffries on track to make history as the first Black Speaker of the House when the new Congress is seated in January."
+      ],
+      "summary": "Democrats take the House. Here\u2019s what they plan to investigate",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Democrats take the House. Here\u2019s what they plan to investigate and their legislative agenda",
+        "article_url": "https://abc7ny.com/story/democrats-take-house-heres-what-plan-investigate-legislative-agenda/20014347/",
+        "published_at": "2026-11-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-04T16:45:10.757386+00:00",
+      "verification": {
+        "article_title": "Democrats take the House. Here\u2019s what they plan to investigate and their legislative agenda",
+        "article_url": "https://abc7ny.com/story/democrats-take-house-heres-what-plan-investigate-legislative-agenda/20014347/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-04T16:45:08.423352+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on the midterms, criminal immigrants and NYC",
+      "bullets": [
+        "Change is slow, so keep calm and carry on Glendale: Much has been written and talked about leading up to these midterm elections.",
+        "Both sides of the political spectrum have had their usual share of schoolyard antics."
+      ],
+      "summary": "Readers sound off on the midterms, criminal immigrants and NYC",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on the midterms, criminal immigrants and NYC noise",
+        "article_url": "https://www.nydailynews.com/2026/11/04/readers-sound-off-on-the-midterms-criminal-immigrants-and-nyc-noise/",
+        "published_at": "2026-11-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-04T16:45:10.854528+00:00",
+      "verification": {
+        "article_title": "Readers sound off on the midterms, criminal immigrants and NYC noise",
+        "article_url": "https://www.nydailynews.com/2026/11/04/readers-sound-off-on-the-midterms-criminal-immigrants-and-nyc-noise/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-04T16:45:08.576786+00:00"
+      }
+    },
+    {
+      "headline": "Cornell alumna named to lead criminal probe into Jane Doe's",
+      "bullets": [
+        "Jackie Kelly is a former prosecutor in the Southern District of New York.",
+        "The criminal investigation into a former Cornell University student's rape claim will be led by a Cornell alumna who has successfully prosecuted sexual offenses in federal court and now works in a private practice that represents women who've said they were trafficked or abused by Jeffrey Epstein."
+      ],
+      "summary": "Cornell alumna named to lead criminal probe into Jane Doe's",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Cornell alumna named to lead criminal probe into Jane Doe's rape claim",
+        "article_url": "https://abc7ny.com/story/cornell-alumna-named-lead-criminal-probe-jane-does-rape-claim/20015237/",
+        "published_at": "2026-11-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-04T16:45:10.950687+00:00",
+      "verification": {
+        "article_title": "Cornell alumna named to lead criminal probe into Jane Doe's rape claim",
+        "article_url": "https://abc7ny.com/story/cornell-alumna-named-lead-criminal-probe-jane-does-rape-claim/20015237/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-04T16:45:08.670099+00:00"
+      }
+    },
+    {
+      "headline": "Floyd Bennett Field gets $10M for project to reopen historic",
+      "bullets": [
+        "The historic hangars at Floyd Bennett Field are getting closer to reopening to the public for the first time in nearly a century.",
+        "Gov."
+      ],
+      "summary": "Floyd Bennett Field gets $10M for project to reopen historic",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Floyd Bennett Field gets $10M for project to reopen historic hangars",
+        "article_url": "https://gothamist.com/news/floyd-bennet-field-gets-10m-for-project-to-reopen-historic-hangars",
+        "published_at": "2026-11-03T20:28:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-04T16:45:11.064244+00:00",
+      "verification": {
+        "article_title": "Floyd Bennett Field gets $10M for project to reopen historic hangars",
+        "article_url": "https://gothamist.com/news/floyd-bennet-field-gets-10m-for-project-to-reopen-historic-hangars",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-04T16:45:08.840319+00:00"
+      }
+    },
+    {
+      "headline": "Today in History: November 4, Ronald Reagan\u2019s presidential library opens",
+      "bullets": [
+        "Today is Tuesday, Nov.",
+        "4, the 308th day of 2025."
+      ],
+      "summary": "Today in History: November 4, Ronald Reagan\u2019s presidential library opens",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Today in History: November 4, Ronald Reagan\u2019s presidential library opens",
+        "article_url": "https://www.nydailynews.com/2026/11/04/today-in-history-november-4-ronald-reagans-presidential-library-opens/",
+        "published_at": "2026-11-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-04T16:45:11.161788+00:00",
+      "verification": {
+        "article_title": "Today in History: November 4, Ronald Reagan\u2019s presidential library opens",
+        "article_url": "https://www.nydailynews.com/2026/11/04/today-in-history-november-4-ronald-reagans-presidential-library-opens/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-04T16:45:09.017733+00:00"
+      }
+    },
+    {
+      "headline": "Can opening a restaurant in a New York museum turn",
+      "bullets": [
+        "On a recent Friday night, in the basement of the towering Brutalist building that was once known as the home of the Whitney Museum, bejeweled women in angular dresses and tan men with perfect stubble cut into delicate turbot and sipped martinis out of hand blown glasses.",
+        "Long tapered candles flickered, illuminating freshly baked baguettes and mounds of French butter."
+      ],
+      "summary": "Can opening a restaurant in a New York museum turn",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Can opening a restaurant in a New York museum turn the food into a work of art?",
+        "article_url": "https://gothamist.com/food/can-opening-a-restaurant-in-a-new-york-museum-turn-the-food-into-a-work-of-art",
+        "published_at": "2026-11-04T11:30:57+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-04T16:45:11.272461+00:00",
+      "verification": {
+        "article_title": "Can opening a restaurant in a New York museum turn the food into a work of art?",
+        "article_url": "https://gothamist.com/food/can-opening-a-restaurant-in-a-new-york-museum-turn-the-food-into-a-work-of-art",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-04T16:45:09.134368+00:00"
+      }
+    },
+    {
+      "headline": "Yes, Stevie Wonder is playing MSG. No, you can't afford",
+      "bullets": [
+        "The concert of the month, and maybe the year, will go down at Madison Square Garden on Nov.",
+        "19, when Stevie Wonder plays a 50th-anniversary gig for a little album called Songs in the Key Life."
+      ],
+      "summary": "Yes, Stevie Wonder is playing MSG. No, you can't afford",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Yes, Stevie Wonder is playing MSG. No, you can't afford tickets. See these shows instead.",
+        "article_url": "https://gothamist.com/arts-entertainment/yes-stevie-wonder-is-playing-msg-no-you-cant-afford-tickets-see-these-shows-instead",
+        "published_at": "2026-11-03T18:00:57+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-04T16:45:11.374934+00:00",
+      "verification": {
+        "article_title": "Yes, Stevie Wonder is playing MSG. No, you can't afford tickets. See these shows instead.",
+        "article_url": "https://gothamist.com/arts-entertainment/yes-stevie-wonder-is-playing-msg-no-you-cant-afford-tickets-see-these-shows-instead",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-04T16:45:09.237292+00:00"
+      }
+    }
+  ]
+}
