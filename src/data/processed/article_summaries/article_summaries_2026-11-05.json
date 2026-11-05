@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-11-05T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-11-05.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Readers sound off on Dem midterm wins, immigrant caregivers and",
+      "bullets": [
+        "Dems should put maximum pressure on Trump Swarthmore, Pa.: The midterm election is over, and the Democrats have achieved a massive victory.",
+        "Metaphorically, it might be called what one wag described as a decisive \u201cOrange Crush,\u201d a callout to President Trump\u2019s habit of slathering his face and hands with orange pancake makeup."
+      ],
+      "summary": "Readers sound off on Dem midterm wins, immigrant caregivers and",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on Dem midterm wins, immigrant caregivers and e-bike covers",
+        "article_url": "https://www.nydailynews.com/2026/11/05/readers-sound-off-on-dem-midterm-wins-immigrant-caregivers-and-e-bike-covers/",
+        "published_at": "2026-11-05"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-05T17:03:31.596734+00:00",
+      "verification": {
+        "article_title": "Readers sound off on Dem midterm wins, immigrant caregivers and e-bike covers",
+        "article_url": "https://www.nydailynews.com/2026/11/05/readers-sound-off-on-dem-midterm-wins-immigrant-caregivers-and-e-bike-covers/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-05T17:03:28.886745+00:00"
+      }
+    },
+    {
+      "headline": "A still-recovering pope will head home to Latin America and",
+      "bullets": [
+        "By NICOLE WINFIELD VATICAN CITY (AP) \u2014 Three weeks after lung cancer surgery, Pope Leo XIV is embarking on the longest and farthest trip of his pontificate: a 12-day, three-nation tour of Latin America that carries more personal and historic weight than any of his voyages to date.",
+        "The U.S.-born Leo is returning home to Peru, where the former Robert Prevost lived for two decades as a missionary priest and learned to be the pastor he is today."
+      ],
+      "summary": "A still-recovering pope will head home to Latin America and",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "A still-recovering pope will head home to Latin America and his beloved Peru for a 12-day trip",
+        "article_url": "https://www.nydailynews.com/2026/11/05/pope-leo-latin-america-trip/",
+        "published_at": "2026-11-05"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-05T17:03:31.715972+00:00",
+      "verification": {
+        "article_title": "A still-recovering pope will head home to Latin America and his beloved Peru for a 12-day trip",
+        "article_url": "https://www.nydailynews.com/2026/11/05/pope-leo-latin-america-trip/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-05T17:03:29.055980+00:00"
+      }
+    },
+    {
+      "headline": "Veterans Day 2026 deals: Where veterans can get free meals",
+      "bullets": [
+        "Veterans Day is celebrated each year to honor the men and women who have served in the U.S.",
+        "Armed Forces."
+      ],
+      "summary": "Veterans Day 2026 deals: Where veterans can get free meals",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Veterans Day 2026 deals: Where veterans can get free meals and discounts",
+        "article_url": "https://www.fox5ny.com/news/veterans-day-2026-deals",
+        "published_at": "2026-11-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-05T17:03:31.861775+00:00",
+      "verification": {
+        "article_title": "Veterans Day 2026 deals: Where veterans can get free meals and discounts",
+        "article_url": "https://www.fox5ny.com/news/veterans-day-2026-deals",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-05T17:03:29.228303+00:00"
+      }
+    },
+    {
+      "headline": "Full New York governor election results for 2026 race between",
+      "bullets": [
+        "What to know about the New York governor's race - Democratic Gov.",
+        "Kathy Hochul has been reelected, CBS News projects - Hochul defeated - In the , Rep."
+      ],
+      "summary": "Full New York governor election results for 2026 race between",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Full New York governor election results for 2026 race between Kathy Hochul and Bruce Blakeman",
+        "article_url": "https://www.cbsnews.com/newyork/live-updates/new-york-governor-election-2026/",
+        "published_at": "2026-11-03"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-05T17:03:32.004846+00:00",
+      "verification": {
+        "article_title": "Full New York governor election results for 2026 race between Kathy Hochul and Bruce Blakeman",
+        "article_url": "https://www.cbsnews.com/newyork/live-updates/new-york-governor-election-2026/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-05T17:03:29.348876+00:00"
+      }
+    },
+    {
+      "headline": "CVS announces major breakup, pharmacy expert weighs impact on consumers",
+      "bullets": [
+        "CVS Health on Tuesday announced plans to split its sprawling conglomerate into separate health insurance and pharmacy businesses, a move one industry expert welcomed as a potential way to drive down costs for millions of Americans.",
+        "The separation is expected to be completed by the first half of 2028, creating two independent, publicly traded companies."
+      ],
+      "summary": "CVS announces major breakup, pharmacy expert weighs impact on consumers",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "CVS announces major breakup, pharmacy expert weighs impact on consumers",
+        "article_url": "https://www.fox5ny.com/news/cvs-announces-major-breakup-pharmacy-expert-weighs-impact-consumers",
+        "published_at": "2026-11-05"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-05T17:03:32.168518+00:00",
+      "verification": {
+        "article_title": "CVS announces major breakup, pharmacy expert weighs impact on consumers",
+        "article_url": "https://www.fox5ny.com/news/cvs-announces-major-breakup-pharmacy-expert-weighs-impact-consumers",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-05T17:03:29.469900+00:00"
+      }
+    },
+    {
+      "headline": "New York City adds new emergency snow shoveler registration events",
+      "bullets": [
+        "NEW YORK CITY (WABC) -- It's not yet winter, but the Mamdani administration continues to plan ahead for snow.",
+        "New York City announced Wednesday, the addition of several new emergency snow shoveler registration events in November, to help streamline the process of becoming a shoveler and get paid faster when extreme weather arrives Among the registration events is a walk-in site at the new Jobs NYC Center located at 2 Lafayette St."
+      ],
+      "summary": "New York City adds new emergency snow shoveler registration events",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "New York City adds new emergency snow shoveler registration events ahead of winter",
+        "article_url": "https://abc7ny.com/post/nyc-emergency-snow-shoveler-registration-events-added-november/20016633/",
+        "published_at": "2026-11-05"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-05T17:03:32.289291+00:00",
+      "verification": {
+        "article_title": "New York City adds new emergency snow shoveler registration events ahead of winter",
+        "article_url": "https://abc7ny.com/post/nyc-emergency-snow-shoveler-registration-events-added-november/20016633/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-05T17:03:29.639940+00:00"
+      }
+    },
+    {
+      "headline": "Zany Village Halloween Parade Draws 80,000 Marchers",
+      "bullets": [
+        "Zany Village Halloween Parade Draws 80,000 Marchers Our writer has been a NYC resident for over three decades and never took in the wild and zany Greenwich Village Halloween parade until we sent her on assignment.",
+        "Here\u00e2s her dispatch from the front lines."
+      ],
+      "summary": "Zany Village Halloween Parade Draws 80,000 Marchers",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Zany Village Halloween Parade Draws 80,000 Marchers",
+        "article_url": "https://www.ourtownny.com/news/zany-village-halloween-parade-draws-80000-marchers-YY6346652",
+        "published_at": "2026-11-02"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-05T17:03:32.406037+00:00",
+      "verification": {
+        "article_title": "Zany Village Halloween Parade Draws 80,000 Marchers",
+        "article_url": "https://www.ourtownny.com/news/zany-village-halloween-parade-draws-80000-marchers-YY6346652",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-05T17:03:29.756706+00:00"
+      }
+    },
+    {
+      "headline": "American man with shifting identities convicted of murdering his girlfriend",
+      "bullets": [
+        "ROME -- \"My name is Rexal Ford,\" the man born under the name Charles Francis Kaufmann told an Italian courtroom, in English, at the start of his double-murder trial in February.",
+        "\"I am not a killer."
+      ],
+      "summary": "American man with shifting identities convicted of murdering his girlfriend",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "American man with shifting identities convicted of murdering his girlfriend and child in Rome",
+        "article_url": "https://abc7ny.com/post/rexal-ford-case-american-charles-francis-kaufmann-convicted-murdering-girlfriend-child-rome/20017906/",
+        "published_at": "2026-11-05"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-05T17:03:32.546475+00:00",
+      "verification": {
+        "article_title": "American man with shifting identities convicted of murdering his girlfriend and child in Rome",
+        "article_url": "https://abc7ny.com/post/rexal-ford-case-american-charles-francis-kaufmann-convicted-murdering-girlfriend-child-rome/20017906/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-05T17:03:29.880610+00:00"
+      }
+    },
+    {
+      "headline": "Gunman killed by armed guard after deadly shooting at Brandon",
+      "bullets": [
+        "BRANDON, Fla.",
+        "- An armed security guard shot and killed a gunman who drove onto the Citibank Center campus in Brandon on Wednesday and shot a woman outside before entering the cafeteria, according to the Hillsborough County Sheriff's Office."
+      ],
+      "summary": "Gunman killed by armed guard after deadly shooting at Brandon",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Gunman killed by armed guard after deadly shooting at Brandon Citibank: HCSO",
+        "article_url": "https://www.fox5ny.com/news/heavy-law-enforcement-presence-outside-brandon-citibank-triggers-traffic-alert",
+        "published_at": "2026-11-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-05T17:03:32.732821+00:00",
+      "verification": {
+        "article_title": "Gunman killed by armed guard after deadly shooting at Brandon Citibank: HCSO",
+        "article_url": "https://www.fox5ny.com/news/heavy-law-enforcement-presence-outside-brandon-citibank-triggers-traffic-alert",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-05T17:03:30.049804+00:00"
+      }
+    },
+    {
+      "headline": "Brooklyn woman fought off would-be deliverista who raped her on",
+      "bullets": [
+        "A woman who was raped in her Brooklyn building by a would-be deliverista bravely chased the suspect, believed to be an undocumented immigrant, twice: once after the harrowing attack, then again after he returned to get his e-bike, prosecutors said Wednesday.",
+        "After raping the victim, suspect Reynaldo Mayna Cordero, 35, fled the building so fast he didn\u2019t have time to hop on his bike to get away, officials said."
+      ],
+      "summary": "Brooklyn woman fought off would-be deliverista who raped her on",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Brooklyn woman fought off would-be deliverista who raped her on stairs: prosecutors",
+        "article_url": "https://www.nydailynews.com/2026/11/04/brooklyn-woman-fought-deliveryman-raped-her-stairs-prosecutors/",
+        "published_at": "2026-11-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-05T17:03:32.912566+00:00",
+      "verification": {
+        "article_title": "Brooklyn woman fought off would-be deliverista who raped her on stairs: prosecutors",
+        "article_url": "https://www.nydailynews.com/2026/11/04/brooklyn-woman-fought-deliveryman-raped-her-stairs-prosecutors/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-05T17:03:30.240200+00:00"
+      }
+    },
+    {
+      "headline": "Six dead in massive Brooklyn house fire, survivors rescued by",
+      "bullets": [
+        "Six people were killed when a massive fire tore through a Brooklyn home early Thursday, officials said.",
+        "A lithium ion battery was found at the scene but it is not yet clear if it sparked the blaze that broke out on the top floor of the two-story house in Sunset Park at 1:39 a.m., officials said."
+      ],
+      "summary": "Six dead in massive Brooklyn house fire, survivors rescued by",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Six dead in massive Brooklyn house fire, survivors rescued by FDNY",
+        "article_url": "https://www.nydailynews.com/2026/11/05/fatal-brooklyn-fire-sunset-park-brooklyn-58th-street-fdny/",
+        "published_at": "2026-11-05"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-05T17:03:33.082719+00:00",
+      "verification": {
+        "article_title": "Six dead in massive Brooklyn house fire, survivors rescued by FDNY",
+        "article_url": "https://www.nydailynews.com/2026/11/05/fatal-brooklyn-fire-sunset-park-brooklyn-58th-street-fdny/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-05T17:03:30.402505+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: The Psychiatric History of New York: Upper East",
+      "bullets": [
+        "FINAL TOUR DATES.",
+        "Explore how New York City became a center for psychiatric treatment and medical experimentation."
+      ],
+      "summary": "Local Event: The Psychiatric History of New York: Upper East",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: The Psychiatric History of New York: Upper East Side Tour",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261107/093535e2-bd2e-4ec6-89a2-9e36aa4797e5/the-psychiatric-history-of-new-york-upper-east-side-tour",
+        "published_at": "2026-11-07T20:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-05T17:03:33.265782+00:00",
+      "verification": {
+        "article_title": "Local Event: The Psychiatric History of New York: Upper East Side Tour",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261107/093535e2-bd2e-4ec6-89a2-9e36aa4797e5/the-psychiatric-history-of-new-york-upper-east-side-tour",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-05T17:03:30.525462+00:00"
+      }
+    },
+    {
+      "headline": "Iranian college students face pressure as authorities crack down on",
+      "bullets": [
+        "By AMIR-HUSSEIN RADJY CAIRO (AP) \u2014 After participating in an anti-government protest on campus, the social sciences student was called into a disciplinary hearing at his university and faced an intimidating panel: It included a cleric representing Iran\u2019s supreme leader and an official who refused to identify himself.",
+        "The questioning they gave him underscored Iranian officials\u2019 seriousness in rooting out dissenters at universities after crushing massive demonstrations in January and after the eruption of war with the United States."
+      ],
+      "summary": "Iranian college students face pressure as authorities crack down on",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Iranian college students face pressure as authorities crack down on dissent",
+        "article_url": "https://www.nydailynews.com/2026/11/05/iran-university-dissent-crackdown/",
+        "published_at": "2026-11-05"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-05T17:03:33.387815+00:00",
+      "verification": {
+        "article_title": "Iranian college students face pressure as authorities crack down on dissent",
+        "article_url": "https://www.nydailynews.com/2026/11/05/iran-university-dissent-crackdown/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-05T17:03:30.651163+00:00"
+      }
+    },
+    {
+      "headline": "\u2018Mind-boggling\u2019 killings show persistence of NYC\u2019s domestic violence problem",
+      "bullets": [
+        "A 44-year-old man doused his wife with rubbing alcohol, set her on fire and then threatened their 11-year-old daughter with a knife on a recent Saturday afternoon in Crown Heights, officials said.",
+        "Several hours later, in a quiet corner of the Rockaways, police said they discovered the body of another woman buried in a shallow grave near a cricket field."
+      ],
+      "summary": "\u2018Mind-boggling\u2019 killings show persistence of NYC\u2019s domestic violence problem",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "\u2018Mind-boggling\u2019 killings show persistence of NYC\u2019s domestic violence problem",
+        "article_url": "https://gothamist.com/news/mind-boggling-killings-show-persistence-of-nycs-domestic-violence-problem",
+        "published_at": "2026-11-05T11:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-05T17:03:33.532726+00:00",
+      "verification": {
+        "article_title": "\u2018Mind-boggling\u2019 killings show persistence of NYC\u2019s domestic violence problem",
+        "article_url": "https://gothamist.com/news/mind-boggling-killings-show-persistence-of-nycs-domestic-violence-problem",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-05T17:03:30.787877+00:00"
+      }
+    },
+    {
+      "headline": "Bluetooth beanies are the perfect way to stay warm while",
+      "bullets": [
+        "Bluetooth beanies are a novel way to listen to your favorite tunes while out and about.",
+        "Winter hats and over-ear headphones aren\u2019t always compatible, and not everyone finds earbuds comfortable."
+      ],
+      "summary": "Bluetooth beanies are the perfect way to stay warm while",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Bluetooth beanies are the perfect way to stay warm while enjoying your favorite tunes",
+        "article_url": "https://www.nydailynews.com/2026/11/04/bluetooth-beanies-are-the-perfect-way-to-stay-warm-while-enjoying-your-favorite-tunes/",
+        "published_at": "2026-11-04"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-05T17:03:33.694180+00:00",
+      "verification": {
+        "article_title": "Bluetooth beanies are the perfect way to stay warm while enjoying your favorite tunes",
+        "article_url": "https://www.nydailynews.com/2026/11/04/bluetooth-beanies-are-the-perfect-way-to-stay-warm-while-enjoying-your-favorite-tunes/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-05T17:03:30.914362+00:00"
+      }
+    },
+    {
+      "headline": "AccuWeather: A few showers",
+      "bullets": [
+        "AccuWeather forecast for NYC, New York, New Jersey and Connecticut NEW YORK (WABC) -- After nearly three rain-free weeks, the New York City area is about to see a return to wetter weather, ending an unusually warm and dry stretch that dates back to Oct.",
+        "17."
+      ],
+      "summary": "AccuWeather: A few showers",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "AccuWeather: A few showers",
+        "article_url": "https://abc7ny.com/nyc-weather-forecast-7-day-temperatures/27410/",
+        "published_at": "2020-02-12"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-05T17:03:33.813941+00:00",
+      "verification": {
+        "article_title": "AccuWeather: A few showers",
+        "article_url": "https://abc7ny.com/nyc-weather-forecast-7-day-temperatures/27410/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-05T17:03:31.049790+00:00"
+      }
+    },
+    {
+      "headline": "On HBO's \u201cThe Gilded Age,\u201d Ben Ahlers is New York",
+      "bullets": [
+        "A few years ago, actor Ben Ahlers came home to his Bushwick apartment building after a night out and heard music playing through a neighbor\u2019s front door.",
+        "As he got closer, he realized that he recognized the sound of the furiously moving strings: It was the orchestral theme to \u201cThe Gilded Age,\u201d in which he plays inventor Jack Trotter."
+      ],
+      "summary": "On HBO's \u201cThe Gilded Age,\u201d Ben Ahlers is New York",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "On HBO's \u201cThe Gilded Age,\u201d Ben Ahlers is New York high society\u2019s man of the hour",
+        "article_url": "https://gothamist.com/arts-entertainment/on-hbos-the-gilded-age-ben-ahlers-is-new-york-high-societys-man-of-the-hour",
+        "published_at": "2026-11-05T16:00:48+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-05T17:03:33.939701+00:00",
+      "verification": {
+        "article_title": "On HBO's \u201cThe Gilded Age,\u201d Ben Ahlers is New York high society\u2019s man of the hour",
+        "article_url": "https://gothamist.com/arts-entertainment/on-hbos-the-gilded-age-ben-ahlers-is-new-york-high-societys-man-of-the-hour",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-05T17:03:31.171916+00:00"
+      }
+    },
+    {
+      "headline": "6 people killed after fire destroys Sunset Park home, injures",
+      "bullets": [
+        "SUNSET PARK, Brooklyn (WABC) -- Six people died and several others were injured after a fire tore through a home in Sunset Park, Brooklyn, early Thursday morning.",
+        "The fire broke out just before 1:40 a.m."
+      ],
+      "summary": "6 people killed after fire destroys Sunset Park home, injures",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "6 people killed after fire destroys Sunset Park home, injures residents and firefighters",
+        "article_url": "https://abc7ny.com/post/6-dead-3-alarm-fire-tears-sunset-park-home-brooklyn/20017265/",
+        "published_at": "2026-11-05"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-05T17:03:34.104142+00:00",
+      "verification": {
+        "article_title": "6 people killed after fire destroys Sunset Park home, injures residents and firefighters",
+        "article_url": "https://abc7ny.com/post/6-dead-3-alarm-fire-tears-sunset-park-home-brooklyn/20017265/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-05T17:03:31.309234+00:00"
+      }
+    }
+  ]
+}
