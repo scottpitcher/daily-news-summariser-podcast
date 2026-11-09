@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-11-09T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-11-09.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Pope draws 2.5 million to Mass in Argentina and tells",
+      "bullets": [
+        "By NICOLE WINFIELD, ALMUDENA CALATRAVA, DEBORA REY and ISABEL DEBRE BUENOS AIRES, Argentina (AP) \u2014 Pope Leo XIV visited a home for people with disabilities Monday and told them their lives were a blessing, not a burden, as he pressed his call for Argentina to care for its most vulnerable in a symbolic rebuke of President Javier Milei\u2019s austerity measures.",
+        "Before drawing an estimated 2.5 million people to his first Mass in Argentina, Leo made a pilgrimage to the Cottolengo Don Orione in Claypole, south of Buenos Aires."
+      ],
+      "summary": "Pope draws 2.5 million to Mass in Argentina and tells",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Pope draws 2.5 million to Mass in Argentina and tells people with disabilities they are a blessing",
+        "article_url": "https://www.nydailynews.com/2026/11/09/pope-leo-argentina-care-home-disabilities/",
+        "published_at": "2026-11-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-09T19:25:49.429802+00:00",
+      "verification": {
+        "article_title": "Pope draws 2.5 million to Mass in Argentina and tells people with disabilities they are a blessing",
+        "article_url": "https://www.nydailynews.com/2026/11/09/pope-leo-argentina-care-home-disabilities/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-09T19:25:46.966636+00:00"
+      }
+    },
+    {
+      "headline": "Hochul to Trump: Don\u00e2t Target NYERS as Dems Sweep State",
+      "bullets": [
+        "Hochul to Trump: Don\u00e2t Target NYERS as Dems Sweep State The Democratic political establishment turned up at Governor Kathy Hochul\u00e2s victory party at the New York Hilton on election night including Mayor Zohran Mamdani, NYS Attorney General Letitia James, borough president Brad Hoylman-Sigal, City Council speaker Julie Menin and newly elected Congressman Micah Lasher.",
+        "There was jubilation in the New York Hilton on Nov."
+      ],
+      "summary": "Hochul to Trump: Don\u00e2t Target NYERS as Dems Sweep State",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Hochul to Trump: Don\u00e2t Target NYERS as Dems Sweep State",
+        "article_url": "https://www.ourtownny.com/news/hochul-to-trump-don-t-target-nyers-as-dems-sweep-state-IN6359390",
+        "published_at": "2026-11-08"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-09T19:25:49.528497+00:00",
+      "verification": {
+        "article_title": "Hochul to Trump: Don\u00e2t Target NYERS as Dems Sweep State",
+        "article_url": "https://www.ourtownny.com/news/hochul-to-trump-don-t-target-nyers-as-dems-sweep-state-IN6359390",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-09T19:25:47.126800+00:00"
+      }
+    },
+    {
+      "headline": "Penn Station Rebuild Questions Swirl after Blue Tsunami Election",
+      "bullets": [
+        "Penn Station Rebuild Questions Swirl after Blue Tsunami Election The $8 billion reconstruction was slowly getting underway with the awarding of the developer for the public/private enterprise.",
+        "Some in the Republican administration began floating the idea of naming the station after President Donald J."
+      ],
+      "summary": "Penn Station Rebuild Questions Swirl after Blue Tsunami Election",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Penn Station Rebuild Questions Swirl after Blue Tsunami Election",
+        "article_url": "https://www.ourtownny.com/news/penn-station-rebuild-questions-swirl-after-blue-tsunami-election-CF6362602",
+        "published_at": "2026-11-08"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-09T19:25:49.617817+00:00",
+      "verification": {
+        "article_title": "Penn Station Rebuild Questions Swirl after Blue Tsunami Election",
+        "article_url": "https://www.ourtownny.com/news/penn-station-rebuild-questions-swirl-after-blue-tsunami-election-CF6362602",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-09T19:25:47.253568+00:00"
+      }
+    },
+    {
+      "headline": "Will voters' \u2018blue tsunami\u2019 mean a reset on healthcare for",
+      "bullets": [
+        "With Democrats poised to take control of the House and Senate in January, some New Yorkers have big expectations for a healthcare policy reset \u2014 even reversing the funding cuts to Medicaid and other safety net programs that President Donald Trump and congressional Republicans pushed through.",
+        "\u201cTuesday's election results were a lifeline to those in the healthcare community,\u201d said Kenneth Raske, president of the Greater New York Hospital Association."
+      ],
+      "summary": "Will voters' \u2018blue tsunami\u2019 mean a reset on healthcare for",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Will voters' \u2018blue tsunami\u2019 mean a reset on healthcare for NY?",
+        "article_url": "https://gothamist.com/news/will-voters-blue-tsunami-mean-a-reset-on-healthcare-for-ny",
+        "published_at": "2026-11-09T11:30:55+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-09T19:25:49.750610+00:00",
+      "verification": {
+        "article_title": "Will voters' \u2018blue tsunami\u2019 mean a reset on healthcare for NY?",
+        "article_url": "https://gothamist.com/news/will-voters-blue-tsunami-mean-a-reset-on-healthcare-for-ny",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-09T19:25:47.411194+00:00"
+      }
+    },
+    {
+      "headline": "Archaeological treasures uncovered beneath Kabul\u2019s crumbling ancient fortress",
+      "bullets": [
+        "By ELENA BECATOROS KABUL, Afghanistan (AP) \u2014 Perched high above the southern edge of Kabul\u2019s old city, the imposing fortress of Bala Hissar has endured centuries of invasions, uprisings and conflict that scarred Afghanistan and left the citadel crumbling.",
+        "Now, an extensive, yearslong project by the Aga Khan Trust for Culture, or AKTC, is painstakingly conserving Bala Hissar."
+      ],
+      "summary": "Archaeological treasures uncovered beneath Kabul\u2019s crumbling ancient fortress",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Archaeological treasures uncovered beneath Kabul\u2019s crumbling ancient fortress",
+        "article_url": "https://www.nydailynews.com/2026/11/09/archaeological-treasures-kabul-fortress/",
+        "published_at": "2026-11-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-09T19:25:49.835683+00:00",
+      "verification": {
+        "article_title": "Archaeological treasures uncovered beneath Kabul\u2019s crumbling ancient fortress",
+        "article_url": "https://www.nydailynews.com/2026/11/09/archaeological-treasures-kabul-fortress/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-09T19:25:47.540092+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: America\u2019s Liberal Reckoning \u2014 Fareed Zakaria and Patrick",
+      "bullets": [
+        "Upper East Side|Featured Event America\u2019s Liberal Reckoning \u2014 Fareed Zakaria and Patrick Deneen: A Munk Debate at 92NY Americans voted for change.",
+        "But what kind?"
+      ],
+      "summary": "Local Event: America\u2019s Liberal Reckoning \u2014 Fareed Zakaria and Patrick",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: America\u2019s Liberal Reckoning \u2014 Fareed Zakaria and Patrick Deneen: A Munk Debate at 92NY",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261112/d663722c-d776-4937-91eb-0d20dc325b00/america-s-liberal-reckoning-fareed-zakaria-and-patrick-deneen-a-munk-debate-at-92ny",
+        "published_at": "2026-11-13T00:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-09T19:25:49.911760+00:00",
+      "verification": {
+        "article_title": "Local Event: America\u2019s Liberal Reckoning \u2014 Fareed Zakaria and Patrick Deneen: A Munk Debate at 92NY",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261112/d663722c-d776-4937-91eb-0d20dc325b00/america-s-liberal-reckoning-fareed-zakaria-and-patrick-deneen-a-munk-debate-at-92ny",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-09T19:25:47.659833+00:00"
+      }
+    },
+    {
+      "headline": "Digital skills are an increasing requirement in NYC jobs beyond",
+      "bullets": [
+        "A new report finds that nearly half of all job postings in New York City now seek digital skills, including home health care, construction and retail jobs.",
+        "Forty-four percent of job postings in the city now seek applicants proficient with things like productivity software and AI, compared to 35% a decade ago, according to a study released earlier this month by the Center for an Urban Future, an independent think tank."
+      ],
+      "summary": "Digital skills are an increasing requirement in NYC jobs beyond",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Digital skills are an increasing requirement in NYC jobs beyond tech, report finds",
+        "article_url": "https://gothamist.com/news/digital-skills-are-an-increasing-requirement-in-nyc-jobs-beyond-tech-report-finds",
+        "published_at": "2026-11-09T18:00:04+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-09T19:25:49.995795+00:00",
+      "verification": {
+        "article_title": "Digital skills are an increasing requirement in NYC jobs beyond tech, report finds",
+        "article_url": "https://gothamist.com/news/digital-skills-are-an-increasing-requirement-in-nyc-jobs-beyond-tech-report-finds",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-09T19:25:47.773053+00:00"
+      }
+    },
+    {
+      "headline": "Russell Brand sentenced to 10 years, 6 months in prison",
+      "bullets": [
+        "Brand was found guilty on one count of rape and three counts of sexual assault.",
+        "Actor Russell Brand was sentenced Monday in a U.K."
+      ],
+      "summary": "Russell Brand sentenced to 10 years, 6 months in prison",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Russell Brand sentenced to 10 years, 6 months in prison for rape, sexual assault",
+        "article_url": "https://abc7ny.com/story/russell-brand-faces-sentencing-guilty-verdict-rape-sexual-assault-trial/20026181/",
+        "published_at": "2026-11-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-09T19:25:50.098045+00:00",
+      "verification": {
+        "article_title": "Russell Brand sentenced to 10 years, 6 months in prison for rape, sexual assault",
+        "article_url": "https://abc7ny.com/story/russell-brand-faces-sentencing-guilty-verdict-rape-sexual-assault-trial/20026181/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-09T19:25:47.933662+00:00"
+      }
+    },
+    {
+      "headline": "Russell Brand is sentenced to 10 1/2 years in a",
+      "bullets": [
+        "By BRIAN MELLEY LONDON (AP) \u2014 Russell Brand was sentenced Monday to 10\u00bd years in prison for raping one woman and sexually assaulting three others at a time when his bawdy behavior was indulged and celebrated during his rise to stardom.",
+        "Judge Joel Bennathan denounced Brand\u2019s \u201ccasual and arrogant disregard\u201d for any woman who said no to him, and castigated him for the series of lies he told in testimony denying assaults that dated back to 2004."
+      ],
+      "summary": "Russell Brand is sentenced to 10 1/2 years in a",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Russell Brand is sentenced to 10 1/2 years in a British prison for rape and sexual assault",
+        "article_url": "https://www.nydailynews.com/2026/11/09/russell-brand-sentencing/",
+        "published_at": "2026-11-09T16:43:13+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-09T19:25:50.196315+00:00",
+      "verification": {
+        "article_title": "Russell Brand is sentenced to 10 1/2 years in a British prison for rape and sexual assault",
+        "article_url": "https://www.nydailynews.com/2026/11/09/russell-brand-sentencing/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-09T19:25:48.092957+00:00"
+      }
+    },
+    {
+      "headline": "Russell Brand, British actor and comedian, sentenced to 10 1/2",
+      "bullets": [
+        "A London judge sentenced British actor and comedian Russell Brand to 10 1/2 years in a British prison for rape and sexual assault.",
+        "A jury of eight men and four women found him guilty of attacking four of six accusers on allegations dating back to 2004."
+      ],
+      "summary": "Russell Brand, British actor and comedian, sentenced to 10 1/2",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Russell Brand, British actor and comedian, sentenced to 10 1/2 years in prison for rape and sexual assault",
+        "article_url": "https://www.fox5ny.com/news/russell-brand-sentenced-to-prison",
+        "published_at": "2026-11-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-09T19:25:50.276527+00:00",
+      "verification": {
+        "article_title": "Russell Brand, British actor and comedian, sentenced to 10 1/2 years in prison for rape and sexual assault",
+        "article_url": "https://www.fox5ny.com/news/russell-brand-sentenced-to-prison",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-09T19:25:48.209274+00:00"
+      }
+    },
+    {
+      "headline": "Will voters' \u2018blue tsunami\u2019 mean a reset on healthcare for",
+      "bullets": [
+        "With Democrats poised to take control of the House and Senate in January, some New Yorkers have big expectations for a healthcare policy reset \u2014 even reversing the funding cuts to Medicaid and other safety net programs that President Donald Trump and congressional Republicans pushed through.",
+        "\u201cTuesday's election results were a lifeline to those in the healthcare community,\u201d said Kenneth Raske, president of the Greater New York Hospital Association."
+      ],
+      "summary": "Will voters' \u2018blue tsunami\u2019 mean a reset on healthcare for",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Will voters' \u2018blue tsunami\u2019 mean a reset on healthcare for NY?",
+        "article_url": "https://gothamist.com/news/will-voters-blue-tsunami-mean-a-reset-on-healthcare-for-ny",
+        "published_at": "2026-11-09T11:30:55+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-09T19:25:50.419518+00:00",
+      "verification": {
+        "article_title": "Will voters' \u2018blue tsunami\u2019 mean a reset on healthcare for NY?",
+        "article_url": "https://gothamist.com/news/will-voters-blue-tsunami-mean-a-reset-on-healthcare-for-ny",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-09T19:25:48.318669+00:00"
+      }
+    },
+    {
+      "headline": "'I'm In Deep Pain': Mother of Brooklyn jogger murder suspect",
+      "bullets": [
+        "BATH BEACH, Brooklyn (WABC) -- The mother of the man charged in the fatal stabbing of Brooklyn jogger Katie Suarez is speaking publicly for the first time since his arrest, describing her son as a good person while expressing sympathy for the victim's family.",
+        "Fatma Mohassib spoke at the family's Bensonhurst home, where police arrested her son, Sayed Mohassib, on Saturday morning."
+      ],
+      "summary": "'I'm In Deep Pain': Mother of Brooklyn jogger murder suspect",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "'I'm In Deep Pain': Mother of Brooklyn jogger murder suspect speaks out",
+        "article_url": "https://abc7ny.com/post/im-deep-pain-mother-brooklyn-jogger-murder-suspect-speaks-first-time/20024838/",
+        "published_at": "2026-11-08"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-09T19:25:50.545206+00:00",
+      "verification": {
+        "article_title": "'I'm In Deep Pain': Mother of Brooklyn jogger murder suspect speaks out",
+        "article_url": "https://abc7ny.com/post/im-deep-pain-mother-brooklyn-jogger-murder-suspect-speaks-first-time/20024838/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-09T19:25:48.476501+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: Major Art Discovery: Alice Neel Portrait Leads Alderfer",
+      "bullets": [
+        "New York City, NY|Featured Event Major Art Discovery: Alice Neel Portrait Leads Alderfer Auction\u2019s Fine Art Auction Alderfer Auction of Hatfield, PA, is honored to unveil an art discovery as the centerpiece of our upcoming December 10 Fine Art Auction: an unpublished, original oil portrait by one of the iconic American painters of the twentieth century, Alice Neel (1900\u20131984).",
+        "A Masterpiece Revealed: Dr."
+      ],
+      "summary": "Local Event: Major Art Discovery: Alice Neel Portrait Leads Alderfer",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Major Art Discovery: Alice Neel Portrait Leads Alderfer Auction\u2019s Fine Art Auction",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261210/6d1110df-aa68-4622-8662-20d396d3e0f9/major-art-discovery-alice-neel-portrait-leads-alderfer-auction-s-fine-art-auction",
+        "published_at": "2026-12-10T15:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-09T19:25:50.647616+00:00",
+      "verification": {
+        "article_title": "Local Event: Major Art Discovery: Alice Neel Portrait Leads Alderfer Auction\u2019s Fine Art Auction",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261210/6d1110df-aa68-4622-8662-20d396d3e0f9/major-art-discovery-alice-neel-portrait-leads-alderfer-auction-s-fine-art-auction",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-09T19:25:48.570901+00:00"
+      }
+    },
+    {
+      "headline": "Today in History: November 9, Theodore Roosevelt becomes first president",
+      "bullets": [
+        "Today is Monday, Nov.",
+        "9, the 313th day of 2026."
+      ],
+      "summary": "Today in History: November 9, Theodore Roosevelt becomes first president",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Today in History: November 9, Theodore Roosevelt becomes first president to travel abroad",
+        "article_url": "https://www.nydailynews.com/2026/11/09/today-in-history-november-9-theodore-roosevelt-becomes-first-president-to-travel-abroad/",
+        "published_at": "2026-11-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-09T19:25:50.727561+00:00",
+      "verification": {
+        "article_title": "Today in History: November 9, Theodore Roosevelt becomes first president to travel abroad",
+        "article_url": "https://www.nydailynews.com/2026/11/09/today-in-history-november-9-theodore-roosevelt-becomes-first-president-to-travel-abroad/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-09T19:25:48.725601+00:00"
+      }
+    },
+    {
+      "headline": "Jan. 6 should follow Trump 'to his grave,' Biden says",
+      "bullets": [
+        "The former president's memoir is called, \"Promise Me, America.\" Former President Joseph Biden claims his successor was desperate to hang on to power after losing the 2020 election, saying, \"What Trump did on January 6, 2021, should never be forgotten.",
+        "It should follow him to his grave.\" Biden has harsh words for Donald Trump in his new memoir, \"Promise Me, America,\" which goes on sale Nov."
+      ],
+      "summary": "Jan. 6 should follow Trump 'to his grave,' Biden says",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Jan. 6 should follow Trump 'to his grave,' Biden says in new memoir",
+        "article_url": "https://abc7ny.com/story/jan-6-should-follow-trump-grave-biden-says-new-memoir/20026852/",
+        "published_at": "2026-11-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-09T19:25:50.817674+00:00",
+      "verification": {
+        "article_title": "Jan. 6 should follow Trump 'to his grave,' Biden says in new memoir",
+        "article_url": "https://abc7ny.com/story/jan-6-should-follow-trump-grave-biden-says-new-memoir/20026852/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-09T19:25:48.880814+00:00"
+      }
+    },
+    {
+      "headline": "Billion Oyster Project, NYC Ferry launch floating classroom for students",
+      "bullets": [
+        "NEW YORK (WABC) -- Thousands of New York City public school students will soon have the chance to learn science aboard NYC ferries through a new partnership between NYC Ferry and the Billion Oyster Project.",
+        "The program will turn ferry rides into \"floating classrooms,\" allowing students to conduct hands-on experiments while learning about oyster restoration, marine ecology, water quality, and the city's working waterfront."
+      ],
+      "summary": "Billion Oyster Project, NYC Ferry launch floating classroom for students",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Billion Oyster Project, NYC Ferry launch floating classroom for students",
+        "article_url": "https://abc7ny.com/post/billion-oyster-project-nyc-ferry-launch-floating-classroom-program-students/20026924/",
+        "published_at": "2026-11-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-09T19:25:50.897989+00:00",
+      "verification": {
+        "article_title": "Billion Oyster Project, NYC Ferry launch floating classroom for students",
+        "article_url": "https://abc7ny.com/post/billion-oyster-project-nyc-ferry-launch-floating-classroom-program-students/20026924/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-09T19:25:48.967031+00:00"
+      }
+    },
+    {
+      "headline": "NYC invests $25M to expand Code Blue program and strengthen",
+      "bullets": [
+        "NEW YORK (WABC) -- Mayor Zohran Mamdani announced a $25 million investment to expand New York City's Code Blue program and strengthen the city's response to winter weather, including additional outreach teams, warming centers, and snow-clearing resources.",
+        "The city said the funding will help scale emergency services during periods of extreme cold, with more than 300 additional canvassers deployed across the five boroughs to connect vulnerable New Yorkers with shelter and services."
+      ],
+      "summary": "NYC invests $25M to expand Code Blue program and strengthen",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "NYC invests $25M to expand Code Blue program and strengthen winter weather response",
+        "article_url": "https://abc7ny.com/post/mamdani-announces-25m-investment-code-blue-snow-removal-operations/20026081/",
+        "published_at": "2026-11-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-09T19:25:50.986976+00:00",
+      "verification": {
+        "article_title": "NYC invests $25M to expand Code Blue program and strengthen winter weather response",
+        "article_url": "https://abc7ny.com/post/mamdani-announces-25m-investment-code-blue-snow-removal-operations/20026081/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-09T19:25:49.061382+00:00"
+      }
+    },
+    {
+      "headline": "Blood sugar spikes could hinge on the order you eat",
+      "bullets": [
+        "A simple change to the order in which you eat could help blunt blood sugar spikes, new research suggests, but experts say it's not necessarily a \"quick fix.\" In a study published in the journal Diabetes in October, mice that received olive oil 15 minutes before glucose \u2014 a simple sugar the body uses for energy \u2014 had a smaller early rise in blood sugar than mice given glucose first or glucose alone.",
+        "The researchers also saw the effect in mice with type 2 diabetes and severe insulin deficiency."
+      ],
+      "summary": "Blood sugar spikes could hinge on the order you eat",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Blood sugar spikes could hinge on the order you eat your food, study suggests",
+        "article_url": "https://www.fox5ny.com/news/blood-sugar-spikes-could-hinge-order-you-eat-your-food-study-suggests",
+        "published_at": "2026-11-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-09T19:25:51.074234+00:00",
+      "verification": {
+        "article_title": "Blood sugar spikes could hinge on the order you eat your food, study suggests",
+        "article_url": "https://www.fox5ny.com/news/blood-sugar-spikes-could-hinge-order-you-eat-your-food-study-suggests",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-09T19:25:49.222342+00:00"
+      }
+    }
+  ]
+}
