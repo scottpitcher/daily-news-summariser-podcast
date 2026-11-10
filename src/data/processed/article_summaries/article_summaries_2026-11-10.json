@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-11-10T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-11-10.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Russia, Ukraine and US meet for Abu Dhabi talks as",
+      "bullets": [
+        "Russia's full-scale invasion of Ukraine has been ongoing for 1,721 days.",
+        "LONDON -- American, Ukrainian and Russian representatives gathered in Abu Dhabi on Tuesday for their latest round of trilateral peace talks, with President Donald Trump's administration seeking a diplomatic breakthrough after 1,721 days of Moscow's full-scale invasion of its neighbor."
+      ],
+      "summary": "Russia, Ukraine and US meet for Abu Dhabi talks as",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Russia, Ukraine and US meet for Abu Dhabi talks as Trump says war can 'end soon'",
+        "article_url": "https://abc7ny.com/story/russia-ukraine-us-meet-abu-dhabi-talks-trump-says-war-can-end-soon/20030097/",
+        "published_at": "2026-11-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-10T16:44:45.678972+00:00",
+      "verification": {
+        "article_title": "Russia, Ukraine and US meet for Abu Dhabi talks as Trump says war can 'end soon'",
+        "article_url": "https://abc7ny.com/story/russia-ukraine-us-meet-abu-dhabi-talks-trump-says-war-can-end-soon/20030097/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-10T16:44:44.348446+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on degraded healthcare, political winds and Meghan",
+      "bullets": [
+        "Federal policies have damaged healthcare Manhattan: Recently, I went to urgent care at NYU Langone.",
+        "Within half an hour, a doctor told me I needed a CT scan right away."
+      ],
+      "summary": "Readers sound off on degraded healthcare, political winds and Meghan",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on degraded healthcare, political winds and Meghan Markle\u2019s dad",
+        "article_url": "https://www.nydailynews.com/2026/11/10/readers-sound-off-on-degraded-healthcare-political-winds-and-meghan-markles-dad/",
+        "published_at": "2026-11-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-10T16:44:45.778198+00:00",
+      "verification": {
+        "article_title": "Readers sound off on degraded healthcare, political winds and Meghan Markle\u2019s dad",
+        "article_url": "https://www.nydailynews.com/2026/11/10/readers-sound-off-on-degraded-healthcare-political-winds-and-meghan-markles-dad/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-10T16:44:44.448747+00:00"
+      }
+    },
+    {
+      "headline": "Rent-stabilized buildings hit auction block, despite Mamdani\u2019s efforts to intervene",
+      "bullets": [
+        "Mayor Zohran Mamdani\u2019s effort to steer the sale of crumbling apartment buildings to tenant-approved owners has suffered another setback.",
+        "Dozens of deteriorating properties in East Harlem that City Hall tried to deliver into the hands of an affordable housing developer are instead heading to the auction block in Manhattan starting Tuesday afternoon."
+      ],
+      "summary": "Rent-stabilized buildings hit auction block, despite Mamdani\u2019s efforts to intervene",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Rent-stabilized buildings hit auction block, despite Mamdani\u2019s efforts to intervene",
+        "article_url": "https://gothamist.com/news/emerald",
+        "published_at": "2026-11-10T11:00:58+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-10T16:44:45.829333+00:00",
+      "verification": {
+        "article_title": "Rent-stabilized buildings hit auction block, despite Mamdani\u2019s efforts to intervene",
+        "article_url": "https://gothamist.com/news/emerald",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-10T16:44:44.513233+00:00"
+      }
+    },
+    {
+      "headline": "Hochul to Trump: Don\u00e2t Target NYERS as Dems Sweep State",
+      "bullets": [
+        "Hochul to Trump: Don\u00e2t Target NYERS as Dems Sweep State The Democratic political establishment turned up at Governor Kathy Hochul\u00e2s victory party at the New York Hilton on election night including Mayor Zohran Mamdani, NYS Attorney General Letitia James, borough president Brad Hoylman-Sigal, City Council speaker Julie Menin and newly elected Congressman Micah Lasher.",
+        "There was jubilation in the New York Hilton on Nov."
+      ],
+      "summary": "Hochul to Trump: Don\u00e2t Target NYERS as Dems Sweep State",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Hochul to Trump: Don\u00e2t Target NYERS as Dems Sweep State",
+        "article_url": "https://www.ourtownny.com/news/hochul-to-trump-don-t-target-nyers-as-dems-sweep-state-IN6359390",
+        "published_at": "2026-11-08"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-10T16:44:45.879741+00:00",
+      "verification": {
+        "article_title": "Hochul to Trump: Don\u00e2t Target NYERS as Dems Sweep State",
+        "article_url": "https://www.ourtownny.com/news/hochul-to-trump-don-t-target-nyers-as-dems-sweep-state-IN6359390",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-10T16:44:44.623547+00:00"
+      }
+    },
+    {
+      "headline": "Consumer prices increased 0.4% in October, higher than expected",
+      "bullets": [
+        "Discontent over prices helped fuel a Democratic landslide in the midterms.",
+        "Consumer prices rose more than expected in October, according to a government report released on Tuesday."
+      ],
+      "summary": "Consumer prices increased 0.4% in October, higher than expected",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Consumer prices increased 0.4% in October, higher than expected",
+        "article_url": "https://abc7ny.com/story/consumer-prices-increased-04-october-higher-expected/20029965/",
+        "published_at": "2026-11-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-10T16:44:45.934830+00:00",
+      "verification": {
+        "article_title": "Consumer prices increased 0.4% in October, higher than expected",
+        "article_url": "https://abc7ny.com/story/consumer-prices-increased-04-october-higher-expected/20029965/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-10T16:44:44.687289+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: America\u2019s Liberal Reckoning \u2014 Fareed Zakaria and Patrick",
+      "bullets": [
+        "Upper East Side|Featured Event America\u2019s Liberal Reckoning \u2014 Fareed Zakaria and Patrick Deneen: A Munk Debate at 92NY Americans voted for change.",
+        "But what kind?"
+      ],
+      "summary": "Local Event: America\u2019s Liberal Reckoning \u2014 Fareed Zakaria and Patrick",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: America\u2019s Liberal Reckoning \u2014 Fareed Zakaria and Patrick Deneen: A Munk Debate at 92NY",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261112/d663722c-d776-4937-91eb-0d20dc325b00/america-s-liberal-reckoning-fareed-zakaria-and-patrick-deneen-a-munk-debate-at-92ny",
+        "published_at": "2026-11-13T00:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-10T16:44:45.985401+00:00",
+      "verification": {
+        "article_title": "Local Event: America\u2019s Liberal Reckoning \u2014 Fareed Zakaria and Patrick Deneen: A Munk Debate at 92NY",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261112/d663722c-d776-4937-91eb-0d20dc325b00/america-s-liberal-reckoning-fareed-zakaria-and-patrick-deneen-a-munk-debate-at-92ny",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-10T16:44:44.737478+00:00"
+      }
+    },
+    {
+      "headline": "Digital skills are an increasing requirement in NYC jobs beyond",
+      "bullets": [
+        "A new report finds that nearly half of all job postings in New York City now seek digital skills, including home health care, construction and retail jobs.",
+        "Forty-four percent of job postings in the city now seek applicants proficient with things like productivity software and AI, compared to 35% a decade ago, according to a study released earlier this month by the Center for an Urban Future, an independent think tank."
+      ],
+      "summary": "Digital skills are an increasing requirement in NYC jobs beyond",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Digital skills are an increasing requirement in NYC jobs beyond tech, report finds",
+        "article_url": "https://gothamist.com/news/digital-skills-are-an-increasing-requirement-in-nyc-jobs-beyond-tech-report-finds",
+        "published_at": "2026-11-09T22:42:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-10T16:44:46.039188+00:00",
+      "verification": {
+        "article_title": "Digital skills are an increasing requirement in NYC jobs beyond tech, report finds",
+        "article_url": "https://gothamist.com/news/digital-skills-are-an-increasing-requirement-in-nyc-jobs-beyond-tech-report-finds",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-10T16:44:44.827549+00:00"
+      }
+    },
+    {
+      "headline": "Take a different view of NYC\u2019s sidewalk sheds",
+      "bullets": [
+        "Sidewalk sheds are as much a part of the New York streetscape as yellow cabs, corner bodegas, and towering skyscrapers.",
+        "They\u2019re big, they\u2019re green, and let\u2019s face it, they\u2019re not winning any beauty contests."
+      ],
+      "summary": "Take a different view of NYC\u2019s sidewalk sheds",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Take a different view of NYC\u2019s sidewalk sheds",
+        "article_url": "https://www.nydailynews.com/2026/11/10/take-a-different-view-of-nycs-sidewalk-sheds/",
+        "published_at": "2026-11-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-10T16:44:46.087660+00:00",
+      "verification": {
+        "article_title": "Take a different view of NYC\u2019s sidewalk sheds",
+        "article_url": "https://www.nydailynews.com/2026/11/10/take-a-different-view-of-nycs-sidewalk-sheds/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-10T16:44:44.875232+00:00"
+      }
+    },
+    {
+      "headline": "ICE subpoena puts a spotlight on the last emergency migrant",
+      "bullets": [
+        "The Mamdani administration is \u201cevaluating next steps\u201d after a federal judge ruled City Hall must comply with a federal subpoena seeking information about certain residents of a South Bronx shelter for migrant men, according to spokesperson for the mayor.",
+        "Ivonne Rodriguez, spokesperson for Mayor Zohran Mamdani, had no further comment after U.S."
+      ],
+      "summary": "ICE subpoena puts a spotlight on the last emergency migrant",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "ICE subpoena puts a spotlight on the last emergency migrant shelter in NYC",
+        "article_url": "https://gothamist.com/news/ice-subpoena-puts-a-spotlight-on-the-last-emergency-migrant-shelter-in-nyc",
+        "published_at": "2026-11-10T15:01:03+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-10T16:44:46.142577+00:00",
+      "verification": {
+        "article_title": "ICE subpoena puts a spotlight on the last emergency migrant shelter in NYC",
+        "article_url": "https://gothamist.com/news/ice-subpoena-puts-a-spotlight-on-the-last-emergency-migrant-shelter-in-nyc",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-10T16:44:44.960444+00:00"
+      }
+    },
+    {
+      "headline": "Pope urges Argentines to follow model of saints during Mass",
+      "bullets": [
+        "By NICOLE WINFIELD and ISABEL DEBRE C\u00d3RDOBA, Argentina (AP) \u2014 Pope Leo XIV urged Argentines on Tuesday to follow the holy example of the country\u2019s best-known saints as he drew an estimated 650,000 people to the central city of C\u00f3rdoba for Mass, a day after an estimated 2.5 million turned out in the capital.",
+        "Faithful from all over Argentina drove hours to be on hand for the Mass, from the farthest north of the country to Patagonia in the south and points in between."
+      ],
+      "summary": "Pope urges Argentines to follow model of saints during Mass",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Pope urges Argentines to follow model of saints during Mass in the \u2018land of saints\u2019",
+        "article_url": "https://www.nydailynews.com/2026/11/10/pope-leo-saints-argentina/",
+        "published_at": "2026-11-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-10T16:44:46.192087+00:00",
+      "verification": {
+        "article_title": "Pope urges Argentines to follow model of saints during Mass in the \u2018land of saints\u2019",
+        "article_url": "https://www.nydailynews.com/2026/11/10/pope-leo-saints-argentina/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-10T16:44:45.026439+00:00"
+      }
+    },
+    {
+      "headline": "Upcoming meeting could determine if US loses its measles elimination",
+      "bullets": [
+        "It comes as the U.S.",
+        "has recorded more than 5,000 cases so far this year."
+      ],
+      "summary": "Upcoming meeting could determine if US loses its measles elimination",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Upcoming meeting could determine if US loses its measles elimination status",
+        "article_url": "https://abc7ny.com/story/upcoming-meeting-could-determine-us-loses-measles-elimination-status/20030130/",
+        "published_at": "2026-11-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-10T16:44:46.329643+00:00",
+      "verification": {
+        "article_title": "Upcoming meeting could determine if US loses its measles elimination status",
+        "article_url": "https://abc7ny.com/story/upcoming-meeting-could-determine-us-loses-measles-elimination-status/20030130/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-10T16:44:45.087990+00:00"
+      }
+    },
+    {
+      "headline": "Grand jury expected to indict former teacher's aide accused of",
+      "bullets": [
+        "NEW YORK (WABC) -- A Brooklyn grand jury is expected to return an indictment as early as Tuesday against 27-year-old Sayed Mohassib, the man accused of fatally stabbing jogger Katie Suarez.",
+        "Mohassib is charged with second-degree murder, tampering with physical evidence, and fourth-degree criminal possession of a weapon in connection with Suarez's death."
+      ],
+      "summary": "Grand jury expected to indict former teacher's aide accused of",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Grand jury expected to indict former teacher's aide accused of killing Brooklyn jogger",
+        "article_url": "https://abc7ny.com/post/katie-suarez-jogger-murder-sayed-mohassib-expected-indicted-grand-jury/20029336/",
+        "published_at": "2026-11-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-10T16:44:46.393432+00:00",
+      "verification": {
+        "article_title": "Grand jury expected to indict former teacher's aide accused of killing Brooklyn jogger",
+        "article_url": "https://abc7ny.com/post/katie-suarez-jogger-murder-sayed-mohassib-expected-indicted-grand-jury/20029336/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-10T16:44:45.151574+00:00"
+      }
+    },
+    {
+      "headline": "Upcoming meeting could determine if US loses its measles elimination",
+      "bullets": [
+        "It comes as the U.S.",
+        "has recorded more than 5,000 cases so far this year."
+      ],
+      "summary": "Upcoming meeting could determine if US loses its measles elimination",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Upcoming meeting could determine if US loses its measles elimination status",
+        "article_url": "https://abc7ny.com/story/upcoming-meeting-could-determine-us-loses-measles-elimination-status/20030130/",
+        "published_at": "2026-11-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-10T16:44:46.451080+00:00",
+      "verification": {
+        "article_title": "Upcoming meeting could determine if US loses its measles elimination status",
+        "article_url": "https://abc7ny.com/story/upcoming-meeting-could-determine-us-loses-measles-elimination-status/20030130/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-10T16:44:45.216673+00:00"
+      }
+    },
+    {
+      "headline": "NYC Marathon: 60,000+ Runners Triumph But Tragedy On Course Too",
+      "bullets": [
+        "NYC Marathon: 60,000+ Runners Triumph But Tragedy On Course Too From the Staten Island side of the Verrazano-Narrows Bridge to West Drive and 67th Street in Central Park, the massive field thrilled massive crowds en route.",
+        "Afterwards, however, the sad fates of two women runners also effected many."
+      ],
+      "summary": "NYC Marathon: 60,000+ Runners Triumph But Tragedy On Course Too",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "NYC Marathon: 60,000+ Runners Triumph But Tragedy On Course Too",
+        "article_url": "https://www.ourtownny.com/news/nyc-marathon-60000-runners-triumph-but-tragedy-on-course-too-MB6366781",
+        "published_at": "2026-11-09"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-10T16:44:46.533447+00:00",
+      "verification": {
+        "article_title": "NYC Marathon: 60,000+ Runners Triumph But Tragedy On Course Too",
+        "article_url": "https://www.ourtownny.com/news/nyc-marathon-60000-runners-triumph-but-tragedy-on-course-too-MB6366781",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-10T16:44:45.280964+00:00"
+      }
+    },
+    {
+      "headline": "DOC NYC documentary film festival returns. Check out this year's",
+      "bullets": [
+        "DOC NYC, America's largest festival for documentary films, returns to New York City and streaming for the 17th year, with screenings in Manhattan beginning Wednesday through Nov.",
+        "19, and continuing online through Nov."
+      ],
+      "summary": "DOC NYC documentary film festival returns. Check out this year's",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "DOC NYC documentary film festival returns. Check out this year's lineup.",
+        "article_url": "https://www.cbsnews.com/newyork/news/doc-nyc-documentary-film-festival-2026/",
+        "published_at": "2026-11-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-10T16:44:46.590374+00:00",
+      "verification": {
+        "article_title": "DOC NYC documentary film festival returns. Check out this year's lineup.",
+        "article_url": "https://www.cbsnews.com/newyork/news/doc-nyc-documentary-film-festival-2026/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-10T16:44:45.331079+00:00"
+      }
+    },
+    {
+      "headline": "Nations promise to install more rooftop solar at UN climate",
+      "bullets": [
+        "By ANTON L.",
+        "DELGADO, SIBI ARASU and SUZAN FRASER ANTALYA, Turkey (AP) \u2014 Five countries have backed a plan to double the number of homes with rooftop solar panels worldwide by 2030, as U.N."
+      ],
+      "summary": "Nations promise to install more rooftop solar at UN climate",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Nations promise to install more rooftop solar at UN climate talks",
+        "article_url": "https://www.nydailynews.com/2026/11/10/un-cop31-rooftop-solar/",
+        "published_at": "2026-11-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-10T16:44:46.642079+00:00",
+      "verification": {
+        "article_title": "Nations promise to install more rooftop solar at UN climate talks",
+        "article_url": "https://www.nydailynews.com/2026/11/10/un-cop31-rooftop-solar/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-10T16:44:45.389492+00:00"
+      }
+    },
+    {
+      "headline": "Men and women who smoke marijuana may experience different effects,",
+      "bullets": [
+        "Men who use cannabis occasionally may feel stronger effects from the drug than women with similar use habits, new research suggests.",
+        "The UCLA Health study, published in the journal Neuropsychopharmacology, included 44 healthy adults between the ages of 21 and 55, evenly split between men and women."
+      ],
+      "summary": "Men and women who smoke marijuana may experience different effects,",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Men and women who smoke marijuana may experience different effects, study suggests",
+        "article_url": "https://www.fox5ny.com/news/men-women-who-smoke-marijuana-may-experience-different-effects-study-suggests",
+        "published_at": "2026-11-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-10T16:44:46.724699+00:00",
+      "verification": {
+        "article_title": "Men and women who smoke marijuana may experience different effects, study suggests",
+        "article_url": "https://www.fox5ny.com/news/men-women-who-smoke-marijuana-may-experience-different-effects-study-suggests",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-10T16:44:45.477597+00:00"
+      }
+    },
+    {
+      "headline": "Russia, Ukraine and US meet for Abu Dhabi talks as",
+      "bullets": [
+        "Russia's full-scale invasion of Ukraine has been ongoing for 1,721 days.",
+        "LONDON -- American, Ukrainian and Russian representatives gathered in Abu Dhabi on Tuesday for their latest round of trilateral peace talks, with President Donald Trump's administration seeking a diplomatic breakthrough after 1,721 days of Moscow's full-scale invasion of its neighbor."
+      ],
+      "summary": "Russia, Ukraine and US meet for Abu Dhabi talks as",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Russia, Ukraine and US meet for Abu Dhabi talks as Trump says war can 'end soon'",
+        "article_url": "https://abc7ny.com/story/russia-ukraine-us-meet-abu-dhabi-talks-trump-says-war-can-end-soon/20030097/",
+        "published_at": "2026-11-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-10T16:44:46.780927+00:00",
+      "verification": {
+        "article_title": "Russia, Ukraine and US meet for Abu Dhabi talks as Trump says war can 'end soon'",
+        "article_url": "https://abc7ny.com/story/russia-ukraine-us-meet-abu-dhabi-talks-trump-says-war-can-end-soon/20030097/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-10T16:44:45.539082+00:00"
+      }
+    }
+  ]
+}
