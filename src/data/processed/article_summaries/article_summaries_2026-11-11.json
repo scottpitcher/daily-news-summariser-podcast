@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-11-11T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-11-11.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Readers sound off on Veterans Day, Schumer\u2019s leadership and e-bike",
+      "bullets": [
+        "War has not ended wars \u2014 that\u2019s up to us Jersey City: There was a time when people believed that World War I would be the war to end all wars.",
+        "Nice thought."
+      ],
+      "summary": "Readers sound off on Veterans Day, Schumer\u2019s leadership and e-bike",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on Veterans Day, Schumer\u2019s leadership and e-bike batteries",
+        "article_url": "https://www.nydailynews.com/2026/11/11/readers-sound-off-on-veterans-day-schumers-leadership-and-e-bike-batteries/",
+        "published_at": "2026-11-11"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-11T16:50:25.702960+00:00",
+      "verification": {
+        "article_title": "Readers sound off on Veterans Day, Schumer\u2019s leadership and e-bike batteries",
+        "article_url": "https://www.nydailynews.com/2026/11/11/readers-sound-off-on-veterans-day-schumers-leadership-and-e-bike-batteries/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-11T16:50:21.835724+00:00"
+      }
+    },
+    {
+      "headline": "Veterans Day 2026 deals: Where veterans can get free meals",
+      "bullets": [
+        "NEW YORK - Veterans Day is celebrated each year to honor the men and women who have served in the U.S.",
+        "Armed Forces."
+      ],
+      "summary": "Veterans Day 2026 deals: Where veterans can get free meals",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Veterans Day 2026 deals: Where veterans can get free meals and discounts",
+        "article_url": "https://www.fox5ny.com/news/nyc-veterans-day-2026-deals-meals-discounts",
+        "published_at": "2026-11-11"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-11T16:50:25.860966+00:00",
+      "verification": {
+        "article_title": "Veterans Day 2026 deals: Where veterans can get free meals and discounts",
+        "article_url": "https://www.fox5ny.com/news/nyc-veterans-day-2026-deals-meals-discounts",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-11T16:50:22.050393+00:00"
+      }
+    },
+    {
+      "headline": "Gov. Hochul keeps the door open to redrawing New York\u2019s",
+      "bullets": [
+        "Gov.",
+        "Kathy Hochul said she remains open to a constitutional amendment that would clear the way for Democrats to redraw New York\u2019s congressional districts as soon as 2028."
+      ],
+      "summary": "Gov. Hochul keeps the door open to redrawing New York\u2019s",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Gov. Hochul keeps the door open to redrawing New York\u2019s congressional map",
+        "article_url": "https://gothamist.com/news/gov-hochul-keeps-the-door-open-to-redrawing-new-yorks-congressional-map",
+        "published_at": "2026-11-10T21:29:39+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-11T16:50:26.051769+00:00",
+      "verification": {
+        "article_title": "Gov. Hochul keeps the door open to redrawing New York\u2019s congressional map",
+        "article_url": "https://gothamist.com/news/gov-hochul-keeps-the-door-open-to-redrawing-new-yorks-congressional-map",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-11T16:50:22.260944+00:00"
+      }
+    },
+    {
+      "headline": "Stacy Keach, star of stage and \u2018Mike Hammer\u2019 series, dies",
+      "bullets": [
+        "By MARK KENNEDY, AP Entertainment Writer Stacy Keach, one of America\u2019s finest stage actors who became best known for playing scruffy private eye Mike Hammer on TV and whose career was nearly derailed after he was imprisoned in 1984 for trying to smuggle cocaine into Britain, died Tuesday.",
+        "He was 85."
+      ],
+      "summary": "Stacy Keach, star of stage and \u2018Mike Hammer\u2019 series, dies",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Stacy Keach, star of stage and \u2018Mike Hammer\u2019 series, dies at 85",
+        "article_url": "https://www.nydailynews.com/2026/11/10/obit-stacy-keach/",
+        "published_at": "2026-11-11T12:34:39+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-11T16:50:26.221802+00:00",
+      "verification": {
+        "article_title": "Stacy Keach, star of stage and \u2018Mike Hammer\u2019 series, dies at 85",
+        "article_url": "https://www.nydailynews.com/2026/11/10/obit-stacy-keach/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-11T16:50:22.398527+00:00"
+      }
+    },
+    {
+      "headline": "Rebounding AI stocks lift Wall Street",
+      "bullets": [
+        "By STAN CHOE, AP Business Writer NEW YORK (AP) \u2014 A rebound for stocks in the artificial intelligence industry is lifting the U.S.",
+        "market on Wednesday."
+      ],
+      "summary": "Rebounding AI stocks lift Wall Street",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Rebounding AI stocks lift Wall Street",
+        "article_url": "https://www.nydailynews.com/2026/11/11/us-financial-markets-nvidia/",
+        "published_at": "2026-11-11"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-11T16:50:26.361654+00:00",
+      "verification": {
+        "article_title": "Rebounding AI stocks lift Wall Street",
+        "article_url": "https://www.nydailynews.com/2026/11/11/us-financial-markets-nvidia/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-11T16:50:22.601798+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: America\u2019s Liberal Reckoning \u2014 Fareed Zakaria and Patrick",
+      "bullets": [
+        "Upper East Side|Featured Event America\u2019s Liberal Reckoning \u2014 Fareed Zakaria and Patrick Deneen: A Munk Debate at 92NY Americans voted for change.",
+        "But what kind?"
+      ],
+      "summary": "Local Event: America\u2019s Liberal Reckoning \u2014 Fareed Zakaria and Patrick",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: America\u2019s Liberal Reckoning \u2014 Fareed Zakaria and Patrick Deneen: A Munk Debate at 92NY",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261112/d663722c-d776-4937-91eb-0d20dc325b00/america-s-liberal-reckoning-fareed-zakaria-and-patrick-deneen-a-munk-debate-at-92ny",
+        "published_at": "2026-11-13T00:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-11T16:50:26.566196+00:00",
+      "verification": {
+        "article_title": "Local Event: America\u2019s Liberal Reckoning \u2014 Fareed Zakaria and Patrick Deneen: A Munk Debate at 92NY",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261112/d663722c-d776-4937-91eb-0d20dc325b00/america-s-liberal-reckoning-fareed-zakaria-and-patrick-deneen-a-munk-debate-at-92ny",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-11T16:50:22.794962+00:00"
+      }
+    },
+    {
+      "headline": "Toyota\u2019s tiny kei trucks are coming to the US. Here\u2019s",
+      "bullets": [
+        "WASHINGTON - Toyota Motor said Tuesday it plans to introduce its ultra-compact kei trucks to U.S.",
+        "fleet customers in the second half of 2027, beginning a limited rollout after President Donald Trump encouraged the move."
+      ],
+      "summary": "Toyota\u2019s tiny kei trucks are coming to the US. Here\u2019s",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Toyota\u2019s tiny kei trucks are coming to the US. Here\u2019s when.",
+        "article_url": "https://www.fox5ny.com/news/toyotas-tiny-kei-trucks",
+        "published_at": "2026-11-11"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-11T16:50:26.709616+00:00",
+      "verification": {
+        "article_title": "Toyota\u2019s tiny kei trucks are coming to the US. Here\u2019s when.",
+        "article_url": "https://www.fox5ny.com/news/toyotas-tiny-kei-trucks",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-11T16:50:22.997696+00:00"
+      }
+    },
+    {
+      "headline": "Parents of woman killed in Park Ave. mass shooting sue",
+      "bullets": [
+        "The parents of a 27-year-old woman killed in a Midtown mass shooting are suing the owners of the Park Ave.",
+        "office building where the massacre occurred, claiming security at the skyscraper \u201cfailed catastrophically\u201d to protect their daughter, according to a lawsuit filed in Manhattan Civil Court on Tuesday."
+      ],
+      "summary": "Parents of woman killed in Park Ave. mass shooting sue",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Parents of woman killed in Park Ave. mass shooting sue building owners, citing security breakdown",
+        "article_url": "https://www.nydailynews.com/2026/11/10/parents-of-woman-killed-in-park-ave-mass-shooting-sue-building-owners-citing-security-breakdown/",
+        "published_at": "2026-11-11T01:52:04+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-11T16:50:26.841781+00:00",
+      "verification": {
+        "article_title": "Parents of woman killed in Park Ave. mass shooting sue building owners, citing security breakdown",
+        "article_url": "https://www.nydailynews.com/2026/11/10/parents-of-woman-killed-in-park-ave-mass-shooting-sue-building-owners-citing-security-breakdown/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-11T16:50:23.127231+00:00"
+      }
+    },
+    {
+      "headline": "Driver accused of killing 3 women in crash near LA",
+      "bullets": [
+        "LOS ANGELES -- The man who crashed into several pedestrians right outside the Metro station in North Hollywood, killing three women and hurting two others, has been arrested on suspicion of driving under the influence, police confirmed Wednesday.",
+        "The deadly crash happened just before 6 p.m."
+      ],
+      "summary": "Driver accused of killing 3 women in crash near LA",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Driver accused of killing 3 women in crash near LA Metro station arrested on suspicion of DUI",
+        "article_url": "https://abc7ny.com/story/north-hollywood-crash-today-car-metro-station-leaves-3-dead-lankershim-boulevard-los-angeles-fire-department-says/20032121/",
+        "published_at": "2026-11-11"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-11T16:50:26.992065+00:00",
+      "verification": {
+        "article_title": "Driver accused of killing 3 women in crash near LA Metro station arrested on suspicion of DUI",
+        "article_url": "https://abc7ny.com/story/north-hollywood-crash-today-car-metro-station-leaves-3-dead-lankershim-boulevard-los-angeles-fire-department-says/20032121/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-11T16:50:23.321947+00:00"
+      }
+    },
+    {
+      "headline": "The pope ends an emotional Argentina visit with a plea",
+      "bullets": [
+        "By NICOLE WINFIELD, D\u00c9BORA REY and ISABEL DEBRE LUJ\u00c1N, Argentina (AP) \u2014 Pope Leo XIV closed an emotional and politically charged visit to Argentina on Wednesday with an appeal for unity and reconciliation, as he offered a parting message of hope to the polarized homeland of his predecessor.",
+        "Leo spent his final morning in Argentina ministering to inmates at a prison that served as a clandestine torture center during a military junta of the 1970s and 80s and then celebrating Mass at the national shrine, the Basilica of Our Lady of Luj\u00e1n."
+      ],
+      "summary": "The pope ends an emotional Argentina visit with a plea",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "The pope ends an emotional Argentina visit with a plea for unity and reconciliation",
+        "article_url": "https://www.nydailynews.com/2026/11/11/pope-argentina-visit/",
+        "published_at": "2026-11-11"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-11T16:50:27.126282+00:00",
+      "verification": {
+        "article_title": "The pope ends an emotional Argentina visit with a plea for unity and reconciliation",
+        "article_url": "https://www.nydailynews.com/2026/11/11/pope-argentina-visit/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-11T16:50:23.808727+00:00"
+      }
+    },
+    {
+      "headline": "Accused killer of Elise Bainbridge Hill, Central Park artist, found",
+      "bullets": [
+        "The murder case against a man accused of brutally beating to death beloved Central Park artist Elise Bainbridge Hill was delayed Tuesday after he was found unfit to stand trial.",
+        "Jonathan Robles was set to be arraigned on felony murder charges in Manhattan Supreme Court, but the proceeding was adjourned after a recent psychiatric evaluation determined he lacked the mental capacity to participate in his defense."
+      ],
+      "summary": "Accused killer of Elise Bainbridge Hill, Central Park artist, found",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Accused killer of Elise Bainbridge Hill, Central Park artist, found unfit for trial",
+        "article_url": "https://www.nydailynews.com/2026/11/10/accused-killer-elise-bainbridge-hill-central-park-artist-found-unfit-trial/",
+        "published_at": "2026-11-10T22:04:39+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-11T16:50:27.259531+00:00",
+      "verification": {
+        "article_title": "Accused killer of Elise Bainbridge Hill, Central Park artist, found unfit for trial",
+        "article_url": "https://www.nydailynews.com/2026/11/10/accused-killer-elise-bainbridge-hill-central-park-artist-found-unfit-trial/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-11T16:50:24.053559+00:00"
+      }
+    },
+    {
+      "headline": "WWII\u2019s forgotten Band of Sisters",
+      "bullets": [
+        "On Veterans Day we observe the sacrifices and heroism of Americans who fought to keep the world safe for democracy.",
+        "Recently a remarkable and crucial story has come to light about a group of women who helped rescue thousands of men in the Pacific during World War II and whose actions should also be heralded on this day of remembrance."
+      ],
+      "summary": "WWII\u2019s forgotten Band of Sisters",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "WWII\u2019s forgotten Band of Sisters",
+        "article_url": "https://www.nydailynews.com/2026/11/11/wwiis-forgotten-band-of-sisters/",
+        "published_at": "2026-11-11"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-11T16:50:27.398852+00:00",
+      "verification": {
+        "article_title": "WWII\u2019s forgotten Band of Sisters",
+        "article_url": "https://www.nydailynews.com/2026/11/11/wwiis-forgotten-band-of-sisters/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-11T16:50:24.230817+00:00"
+      }
+    },
+    {
+      "headline": "Driver arrested on suspicion of DUI after 3 killed in",
+      "bullets": [
+        "LOS ANGELES - A suspected DUI driver was arrested after speeding onto a crowded sidewalk outside the North Hollywood Metro station on Tuesday evening, crashing into sidewalk food stands and pedestrians.",
+        "The collision killed three women and left two others hospitalized."
+      ],
+      "summary": "Driver arrested on suspicion of DUI after 3 killed in",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Driver arrested on suspicion of DUI after 3 killed in North Hollywood crash",
+        "article_url": "https://www.fox5ny.com/news/3-dead-after-car-crashes-pedestrians-north-hollywood",
+        "published_at": "2026-11-10"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-11T16:50:27.535440+00:00",
+      "verification": {
+        "article_title": "Driver arrested on suspicion of DUI after 3 killed in North Hollywood crash",
+        "article_url": "https://www.fox5ny.com/news/3-dead-after-car-crashes-pedestrians-north-hollywood",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-11T16:50:24.425020+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: Major Art Discovery: Alice Neel Portrait Leads Alderfer",
+      "bullets": [
+        "New York City, NY|Featured Event Major Art Discovery: Alice Neel Portrait Leads Alderfer Auction\u2019s Fine Art Auction Alderfer Auction of Hatfield, PA, is honored to unveil an art discovery as the centerpiece of our upcoming December 10 Fine Art Auction: an unpublished, original oil portrait by one of the iconic American painters of the twentieth century, Alice Neel (1900\u20131984).",
+        "A Masterpiece Revealed: Dr."
+      ],
+      "summary": "Local Event: Major Art Discovery: Alice Neel Portrait Leads Alderfer",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Major Art Discovery: Alice Neel Portrait Leads Alderfer Auction\u2019s Fine Art Auction",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261210/6d1110df-aa68-4622-8662-20d396d3e0f9/major-art-discovery-alice-neel-portrait-leads-alderfer-auction-s-fine-art-auction",
+        "published_at": "2026-12-10T15:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-11T16:50:27.677855+00:00",
+      "verification": {
+        "article_title": "Local Event: Major Art Discovery: Alice Neel Portrait Leads Alderfer Auction\u2019s Fine Art Auction",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261210/6d1110df-aa68-4622-8662-20d396d3e0f9/major-art-discovery-alice-neel-portrait-leads-alderfer-auction-s-fine-art-auction",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-11T16:50:24.560863+00:00"
+      }
+    },
+    {
+      "headline": "Do spotted lanternflies die in the winter? Why invasive species",
+      "bullets": [
+        "PHILADELPHIA - As winter cold sets in across the Mid-Atlantic and Northeast, many residents hope the first hard freeze will do what swatters, sticky traps and stomping boots could not: wipe out invasive pests like spotted lanternflies.",
+        "However, scientists warn that sub-freezing temperatures will not solve the problem."
+      ],
+      "summary": "Do spotted lanternflies die in the winter? Why invasive species",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Do spotted lanternflies die in the winter? Why invasive species keep coming back",
+        "article_url": "https://www.fox5ny.com/news/why-freezing-winter-weather-wont-kill-spotted-lanternflies-other-invasive-species",
+        "published_at": "2026-11-11"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-11T16:50:27.835556+00:00",
+      "verification": {
+        "article_title": "Do spotted lanternflies die in the winter? Why invasive species keep coming back",
+        "article_url": "https://www.fox5ny.com/news/why-freezing-winter-weather-wont-kill-spotted-lanternflies-other-invasive-species",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-11T16:50:24.731710+00:00"
+      }
+    },
+    {
+      "headline": "AccuWeather: Pleasant for the Veterans Day Parade, and tracking a",
+      "bullets": [
+        "AccuWeather forecast for NYC, New York, New Jersey and Connecticut NEW YORK (WABC) -- After a stretch of pleasant weather across the Tri-State area, the forecast remains favorable through Veterans Day before a storm system brings a dramatic change later this week.",
+        "Wednesday will be the pick of the week, featuring sunshine mixed with some high clouds and temperatures climbing into the lower 60s."
+      ],
+      "summary": "AccuWeather: Pleasant for the Veterans Day Parade, and tracking a",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "AccuWeather: Pleasant for the Veterans Day Parade, and tracking a storm",
+        "article_url": "https://abc7ny.com/nyc-weather-forecast-7-day-temperatures/27410/",
+        "published_at": "2020-02-12"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-11T16:50:28.027460+00:00",
+      "verification": {
+        "article_title": "AccuWeather: Pleasant for the Veterans Day Parade, and tracking a storm",
+        "article_url": "https://abc7ny.com/nyc-weather-forecast-7-day-temperatures/27410/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-11T16:50:24.933014+00:00"
+      }
+    },
+    {
+      "headline": "'Dancing with the Stars' recap: 'Grammy Night' ends with surprising",
+      "bullets": [
+        "ABC'] fingerprint: \"3a6f00bedae58a66\" --- LOS ANGELES -- Seven remaining couples battled it out in the ballroom during \"Grammy Night\" on \"Dancing with the Stars.\" Each pair performed routines inspired by iconic Grammy-nominated and Grammy-winning artists, songs and unforgettable moments in music history.",
+        "In addition to dancing individual routines, couples faced off in a head-to-head \"dance off,\" performing in the same style at the same time."
+      ],
+      "summary": "'Dancing with the Stars' recap: 'Grammy Night' ends with surprising",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "'Dancing with the Stars' recap: 'Grammy Night' ends with surprising elimination",
+        "article_url": "https://abc7ny.com/post/dancing-stars-recap-grammy-night-ends-surprising-elimination/20032010/",
+        "published_at": "2026-11-11"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-11T16:50:28.169939+00:00",
+      "verification": {
+        "article_title": "'Dancing with the Stars' recap: 'Grammy Night' ends with surprising elimination",
+        "article_url": "https://abc7ny.com/post/dancing-stars-recap-grammy-night-ends-surprising-elimination/20032010/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-11T16:50:25.129033+00:00"
+      }
+    },
+    {
+      "headline": "Jersey City mayor names new public safety director, police chief",
+      "bullets": [
+        "Jersey City is getting new public safety brass next year, with a pair of new leaders that Mayor James Solomon said will continue the progress police have made over the past year.",
+        "Jocelyn Roldan will become the city\u2019s acting public safety director in January, while Travis Ragland will take over as police chief in February."
+      ],
+      "summary": "Jersey City mayor names new public safety director, police chief",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Jersey City mayor names new public safety director, police chief",
+        "article_url": "https://gothamist.com/news/jersey-city-mayor-names-new-public-safety-director-police-chief",
+        "published_at": "2026-11-10T21:36:33+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-11T16:50:28.301029+00:00",
+      "verification": {
+        "article_title": "Jersey City mayor names new public safety director, police chief",
+        "article_url": "https://gothamist.com/news/jersey-city-mayor-names-new-public-safety-director-police-chief",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-11T16:50:25.322657+00:00"
+      }
+    }
+  ]
+}
