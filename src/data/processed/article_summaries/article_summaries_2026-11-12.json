@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-11-12T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-11-12.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Readers sound off on a midterms mirage, delivery jobs and",
+      "bullets": [
+        "Consider it another swing of the pendulum Malverne, L.I.: To the Voicers who seem to be gloating as though this midterm was some sort of \u201chuuge\u201d victory for them, let me offer a little perspective.",
+        "Historically, the president\u2019s party almost always loses seats in midterm elections."
+      ],
+      "summary": "Readers sound off on a midterms mirage, delivery jobs and",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on a midterms mirage, delivery jobs and Israeli settlements",
+        "article_url": "https://www.nydailynews.com/2026/11/12/readers-sound-off-on-a-midterms-mirage-delivery-jobs-and-israeli-settlements/",
+        "published_at": "2026-11-12"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-12T17:18:30.116403+00:00",
+      "verification": {
+        "article_title": "Readers sound off on a midterms mirage, delivery jobs and Israeli settlements",
+        "article_url": "https://www.nydailynews.com/2026/11/12/readers-sound-off-on-a-midterms-mirage-delivery-jobs-and-israeli-settlements/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-12T17:18:28.791986+00:00"
+      }
+    },
+    {
+      "headline": "S.E. Cupp: Voters said \u2018enough,\u2019 & MAGA didn\u2019t hear",
+      "bullets": [
+        "After suffering an absolute drubbing in last week\u2019s midterm elections, Republicans seem to have learned few lessons.",
+        "America was not subtle or ambiguous in its rebuke of President Trump, MAGA, and Republicans \u2014 no fewer than 30 incumbent House Republicans lost their seats, Senate Republicans lost eight seats, and five states changed party control at the gubernatorial level, all to Dems."
+      ],
+      "summary": "S.E. Cupp: Voters said \u2018enough,\u2019 & MAGA didn\u2019t hear",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "S.E. Cupp: Voters said \u2018enough,\u2019 & MAGA didn\u2019t hear",
+        "article_url": "https://www.nydailynews.com/2026/11/12/s-e-cupp-voters-said-enough-maga-didnt-hear/",
+        "published_at": "2026-11-12T17:00:28+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-12T17:18:30.157829+00:00",
+      "verification": {
+        "article_title": "S.E. Cupp: Voters said \u2018enough,\u2019 & MAGA didn\u2019t hear",
+        "article_url": "https://www.nydailynews.com/2026/11/12/s-e-cupp-voters-said-enough-maga-didnt-hear/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-12T17:18:28.885349+00:00"
+      }
+    },
+    {
+      "headline": "Any impeachment of Pete Hegseth can\u2019t be a rush job",
+      "bullets": [
+        "Pete Hegseth is a terrible defense secretary and he should never have been appointed or confirmed and his conduct has been awful and he should be ousted.",
+        "But any impeachment by the House of Representatives still needs to go through regular order, meaning a committee hearing, a debate, a report, a vote."
+      ],
+      "summary": "Any impeachment of Pete Hegseth can\u2019t be a rush job",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Any impeachment of Pete Hegseth can\u2019t be a rush job",
+        "article_url": "https://www.nydailynews.com/2026/11/12/any-impeachment-of-pete-hegseth-cant-be-a-rush-job/",
+        "published_at": "2026-11-12"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-12T17:18:30.212382+00:00",
+      "verification": {
+        "article_title": "Any impeachment of Pete Hegseth can\u2019t be a rush job",
+        "article_url": "https://www.nydailynews.com/2026/11/12/any-impeachment-of-pete-hegseth-cant-be-a-rush-job/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-12T17:18:29.055503+00:00"
+      }
+    },
+    {
+      "headline": "Brooklyn building collapse leaves 8 dead, toddler among those recovered",
+      "bullets": [
+        "BROOKLYN - Eight people have died, and several people were injured, in a Brooklyn building collapse on Wednesday afternoon, according to the mayor and the NYPD.",
+        "For the most up-to-date information as of Thursday, follow along with our live blog."
+      ],
+      "summary": "Brooklyn building collapse leaves 8 dead, toddler among those recovered",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Brooklyn building collapse leaves 8 dead, toddler among those recovered",
+        "article_url": "https://www.fox5ny.com/news/fdny-flatbush-brooklyn-building-collapse-people-trapped",
+        "published_at": "2026-11-11"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-12T17:18:30.325249+00:00",
+      "verification": {
+        "article_title": "Brooklyn building collapse leaves 8 dead, toddler among those recovered",
+        "article_url": "https://www.fox5ny.com/news/fdny-flatbush-brooklyn-building-collapse-people-trapped",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-12T17:18:29.166270+00:00"
+      }
+    },
+    {
+      "headline": "Ireland faces pressure to stop sending Russia an ingredient vital",
+      "bullets": [
+        "By SAM McNEIL and JILL LAWLESS AUGHINISH, Ireland (AP) \u2014 The Karin, a 400-foot-long (120-meter-long) cargo ship, sat moored this week on Ireland\u2019s boggy River Shannon estuary.",
+        "Soon it set sail for Russia laden with a white powder that can be forged into weapons vital to Moscow\u2019s war on Ukraine."
+      ],
+      "summary": "Ireland faces pressure to stop sending Russia an ingredient vital",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine",
+        "article_url": "https://www.nydailynews.com/2026/11/12/ireland-russia-alumina/",
+        "published_at": "2026-11-12"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-12T17:18:30.440434+00:00",
+      "verification": {
+        "article_title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine",
+        "article_url": "https://www.nydailynews.com/2026/11/12/ireland-russia-alumina/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-12T17:18:29.220841+00:00"
+      }
+    },
+    {
+      "headline": "Kenny Atkinson won\u2019t panic over James Harden\u2019s slow start: \u2018Not",
+      "bullets": [
+        "Cleveland Cavaliers star James Harden is off to a rough start to the 2026-27 NBA season.",
+        "Head coach Kenny Atkinson said he isn\u2019t panicking."
+      ],
+      "summary": "Kenny Atkinson won\u2019t panic over James Harden\u2019s slow start: \u2018Not",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Kenny Atkinson won\u2019t panic over James Harden\u2019s slow start: \u2018Not 4 or 5 games\u2019",
+        "article_url": "https://www.nydailynews.com/2026/11/11/kenny-atkinson-wont-panic-over-james-hardens-slow-start-not-4-or-5-games/",
+        "published_at": "2026-11-11"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-12T17:18:30.531626+00:00",
+      "verification": {
+        "article_title": "Kenny Atkinson won\u2019t panic over James Harden\u2019s slow start: \u2018Not 4 or 5 games\u2019",
+        "article_url": "https://www.nydailynews.com/2026/11/11/kenny-atkinson-wont-panic-over-james-hardens-slow-start-not-4-or-5-games/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-12T17:18:29.290515+00:00"
+      }
+    },
+    {
+      "headline": "A good bet: New Yorkers are lining up to become",
+      "bullets": [
+        "The odds seem to be in their favor.",
+        "On the sixth floor of a NoMad office building, an hour\u2019s drive from New York City\u2019s first full-scale casino in Jamaica, the Big Deal Casino Academy has been scaling up to keep pace with demand."
+      ],
+      "summary": "A good bet: New Yorkers are lining up to become",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "A good bet: New Yorkers are lining up to become casino dealers",
+        "article_url": "https://gothamist.com/arts-entertainment/a-good-bet-new-yorkers-are-lining-up-to-become-casino-dealers",
+        "published_at": "2026-11-12T11:30:57+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-12T17:18:30.576708+00:00",
+      "verification": {
+        "article_title": "A good bet: New Yorkers are lining up to become casino dealers",
+        "article_url": "https://gothamist.com/arts-entertainment/a-good-bet-new-yorkers-are-lining-up-to-become-casino-dealers",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-12T17:18:29.342447+00:00"
+      }
+    },
+    {
+      "headline": "Nvidia CEO Jensen Huang resigns after his affair raises national",
+      "bullets": [
+        "By KELVIN CHAN, AP Technology Writer Nvidia CEO Jensen Huang resigned Thursday after his extramarital affair raised national security concerns, in a spectacular downfall for the longtime head of the chipmaker, a vital player in the artificial intelligence boom.",
+        "Huang faced growing calls to resign after his affair with a Chinese businesswoman who reportedly was also acting as a spy for Beijing."
+      ],
+      "summary": "Nvidia CEO Jensen Huang resigns after his affair raises national",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Nvidia CEO Jensen Huang resigns after his affair raises national security concerns",
+        "article_url": "https://www.nydailynews.com/2026/11/12/nvidia-jensen-huang-megaspeed-us-investigation/",
+        "published_at": "2026-11-12T16:16:41+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-12T17:18:30.618557+00:00",
+      "verification": {
+        "article_title": "Nvidia CEO Jensen Huang resigns after his affair raises national security concerns",
+        "article_url": "https://www.nydailynews.com/2026/11/12/nvidia-jensen-huang-megaspeed-us-investigation/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-12T17:18:29.416048+00:00"
+      }
+    },
+    {
+      "headline": "Woman arrested for caught-on-video attack on Central Park horse carriage",
+      "bullets": [
+        "A woman was arrested for assaulting two horse carriage drivers in Manhattan\u2019s Central Park, smashing one over the head with a skateboard and punching another in the face while calling them animal abusers in a caught-on-video attack Abigail Holbrook, 27, is charged with two counts of assault for the Tuesday attack on West Drive near W.",
+        "59th St., police said."
+      ],
+      "summary": "Woman arrested for caught-on-video attack on Central Park horse carriage",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Woman arrested for caught-on-video attack on Central Park horse carriage drivers",
+        "article_url": "https://www.nydailynews.com/2026/11/11/woman-arrested-for-caught-on-video-attack-on-central-park-horse-carriage-drivers/",
+        "published_at": "2026-11-11"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-12T17:18:30.657852+00:00",
+      "verification": {
+        "article_title": "Woman arrested for caught-on-video attack on Central Park horse carriage drivers",
+        "article_url": "https://www.nydailynews.com/2026/11/11/woman-arrested-for-caught-on-video-attack-on-central-park-horse-carriage-drivers/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-12T17:18:29.467630+00:00"
+      }
+    },
+    {
+      "headline": "Pregnant woman rescued from Brooklyn collapse rubble, husband says",
+      "bullets": [
+        "FLATBUSH, Brooklyn (WABC) -- A 6-month-pregnant woman was pulled alive from the rubble of a collapsed building, prompting an emotional reaction from her husband as first responders continued rescue efforts Wednesday night.",
+        "A man was seen embracing another person, and crying after learning that his wife had survived the collapse and been removed from the debris."
+      ],
+      "summary": "Pregnant woman rescued from Brooklyn collapse rubble, husband says",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Pregnant woman rescued from Brooklyn collapse rubble, husband says",
+        "article_url": "https://abc7ny.com/post/pregnant-woman-may-have-been-rescued-brooklyn-collapse-rubble/20034243/",
+        "published_at": "2026-11-11"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-12T17:18:30.701494+00:00",
+      "verification": {
+        "article_title": "Pregnant woman rescued from Brooklyn collapse rubble, husband says",
+        "article_url": "https://abc7ny.com/post/pregnant-woman-may-have-been-rescued-brooklyn-collapse-rubble/20034243/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-12T17:18:29.546675+00:00"
+      }
+    },
+    {
+      "headline": "Live updates on Brooklyn building collapse that killed 8 as",
+      "bullets": [
+        "The search for survivors continues at the site of Wednesday's devastating building collapse in Brooklyn, New York, where the death toll climbed Thursday morning.",
+        "Key details on Brooklyn building collapse at 1321 Flatbush Ave."
+      ],
+      "summary": "Live updates on Brooklyn building collapse that killed 8 as",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Live updates on Brooklyn building collapse that killed 8 as search for survivors continues",
+        "article_url": "https://www.cbsnews.com/newyork/live-updates/brooklyn-building-collapse-search-survivors/",
+        "published_at": "2026-11-12"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-12T17:18:30.742082+00:00",
+      "verification": {
+        "article_title": "Live updates on Brooklyn building collapse that killed 8 as search for survivors continues",
+        "article_url": "https://www.cbsnews.com/newyork/live-updates/brooklyn-building-collapse-search-survivors/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-12T17:18:29.601230+00:00"
+      }
+    },
+    {
+      "headline": "Flatbush YMCA opens doors to families displaced in Brooklyn building",
+      "bullets": [
+        "FLATBUSH, Brooklyn (WABC) -- At least eight households have been displaced following the deadly building collapse in Flatbush, as families struggle with the emotional toll of losing their homes and uncertainty about what comes next.",
+        "Firefighters remained on scene Thursday morning, continuing search, rescue and recovery operations as crews worked through debris left behind by the collapse."
+      ],
+      "summary": "Flatbush YMCA opens doors to families displaced in Brooklyn building",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Flatbush YMCA opens doors to families displaced in Brooklyn building collapse",
+        "article_url": "https://abc7ny.com/post/brooklyn-building-collapse-ymca-opens-center-displaced-families/20035683/",
+        "published_at": "2026-11-12"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-12T17:18:30.798487+00:00",
+      "verification": {
+        "article_title": "Flatbush YMCA opens doors to families displaced in Brooklyn building collapse",
+        "article_url": "https://abc7ny.com/post/brooklyn-building-collapse-ymca-opens-center-displaced-families/20035683/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-12T17:18:29.720296+00:00"
+      }
+    },
+    {
+      "headline": "17-year-old boy arrested for murder of Bronx immigrant high school",
+      "bullets": [
+        "A 17-year-old boy was arrested Wednesday for the murder of Javits Frimpong, the 15-year-old Bronx boy shot walking to school two weeks ago in a case that shocked the city, police said The teen suspect is charged with murder, manslaughter and weapon possession.",
+        "His name was not released because he is underage."
+      ],
+      "summary": "17-year-old boy arrested for murder of Bronx immigrant high school",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "17-year-old boy arrested for murder of Bronx immigrant high school student Javits Frimpong",
+        "article_url": "https://www.nydailynews.com/2026/11/11/bronx-teen-javits-frimpong-murder-arrest-walking-to-school-ghana-immigrant/",
+        "published_at": "2026-11-12T02:41:22+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-12T17:18:30.846617+00:00",
+      "verification": {
+        "article_title": "17-year-old boy arrested for murder of Bronx immigrant high school student Javits Frimpong",
+        "article_url": "https://www.nydailynews.com/2026/11/11/bronx-teen-javits-frimpong-murder-arrest-walking-to-school-ghana-immigrant/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-12T17:18:29.760519+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: Major Art Discovery: Alice Neel Portrait Leads Alderfer",
+      "bullets": [
+        "New York City, NY|Featured Event Major Art Discovery: Alice Neel Portrait Leads Alderfer Auction\u2019s Fine Art Auction Alderfer Auction of Hatfield, PA, is honored to unveil an art discovery as the centerpiece of our upcoming December 10 Fine Art Auction: an unpublished, original oil portrait by one of the iconic American painters of the twentieth century, Alice Neel (1900\u20131984).",
+        "A Masterpiece Revealed: Dr."
+      ],
+      "summary": "Local Event: Major Art Discovery: Alice Neel Portrait Leads Alderfer",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Major Art Discovery: Alice Neel Portrait Leads Alderfer Auction\u2019s Fine Art Auction",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261210/6d1110df-aa68-4622-8662-20d396d3e0f9/major-art-discovery-alice-neel-portrait-leads-alderfer-auction-s-fine-art-auction",
+        "published_at": "2026-12-10T15:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-12T17:18:30.899350+00:00",
+      "verification": {
+        "article_title": "Local Event: Major Art Discovery: Alice Neel Portrait Leads Alderfer Auction\u2019s Fine Art Auction",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261210/6d1110df-aa68-4622-8662-20d396d3e0f9/major-art-discovery-alice-neel-portrait-leads-alderfer-auction-s-fine-art-auction",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-12T17:18:29.835007+00:00"
+      }
+    },
+    {
+      "headline": "Do spotted lanternflies die in the winter? Why invasive species",
+      "bullets": [
+        "PHILADELPHIA - As winter cold sets in across the Mid-Atlantic and Northeast, many residents hope the first hard freeze will do what swatters, sticky traps and stomping boots could not: wipe out invasive pests like spotted lanternflies.",
+        "However, scientists warn that sub-freezing temperatures will not solve the problem."
+      ],
+      "summary": "Do spotted lanternflies die in the winter? Why invasive species",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Do spotted lanternflies die in the winter? Why invasive species keep coming back",
+        "article_url": "https://www.fox5ny.com/news/why-freezing-winter-weather-wont-kill-spotted-lanternflies-other-invasive-species",
+        "published_at": "2026-11-11"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-12T17:18:30.952241+00:00",
+      "verification": {
+        "article_title": "Do spotted lanternflies die in the winter? Why invasive species keep coming back",
+        "article_url": "https://www.fox5ny.com/news/why-freezing-winter-weather-wont-kill-spotted-lanternflies-other-invasive-species",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-12T17:18:29.873409+00:00"
+      }
+    },
+    {
+      "headline": "AccuWeather Alert for heavy rain Thursday",
+      "bullets": [
+        "AccuWeather forecast for NYC, New York, New Jersey and Connecticut NEW YORK (WABC) -- A storm system approaching the Tri-State area will bring soaking rain, possible thunderstorms and even some snow in higher elevations before conditions improve for the weekend.",
+        "After a mostly quiet start to the day in New York City, widespread rain is expected to develop during the afternoon as an area of low pressure and an approaching cold front move closer to the region."
+      ],
+      "summary": "AccuWeather Alert for heavy rain Thursday",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "AccuWeather Alert for heavy rain Thursday",
+        "article_url": "https://abc7ny.com/nyc-weather-forecast-7-day-temperatures/27410/",
+        "published_at": "2020-02-12"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-12T17:18:30.995793+00:00",
+      "verification": {
+        "article_title": "AccuWeather Alert for heavy rain Thursday",
+        "article_url": "https://abc7ny.com/nyc-weather-forecast-7-day-temperatures/27410/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-12T17:18:29.924650+00:00"
+      }
+    },
+    {
+      "headline": "Stay or leave? Ukrainians face a hard choice ahead of",
+      "bullets": [
+        "By HANNA ARHIROVA and VASILISA STEPANENKO KYIV, Ukraine (AP) \u2014 Matvii Yermolenko is 2, but he already knows the words for siren and air defense.",
+        "This winter, his mother decided to take him out of Kyiv."
+      ],
+      "summary": "Stay or leave? Ukrainians face a hard choice ahead of",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Stay or leave? Ukrainians face a hard choice ahead of what could be the war\u2019s toughest winter",
+        "article_url": "https://www.nydailynews.com/2026/11/12/russia-ukraine-war-winter-coming/",
+        "published_at": "2026-11-12"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-12T17:18:31.040812+00:00",
+      "verification": {
+        "article_title": "Stay or leave? Ukrainians face a hard choice ahead of what could be the war\u2019s toughest winter",
+        "article_url": "https://www.nydailynews.com/2026/11/12/russia-ukraine-war-winter-coming/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-12T17:18:29.966100+00:00"
+      }
+    },
+    {
+      "headline": "An expert guide to navigating the Fulton Center subway frankenstation",
+      "bullets": [
+        "This column originally appeared in the Looped In NYC newsletter.",
+        "Sign up here."
+      ],
+      "summary": "An expert guide to navigating the Fulton Center subway frankenstation",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "An expert guide to navigating the Fulton Center subway frankenstation",
+        "article_url": "https://gothamist.com/arts-entertainment/an-expert-guide-to-navigating-the-fulton-center-subway-frankenstation",
+        "published_at": "2026-11-12T15:52:16+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-12T17:18:31.082470+00:00",
+      "verification": {
+        "article_title": "An expert guide to navigating the Fulton Center subway frankenstation",
+        "article_url": "https://gothamist.com/arts-entertainment/an-expert-guide-to-navigating-the-fulton-center-subway-frankenstation",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-12T17:18:30.030851+00:00"
+      }
+    }
+  ]
+}
