@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-11-13T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-11-13.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Readers sound off on Rockefeller Center trees, Stephen Miller and",
+      "bullets": [
+        "Felling history for fleeting festivities Smithtown, L.I.: Every November, the arrival of the Rockefeller Center Christmas Tree is met with standard marketing metrics.",
+        "For the 2026 tree, officials bragged that the Norway spruce stands 76 feet tall and spans \u201c50 feet in diameter.\u201d They then neatly attached a public relations narrative claiming the tree is \u201capproximately 75 years old.\u201d But anyone who understands basic botany knows the math doesn\u2019t add up, and this has become a deceptive annual pattern."
+      ],
+      "summary": "Readers sound off on Rockefeller Center trees, Stephen Miller and",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on Rockefeller Center trees, Stephen Miller and Hegseth reprimanded",
+        "article_url": "https://www.nydailynews.com/2026/11/13/readers-sound-off-on-rockefeller-center-trees-stephen-miller-and-hegseth-reprimanded/",
+        "published_at": "2026-11-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-13T16:54:32.769061+00:00",
+      "verification": {
+        "article_title": "Readers sound off on Rockefeller Center trees, Stephen Miller and Hegseth reprimanded",
+        "article_url": "https://www.nydailynews.com/2026/11/13/readers-sound-off-on-rockefeller-center-trees-stephen-miller-and-hegseth-reprimanded/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-13T16:54:30.677953+00:00"
+      }
+    },
+    {
+      "headline": "Watch Live: Families who lived in collapsed Brooklyn building, local",
+      "bullets": [
+        "Families that lived in the held an emotional news conference Friday to recount their experiences and demand accountability.",
+        "They were joined by New York City officials, N.Y."
+      ],
+      "summary": "Watch Live: Families who lived in collapsed Brooklyn building, local",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Watch Live: Families who lived in collapsed Brooklyn building, local officials demand accountability",
+        "article_url": "https://www.cbsnews.com/newyork/news/flatbush-brooklyn-building-collapse-families-demand-accountability/",
+        "published_at": "2026-11-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-13T16:54:32.885467+00:00",
+      "verification": {
+        "article_title": "Watch Live: Families who lived in collapsed Brooklyn building, local officials demand accountability",
+        "article_url": "https://www.cbsnews.com/newyork/news/flatbush-brooklyn-building-collapse-families-demand-accountability/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-13T16:54:30.834182+00:00"
+      }
+    },
+    {
+      "headline": "Peru\u2019s Chiclayo welcomes its former shepherd home, and revels in",
+      "bullets": [
+        "By LUIS ANDRES HENAO and NICOLE WINFIELD CHICLAYO, Peru (AP) \u2014 Pope Leo XIV returned Friday to his beloved former diocese of Chiclayo in an emotional homecoming that underscored his love for his Peruvian flock and their pride that their shepherd now runs the Catholic Church.",
+        "The pope touched down at Chiclayo\u2019s airport on the Pacific coast in a Latam charter plane emblazoned on the side with a message in Spanish that has followed Leo wherever he has gone in Peru: \u201cLeo XIV flies home.\u201d The pontiff once known in the region as \u201cPadre Roberto\u201d affectionately greeted members of Chiclayo\u2019s clergy and Peru\u2019s air force at the airport, and walked alongside the current bishop of Chiclayo, Edinson Farf\u00e1n, in the sweltering heat."
+      ],
+      "summary": "Peru\u2019s Chiclayo welcomes its former shepherd home, and revels in",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Peru\u2019s Chiclayo welcomes its former shepherd home, and revels in Pope Leo\u2019s love",
+        "article_url": "https://www.nydailynews.com/2026/11/13/pope-leo-peru-visit/",
+        "published_at": "2026-11-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-13T16:54:32.975430+00:00",
+      "verification": {
+        "article_title": "Peru\u2019s Chiclayo welcomes its former shepherd home, and revels in Pope Leo\u2019s love",
+        "article_url": "https://www.nydailynews.com/2026/11/13/pope-leo-peru-visit/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-13T16:54:30.909226+00:00"
+      }
+    },
+    {
+      "headline": "Chris Van Hollen announces he will challenge Chuck Schumer for",
+      "bullets": [
+        "Washington \u2014 Democratic Sen.",
+        "Chris Van Hollen of Maryland announced Thursday that he will challenge Sen."
+      ],
+      "summary": "Chris Van Hollen announces he will challenge Chuck Schumer for",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "CBS New York",
+        "source_level": "local",
+        "article_title": "Chris Van Hollen announces he will challenge Chuck Schumer for Senate majority leader",
+        "article_url": "https://www.cbsnews.com/newyork/news/chris-van-hollen-challenge-chuck-schumer-senate-majority-leader-democrat/",
+        "published_at": "2026-11-12"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-13T16:54:33.063731+00:00",
+      "verification": {
+        "article_title": "Chris Van Hollen announces he will challenge Chuck Schumer for Senate majority leader",
+        "article_url": "https://www.cbsnews.com/newyork/news/chris-van-hollen-challenge-chuck-schumer-senate-majority-leader-democrat/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-13T16:54:31.036682+00:00"
+      }
+    },
+    {
+      "headline": "US military downs 2 Iranian attack drones as Iran claims",
+      "bullets": [
+        "By The Associated Press The U.S.",
+        "military said it intercepted two Iranian attack drones headed toward Bahrain, as the Revolutionary Guard claimed it struck a U.S."
+      ],
+      "summary": "US military downs 2 Iranian attack drones as Iran claims",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "US military downs 2 Iranian attack drones as Iran claims a strike on a US radar in Bahrain",
+        "article_url": "https://www.nydailynews.com/2026/11/13/us-iran-war-attack-drones-us-radar-strike/",
+        "published_at": "2026-11-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-13T16:54:33.151641+00:00",
+      "verification": {
+        "article_title": "US military downs 2 Iranian attack drones as Iran claims a strike on a US radar in Bahrain",
+        "article_url": "https://www.nydailynews.com/2026/11/13/us-iran-war-attack-drones-us-radar-strike/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-13T16:54:31.114749+00:00"
+      }
+    },
+    {
+      "headline": "Kenny Atkinson won\u2019t panic over James Harden\u2019s slow start: \u2018Not",
+      "bullets": [
+        "Cleveland Cavaliers star James Harden is off to a rough start to the 2026-27 NBA season.",
+        "Head coach Kenny Atkinson said he isn\u2019t panicking."
+      ],
+      "summary": "Kenny Atkinson won\u2019t panic over James Harden\u2019s slow start: \u2018Not",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Kenny Atkinson won\u2019t panic over James Harden\u2019s slow start: \u2018Not 4 or 5 games\u2019",
+        "article_url": "https://www.nydailynews.com/2026/11/11/kenny-atkinson-wont-panic-over-james-hardens-slow-start-not-4-or-5-games/",
+        "published_at": "2026-11-11"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-13T16:54:33.267379+00:00",
+      "verification": {
+        "article_title": "Kenny Atkinson won\u2019t panic over James Harden\u2019s slow start: \u2018Not 4 or 5 games\u2019",
+        "article_url": "https://www.nydailynews.com/2026/11/11/kenny-atkinson-wont-panic-over-james-hardens-slow-start-not-4-or-5-games/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-13T16:54:31.253319+00:00"
+      }
+    },
+    {
+      "headline": "Across America Patch - Breaking News, Local News, Schools, Weather,",
+      "bullets": [
+        "Across America|News| Recalls address salmonella outbreak, possible listeria contamination and a Thanksgiving staple that may taste like soap (it\u2019s not cilantro).",
+        "Kids have opinions about their hair long before they\u2019re grown."
+      ],
+      "summary": "Across America Patch - Breaking News, Local News, Schools, Weather,",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Across America Patch - Breaking News, Local News, Schools, Weather, Sports and Shopping",
+        "article_url": "https://patch.com/us/across-america",
+        "published_at": "2026-11-12T17:10:40+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-13T16:54:33.364082+00:00",
+      "verification": {
+        "article_title": "Across America Patch - Breaking News, Local News, Schools, Weather, Sports and Shopping",
+        "article_url": "https://patch.com/us/across-america",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-13T16:54:31.360053+00:00"
+      }
+    },
+    {
+      "headline": "With search for victims over, NYC officials look to what",
+      "bullets": [
+        "It was a mild Veterans Day afternoon, and Katie Stevens, a teacher, had the day off.",
+        "She\u2019d left her windows open to let the cool fall air into her Flatbush apartment as she did her laundry."
+      ],
+      "summary": "With search for victims over, NYC officials look to what",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "With search for victims over, NYC officials look to what caused fatal building collapse",
+        "article_url": "https://gothamist.com/news/with-search-for-victims-over-nyc-officials-look-to-what-caused-fatal-building-collapse",
+        "published_at": "2026-11-13T11:30:57+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-13T16:54:33.489041+00:00",
+      "verification": {
+        "article_title": "With search for victims over, NYC officials look to what caused fatal building collapse",
+        "article_url": "https://gothamist.com/news/with-search-for-victims-over-nyc-officials-look-to-what-caused-fatal-building-collapse",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-13T16:54:31.445925+00:00"
+      }
+    },
+    {
+      "headline": "An Israeli strike on a hospital highlights the devastation to",
+      "bullets": [
+        "By KAREEM CHEHAYEB BEIRUT (AP) \u2014 A deadly airstrike on the biggest hospital in the southern Gaza Strip highlighted the devastation that Israel\u2019s campaign has wreaked on the Palestinian territory\u2019s healthcare system over the past three years.",
+        "The strike that hit Nasser Hospital\u2019s surgical wing killed six people, including a surgeon and a 13-year-old boy, and heavily damaged operating rooms and patient wards."
+      ],
+      "summary": "An Israeli strike on a hospital highlights the devastation to",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "An Israeli strike on a hospital highlights the devastation to Gaza\u2019s healthcare system",
+        "article_url": "https://www.nydailynews.com/2026/11/12/israel-hamas-war-hospital-strike-explained/",
+        "published_at": "2026-11-12"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-13T16:54:33.570070+00:00",
+      "verification": {
+        "article_title": "An Israeli strike on a hospital highlights the devastation to Gaza\u2019s healthcare system",
+        "article_url": "https://www.nydailynews.com/2026/11/12/israel-hamas-war-hospital-strike-explained/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-13T16:54:31.563357+00:00"
+      }
+    },
+    {
+      "headline": "NYPD Sgt. killed in fiery crash on the Long Island",
+      "bullets": [
+        "An NYPD Sgt.",
+        "was killed in a fiery crash on the Long Island Expressway early Wednesday, Suffolk police and union members said."
+      ],
+      "summary": "NYPD Sgt. killed in fiery crash on the Long Island",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "NYPD Sgt. killed in fiery crash on the Long Island Expressway",
+        "article_url": "https://www.nydailynews.com/2026/11/12/nypd-sergeant-killed-fiery-crash-long-island-expressway/",
+        "published_at": "2026-11-13T12:45:47+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-13T16:54:33.692332+00:00",
+      "verification": {
+        "article_title": "NYPD Sgt. killed in fiery crash on the Long Island Expressway",
+        "article_url": "https://www.nydailynews.com/2026/11/12/nypd-sergeant-killed-fiery-crash-long-island-expressway/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-13T16:54:31.631918+00:00"
+      }
+    },
+    {
+      "headline": "FDNY ends search at Brooklyn building collapse: 6 adults, 2",
+      "bullets": [
+        "Eight people, including two children, are dead, and 18 others are injured after a three-story apartment building collapsed in Flatbush on Wednesday afternoon, Mayor Zohran Mamdani said Thursday.",
+        "Just after 4 p.m."
+      ],
+      "summary": "FDNY ends search at Brooklyn building collapse: 6 adults, 2",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "FDNY ends search at Brooklyn building collapse: 6 adults, 2 children dead, 18 injured",
+        "article_url": "https://gothamist.com/news/death-toll-from-brooklyn-building-collapse-continues-to-rise-amid-ongoing-search",
+        "published_at": "2026-11-12T20:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-13T16:54:33.761400+00:00",
+      "verification": {
+        "article_title": "FDNY ends search at Brooklyn building collapse: 6 adults, 2 children dead, 18 injured",
+        "article_url": "https://gothamist.com/news/death-toll-from-brooklyn-building-collapse-continues-to-rise-amid-ongoing-search",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-13T16:54:31.772774+00:00"
+      }
+    },
+    {
+      "headline": "Brooklyn Building Collapse: All 8 victims identified and how to",
+      "bullets": [
+        "NEW YORK - After the FDNY concluded search and rescue operations at the site of the deadly building collapse in Brooklyn, police have released the names of the eight people who lost their lives.",
+        "The victims, ranging in age from 9 to 31, died either at the scene or at nearby hospitals after the three-story building at 1321 Flatbush Ave."
+      ],
+      "summary": "Brooklyn Building Collapse: All 8 victims identified and how to",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Brooklyn Building Collapse: All 8 victims identified and how to help the families recover",
+        "article_url": "https://www.fox5ny.com/news/brooklyn-building-collapse-victims-identified-relief-effort",
+        "published_at": "2026-11-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-13T16:54:33.829035+00:00",
+      "verification": {
+        "article_title": "Brooklyn Building Collapse: All 8 victims identified and how to help the families recover",
+        "article_url": "https://www.fox5ny.com/news/brooklyn-building-collapse-victims-identified-relief-effort",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-13T16:54:31.878627+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: Major Art Discovery: Alice Neel Portrait Leads Alderfer",
+      "bullets": [
+        "New York City, NY|Featured Event Major Art Discovery: Alice Neel Portrait Leads Alderfer Auction\u2019s Fine Art Auction Alderfer Auction of Hatfield, PA, is honored to unveil an art discovery as the centerpiece of our upcoming December 10 Fine Art Auction: an unpublished, original oil portrait by one of the iconic American painters of the twentieth century, Alice Neel (1900\u20131984).",
+        "A Masterpiece Revealed: Dr."
+      ],
+      "summary": "Local Event: Major Art Discovery: Alice Neel Portrait Leads Alderfer",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Major Art Discovery: Alice Neel Portrait Leads Alderfer Auction\u2019s Fine Art Auction",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261210/6d1110df-aa68-4622-8662-20d396d3e0f9/major-art-discovery-alice-neel-portrait-leads-alderfer-auction-s-fine-art-auction",
+        "published_at": "2026-12-10T15:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-13T16:54:33.901943+00:00",
+      "verification": {
+        "article_title": "Local Event: Major Art Discovery: Alice Neel Portrait Leads Alderfer Auction\u2019s Fine Art Auction",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261210/6d1110df-aa68-4622-8662-20d396d3e0f9/major-art-discovery-alice-neel-portrait-leads-alderfer-auction-s-fine-art-auction",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-13T16:54:31.989655+00:00"
+      }
+    },
+    {
+      "headline": "Teen arrested in fatal Bronx shooting of Javits Frimpong, 15,",
+      "bullets": [
+        "The teenage boy arrested for participating in the fatal shooting of 15-year-old Javits Frimpong in the Bronx did not attend the same school as his alleged victim, casting doubt on bullying as a motive in the tragic shooting, according to an attorney for the slain teen\u2019s family.",
+        "In the wake of his son\u2019s fatal shooting on Oct."
+      ],
+      "summary": "Teen arrested in fatal Bronx shooting of Javits Frimpong, 15,",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Teen arrested in fatal Bronx shooting of Javits Frimpong, 15, went to different school, debunking bullying motive",
+        "article_url": "https://www.nydailynews.com/2026/11/12/teen-arrested-in-fatal-bronx-shooting-of-javits-frimpong-15-went-to-different-school-debunking-bullying-motive/",
+        "published_at": "2026-11-12T23:05:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-13T16:54:34.010076+00:00",
+      "verification": {
+        "article_title": "Teen arrested in fatal Bronx shooting of Javits Frimpong, 15, went to different school, debunking bullying motive",
+        "article_url": "https://www.nydailynews.com/2026/11/12/teen-arrested-in-fatal-bronx-shooting-of-javits-frimpong-15-went-to-different-school-debunking-bullying-motive/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-13T16:54:32.154773+00:00"
+      }
+    },
+    {
+      "headline": "Do spotted lanternflies die in the winter? Why invasive species",
+      "bullets": [
+        "PHILADELPHIA - As winter cold sets in across the Mid-Atlantic and Northeast, many residents hope the first hard freeze will do what swatters, sticky traps and stomping boots could not: wipe out invasive pests like spotted lanternflies.",
+        "However, scientists warn that sub-freezing temperatures will not solve the problem."
+      ],
+      "summary": "Do spotted lanternflies die in the winter? Why invasive species",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Do spotted lanternflies die in the winter? Why invasive species keep coming back",
+        "article_url": "https://www.fox5ny.com/news/why-freezing-winter-weather-wont-kill-spotted-lanternflies-other-invasive-species",
+        "published_at": "2026-11-11"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-13T16:54:34.088399+00:00",
+      "verification": {
+        "article_title": "Do spotted lanternflies die in the winter? Why invasive species keep coming back",
+        "article_url": "https://www.fox5ny.com/news/why-freezing-winter-weather-wont-kill-spotted-lanternflies-other-invasive-species",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-13T16:54:32.249998+00:00"
+      }
+    },
+    {
+      "headline": "Tornado watch in effect for 11 NJ counties, flash flood",
+      "bullets": [
+        "A tornado watch was in effect for 11 New Jersey counties, and parts of Queens were under a flash flood warning until early Thursday evening.",
+        "The National Weather Service said that in addition to the possibility of a few tornadoes, also in Pennsylvania and Delaware, there was the potential of scattered hail up to the size of a ping pong ball and wind gusts reaching up to 70 mph."
+      ],
+      "summary": "Tornado watch in effect for 11 NJ counties, flash flood",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Tornado watch in effect for 11 NJ counties, flash flood warning in Queens",
+        "article_url": "https://gothamist.com/news/tornado-watch-in-effect-for-11-nj-counties-flash-flood-warning-in-queens",
+        "published_at": "2026-11-12T20:24:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-13T16:54:34.159007+00:00",
+      "verification": {
+        "article_title": "Tornado watch in effect for 11 NJ counties, flash flood warning in Queens",
+        "article_url": "https://gothamist.com/news/tornado-watch-in-effect-for-11-nj-counties-flash-flood-warning-in-queens",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-13T16:54:32.315559+00:00"
+      }
+    },
+    {
+      "headline": "Archdiocese to Epiphany: You\u00e2re Being Evicted from Kips Bay Campus",
+      "bullets": [
+        "Archdiocese to Epiphany: You\u00e2re Being Evicted from Kips Bay Campus The Epiphany School has have been leasing space in the former St.",
+        "Stephen's School on East 28th Street for its upper campus for over 30 years."
+      ],
+      "summary": "Archdiocese to Epiphany: You\u00e2re Being Evicted from Kips Bay Campus",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Archdiocese to Epiphany: You\u00e2re Being Evicted from Kips Bay Campus",
+        "article_url": "https://www.ourtownny.com/home/archdiocese-to-epiphany-you-re-being-evicted-from-kips-bay-campus-IG6383785",
+        "published_at": "2026-11-12"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-13T16:54:34.234402+00:00",
+      "verification": {
+        "article_title": "Archdiocese to Epiphany: You\u00e2re Being Evicted from Kips Bay Campus",
+        "article_url": "https://www.ourtownny.com/home/archdiocese-to-epiphany-you-re-being-evicted-from-kips-bay-campus-IG6383785",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-13T16:54:32.395802+00:00"
+      }
+    },
+    {
+      "headline": "Best roaster ovens for juicy meats and tender meals",
+      "bullets": [
+        "Which roaster ovens are best?",
+        "A whole turkey, brisket or another large cut of meat can make a big impression at the dinner table, but it takes up prime real estate in your oven while cooking."
+      ],
+      "summary": "Best roaster ovens for juicy meats and tender meals",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Best roaster ovens for juicy meats and tender meals",
+        "article_url": "https://www.nydailynews.com/2026/11/13/best-roaster-ovens-for-juicy-meats-and-tender-meals/",
+        "published_at": "2026-11-13"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-13T16:54:34.315495+00:00",
+      "verification": {
+        "article_title": "Best roaster ovens for juicy meats and tender meals",
+        "article_url": "https://www.nydailynews.com/2026/11/13/best-roaster-ovens-for-juicy-meats-and-tender-meals/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-13T16:54:32.514032+00:00"
+      }
+    }
+  ]
+}
