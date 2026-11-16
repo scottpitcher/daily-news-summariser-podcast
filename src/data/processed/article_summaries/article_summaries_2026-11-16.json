@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-11-16T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-11-16.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Readers sound off on Schumer & Jeffries, sports commentators and",
+      "bullets": [
+        "Voters were clear: No more establishment Boynton Beach, Fla.: It\u2019s time for elected Democrats to show the American public that they are serious about changing politics as usual in Washington.",
+        "The blue tsunami was step one."
+      ],
+      "summary": "Readers sound off on Schumer & Jeffries, sports commentators and",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on Schumer & Jeffries, sports commentators and Jensen Huang",
+        "article_url": "https://www.nydailynews.com/2026/11/16/readers-sound-off-on-schumer-jeffries-sports-commentators-and-jensen-huang/",
+        "published_at": "2026-11-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-16T19:10:17.534845+00:00",
+      "verification": {
+        "article_title": "Readers sound off on Schumer & Jeffries, sports commentators and Jensen Huang",
+        "article_url": "https://www.nydailynews.com/2026/11/16/readers-sound-off-on-schumer-jeffries-sports-commentators-and-jensen-huang/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-16T19:10:15.060999+00:00"
+      }
+    },
+    {
+      "headline": "Questions swirl around FAA\u2019s new SMART AI system, though officials",
+      "bullets": [
+        "By BARBARA ORTUTAY and JOSH FUNK The airline ground stop that wreaked havoc on travel since Friday was not related to the FAA\u2019s new, $875 million AI-powered system the agency is rolling out to help predict problems in the sky, according to government officials and the artificial intelligence company behind the technology.",
+        "But the timing of the ground stop, so close to the national rollout of the Federal Aviation Administration\u2019s SMART system, has raised questions about what the system does, its benefits and risks compared with the existing human system and what guardrails there are to address potential problems."
+      ],
+      "summary": "Questions swirl around FAA\u2019s new SMART AI system, though officials",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Questions swirl around FAA\u2019s new SMART AI system, though officials say no link to ground stop",
+        "article_url": "https://www.nydailynews.com/2026/11/16/faa-smart-ai-system-ground-stop/",
+        "published_at": "2026-11-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-16T19:10:17.645665+00:00",
+      "verification": {
+        "article_title": "Questions swirl around FAA\u2019s new SMART AI system, though officials say no link to ground stop",
+        "article_url": "https://www.nydailynews.com/2026/11/16/faa-smart-ai-system-ground-stop/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-16T19:10:15.198449+00:00"
+      }
+    },
+    {
+      "headline": "Veterans Day Parade Marches Proudly, Flags Abundant NoMad to Midtown",
+      "bullets": [
+        "Veterans Day Parade Marches Proudly, Flags Abundant NoMad to Midtown Navy pilot and NASA Astronaut Suni Williams was Grand Marshal, and both she and Mayor Mamdani spoke eloquently at a pre-parade wreath laying ceremony in Madison Square Park.",
+        "Spectators were sparse at times but spirited."
+      ],
+      "summary": "Veterans Day Parade Marches Proudly, Flags Abundant NoMad to Midtown",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Veterans Day Parade Marches Proudly, Flags Abundant NoMad to Midtown",
+        "article_url": "https://www.ourtownny.com/news/veterans-day-parade-marches-proudly-flags-abundant-nomad-to-midtown-DH6382656",
+        "published_at": "2026-11-14"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-16T19:10:17.757825+00:00",
+      "verification": {
+        "article_title": "Veterans Day Parade Marches Proudly, Flags Abundant NoMad to Midtown",
+        "article_url": "https://www.ourtownny.com/news/veterans-day-parade-marches-proudly-flags-abundant-nomad-to-midtown-DH6382656",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-16T19:10:15.334307+00:00"
+      }
+    },
+    {
+      "headline": "Trump says he may meet with North Korea's Kim Jong",
+      "bullets": [
+        "Questions remain about the Nvidia CEO's relationship with alleged Chinese spy.",
+        "President Donald Trump is traveling to Asia for meetings with global leaders and for his second visit to China for a meeting with Chinese President Xi Jinping."
+      ],
+      "summary": "Trump says he may meet with North Korea's Kim Jong",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Trump says he may meet with North Korea's Kim Jong Un during China trip",
+        "article_url": "https://abc7ny.com/story/trump-heads-asia-2nd-high-stakes-meeting-chinese-president-xi-amid-nvidia-ceo-scandal/20044067/",
+        "published_at": "2026-11-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-16T19:10:17.880381+00:00",
+      "verification": {
+        "article_title": "Trump says he may meet with North Korea's Kim Jong Un during China trip",
+        "article_url": "https://abc7ny.com/story/trump-heads-asia-2nd-high-stakes-meeting-chinese-president-xi-amid-nvidia-ceo-scandal/20044067/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-16T19:10:15.496641+00:00"
+      }
+    },
+    {
+      "headline": "Today in History: November 16, Jesuit priests, their housekeeper and",
+      "bullets": [
+        "Today is Monday, Nov.",
+        "16, the 320th day of 2026."
+      ],
+      "summary": "Today in History: November 16, Jesuit priests, their housekeeper and",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Today in History: November 16, Jesuit priests, their housekeeper and her daughter found murdered in San Salvador",
+        "article_url": "https://www.nydailynews.com/2026/11/16/today-in-history-november-16-jesuit-priests-their-housekeeper-and-her-daughter-found-murdered-in-san-salvador/",
+        "published_at": "2026-11-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-16T19:10:17.991506+00:00",
+      "verification": {
+        "article_title": "Today in History: November 16, Jesuit priests, their housekeeper and her daughter found murdered in San Salvador",
+        "article_url": "https://www.nydailynews.com/2026/11/16/today-in-history-november-16-jesuit-priests-their-housekeeper-and-her-daughter-found-murdered-in-san-salvador/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-16T19:10:15.607583+00:00"
+      }
+    },
+    {
+      "headline": "EU accuses Russia of stalling Ukraine peace talks to target",
+      "bullets": [
+        "By LORNE COOK BRUSSELS (AP) \u2014 European Union countries on Monday accused Russia of trying to drag out talks on ending the war in Ukraine while it bombs power plants and other infrastructure to make life even harder for civilians as winter closes in.",
+        "The bloc also imposed sanctions on nearly 50 Russian banks and financial institutions, and targeted several businesspeople with links to the energy sector, the trade in oil and petroleum products."
+      ],
+      "summary": "EU accuses Russia of stalling Ukraine peace talks to target",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "EU accuses Russia of stalling Ukraine peace talks to target power plants as winter nears",
+        "article_url": "https://www.nydailynews.com/2026/11/16/eu-russia-ukraine-peace-talks-sanctions/",
+        "published_at": "2026-11-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-16T19:10:18.108375+00:00",
+      "verification": {
+        "article_title": "EU accuses Russia of stalling Ukraine peace talks to target power plants as winter nears",
+        "article_url": "https://www.nydailynews.com/2026/11/16/eu-russia-ukraine-peace-talks-sanctions/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-16T19:10:15.755426+00:00"
+      }
+    },
+    {
+      "headline": "Episcopal Church Finds Buyer for Second Avenue Headquarters",
+      "bullets": [
+        "Episcopal Church Finds Buyer for Second Avenue Headquarters CSC Real Estate is reportedly buying the national headquarters of the Episcopal Church with plans to turn it into residential housing.",
+        "The Episcopal Church has a deal to sell its 12-story Midtown national headquarters to a developer which specializes in office to residential conversions."
+      ],
+      "summary": "Episcopal Church Finds Buyer for Second Avenue Headquarters",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Episcopal Church Finds Buyer for Second Avenue Headquarters",
+        "article_url": "https://www.ourtownny.com/news/episcopal-church-finds-buyer-for-second-avenue-headquarters-IL6386930",
+        "published_at": "2026-11-15"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-16T19:10:18.228141+00:00",
+      "verification": {
+        "article_title": "Episcopal Church Finds Buyer for Second Avenue Headquarters",
+        "article_url": "https://www.ourtownny.com/news/episcopal-church-finds-buyer-for-second-avenue-headquarters-IL6386930",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-16T19:10:15.915860+00:00"
+      }
+    },
+    {
+      "headline": "2027 Grammy nominations list: Raye, Rosal\u00eda, Ella Langley, Olivia Rodrigo",
+      "bullets": [
+        "Grammys,Synergy,Entertainment,On-The-Red-Carpet,Award-Shows,Music'] fingerprint: \"14906c79904b06b4\" --- The nominations are in for the 2027 Grammy Awards.",
+        "Olivia Dean, Bruno Mars, Ella Langley, Madonna, Olivia Rodrigo, Raye, Rosalia and Taylor Swift were among the music artists announced Monday as nominees."
+      ],
+      "summary": "2027 Grammy nominations list: Raye, Rosal\u00eda, Ella Langley, Olivia Rodrigo",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "2027 Grammy nominations list: Raye, Rosal\u00eda, Ella Langley, Olivia Rodrigo lead nominees",
+        "article_url": "https://abc7ny.com/story/2027-grammy-nominations-announced-live-updates/20038587/",
+        "published_at": "2026-11-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-16T19:10:18.360727+00:00",
+      "verification": {
+        "article_title": "2027 Grammy nominations list: Raye, Rosal\u00eda, Ella Langley, Olivia Rodrigo lead nominees",
+        "article_url": "https://abc7ny.com/story/2027-grammy-nominations-announced-live-updates/20038587/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-16T19:10:16.026116+00:00"
+      }
+    },
+    {
+      "headline": "Backlash grows against Mamdani's decision to disband NYPD's SRG unit",
+      "bullets": [
+        "NEW YORK (WABC) -- Backlash is growing after Mayor Zohran Mamdani and NYPD Commissioner Jessica Tisch announced plans to disband the department's Strategic Response Group, a controversial unit of about 500 officers, and replace it with a new approach to policing protests.",
+        "The announcement comes after months of discussions between City Hall and the NYPD and follows criticism of the unit's tactics from activists and civil liberties groups."
+      ],
+      "summary": "Backlash grows against Mamdani's decision to disband NYPD's SRG unit",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Backlash grows against Mamdani's decision to disband NYPD's SRG unit",
+        "article_url": "https://abc7ny.com/post/srg-nyc-backlash-grows-mamdanis-disbandment-nypd-unit/20044932/",
+        "published_at": "2026-11-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-16T19:10:18.470922+00:00",
+      "verification": {
+        "article_title": "Backlash grows against Mamdani's decision to disband NYPD's SRG unit",
+        "article_url": "https://abc7ny.com/post/srg-nyc-backlash-grows-mamdanis-disbandment-nypd-unit/20044932/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-16T19:10:16.137496+00:00"
+      }
+    },
+    {
+      "headline": "Fire Breaks Out In Upper East Side Restaurant, FDNY Says",
+      "bullets": [
+        "Fire Breaks Out In Upper East Side Restaurant, FDNY Says The fire started just before the restaurant's brunch service.",
+        "UPPER EAST SIDE, NY \u2014 FDNY crews responded to a fire reported at a restaurant on Second Avenue in Yorkville on Sunday morning, the department said."
+      ],
+      "summary": "Fire Breaks Out In Upper East Side Restaurant, FDNY Says",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Fire Breaks Out In Upper East Side Restaurant, FDNY Says",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/fire-breaks-out-upper-east-side-restaurant-fdny-says",
+        "published_at": "2026-11-16T18:03:27+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-16T19:10:18.580197+00:00",
+      "verification": {
+        "article_title": "Fire Breaks Out In Upper East Side Restaurant, FDNY Says",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/fire-breaks-out-upper-east-side-restaurant-fdny-says",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-16T19:10:16.289538+00:00"
+      }
+    },
+    {
+      "headline": "Deadly measles has returned because of RFK Jr. & Trump",
+      "bullets": [
+        "After a steady rise of cases over the past year, the United States has officially lost its measles elimination status per the Pan American Health Organization, meaning that the disease is not only present but has reestablished a foothold with regular transmission, a quarter century after it was officially eliminated.",
+        "Thank you Bobby Kennedy Jr., and the man who made the dangerous quack and conspiracist the secretary of the U.S."
+      ],
+      "summary": "Deadly measles has returned because of RFK Jr. & Trump",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Deadly measles has returned because of RFK Jr. & Trump",
+        "article_url": "https://www.nydailynews.com/2026/11/16/deadly-measles-has-returned-because-of-rfk-jr-trump/",
+        "published_at": "2026-11-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-16T19:10:18.691244+00:00",
+      "verification": {
+        "article_title": "Deadly measles has returned because of RFK Jr. & Trump",
+        "article_url": "https://www.nydailynews.com/2026/11/16/deadly-measles-has-returned-because-of-rfk-jr-trump/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-16T19:10:16.397852+00:00"
+      }
+    },
+    {
+      "headline": "Having a job doesn\u2019t save you from going hungry in",
+      "bullets": [
+        "More than half of 1.3 million New Yorkers who visited food pantries last year were working but still didn\u2019t earn enough to feed their families, a new report found.",
+        "The new findings from the Robin Hood Foundation, an anti-poverty group, show how unyielding food insecurity remains across New York City, even as the Trump administration makes cuts to its federal food assistance program known as SNAP."
+      ],
+      "summary": "Having a job doesn\u2019t save you from going hungry in",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Having a job doesn\u2019t save you from going hungry in NYC, report finds",
+        "article_url": "https://gothamist.com/news/having-a-job-doesnt-save-you-from-going-hungry-in-nyc-report-finds",
+        "published_at": "2026-11-16T14:00:55+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-16T19:10:18.803642+00:00",
+      "verification": {
+        "article_title": "Having a job doesn\u2019t save you from going hungry in NYC, report finds",
+        "article_url": "https://gothamist.com/news/having-a-job-doesnt-save-you-from-going-hungry-in-nyc-report-finds",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-16T19:10:16.513113+00:00"
+      }
+    },
+    {
+      "headline": "Roosevelt Field mall restaurants: Where to eat and drink -",
+      "bullets": [
+        "Long before wagyu burgers arrived at the Uniondale mall, generations of teenagers made do with oily pizza slices and food-court teriyaki chicken.",
+        "Yes these still exist, but today, the mall reflects our new foodie culture, with celebrity chefs and Japanese highball drink machines."
+      ],
+      "summary": "Roosevelt Field mall restaurants: Where to eat and drink -",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Newsday",
+        "source_level": "local",
+        "article_title": "Roosevelt Field mall restaurants: Where to eat and drink - Newsday",
+        "article_url": "https://www.newsday.com/lifestyle/restaurants/roosevelt-field-mall-restaurants-uniondale-b8daxbta",
+        "published_at": "2026-11-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-16T19:10:18.915932+00:00",
+      "verification": {
+        "article_title": "Roosevelt Field mall restaurants: Where to eat and drink - Newsday",
+        "article_url": "https://www.newsday.com/lifestyle/restaurants/roosevelt-field-mall-restaurants-uniondale-b8daxbta",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-16T19:10:16.622233+00:00"
+      }
+    },
+    {
+      "headline": "Lesbian wine bars are having a moment in New York",
+      "bullets": [
+        "There's a new wine bar in Bushwick \u2014 the menu is seasonal, the mood is intimidate and the room is buzzing with the kind of conversation best held while lounging in cozy furniture under dim lighting.",
+        "Lesbians and other queer women have made Saint James Libations a go-to spot in the little over a year that it\u2019s been open."
+      ],
+      "summary": "Lesbian wine bars are having a moment in New York",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Lesbian wine bars are having a moment in New York City",
+        "article_url": "https://gothamist.com/arts-entertainment/lesbian-wine-bars-are-having-a-moment-in-new-york-city",
+        "published_at": "2026-11-16T11:30:50+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-16T19:10:19.051694+00:00",
+      "verification": {
+        "article_title": "Lesbian wine bars are having a moment in New York City",
+        "article_url": "https://gothamist.com/arts-entertainment/lesbian-wine-bars-are-having-a-moment-in-new-york-city",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-16T19:10:16.774108+00:00"
+      }
+    },
+    {
+      "headline": "Russia says its defenses intercepted over 1,300 Ukrainian drones in",
+      "bullets": [
+        "By The Associated Press Russia\u2019s Defense Ministry said Monday it downed 1,336 Ukrainian drones in what would be the highest number of interceptions during an aerial attack since Moscow\u2019s all-out invasion of its neighbor nearly five years ago.",
+        "Ukraine has scaled up its long-range aerial assaults on Russia, as well as the illegally annexed Crimean Peninsula and the Black and the Azov seas, with more than 1,000 drones used in some daily attacks in recent months."
+      ],
+      "summary": "Russia says its defenses intercepted over 1,300 Ukrainian drones in",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack",
+        "article_url": "https://www.nydailynews.com/2026/11/16/russia-ukraine-drones-attack/",
+        "published_at": "2026-11-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-16T19:10:19.166667+00:00",
+      "verification": {
+        "article_title": "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack",
+        "article_url": "https://www.nydailynews.com/2026/11/16/russia-ukraine-drones-attack/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-16T19:10:16.952309+00:00"
+      }
+    },
+    {
+      "headline": "Readers sound off on Schumer & Jeffries, sports commentators and",
+      "bullets": [
+        "Voters were clear: No more establishment Boynton Beach, Fla.: It\u2019s time for elected Democrats to show the American public that they are serious about changing politics as usual in Washington.",
+        "The blue tsunami was step one."
+      ],
+      "summary": "Readers sound off on Schumer & Jeffries, sports commentators and",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on Schumer & Jeffries, sports commentators and Jensen Huang",
+        "article_url": "https://www.nydailynews.com/2026/11/16/readers-sound-off-on-schumer-jeffries-sports-commentators-and-jensen-huang/",
+        "published_at": "2026-11-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-16T19:10:19.279618+00:00",
+      "verification": {
+        "article_title": "Readers sound off on Schumer & Jeffries, sports commentators and Jensen Huang",
+        "article_url": "https://www.nydailynews.com/2026/11/16/readers-sound-off-on-schumer-jeffries-sports-commentators-and-jensen-huang/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-16T19:10:17.063199+00:00"
+      }
+    },
+    {
+      "headline": "The 15 best gifts for any occasion",
+      "bullets": [
+        "The holidays are quickly approaching, but before the shopping madness really takes off, we wanted to give you a heads-up on some of the best gift ideas for the 2026 season.",
+        "You know your loved ones better than we do, so we\u2019ve included items across a range of categories."
+      ],
+      "summary": "The 15 best gifts for any occasion",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "The 15 best gifts for any occasion",
+        "article_url": "https://www.nydailynews.com/2026/11/15/the-15-best-gifts-for-any-occasion/",
+        "published_at": "2026-11-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-16T19:10:19.390289+00:00",
+      "verification": {
+        "article_title": "The 15 best gifts for any occasion",
+        "article_url": "https://www.nydailynews.com/2026/11/15/the-15-best-gifts-for-any-occasion/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-16T19:10:17.170993+00:00"
+      }
+    },
+    {
+      "headline": "BROADWAY REVIEW: \u2018Downstate\u2019 effectively challenges limits of forgiveness",
+      "bullets": [
+        "When I first saw Bruce Norris\u2019 riveting, Pulitzer Prize-winning \u201cDownstate\u201d at its 2018 Steppenwolf Theatre premiere, the Chicago audience came primed and then set its teeth.",
+        "Steppenwolf had produced one incendiary Norris play after another in those heady pre-pandemic days and a drama about a motley crew of sex offenders living in a halfway house in downstate Illinois was nothing if not on brand."
+      ],
+      "summary": "BROADWAY REVIEW: \u2018Downstate\u2019 effectively challenges limits of forgiveness",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "BROADWAY REVIEW: \u2018Downstate\u2019 effectively challenges limits of forgiveness",
+        "article_url": "https://www.nydailynews.com/2026/11/15/broadway-review-downstate-mantello/",
+        "published_at": "2026-11-16T03:00:40+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-16T19:10:19.500549+00:00",
+      "verification": {
+        "article_title": "BROADWAY REVIEW: \u2018Downstate\u2019 effectively challenges limits of forgiveness",
+        "article_url": "https://www.nydailynews.com/2026/11/15/broadway-review-downstate-mantello/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-16T19:10:17.309612+00:00"
+      }
+    }
+  ]
+}
