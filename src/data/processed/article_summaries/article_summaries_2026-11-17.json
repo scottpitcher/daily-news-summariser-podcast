@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-11-17T00:00:00+00:00",
+  "source_file": "/home/runner/work/daily-news-summariser-podcast/daily-news-summariser-podcast/src/data/processed/verified/verified_articles_2026-11-17.json",
+  "summary_count": 18,
+  "summary_stats": {
+    "input_articles": 18,
+    "generated_summaries": 0,
+    "fallback_summaries": 18
+  },
+  "summaries": [
+    {
+      "headline": "Readers sound off on birth control access, building violations and",
+      "bullets": [
+        "Laws alone don\u2019t deliver us birth control Manhattan: As a college student in New York who cares deeply about women\u2019s health, I want people to have control over decisions about their bodies and futures.",
+        "That means being able to get birth control without unnecessary costs, delays or confusion."
+      ],
+      "summary": "Readers sound off on birth control access, building violations and",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Readers sound off on birth control access, building violations and Trump\u2019s FAA",
+        "article_url": "https://www.nydailynews.com/2026/11/17/readers-sound-off-on-birth-control-access-building-violations-and-trumps-faa/",
+        "published_at": "2026-11-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-17T18:03:57.769112+00:00",
+      "verification": {
+        "article_title": "Readers sound off on birth control access, building violations and Trump\u2019s FAA",
+        "article_url": "https://www.nydailynews.com/2026/11/17/readers-sound-off-on-birth-control-access-building-violations-and-trumps-faa/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-17T18:03:54.833215+00:00"
+      }
+    },
+    {
+      "headline": "NYC releases plan to help horse-drawn carriage workers transition as",
+      "bullets": [
+        "NEW YORK (WABC) -- New York City has released a framework to support horse-drawn carriage drivers, stable hands, and medallion owners as the city moves toward ending the horse-drawn carriage industry.",
+        "Mayor Zohran Kwame Mamdani said the plan includes financial support for medallion owners and career training, education, and job placement services for workers affected by the transition."
+      ],
+      "summary": "NYC releases plan to help horse-drawn carriage workers transition as",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "NYC releases plan to help horse-drawn carriage workers transition as industry phases out",
+        "article_url": "https://abc7ny.com/post/nyc-announces-transition-plan-horse-drawn-carriage-drivers-industry-ends/20047420/",
+        "published_at": "2026-11-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-17T18:03:57.891203+00:00",
+      "verification": {
+        "article_title": "NYC releases plan to help horse-drawn carriage workers transition as industry phases out",
+        "article_url": "https://abc7ny.com/post/nyc-announces-transition-plan-horse-drawn-carriage-drivers-industry-ends/20047420/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-17T18:03:55.026522+00:00"
+      }
+    },
+    {
+      "headline": "Today in History: November 17, Nixon tells journalists \u2018I\u2019m not",
+      "bullets": [
+        "Today is Tuesday, Nov.",
+        "17, the 321st day of 2026."
+      ],
+      "summary": "Today in History: November 17, Nixon tells journalists \u2018I\u2019m not",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Today in History: November 17, Nixon tells journalists \u2018I\u2019m not a crook\u2019",
+        "article_url": "https://www.nydailynews.com/2026/11/17/today-in-history-november-17-nixon-tells-journalists-im-not-a-crook/",
+        "published_at": "2026-11-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-17T18:03:58.010149+00:00",
+      "verification": {
+        "article_title": "Today in History: November 17, Nixon tells journalists \u2018I\u2019m not a crook\u2019",
+        "article_url": "https://www.nydailynews.com/2026/11/17/today-in-history-november-17-nixon-tells-journalists-im-not-a-crook/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-17T18:03:55.184470+00:00"
+      }
+    },
+    {
+      "headline": "Veterans Day Parade Marches Proudly, Flags Abundant NoMad to Midtown",
+      "bullets": [
+        "Veterans Day Parade Marches Proudly, Flags Abundant NoMad to Midtown Navy pilot and NASA Astronaut Suni Williams was Grand Marshal, and both she and Mayor Mamdani spoke eloquently at a pre-parade wreath laying ceremony in Madison Square Park.",
+        "Spectators were sparse at times but spirited."
+      ],
+      "summary": "Veterans Day Parade Marches Proudly, Flags Abundant NoMad to Midtown",
+      "issue_area": "politics_government",
+      "source_level": "local",
+      "so_what": "Relevant to NYC politics government \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Veterans Day Parade Marches Proudly, Flags Abundant NoMad to Midtown",
+        "article_url": "https://www.ourtownny.com/news/veterans-day-parade-marches-proudly-flags-abundant-nomad-to-midtown-DH6382656",
+        "published_at": "2026-11-14"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-17T18:03:58.169805+00:00",
+      "verification": {
+        "article_title": "Veterans Day Parade Marches Proudly, Flags Abundant NoMad to Midtown",
+        "article_url": "https://www.ourtownny.com/news/veterans-day-parade-marches-proudly-flags-abundant-nomad-to-midtown-DH6382656",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-17T18:03:55.357950+00:00"
+      }
+    },
+    {
+      "headline": "A Canadian teen was blackmailed after sending nude images. AP/FRONTLINE",
+      "bullets": [
+        "EDITOR\u2019S NOTE: This story includes discussion of suicide.",
+        "If you or someone you know needs help, the national suicide and crisis lifeline in the U.S."
+      ],
+      "summary": "A Canadian teen was blackmailed after sending nude images. AP/FRONTLINE",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "A Canadian teen was blackmailed after sending nude images. AP/FRONTLINE found his scammer in Nigeria",
+        "article_url": "https://www.nydailynews.com/2026/11/17/global-scams-teen-sextortion/",
+        "published_at": "2026-11-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-17T18:03:58.295031+00:00",
+      "verification": {
+        "article_title": "A Canadian teen was blackmailed after sending nude images. AP/FRONTLINE found his scammer in Nigeria",
+        "article_url": "https://www.nydailynews.com/2026/11/17/global-scams-teen-sextortion/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-17T18:03:55.539133+00:00"
+      }
+    },
+    {
+      "headline": "Jensen Huang says he would return as Nvidia CEO amid",
+      "bullets": [
+        "The DOJ and Commerce Department said Megaspeed is being investigated.",
+        "Jensen Huang -- the former Nvidia CEO who resigned amid allegations that he had an affair with a woman suspected of being a Chinese intelligence asset -- said in a statement Tuesday that he is willing to return to the company."
+      ],
+      "summary": "Jensen Huang says he would return as Nvidia CEO amid",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Jensen Huang says he would return as Nvidia CEO amid scandal",
+        "article_url": "https://abc7ny.com/story/nvidia-forms-national-security-committee-feds-probe-company-center-scandal/20048239/",
+        "published_at": "2026-11-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-17T18:03:58.416088+00:00",
+      "verification": {
+        "article_title": "Jensen Huang says he would return as Nvidia CEO amid scandal",
+        "article_url": "https://abc7ny.com/story/nvidia-forms-national-security-committee-feds-probe-company-center-scandal/20048239/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-17T18:03:55.748703+00:00"
+      }
+    },
+    {
+      "headline": "NYC Council bill pits Amazon against Teamsters union in fight",
+      "bullets": [
+        "In the shadow of StuyTown, Gabrielly Sierra-Moreno adjusted her blue, Amazon-branded vest and lifted a box half her size.",
+        "As she hauled the Amazon packages from a truck with the Prime logo to a push cart destined for the apartment buildings, she weaved around a dozen other workers wearing similar outfits."
+      ],
+      "summary": "NYC Council bill pits Amazon against Teamsters union in fight",
+      "issue_area": "economy_business",
+      "source_level": "local",
+      "so_what": "Relevant to NYC economy business \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "NYC Council bill pits Amazon against Teamsters union in fight over delivery workers",
+        "article_url": "https://gothamist.com/news/nyc-council-bill-pits-amazon-against-teamsters-union-in-fight-over-delivery-workers",
+        "published_at": "2026-11-17T11:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-17T18:03:58.536551+00:00",
+      "verification": {
+        "article_title": "NYC Council bill pits Amazon against Teamsters union in fight over delivery workers",
+        "article_url": "https://gothamist.com/news/nyc-council-bill-pits-amazon-against-teamsters-union-in-fight-over-delivery-workers",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-17T18:03:55.869857+00:00"
+      }
+    },
+    {
+      "headline": "Can talking to protesters help the NYPD avoid clashes? One",
+      "bullets": [
+        "The NYPD\u2019s new plan for policing protests will encourage police officers and civilian leaders to communicate directly with demonstration organizers, the mayor and the police commissioner said Monday.",
+        "This dialogue-based approach to protests has been implemented in London, Columbus, Ohio and Portland, Oregon."
+      ],
+      "summary": "Can talking to protesters help the NYPD avoid clashes? One",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Can talking to protesters help the NYPD avoid clashes? One expert sees promise.",
+        "article_url": "https://gothamist.com/news/can-talking-to-protesters-help-the-nypd-avoid-clashes-one-expert-sees-promise",
+        "published_at": "2026-11-16T21:34:31+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-17T18:03:58.665847+00:00",
+      "verification": {
+        "article_title": "Can talking to protesters help the NYPD avoid clashes? One expert sees promise.",
+        "article_url": "https://gothamist.com/news/can-talking-to-protesters-help-the-nypd-avoid-clashes-one-expert-sees-promise",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-17T18:03:56.023329+00:00"
+      }
+    },
+    {
+      "headline": "Fire Breaks Out In Upper East Side Restaurant, FDNY Says",
+      "bullets": [
+        "Fire Breaks Out In Upper East Side Restaurant, FDNY Says The fire started just before the restaurant's brunch service.",
+        "UPPER EAST SIDE, NY \u2014 FDNY crews responded to a fire reported at a restaurant on Second Avenue in Yorkville on Sunday morning, the department said."
+      ],
+      "summary": "Fire Breaks Out In Upper East Side Restaurant, FDNY Says",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Fire Breaks Out In Upper East Side Restaurant, FDNY Says",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/fire-breaks-out-upper-east-side-restaurant-fdny-says",
+        "published_at": "2026-11-16T18:03:27+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-17T18:03:58.790488+00:00",
+      "verification": {
+        "article_title": "Fire Breaks Out In Upper East Side Restaurant, FDNY Says",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/fire-breaks-out-upper-east-side-restaurant-fdny-says",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-17T18:03:56.181083+00:00"
+      }
+    },
+    {
+      "headline": "Amazon picks the right James Bond in Pattinson",
+      "bullets": [
+        "License to kill, renewed.",
+        "The new James Bond has been named, and the name is Robert Pattinson."
+      ],
+      "summary": "Amazon picks the right James Bond in Pattinson",
+      "issue_area": "public_safety",
+      "source_level": "local",
+      "so_what": "Relevant to NYC public safety \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "Amazon picks the right James Bond in Pattinson",
+        "article_url": "https://www.nydailynews.com/2026/11/17/amazon-picks-the-right-james-bond-in-pattinson/",
+        "published_at": "2026-11-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-17T18:03:58.909018+00:00",
+      "verification": {
+        "article_title": "Amazon picks the right James Bond in Pattinson",
+        "article_url": "https://www.nydailynews.com/2026/11/17/amazon-picks-the-right-james-bond-in-pattinson/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-17T18:03:56.361743+00:00"
+      }
+    },
+    {
+      "headline": "US officially loses measles-elimination status as cases hit highest level",
+      "bullets": [
+        "UNITED STATES - The United States has lost a major public health milestone.",
+        "The Pan American Health Organization officially announced on Tuesday that the U.S."
+      ],
+      "summary": "US officially loses measles-elimination status as cases hit highest level",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "US officially loses measles-elimination status as cases hit highest level since 1991",
+        "article_url": "https://www.fox5ny.com/news/us-set-lose-measles-elimination-status-cases-hit-highest-level-since-1991",
+        "published_at": "2026-11-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-17T18:03:59.035282+00:00",
+      "verification": {
+        "article_title": "US officially loses measles-elimination status as cases hit highest level since 1991",
+        "article_url": "https://www.fox5ny.com/news/us-set-lose-measles-elimination-status-cases-hit-highest-level-since-1991",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-17T18:03:56.530329+00:00"
+      }
+    },
+    {
+      "headline": "Greenpoint man accused of groping jogger stands trial after years",
+      "bullets": [
+        "A Greenpoint man with severe mental illness who has faced repeated accusations of harassing, assaulting and groping people in the neighborhood stands trial this week in Brooklyn.",
+        "Christopher Boissard\u2019s allegedly aggressive behavior has divided the North Brooklyn neighborhood for years."
+      ],
+      "summary": "Greenpoint man accused of groping jogger stands trial after years",
+      "issue_area": "health",
+      "source_level": "local",
+      "so_what": "Relevant to NYC health \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Gothamist",
+        "source_level": "local",
+        "article_title": "Greenpoint man accused of groping jogger stands trial after years of neighborhood concerns",
+        "article_url": "https://gothamist.com/news/greenpoint-man-accused-of-groping-jogger-stands-trial-after-years-of-neighborhood-concerns",
+        "published_at": "2026-11-17T17:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-17T18:03:59.152097+00:00",
+      "verification": {
+        "article_title": "Greenpoint man accused of groping jogger stands trial after years of neighborhood concerns",
+        "article_url": "https://gothamist.com/news/greenpoint-man-accused-of-groping-jogger-stands-trial-after-years-of-neighborhood-concerns",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-17T18:03:56.648600+00:00"
+      }
+    },
+    {
+      "headline": "Roosevelt Field mall restaurants: Where to eat and drink -",
+      "bullets": [
+        "Long before wagyu burgers arrived at the Uniondale mall, generations of teenagers made do with oily pizza slices and food-court teriyaki chicken.",
+        "Yes these still exist, but today, the mall reflects our new foodie culture, with celebrity chefs and Japanese highball drink machines."
+      ],
+      "summary": "Roosevelt Field mall restaurants: Where to eat and drink -",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Newsday",
+        "source_level": "local",
+        "article_title": "Roosevelt Field mall restaurants: Where to eat and drink - Newsday",
+        "article_url": "https://www.newsday.com/lifestyle/restaurants/roosevelt-field-mall-restaurants-uniondale-b8daxbta",
+        "published_at": "2026-11-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-17T18:03:59.302206+00:00",
+      "verification": {
+        "article_title": "Roosevelt Field mall restaurants: Where to eat and drink - Newsday",
+        "article_url": "https://www.newsday.com/lifestyle/restaurants/roosevelt-field-mall-restaurants-uniondale-b8daxbta",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-17T18:03:56.774758+00:00"
+      }
+    },
+    {
+      "headline": "Local Event: Major Art Discovery: Alice Neel Portrait Leads Alderfer",
+      "bullets": [
+        "New York City, NY|Featured Event Major Art Discovery: Alice Neel Portrait Leads Alderfer Auction\u2019s Fine Art Auction Alderfer Auction of Hatfield, PA, is honored to unveil an art discovery as the centerpiece of our upcoming December 10 Fine Art Auction: an unpublished, original oil portrait by one of the iconic American painters of the twentieth century, Alice Neel (1900\u20131984).",
+        "A Masterpiece Revealed: Dr."
+      ],
+      "summary": "Local Event: Major Art Discovery: Alice Neel Portrait Leads Alderfer",
+      "issue_area": "education",
+      "source_level": "local",
+      "so_what": "Relevant to NYC education \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Patch Upper East Side",
+        "source_level": "local",
+        "article_title": "Local Event: Major Art Discovery: Alice Neel Portrait Leads Alderfer Auction\u2019s Fine Art Auction",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261210/6d1110df-aa68-4622-8662-20d396d3e0f9/major-art-discovery-alice-neel-portrait-leads-alderfer-auction-s-fine-art-auction",
+        "published_at": "2026-12-10T15:00:00+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-17T18:03:59.426452+00:00",
+      "verification": {
+        "article_title": "Local Event: Major Art Discovery: Alice Neel Portrait Leads Alderfer Auction\u2019s Fine Art Auction",
+        "article_url": "https://patch.com/new-york/upper-east-side-nyc/calendar/event/20261210/6d1110df-aa68-4622-8662-20d396d3e0f9/major-art-discovery-alice-neel-portrait-leads-alderfer-auction-s-fine-art-auction",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-17T18:03:56.892065+00:00"
+      }
+    },
+    {
+      "headline": "Traveling with your pets for the holidays? Here\u2019s how to",
+      "bullets": [
+        "If 2026\u2019s Thanksgiving holiday looks like last year\u2019s, almost 90% of people who are traveling for the big feast will travel by car, and for pet owners, a majority will have their four-legged friends riding along.",
+        "But pet experts say it\u2019s important to make sure you and your pets have everything you need to make the trip to and from your destination more enjoyable for you and safer for your pets."
+      ],
+      "summary": "Traveling with your pets for the holidays? Here\u2019s how to",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "FOX 5 New York",
+        "source_level": "local",
+        "article_title": "Traveling with your pets for the holidays? Here\u2019s how to prepare them and keep them safe",
+        "article_url": "https://www.fox5ny.com/news/traveling-your-pets-holidays-heres-how-get-them-ready-keep-them-safe",
+        "published_at": "2026-11-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-17T18:03:59.551691+00:00",
+      "verification": {
+        "article_title": "Traveling with your pets for the holidays? Here\u2019s how to prepare them and keep them safe",
+        "article_url": "https://www.fox5ny.com/news/traveling-your-pets-holidays-heres-how-get-them-ready-keep-them-safe",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-17T18:03:57.013679+00:00"
+      }
+    },
+    {
+      "headline": "Could everything be broken? Grounded jets, bank trouble, Microsoft outage,",
+      "bullets": [
+        "Maybe the trouble started with the AI billionaire and the Silicon Valley uproar that followed talk of his infidelity, including with an alleged Chinese spy.",
+        "Or maybe it was the Microsoft outage that, depending on how you looked at it, either cast millions of frustrated workers adrift or spared them from a daily, unrelenting electronic avalanche."
+      ],
+      "summary": "Could everything be broken? Grounded jets, bank trouble, Microsoft outage,",
+      "issue_area": "climate_energy",
+      "source_level": "local",
+      "so_what": "Relevant to NYC climate energy \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "ABC7 New York",
+        "source_level": "local",
+        "article_title": "Could everything be broken? Grounded jets, bank trouble, Microsoft outage, AI chaos make some wonder",
+        "article_url": "https://abc7ny.com/post/could-everything-broken-grounded-jets-bank-trouble-microsoft-outage-ai-chaos-make/20047717/",
+        "published_at": "2026-11-17"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-17T18:03:59.673431+00:00",
+      "verification": {
+        "article_title": "Could everything be broken? Grounded jets, bank trouble, Microsoft outage, AI chaos make some wonder",
+        "article_url": "https://abc7ny.com/post/could-everything-broken-grounded-jets-bank-trouble-microsoft-outage-ai-chaos-make/20047717/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-17T18:03:57.182716+00:00"
+      }
+    },
+    {
+      "headline": "Schoolgirl Embroidery Exhibit Unravels Past at Folk Art Museum",
+      "bullets": [
+        "Schoolgirl Embroidery Exhibit Unravels Past at Folk Art Museum \u00e2Locating Girlhood\u00e2 is on display at the American Folk Art Museum on Columbus Avenue near 66th Street through Feb.",
+        "28, 2027."
+      ],
+      "summary": "Schoolgirl Embroidery Exhibit Unravels Past at Folk Art Museum",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "Our Town",
+        "source_level": "local",
+        "article_title": "Schoolgirl Embroidery Exhibit Unravels Past at Folk Art Museum",
+        "article_url": "https://www.ourtownny.com/city-arts/schoolgirl-embroidery-exhibit-unravels-past-at-folk-art-museum-MB6388079",
+        "published_at": "2026-11-16"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-17T18:03:59.838143+00:00",
+      "verification": {
+        "article_title": "Schoolgirl Embroidery Exhibit Unravels Past at Folk Art Museum",
+        "article_url": "https://www.ourtownny.com/city-arts/schoolgirl-embroidery-exhibit-unravels-past-at-folk-art-museum-MB6388079",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-17T18:03:57.299901+00:00"
+      }
+    },
+    {
+      "headline": "BROADWAY REVIEW: \u2018The Fantasticks\u2019 charming gay romance spin works",
+      "bullets": [
+        "At the top of the sweet new Broadway production of \u201cThe Fantasticks,\u201d there\u2019s a little homage to this show\u2019s origins at the Sullivan Street Playhouse in Greenwich Village, where this esoteric musical with a score by Harvey Schmidt and book and lyrics by Tom Jones ran for 17,162 performances over a head-spinning 42 years.",
+        "The show finally closed in 2002, and the Sullivan with it."
+      ],
+      "summary": "BROADWAY REVIEW: \u2018The Fantasticks\u2019 charming gay romance spin works",
+      "issue_area": "transportation_housing",
+      "source_level": "local",
+      "so_what": "Relevant to NYC transportation housing \u2014 check the full article for specific local implications.",
+      "source_citation": {
+        "source_name": "New York Daily News",
+        "source_level": "local",
+        "article_title": "BROADWAY REVIEW: \u2018The Fantasticks\u2019 charming gay romance spin works",
+        "article_url": "https://www.nydailynews.com/2026/11/16/broadway-review-the-fantasticks-revival-gay-romance/",
+        "published_at": "2026-11-17T03:00:32+00:00"
+      },
+      "summary_status": "fallback",
+      "summary_method": "fallback",
+      "failure_reason": "request_error:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+      "summarized_at": "2026-11-17T18:03:59.962910+00:00",
+      "verification": {
+        "article_title": "BROADWAY REVIEW: \u2018The Fantasticks\u2019 charming gay romance spin works",
+        "article_url": "https://www.nydailynews.com/2026/11/16/broadway-review-the-fantasticks-revival-gay-romance/",
+        "verification_triggered": false,
+        "search_query": null,
+        "search_summary": null,
+        "verdict": "no_verification_needed",
+        "caveat_text": null,
+        "reasoning": "verification_request_failed:400 Client Error: Bad Request for url: https://router.huggingface.co/v1/chat/completions",
+        "verified_at": "2026-11-17T18:03:57.498605+00:00"
+      }
+    }
+  ]
+}
